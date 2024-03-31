@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
 </p>
@@ -25,13 +24,13 @@ Producto: PocketPartners
 
 Grupo: 3
 
-|          Integrantes          |      Código      |
-|:-----------------------------:|:-------------------:|
-|   Carbajal Pozzo, Joaquín Alonso   |    U202121881    |
-| Cisneros Tafur, Diego Rafael   |    U20221A715    |
-|   Jarama Peñaloza, Fiorella  |    U202120418    |
-|   Ramos Carpio, Karen   |    U20201E493     |
-|   Ventura Allasi, Randel Russell  |    U201910669     |
+|          Integrantes           |   Código   |
+| :----------------------------: | :--------: |
+| Carbajal Pozzo, Joaquín Alonso | U202121881 |
+|  Cisneros Tafur, Diego Rafael  | U20221A715 |
+|   Jarama Peñaloza, Fiorella    | U202120418 |
+|      Ramos Carpio, Karen       | U20201E493 |
+| Ventura Allasi, Randel Russell | U201910669 |
 
 Abril 2024
 
@@ -77,7 +76,8 @@ Abril 2024
 </table>
 
 # **Project Report Collaboration Insights**
-URL Project Report (Github): https://github.com/PocketPartners/Informe 
+
+URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 # **Tabla de Contenido**
 
@@ -151,8 +151,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint n](#521-sprint-n)
-      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
-       -[5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-n)
+      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n) -[5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-n)
       - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
@@ -169,3 +168,21 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# 4.6. Domain-Driven Software Architecture.
+
+### 4.6.1. Software Architecture Context Diagram.
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+# 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams.
+
+### 4.7.2. Class Dictionary.
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram
