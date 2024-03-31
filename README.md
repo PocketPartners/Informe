@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/UpcLogo" alt="Logo de UPC" width="100%">
+  <img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
 </p>
 
 # Universidad Peruana de Ciencias Aplicadas
@@ -19,9 +19,9 @@ Profesor: Efraín Ricardo Bautista Ubillús
 
 “Informe de Trabajo Final”
 
-Startup: AgroTech
+Startup: FairFinance
 
-Producto: AgroConnect
+Producto: PocketPartners
 
 Grupo: 3
 
