@@ -169,6 +169,23 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+# Capítulo IV Product Design
+
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+### 4.1.2. Web Style Guidelines
+
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
+### 4.2.2. Labeling Systems
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
+
 # 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
