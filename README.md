@@ -179,7 +179,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 <div style="text-align: justify;">
     <strong>Branding</strong>
-    <p>"El logotipo de PocketPartners se presenta en forma de un círculo, que sugiere una solución integral y completa para las necesidades técnicas de los clientes. En el centro del círculo se encuentra un bolsillo con unos billetes saliendo de adentro, un símbolo universalmente reconocido para el dinero y como este se guarda en él. El texto 'PocketPartners' se coloca de manera prominente debajo del bolsillo, asegurando que el nombre de la marca sea claramente legible y memorable."
+    <p>El logotipo de PocketPartners se presenta en forma de un círculo, que sugiere una solución integral y completa para las necesidades técnicas de los clientes. En el centro del círculo se encuentra un bolsillo con unos billetes saliendo de adentro, un símbolo universalmente reconocido para el dinero y como este se guarda en él. El texto 'PocketPartners' se coloca de manera prominente debajo del bolsillo, asegurando que el nombre de la marca sea claramente legible y memorable.
     </p> 
 </div>
 
@@ -197,15 +197,16 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 </div>
 
 <p align="center">
-      <img src="images/poppins.jpg" alt="Font Poppins" width="80%">
+      <img src="images/poppins.jpg" alt="Font Poppins" width="50%">
 </p>
 <p align="center">
-      <img src="images/volkhov.jpg" alt="Font Volkhov" width="80%">
+      <img src="images/volkhov.jpg" alt="Font Volkhov" width="50%">
 </p>
 
 
 **Spacing**
 <p>El spacing mantiene: </p>
+
 * Margen entre texto: 16px
 * Margen entre elementos: 24px
 * Margen entre secciones: 72px
