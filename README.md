@@ -184,7 +184,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 </div>
 
 <p align="center">
-      <img src="images/PPLogo.png" alt="Logo PocketPartners" width="80%">
+      <img src="images/PPLogo.png" alt="Logo PocketPartners" width="50%">
 </p>
 
 <div>
@@ -205,7 +205,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 
 **Spacing**
-El spacing mantiene: 
+<p>El spacing mantiene: </p>
 * Margen entre texto: 16px
 * Margen entre elementos: 24px
 * Margen entre secciones: 72px
