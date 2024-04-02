@@ -2,9 +2,12 @@
   <img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
 </p>
 
+<div align="center">
+
 # Universidad Peruana de Ciencias Aplicadas
 
 ## Carrera de Ingeniería de Software
+</div>
 
 <div align="center">
 
@@ -173,6 +176,44 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+
+<div style="text-align: justify;">
+    <strong>Branding</strong>
+    <p>"El logotipo de PocketPartners se presenta en forma de un círculo, que sugiere una solución integral y completa para las necesidades técnicas de los clientes. En el centro del círculo se encuentra un bolsillo con unos billetes saliendo de adentro, un símbolo universalmente reconocido para el dinero y como este se guarda en él. El texto 'PocketPartners' se coloca de manera prominente debajo del bolsillo, asegurando que el nombre de la marca sea claramente legible y memorable."
+    </p> 
+</div>
+
+<p align="center">
+      <img src="images/PPLogo.png" alt="Logo PocketPartners" width="80%">
+</p>
+
+<div>
+  <strong>Typography</strong>
+  <p>La tipografía elegida para PocketPartners es "Poppins", una fuente sans-serif moderna y altamente legible. Este tipo de letra se caracteriza por su estilo limpio y contemporáneo, lo que comunica profesionalismo y actualización. La elección de Poppins asegura que el texto en todas las aplicaciones de PocketPartners, desde el logotipo hasta las interfaces de usuario, sea fácilmente legible y tenga una apariencia moderna y uniforme.
+  </p>  
+
+  <p>Asimismo también se usa la fuente “Volkhov” para diferentes textos a través del sitio web. Volkhov es una fuente serif de bajo contraste con un carácter robusto, diseñada para proporcionar una experiencia de lectura motivadora. Es una familia de cuatro pesos, lo que la hace adecuada para entornos de texto complejos, siendo económica y legible, contemporánea y prominente.
+  </p>
+</div>
+
+<p align="center">
+      <img src="images/poppins.jpg" alt="Font Poppins" width="80%">
+</p>
+<p align="center">
+      <img src="images/volkhov.jpg" alt="Font Volkhov" width="80%">
+</p>
+
+
+**Spacing**
+El spacing mantiene: 
+* Margen entre texto: 16px
+* Margen entre elementos: 24px
+* Margen entre secciones: 72px
+
+<p align="center">
+      <img src="images/spacing.png" alt="Spacing" width="100%">
+</p>
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
