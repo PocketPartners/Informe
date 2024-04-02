@@ -98,7 +98,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis)
+- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation-&-Analysis)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -171,6 +171,121 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# Capítulo II Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+### 2.1.1. Análisis Competitivo
+
+<table>
+    <thead>
+        <tr >
+            <th colspan=6 style="text-align: center">
+				<h2>
+					Competitive Analisis Landscape
+				</h2>
+			</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2 rowspan=2 style="text-align: center" align="center">¿Por qué llevar a cabo este análisis?</td>
+            <td colspan=4 style="text-align: center" align="center">¿Quiénes son nuestros principales competidores?</td>
+        </tr>
+		<tr>
+            <td colspan=4 style="text-align: center" align="center">Gracias al análisis de la competencia, se logra comprender el entorno competitivo en el que operará nuestro producto. Esto proporciona una visión detallada de quienes son nuestros competidores directos e indirectos, logrando así, trazar 
+ una estretegia sólida para alcanzar la máxima exposición de nuestro producto, llegando así a más posibles consumidores.</td>
+        </tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
+			<td rowspan=2 style="text-align: center" align="center">Overview</td>
+      <td style="text-align: center" align="center">PocketPartners <p align="center"><img src="images/PPLogo.png" alt="Logo PocketPartners" width="25%">
+</p></td>
+			<td style="text-align: center" align="center">Splittr <p align="center"><img src="images/splittrLogo.png" alt="Logo Splittr" width="40%"></p></td>
+			<td style="text-align: center" align="center">Tricount <p align="center"><img src="images/tricountLogo.png" alt="Logo Tricount" width="40%"></p></td>
+			<td style="text-align: center" align="center">Splitwise <p align="center"><img src="images/splitwiseLogo.png" alt="Logo Splitwise" width="40%"></p></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Plataforma que busca facilitar el proceso de división de costos en diversas situaciones, con varias herramientas que son de utilidad en dicho momento</td>
+			<td style="text-align: center" align="center">Plataforma que busca dividir los gastos grupales en viajes o comidas.</td>
+			<td style="text-align: center" align="center">Plataforma colaborativa que busca dividir todo tipo de gastos grupales.</td>
+			<td style="text-align: center" align="center">Plataforma que busca, de forma colaborativa, llevar un recuento de todos los gastos grupales que se hacen.</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Ventaja Competitiva ¿Qué valor ofrecen a los clientes</td>
+			<td style="text-align: center" align="center"><ul><li>Organización por grupos y etiquetas</li> <li>Notificaciones en tiempo real</li> <li>Beneficios adicionales por plan premium</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Simplicidad de la plataforma</li> <li>Exportar a pdf o cvs</li> <li>No requiere registro</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>División desigual de gastos</li> <li>Guardado de fotos</li> <li>Notificaciones en tiempo real</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Facilidad de uso</li> <li>Sincronización en la nube</li> <li>Métodos de pago integrados</li> <li>Funciones pro adicionales</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=2 style="text-align: center" align="center">Perfil del Marketing</td>
+			<td style="text-align: center" align="center">Mercado Objetivo</td>
+			<td style="text-align: center" align="center"><ul><li>Viajeros que busquen dividir sus gastos</li> <li>Roomates que quieran dividir los gastos del hogar</li> <li>Grupos de personas que desean dividir los gastos de una cena</li></ul> </td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Estrategias de Marketing</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil del Producto</td>
+			<td style="text-align: center" align="center">Productos & Servicios</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Precios & Costos</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Canales de distribución (web/móvil)</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td rowspan=4 style="text-align: center" align="center">Análisis SWOT</td>
+			<td style="text-align: center" align="center">Fortalezas</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Debilidades</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Oportunidades</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Amenazas</td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"></td>
+		</tr>
+    </tbody>
+</table>
 
 # Capítulo IV Product Design
 
