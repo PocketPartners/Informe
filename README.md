@@ -348,6 +348,17 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 ### 4.1.2. Web Style Guidelines
 
+<p align="center">
+      <img src="images/web_colors.png" alt="Font Poppins" width="50%">
+</p>
+<p align="center">
+      <img src="images/icons.png" alt="Font Volkhov" width="50%">
+</p>
+<p align="center">
+      <img src="images/buttons.png" alt="Font Volkhov" width="50%">
+</p>
+
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
