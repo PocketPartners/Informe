@@ -482,17 +482,77 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-<p>
-  Este meta especifica la codificación de caracteres del documento HTML. En este caso, se establece en "UTF-8", que es una codificación de caracteres ampliamente compatible que incluye una amplia gama de caracteres y es compatible con varios idiomas.
+<p align="justify"> 
+  Las meta-etiquetas son fragmentos de código HTML que proporcionan información sobre una página web, ayudando en la optimización para motores de búsqueda (SEO), controlando la descripción y título, especificando el conjunto de caracteres, y gestionando la indexación y derechos de autor.   
 </p>
+
+<p align="justify">
+  Las meta-etiquetas que estan presenten son:
+</p>
+
+**Codificacion de caracteres**
 
 ```
 <meta charset="UTF-8"> 
 
+Este meta especifica la codificación de caracteres del documento HTML. En este caso, se establece en "UTF-8", que es una codificación de caracteres ampliamente compatible que incluye una amplia gama de caracteres y es compatible con varios idiomas.
+```
+
+**Título**
+
+```
+<title>PocketPartners</title>
+
+Esta es la etiqueta <title> que define el título del documento HTML que se mostrará en la barra de título o pestaña del navegador.
+```
+
+**Autor**
+
+```
+<meta name="author" content="FairFinance"/>
+
+Este meta elemento proporciona información sobre el autor del documento HTML. En este caso, el autor se establece como "FairFinance".
+```
+
+**Letra del proyecto**
+
+```
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+
+Este elemento <link> se utiliza para importar una fuente externa desde Google Fonts. En este caso, se está importando la fuente "Poppins" con un peso de 300 (delgado). La propiedad rel="stylesheet" indica que el archivo enlazado es una hoja de estilos externa.
 ```
 
 ### 4.2.4. Searching Systems
+
+**Implementación del Sistema de Búsqueda:**
+
+El proyecto FastService tiene previsto implementar un sistema de búsqueda que permita a los usuarios encontrar la información que necesitan de forma sencilla e intuitiva. Este sistema se basará en filtros que faciliten la búsqueda y eviten que el usuario se sienta abrumado por la gran cantidad de información disponible. De esta manera, se mejorará la experiencia del usuario al buscar información en la aplicación.
+
+  - **Crear Etiquetas Personalizadas:**
+
+    En la sección de configuración de PocketPartners, los usuarios pueden crear etiquetas personalizadas para categorizar sus gastos. Por ejemplo, podrían crear etiquetas como "Transporte", "Comida", "Entretenimiento", "Alojamiento", etc.
+
+  - **Asignar Etiquetas a Transacciones:**
+
+    Cada vez que realizan una transacción durante el viaje, como pagar por comidas, transporte o actividades, los usuarios pueden asignar una o más etiquetas a esa transacción. Por ejemplo, si compran boletos para un espectáculo, pueden etiquetar esa transacción como "Entretenimiento".
+
+  - **Filtrar Transacciones por Etiquetas:**
+
+    Una vez que han registrado varias transacciones etiquetadas, pueden filtrar fácilmente sus transacciones por etiquetas en PocketPartners. Esto les permite ver rápidamente cuánto han gastado en cada categoría durante el viaje y les ayuda a mantener un registro claro de sus gastos relacionados con diferentes aspectos del viaje.
+
 ### 4.2.5. Navigation Systems
+
+<p align="justify">
+La landing page de PocketPartners está diseñada para ser fácil de usar y te ofrece todas las opciones importantes que necesitas:
+</p>
+
+- **Iniciar Sesión / Registrarse:**
+    
+    En la landing page, los usuarios tienen la opción de iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones permiten a los usuarios acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar al máximo PocketPartners.
+    
+- **Barra de Navegación:**
+ 
+    En la landing page, se tiene una barra de navegación que sigue al usuario a medida que va desplazándose por la landing page, conteniendo los nombres de las 3 secciones principales y únicas.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
