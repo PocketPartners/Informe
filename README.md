@@ -453,20 +453,44 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ### 4.1.2. Web Style Guidelines
 
 <p align="center">
-      <img src="images/web_colors.png" alt="Font Poppins" width="50%">
+      <img src="images/web_colors.png" alt="Font Poppins" width="80%">
 </p>
 <p align="center">
-      <img src="images/icons.png" alt="Font Volkhov" width="50%">
+      <img src="images/icons.png" alt="Font Volkhov" width="80%">
 </p>
 <p align="center">
-      <img src="images/buttons.png" alt="Font Volkhov" width="50%">
+      <img src="images/buttons.png" alt="Font Volkhov" width="80%">
 </p>
 
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+<p align="justify">
+  En PocketPartners, aplicamos una organización visual del contenido utilizando un sistema de jerarquía visual. Esto significa que resaltamos la información más relevante y esencial en el diseño de nuestras páginas, asegurando que los usuarios encuentren fácilmente lo que están buscando. Además, utilizamos una organización secuencial para guiar a los usuarios a través del proceso de registro y búsqueda de servicios de manera intuitiva.
+</p>
+
+<p align="justify">
+  En lo que respecta a la categorización de contenido, empleamos una categorización por temas para simplificar la búsqueda de servicios. Los servicios se agrupan en categorías lógicas que se alinean con las necesidades específicas de nuestros usuarios. También organizamos la información según la audiencia principal para proporcionar una experiencia personalizada y relevante para cada usuario.
+</p>
+
 ### 4.2.2. Labeling Systems
+
+<p align="justify">
+  En el proyecto PocketPartners se ha elegido implementar un sistema de etiquetado breve y fácil de comprender para los usuarios. En la barra de navegación, se muestran constantemente etiquetas textuales para las vistas principales, el panel de control y el registro de procesos. Para el flujo principal de la aplicación, los encabezados están presentes en las pantallas, además de que  las secciones del panel de control tienen etiquetas asociadas que informan al usuario sobre el contenido disponible si accede a esas secciones
+</p>
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+<p>
+  Este meta especifica la codificación de caracteres del documento HTML. En este caso, se establece en "UTF-8", que es una codificación de caracteres ampliamente compatible que incluye una amplia gama de caracteres y es compatible con varios idiomas.
+</p>
+
+```
+<meta charset="UTF-8"> 
+
+```
+
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 
