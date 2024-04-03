@@ -453,22 +453,122 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ### 4.1.2. Web Style Guidelines
 
 <p align="center">
-      <img src="images/web_colors.png" alt="Font Poppins" width="50%">
+      <img src="images/web_colors.png" alt="Font Poppins" width="80%">
 </p>
 <p align="center">
-      <img src="images/icons.png" alt="Font Volkhov" width="50%">
+      <img src="images/icons.png" alt="Font Volkhov" width="80%">
 </p>
 <p align="center">
-      <img src="images/buttons.png" alt="Font Volkhov" width="50%">
+      <img src="images/buttons.png" alt="Font Volkhov" width="80%">
 </p>
 
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+<p align="justify">
+  En PocketPartners, aplicamos una organización visual del contenido utilizando un sistema de jerarquía visual. Esto significa que resaltamos la información más relevante y esencial en el diseño de nuestras páginas, asegurando que los usuarios encuentren fácilmente lo que están buscando. Además, utilizamos una organización secuencial para guiar a los usuarios a través del proceso de registro y búsqueda de servicios de manera intuitiva.
+</p>
+
+<p align="justify">
+  En lo que respecta a la categorización de contenido, empleamos una categorización por temas para simplificar la búsqueda de servicios. Los servicios se agrupan en categorías lógicas que se alinean con las necesidades específicas de nuestros usuarios. También organizamos la información según la audiencia principal para proporcionar una experiencia personalizada y relevante para cada usuario.
+</p>
+
 ### 4.2.2. Labeling Systems
+
+<p align="justify">
+  En el proyecto PocketPartners se ha elegido implementar un sistema de etiquetado breve y fácil de comprender para los usuarios. En la barra de navegación, se muestran constantemente etiquetas textuales para las vistas principales, el panel de control y el registro de procesos. Para el flujo principal de la aplicación, los encabezados están presentes en las pantallas, además de que  las secciones del panel de control tienen etiquetas asociadas que informan al usuario sobre el contenido disponible si accede a esas secciones
+</p>
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+<p align="justify"> 
+  Las meta-etiquetas son fragmentos de código HTML que proporcionan información sobre una página web, ayudando en la optimización para motores de búsqueda (SEO), controlando la descripción y título, especificando el conjunto de caracteres, y gestionando la indexación y derechos de autor.   
+</p>
+
+<p align="justify">
+  Las meta-etiquetas que estan presenten son:
+</p>
+
+**Codificacion de caracteres**
+
+<p align="justify"> 
+Este meta especifica la codificación de caracteres del documento HTML. En este caso, se establece en "UTF-8", que es una codificación de caracteres ampliamente compatible que incluye una amplia gama de caracteres y es compatible con varios idiomas.
+</p>
+
+```
+<meta charset="UTF-8"> 
+```
+
+**Título**
+
+<p align="justify"> 
+Esta es la etiqueta que define el título del documento HTML que se mostrará en la barra de título o pestaña del navegador.67dx
+</p>
+
+```
+<title>PocketPartners</title>
+```
+
+**Autor**
+
+<p align="justify"> 
+Este meta elemento proporciona información sobre el autor del documento HTML. En este caso, el autor se establece como "FairFinance".
+</p>
+
+```
+<meta name="author" content="FairFinance"/>
+```
+
+**Letra del proyecto**
+
+<p align="justify"> 
+Este elemento `<link>` se utiliza para importar una fuente externa desde Google Fonts. En este caso, se está importando la fuente "Poppins" con un peso de 300 (delgado). La propiedad rel="stylesheet" indica que el archivo enlazado es una hoja de estilos externa.
+</p>
+
+```
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+```
+
 ### 4.2.4. Searching Systems
+
+**Implementación del Sistema de Búsqueda:**
+
+<p align="justify"> 
+El proyecto FastService tiene previsto implementar un sistema de búsqueda que permita a los usuarios encontrar la información que necesitan de forma sencilla e intuitiva. Este sistema se basará en filtros que faciliten la búsqueda y eviten que el usuario se sienta abrumado por la gran cantidad de información disponible. De esta manera, se mejorará la experiencia del usuario al buscar información en la aplicación.
+</p>
+
+  - **Crear Etiquetas Personalizadas:**
+
+    <p align="justify"> 
+    En la sección de configuración de PocketPartners, los usuarios pueden crear etiquetas personalizadas para categorizar sus gastos. Por ejemplo, podrían crear etiquetas como "Transporte", "Comida", "Entretenimiento", "Alojamiento", etc.
+    </p>
+
+  - **Asignar Etiquetas a Transacciones:**
+
+    <p align="justify"> 
+    Cada vez que realizan una transacción durante el viaje, como pagar por comidas, transporte o actividades, los usuarios pueden asignar una o más etiquetas a esa transacción. Por ejemplo, si compran boletos para un espectáculo, pueden etiquetar esa transacción como "Entretenimiento".
+    </p>
+
+  - **Filtrar Transacciones por Etiquetas:**
+
+    <p align="justify"> 
+    Una vez que han registrado varias transacciones etiquetadas, pueden filtrar fácilmente sus transacciones por etiquetas en PocketPartners. Esto les permite ver rápidamente cuánto han gastado en cada categoría durante el viaje y les ayuda a mantener un registro claro de sus gastos relacionados con diferentes aspectos del viaje.
+    </p>
+
 ### 4.2.5. Navigation Systems
+
+<p align="justify">
+La landing page de PocketPartners está diseñada para ser fácil de usar y te ofrece todas las opciones importantes que necesitas:
+</p>
+
+- **Iniciar Sesión / Registrarse:**
+    
+    En la landing page, los usuarios tienen la opción de iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones permiten a los usuarios acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar al máximo PocketPartners.
+    
+- **Barra de Navegación:**
+ 
+    En la landing page, se tiene una barra de navegación que sigue al usuario a medida que va desplazándose por la landing page, conteniendo los nombres de las 3 secciones principales y únicas.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
