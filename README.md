@@ -492,53 +492,69 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Codificacion de caracteres**
 
+<p align="justify"> 
+Este meta especifica la codificación de caracteres del documento HTML. En este caso, se establece en "UTF-8", que es una codificación de caracteres ampliamente compatible que incluye una amplia gama de caracteres y es compatible con varios idiomas.
+</p>
+
 ```
 <meta charset="UTF-8"> 
-
-Este meta especifica la codificación de caracteres del documento HTML. En este caso, se establece en "UTF-8", que es una codificación de caracteres ampliamente compatible que incluye una amplia gama de caracteres y es compatible con varios idiomas.
 ```
 
 **Título**
 
+<p align="justify"> 
+Esta es la etiqueta que define el título del documento HTML que se mostrará en la barra de título o pestaña del navegador.67dx
+</p>
+
 ```
 <title>PocketPartners</title>
-
-Esta es la etiqueta <title> que define el título del documento HTML que se mostrará en la barra de título o pestaña del navegador.
 ```
 
 **Autor**
 
+<p align="justify"> 
+Este meta elemento proporciona información sobre el autor del documento HTML. En este caso, el autor se establece como "FairFinance".
+</p>
+
 ```
 <meta name="author" content="FairFinance"/>
-
-Este meta elemento proporciona información sobre el autor del documento HTML. En este caso, el autor se establece como "FairFinance".
 ```
 
 **Letra del proyecto**
 
+<p align="justify"> 
+Este elemento `<link>` se utiliza para importar una fuente externa desde Google Fonts. En este caso, se está importando la fuente "Poppins" con un peso de 300 (delgado). La propiedad rel="stylesheet" indica que el archivo enlazado es una hoja de estilos externa.
+</p>
+
 ```
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-
-Este elemento <link> se utiliza para importar una fuente externa desde Google Fonts. En este caso, se está importando la fuente "Poppins" con un peso de 300 (delgado). La propiedad rel="stylesheet" indica que el archivo enlazado es una hoja de estilos externa.
 ```
 
 ### 4.2.4. Searching Systems
 
 **Implementación del Sistema de Búsqueda:**
 
+<p align="justify"> 
 El proyecto FastService tiene previsto implementar un sistema de búsqueda que permita a los usuarios encontrar la información que necesitan de forma sencilla e intuitiva. Este sistema se basará en filtros que faciliten la búsqueda y eviten que el usuario se sienta abrumado por la gran cantidad de información disponible. De esta manera, se mejorará la experiencia del usuario al buscar información en la aplicación.
+</p>
 
   - **Crear Etiquetas Personalizadas:**
 
+    <p align="justify"> 
     En la sección de configuración de PocketPartners, los usuarios pueden crear etiquetas personalizadas para categorizar sus gastos. Por ejemplo, podrían crear etiquetas como "Transporte", "Comida", "Entretenimiento", "Alojamiento", etc.
+    </p>
 
   - **Asignar Etiquetas a Transacciones:**
 
+    <p align="justify"> 
     Cada vez que realizan una transacción durante el viaje, como pagar por comidas, transporte o actividades, los usuarios pueden asignar una o más etiquetas a esa transacción. Por ejemplo, si compran boletos para un espectáculo, pueden etiquetar esa transacción como "Entretenimiento".
+    </p>
 
   - **Filtrar Transacciones por Etiquetas:**
 
+    <p align="justify"> 
     Una vez que han registrado varias transacciones etiquetadas, pueden filtrar fácilmente sus transacciones por etiquetas en PocketPartners. Esto les permite ver rápidamente cuánto han gastado en cada categoría durante el viaje y les ayuda a mantener un registro claro de sus gastos relacionados con diferentes aspectos del viaje.
+    </p>
 
 ### 4.2.5. Navigation Systems
 
