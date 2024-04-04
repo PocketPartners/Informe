@@ -259,7 +259,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 		</tr>
 		<tr>
 			<td style="text-align: center" align="center">Precios & Costos</td>
-			<td style="text-align: center" align="center"></td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 9.90 soles</li> <li>Suscripción de un año - 29.90 soles</li> <li>Suscripción empresarial - 169.90 soles</li></ul> </td>
 			<td style="text-align: center" align="center"><ul><li>Pase de un mes - 2.90 soles</li> <li>Suscripción de un año - 11.90 soles</li> <li>Pase de por vida - 39.90 soles</li></ul> </td>
 			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 12.90 soles</li> <li>Suscripción de un año - 35.90 soles</li></ul> </td>
 			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 19.90 soles</li> <li>Suscripción de un año - 149.90 soles</li></ul> </td>
@@ -405,7 +405,72 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ### 2.2.1. Diseño de entrevistas
 
+*Preguntas generales:*
 
+* ¿Cuál es su nombre?
+* ¿Cuántos años tiene?
+* ¿Cuál es la actividad que más realiza con sus amigos o conocidos?
+
+*Preguntas para viajeros*
+--------------------------
+1. Al momento de realizar su viaje, ¿cómo llevan los registros de los gastos de cada uno?
+2. Cuando viaja con sus amigos, ¿cómo suelen realizar los pagos?
+3. ¿Cuál piensa que es la mayor dificultad al momento de hacer esta operación?
+4. ¿Encuentra tardado este proceso de divisón?
+5. ¿Qué hace cuando se olvida anotar algún gasto o préstamo realizado?
+6. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
+
+*Preguntas para amigos que salen a almorzar*
+-----------------------------------------------
+1. Cuando salen a cenar, ¿cómo pagan la cuenta?
+2. ¿Cómo hacen para recordar cuánto debe pagar cada uno?
+3. ¿Cuánto tiempo se demoran en el proceso del cálculo?
+4. ¿Qué hace cuando se olvida anotar algún gasto o préstamo realizado?
+5. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
+6. ¿Cuál piensa que es la mayor dificultad al momento de hacer esta operación?
+
+*Preguntas para compañeros de piso*
+-------------------------------------
+1. ¿Cuál es su proceso para dividir los gastos?
+2. ¿Cómo lleva registro de los gastos?
+3. ¿Cómo lleva registro de los pagos?
+4. ¿Conoce alguna manera de hacer más simple este tema?
+5. ¿Cuál es la mayor dificultad que tiene al momento de realizar esta operación?
+6. ¿Conoce alguna herramienta que le pueda ayudar a realizar estos cálculos?
+
+## 2.3. Needfinding
+
+### 2.3.1 User Personas
+
+**User persona viajero**
+
+<p align="center"><img src="images/userAndreaNewman.png" alt="User Andrea Newman" width="50%"></p>
+
+**User persona que frecuenta restaurantes**
+
+<p align="center"><img src="images/userRodrigoBarrera.png" alt="User Rodrigo Barrera" width="50%"></p>
+
+**User persona compañero de piso**
+
+<p align="center"><img src="images/userPetraRios.png" alt="User Petra Ríos" width="50%"></p>
+
+### 2.3.2 User task Matrix
+
+
+
+### 2.3.3 User Journey Mapping
+
+**User persona viajero**
+
+<p align="center"><img src="images/mapaAndreaNewman.png" alt="Mapa Andrea Newman" width="50%"></p>
+
+**User persona que frecuenta restaurantes**
+
+<p align="center"><img src="images/mapaRodrigoBarrera.png" alt="Mapa Rodrigo Barrera" width="50%"></p>
+
+**User persona compañero de piso**
+
+<p align="center"><img src="images/mapaPetraRios.png" alt="Mapa Petra Ríos" width="50%"></p>
 
 # Capítulo IV Product Design
 
