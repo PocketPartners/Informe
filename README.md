@@ -572,6 +572,31 @@ La landing page de PocketPartners está diseñada para ser fácil de usar y te o
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+<p align="justify">
+En PocketPartners, se emplea el patrón Z en la página de inicio para dirigir a los usuarios de manera eficiente a través del contenido clave. Comienza con el encabezado y mensaje de bienvenida en la esquina superior izquierda, luego pasa horizontalmente por las características que ofrece la aplicación en la esquina superior derecha, continúa diagonalmente hacia la esquina inferior izquierda para más información sobre los planes ofrecidos y lo que nuestros usuarios opinan de nosotros, y finaliza en la esquina inferior derecha con un mensaje que anima a nuestros usuarios a registrarse y una caja de texto para que coloque su email. Este enfoque organizado aumenta la probabilidad de que los usuarios se registren y utilicen la plataforma.
+</p>
+
+<p align="center">
+      <img src="images/home_wireframe.png" alt="HomeWireframe" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/caracteristicas_wireframe.png" alt="CaracteristicasWireframe" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/planes_wireframes.png" alt="PlansWireframe" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/about_wireframes.png" alt="AboutWireframe" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/footero_wireframe.png" alt="Footer" width="100%">
+</p>
+
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.6. Domain-Driven Software Architecture.
