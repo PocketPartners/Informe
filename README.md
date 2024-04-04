@@ -594,10 +594,34 @@ En PocketPartners, se emplea el patrón Z en la página de inicio para dirigir a
 </p>
 
 <p align="center">
-      <img src="images/footero_wireframe.png" alt="Footer" width="100%">
+      <img src="images/footer_wireframe.png" alt="Footer" width="100%">
 </p>
 
 ### 4.3.2. Landing Page Mock-up
+
+<p align ="justify">
+Se elaboró un esquema inicial para la página de inicio, estableciendo la disposición de los elementos. El mock-up resultante ofrece una representación visual detallada de cómo se verán los elementos en la versión final de la página. Este paso permite ajustes y mejoras antes de la implementación del diseño definitivo, asegurando que cumpla con los requisitos establecidos.
+</p>
+
+<p align="center">
+      <img src="images/home.png" alt="Footer" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/caracteristicas.png" alt="Footer" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/planes.png" alt="Footer" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/about.png" alt="Footer" width="100%">
+</p>
+
+<p align="center">
+      <img src="images/footer.png" alt="Footer" width="100%">
+</p>
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
