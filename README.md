@@ -833,7 +833,8 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 <p align ="justify">
       El presente diagrama expone en detalle los componentes que integran la aplicación, 
       incluyendo las interfaces y dependencias entre ellos.
-      Se ilustra la estructura interna de la aplicación y la forma en que los distintos componentes se interconectan para ofrecer los servicios que el usuario demanda.
+      Se ilustra la estructura interna de la aplicación y la forma en que los 
+      distintos componentes se interconectan para ofrecer los servicios que el usuario demanda.
 </p>
 
 ## 4.7. Software Object-Oriented Design.
