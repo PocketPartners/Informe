@@ -803,29 +803,39 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-  <p align="center">
+  <div align="center">
         <img src="images/Context-diagram.png" alt="Context Diagram" width="100%">
 
-      En esta imagen podemos evidenciar la relación entre el usuario y la aplicación, así como los servicios que se ofrecen a través de la misma. Además, se muestra la interacción con otros sistemas externos, como el sistema como notificaciones y el sistema de autenticación.
-
-  </p>
+  </div>
+<p align ="justify">
+      En esta imagen podemos evidenciar la relación entre el usuario y la aplicación, 
+      así como los servicios que se ofrecen a través de la misma. Además, se muestra la interacción con otros sistemas externos, 
+      como el sistema como notificaciones y el sistema de autenticación.
+</p>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-  <p align="center">
+  <div align="center">
       <img src="images/Container-diagram.png" alt="Container Diagram" width="100%">
 
-      Este diagrama ilustra la estructura de la aplicación, incluyendo los contenedores que la componen y las tecnologías utilizadas en cada uno. Se observa la interacción entre los contenedores y cómo se comunican para brindar los servicios que el usuario necesita.
-
-  </p>
+  </div>
+<p align ="justify">
+      Este diagrama ilustra la estructura de la aplicación, 
+      incluyendo los contenedores que la componen y las tecnologías utilizadas en cada uno. 
+      Se observa la interacción entre los contenedores y cómo se comunican para brindar los servicios que el usuario necesita.
+</p>
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-  <p align="center">
+  <div align="center">
         <img src="images/Component-diagram.png" alt="Component Diagram" width="100%">
-      
-      El presente diagrama expone en detalle los componentes que integran la aplicación, incluyendo las interfaces y dependencias entre ellos. Se ilustra la estructura interna de la aplicación y la forma en que los distintos componentes se interconectan para ofrecer los servicios que el usuario demanda.
-  </p>
+  </div>
+<p align ="justify">
+      El presente diagrama expone en detalle los componentes que integran la aplicación, 
+      incluyendo las interfaces y dependencias entre ellos.
+      Se ilustra la estructura interna de la aplicación y la forma en que los 
+      distintos componentes se interconectan para ofrecer los servicios que el usuario demanda.
+</p>
 
 ## 4.7. Software Object-Oriented Design.
 
