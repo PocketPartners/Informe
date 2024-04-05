@@ -7,6 +7,7 @@
 # Universidad Peruana de Ciencias Aplicadas
 
 ## Carrera de Ingeniería de Software
+
 </div>
 
 <div align="center">
@@ -175,15 +176,23 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 # Capítulo I Introducción
 
 ## 1.1. Startup Profile
+
 ### 1.1.1. Descripción de la Startup
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ## 1.2. Solution Profile
+
 ### 1.2.1. Antecedentes y problemática
+
 ### 1.2.2. Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
+
 #### 1.2.2.2. Lean UX Assumptions
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
@@ -191,6 +200,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 # Capítulo II Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
 ### 2.1.1. Análisis Competitivo
 
 <table>
@@ -309,110 +319,110 @@ Gracias al análisis presentado anteriormente, logramos identificar todos los as
 
 **Afrontando las fortalezas de nuestros competidores:**
 
-* Se sincroniza de forma automática con nuestros amigos
-* Uso de imágenes como evidencia
-* Uso de claves de color para mejor visualización
-* Integración con cuentas de banco para realizar los pagos dentro de la misma aplicación
+- Se sincroniza de forma automática con nuestros amigos
+- Uso de imágenes como evidencia
+- Uso de claves de color para mejor visualización
+- Integración con cuentas de banco para realizar los pagos dentro de la misma aplicación
 
 **Comprendemos que nuestras fortalezas son:**
 
-* Canales de atención disponibles
-* Cálculo automático de saldos
-* Uso de etiquetas para categorizar y filtrar las transacciones
+- Canales de atención disponibles
+- Cálculo automático de saldos
+- Uso de etiquetas para categorizar y filtrar las transacciones
 
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
-* Hacer que el usuario se sienta cómodo utilizando nuestra aplicación.
+- Hacer que el usuario se sienta cómodo utilizando nuestra aplicación.
 
 **Tácticas**
 
-* Aplicar códigos de color para que sea más amigable visualmente para los consumidores
-* Agregar la opción de agregar imágenes
-* Añadir la sincronización en tiempo real
+- Aplicar códigos de color para que sea más amigable visualmente para los consumidores
+- Agregar la opción de agregar imágenes
+- Añadir la sincronización en tiempo real
 
 **Afrontando las debilidades de nuestros competidores:**
 
-* El diseño es demasiado simple
-* Cobra por features que se encuentran gratis en otras aplicaciones
-* La interfaz no es fácil de usar
-* Los planes premium son demasiado costosos
+- El diseño es demasiado simple
+- Cobra por features que se encuentran gratis en otras aplicaciones
+- La interfaz no es fácil de usar
+- Los planes premium son demasiado costosos
 
 **Comprendemos que nuestras debilidades son:**
 
-* Requiere de conección a internet
-* No soporta muchos idiomas
+- Requiere de conección a internet
+- No soporta muchos idiomas
 
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
-* Crear un ambiente intuitivo y visual para que el usuario no se sienta perdido al momento de utilizar el aplicativo, además de brindarle el mejor valor por su dinero
+- Crear un ambiente intuitivo y visual para que el usuario no se sienta perdido al momento de utilizar el aplicativo, además de brindarle el mejor valor por su dinero
 
 **Tácticas**
 
-* Utilizar un diseño llamativo
-* Crear una interfaz dinámica e intuitiva
-* No elevar demasiado los costos luego del posicionamiento inicial
-* Agregar más features gratis
+- Utilizar un diseño llamativo
+- Crear una interfaz dinámica e intuitiva
+- No elevar demasiado los costos luego del posicionamiento inicial
+- Agregar más features gratis
 
 **Afrontando las oportunidades de nuestros competidores:**
 
-* Se puede agregar un poco más de profundidad al diseño
-* Se puede mejorar la interfaz para que sea más intuitiva
-* Es la aplicación con más features
+- Se puede agregar un poco más de profundidad al diseño
+- Se puede mejorar la interfaz para que sea más intuitiva
+- Es la aplicación con más features
 
 **Comprendemos que oportunidades fortalezas son:**
 
-* Es posible agregar más funcionalidades
-* Ya se está empezando a crear un mercado gracias a las otras apps
+- Es posible agregar más funcionalidades
+- Ya se está empezando a crear un mercado gracias a las otras apps
 
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
-* Aprovecharemos las oportunidades de nuestros competidores para agregar sus mejoras a nuestro aplicativo
+- Aprovecharemos las oportunidades de nuestros competidores para agregar sus mejoras a nuestro aplicativo
 
 **Tácticas**
 
-* Añadir las mejoras de nuestros competidores
-* Aprovechar el mercado existente para tener más alcance
+- Añadir las mejoras de nuestros competidores
+- Aprovechar el mercado existente para tener más alcance
 
 **Afrontando las amenazas de nuestros competidores:**
 
-* Sigue quedándose atrás en la cantidad de features que tiene comparado con la competencia
-* Los consumidores están acostumbrados a aplicaciones intuitivas, por lo que aprender a utilizar una app va a ser complicaco para algunos usuarios
-* Los precios altos ocasionan que los usuarios no deseen pagar la suscripción
+- Sigue quedándose atrás en la cantidad de features que tiene comparado con la competencia
+- Los consumidores están acostumbrados a aplicaciones intuitivas, por lo que aprender a utilizar una app va a ser complicaco para algunos usuarios
+- Los precios altos ocasionan que los usuarios no deseen pagar la suscripción
 
 **Comprendemos que nuestras amenazas son:**
 
-* Es comlpicado competir con aplicaciones ya establecidas en el mercado
+- Es comlpicado competir con aplicaciones ya establecidas en el mercado
 
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
-* Utilizaremos las amenazas de los otros competidores para evitar caer en los mismos errores que ellos
+- Utilizaremos las amenazas de los otros competidores para evitar caer en los mismos errores que ellos
 
 **Tácticas**
 
-* No aumentar mucho los precios
-* Siempre comparar nuestros features con los de la competencia para no quedarnos por detrás
-* Crear una interfaz intuitiva y simple
+- No aumentar mucho los precios
+- Siempre comparar nuestros features con los de la competencia para no quedarnos por detrás
+- Crear una interfaz intuitiva y simple
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
-*Preguntas generales:*
+_Preguntas generales:_
 
-* ¿Cuál es su nombre?
-* ¿Cuántos años tiene?
-* ¿Cuál es la actividad que más realiza con sus amigos o conocidos?
+- ¿Cuál es su nombre?
+- ¿Cuántos años tiene?
+- ¿Cuál es la actividad que más realiza con sus amigos o conocidos?
 
-*Preguntas para viajeros*
---------------------------
+## _Preguntas para viajeros_
+
 1. Al momento de realizar su viaje, ¿cómo llevan los registros de los gastos de cada uno?
 2. Cuando viaja con sus amigos, ¿cómo suelen realizar los pagos?
 3. ¿Cuál piensa que es la mayor dificultad al momento de hacer esta operación?
@@ -420,8 +430,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 5. ¿Qué hace cuando se olvida anotar algún gasto o préstamo realizado?
 6. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 
-*Preguntas para amigos que salen a almorzar*
------------------------------------------------
+## _Preguntas para amigos que salen a almorzar_
+
 1. Cuando salen a cenar, ¿cómo pagan la cuenta?
 2. ¿Cómo hacen para recordar cuánto debe pagar cada uno?
 3. ¿Cuánto tiempo se demoran en el proceso del cálculo?
@@ -429,8 +439,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 5. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 6. ¿Cuál piensa que es la mayor dificultad al momento de hacer esta operación?
 
-*Preguntas para compañeros de piso*
--------------------------------------
+## _Preguntas para compañeros de piso_
+
 1. ¿Cuál es su proceso para dividir los gastos?
 2. ¿Cómo lleva registro de los gastos?
 3. ¿Cómo lleva registro de los pagos?
@@ -442,18 +452,15 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 ### 2.3.1 User Personas
 
-**User persona viajero**
-----------------------------
+## **User persona viajero**
 
 <p align="center"><img src="images/userAndreaNewman.png" alt="User Andrea Newman" width="100%"></p>
 
-**User persona que frecuenta restaurantes**
----------------------------------------------
+## **User persona que frecuenta restaurantes**
 
 <p align="center"><img src="images/userRodrigoBarrera.png" alt="User Rodrigo Barrera" width="100%"></p>
 
-**User persona compañero de piso**
------------------------------------
+## **User persona compañero de piso**
 
 <p align="center"><img src="images/userPetraRios.png" alt="User Petra Ríos" width="100%"></p>
 
@@ -562,27 +569,24 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
     </tbody>
 </table>
 
-
 ### 2.3.3 User Journey Mapping
 
-**User persona viajero**
--------------------------
+## **User persona viajero**
 
 <p align="center"><img src="images/mapaAndreaNewman.png" alt="Mapa Andrea Newman" width="100%"></p>
 
-**User persona que frecuenta restaurantes**
---------------------------------------------
+## **User persona que frecuenta restaurantes**
 
 <p align="center"><img src="images/mapaRodrigoBarrera.png" alt="Mapa Rodrigo Barrera" width="100%"></p>
 
-**User persona compañero de piso**
------------------------------------
+## **User persona compañero de piso**
 
 <p align="center"><img src="images/mapaPetraRios.png" alt="Mapa Petra Ríos" width="100%"></p>
 
 # Capítulo IV Product Design
 
 ## 4.1. Style Guidelines
+
 ### 4.1.1. General Style Guidelines
 
 <div style="text-align: justify;">
@@ -598,7 +602,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 <div>
   <strong>Typography</strong>
   <p>La tipografía elegida para PocketPartners es "Poppins", una fuente sans-serif moderna y altamente legible. Este tipo de letra se caracteriza por su estilo limpio y contemporáneo, lo que comunica profesionalismo y actualización. La elección de Poppins asegura que el texto en todas las aplicaciones de PocketPartners, desde el logotipo hasta las interfaces de usuario, sea fácilmente legible y tenga una apariencia moderna y uniforme.
-  </p>  
+  </p>
 
   <p>Asimismo también se usa la fuente “Volkhov” para diferentes textos a través del sitio web. Volkhov es una fuente serif de bajo contraste con un carácter robusto, diseñada para proporcionar una experiencia de lectura motivadora. Es una familia de cuatro pesos, lo que la hace adecuada para entornos de texto complejos, siendo económica y legible, contemporánea y prominente.
   </p>
@@ -611,13 +615,13 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
       <img src="images/volkhov.jpg" alt="Font Volkhov" width="50%">
 </p>
 
-
 **Spacing**
+
 <p>El spacing mantiene: </p>
 
-* Margen entre texto: 16px
-* Margen entre elementos: 24px
-* Margen entre secciones: 72px
+- Margen entre texto: 16px
+- Margen entre elementos: 24px
+- Margen entre secciones: 72px
 
 <p align="center">
       <img src="images/spacing.png" alt="Spacing" width="100%">
@@ -635,8 +639,8 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
       <img src="images/buttons.png" alt="Font Volkhov" width="80%">
 </p>
 
-
 ## 4.2. Information Architecture
+
 ### 4.2.1. Organization Systems
 
 <p align="justify">
@@ -670,7 +674,7 @@ Este meta especifica la codificación de caracteres del documento HTML. En este 
 </p>
 
 ```
-<meta charset="UTF-8"> 
+<meta charset="UTF-8">
 ```
 
 **Título**
@@ -711,23 +715,23 @@ Este elemento `<link>` se utiliza para importar una fuente externa desde Google 
 El proyecto FastService tiene previsto implementar un sistema de búsqueda que permita a los usuarios encontrar la información que necesitan de forma sencilla e intuitiva. Este sistema se basará en filtros que faciliten la búsqueda y eviten que el usuario se sienta abrumado por la gran cantidad de información disponible. De esta manera, se mejorará la experiencia del usuario al buscar información en la aplicación.
 </p>
 
-  - **Crear Etiquetas Personalizadas:**
+- **Crear Etiquetas Personalizadas:**
 
-    <p align="justify"> 
-    En la sección de configuración de PocketPartners, los usuarios pueden crear etiquetas personalizadas para categorizar sus gastos. Por ejemplo, podrían crear etiquetas como "Transporte", "Comida", "Entretenimiento", "Alojamiento", etc.
-    </p>
+  <p align="justify"> 
+  En la sección de configuración de PocketPartners, los usuarios pueden crear etiquetas personalizadas para categorizar sus gastos. Por ejemplo, podrían crear etiquetas como "Transporte", "Comida", "Entretenimiento", "Alojamiento", etc.
+  </p>
 
-  - **Asignar Etiquetas a Transacciones:**
+- **Asignar Etiquetas a Transacciones:**
 
-    <p align="justify"> 
-    Cada vez que realizan una transacción durante el viaje, como pagar por comidas, transporte o actividades, los usuarios pueden asignar una o más etiquetas a esa transacción. Por ejemplo, si compran boletos para un espectáculo, pueden etiquetar esa transacción como "Entretenimiento".
-    </p>
+  <p align="justify"> 
+  Cada vez que realizan una transacción durante el viaje, como pagar por comidas, transporte o actividades, los usuarios pueden asignar una o más etiquetas a esa transacción. Por ejemplo, si compran boletos para un espectáculo, pueden etiquetar esa transacción como "Entretenimiento".
+  </p>
 
-  - **Filtrar Transacciones por Etiquetas:**
+- **Filtrar Transacciones por Etiquetas:**
 
-    <p align="justify"> 
-    Una vez que han registrado varias transacciones etiquetadas, pueden filtrar fácilmente sus transacciones por etiquetas en PocketPartners. Esto les permite ver rápidamente cuánto han gastado en cada categoría durante el viaje y les ayuda a mantener un registro claro de sus gastos relacionados con diferentes aspectos del viaje.
-    </p>
+  <p align="justify"> 
+  Una vez que han registrado varias transacciones etiquetadas, pueden filtrar fácilmente sus transacciones por etiquetas en PocketPartners. Esto les permite ver rápidamente cuánto han gastado en cada categoría durante el viaje y les ayuda a mantener un registro claro de sus gastos relacionados con diferentes aspectos del viaje.
+  </p>
 
 ### 4.2.5. Navigation Systems
 
@@ -736,14 +740,13 @@ La landing page de PocketPartners está diseñada para ser fácil de usar y te o
 </p>
 
 - **Iniciar Sesión / Registrarse:**
-    
-    En la landing page, los usuarios tienen la opción de iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones permiten a los usuarios acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar al máximo PocketPartners.
-    
+  En la landing page, los usuarios tienen la opción de iniciar sesión si ya tienen una cuenta o registrarse si son nuevos en la plataforma. Estos botones permiten a los usuarios acceder a sus cuentas existentes o crear nuevas cuentas para aprovechar al máximo PocketPartners.
 - **Barra de Navegación:**
- 
-    En la landing page, se tiene una barra de navegación que sigue al usuario a medida que va desplazándose por la landing page, conteniendo los nombres de las 3 secciones principales y únicas.
+
+  En la landing page, se tiene una barra de navegación que sigue al usuario a medida que va desplazándose por la landing page, conteniendo los nombres de las 3 secciones principales y únicas.
 
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1. Landing Page Wireframe
 
 <p align="justify">
@@ -797,13 +800,39 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 </p>
 
 ## 4.6. Domain-Driven Software Architecture.
+
 ### 4.6.1. Software Architecture Context Diagram.
+
+  <p align="center">
+        <img src="images/Context-diagram.png" alt="Context Diagram" width="100%">
+
+      En esta imagen podemos evidenciar la relación entre el usuario y la aplicación, así como los servicios que se ofrecen a través de la misma. Además, se muestra la interacción con otros sistemas externos, como el sistema como notificaciones y el sistema de autenticación.
+
+  </p>
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+  <p align="center">
+      <img src="images/Container-diagram.png" alt="Container Diagram" width="100%">
+
+      Este diagrama ilustra la estructura de la aplicación, incluyendo los contenedores que la componen y las tecnologías utilizadas en cada uno. Se observa la interacción entre los contenedores y cómo se comunican para brindar los servicios que el usuario necesita.
+
+  </p>
+
 ### 4.6.3. Software Architecture Components Diagrams.
 
+  <p align="center">
+        <img src="images/Component-diagram.png" alt="Component Diagram" width="100%">
+      
+      El presente diagrama expone en detalle los componentes que integran la aplicación, incluyendo las interfaces y dependencias entre ellos. Se ilustra la estructura interna de la aplicación y la forma en que los distintos componentes se interconectan para ofrecer los servicios que el usuario demanda.
+  </p>
+
 ## 4.7. Software Object-Oriented Design.
+
 ### 4.7.1. Class Diagrams.
+
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
+
 ### 4.8.1. Database Diagram
