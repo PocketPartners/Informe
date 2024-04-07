@@ -583,15 +583,18 @@ _Preguntas generales:_
 
 <p align="center"><img src="images/mapaPetraRios.png" alt="Mapa Petra Ríos" width="100%"></p>
 
-
 ### 2.3.4 Empathy Mapping
+
 ### 2.3.5 As-Is Scenario Mapping
 
 ## 2.4 Ubiquitous Language
 
 # Capítulo III Requirements Especification
+
 ## 3.1 To-Be Scenario Mapping
+
 ## 3.2 User Stories
+
 <table>
   <thead>
     <tr>
@@ -965,9 +968,9 @@ _Preguntas generales:_
       </td>
   </tr>
   </tbody>
-</table>  
+</table>
 
-## 3.3 Impact Mapping 
+## 3.3 Impact Mapping
 
 ## 3.4 Product Backlog
 
@@ -1660,3 +1663,9 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram
+
+[Modelo en Vertabelo](https://my.vertabelo.com/doc/YrYUSjkG3P9nyXFwHtsHMCz09bs5xKvS)
+
+  <div align="center">
+        <img src="images/PocketPartners-data-base-diagram.png" alt="Database Diagram" width="100%">
+  </div>
