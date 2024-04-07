@@ -585,6 +585,8 @@ _Preguntas generales:_
 
 ### 2.3.4 Empathy Mapping
 
+Técnica utilizada en el diseño UX y la investigación de usuarios para comprender mejor las necesidades, emociones y comportamientos de los usuarios. Mapa Visual que representa desde la perspectiva del usuario el recorrido de sus necesidades y deseos en la problemática reconocida.    
+
 ### 2.3.5 As-Is Scenario Mapping
 
 ## 2.4 Ubiquitous Language
