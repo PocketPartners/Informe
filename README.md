@@ -1265,7 +1265,8 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
             <td>list</td>
             <td>Lista de transacciones</td>
         </tr>
-      </tbody>  
+      </tbody> 
+    </table> 
   </div>
 
 ## 4.8. Database Design.
