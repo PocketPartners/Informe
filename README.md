@@ -841,6 +841,13 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 
 ### 4.7.1. Class Diagrams.
 
+  <div align="center">
+        <img src="images/PocketPartners-Diagram-Class.png" alt="Class Diagram" width="100%">
+  </div>
+
+<p align ="justify">
+      En este diagrama de clases se muestran las clases que componen la aplicación PocketPartners, se añadió el patron observer para la notificación de los usuarios que permite mantener informados a los usuarios sobre los cambios en el grupo o otros sistemas importantes como pagos o gastos.
+
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
