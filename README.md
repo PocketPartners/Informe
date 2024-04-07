@@ -850,6 +850,424 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 
 ### 4.7.2. Class Dictionary.
 
+<div align="center">
+    <h3>User Class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>id</td>
+              <td>int</td>
+              <td>Identificador único del usuario</td>
+          </tr>
+          <tr>
+              <td>userName</td>
+              <td>string</td>
+              <td>Nombre del usuario</td>
+          </tr>
+          <tr>
+              <td>fullName</td>
+              <td>string</td>
+              <td>Nombre Normal del usuario</td>
+          </tr>
+          <tr>
+              <td>email</td>
+              <td>string</td>
+              <td>Correo electrónico del usuario</td>
+          </tr>
+          <tr>
+              <td>password</td>
+              <td>string</td>
+              <td>Contraseña del usuario</td>
+          </tr>  
+      </tbody>
+    </table>
+    <h3>Group Class</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>id</td>
+              <td>int</td>
+              <td>Identificador único del grupo</td>
+          </tr>
+          <tr>
+              <td>name</td>
+              <td>string</td>
+              <td>Nombre del grupo</td>
+          </tr>
+          <tr>
+              <td>members</td>
+              <td>list</td>
+              <td>Lista de miembros del grupo</td>
+          </tr>
+          <tr>
+              <td>expenses</td>
+              <td>list</td>
+              <td>Lista de gastos del grupo</td>
+          </tr>  
+      </tbody>
+    </table>
+    <h3>PaymentHistory</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>id</td>
+              <td>int</td>
+              <td>Identificador único del historial de pagos</td>
+          </tr>
+          <tr>
+              <td>Transactions</td>
+              <td>Transaction</td>
+              <td>Lista de transacciones representa Expenses y Payments</td>
+          </tr>
+          <tr>
+              <td>date</td>
+              <td>date</td>
+              <td>Fecha del pago</td>
+          </tr>
+      </tbody>
+    </table>
+    <h3>Notificaciones</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>id</td>
+            <td>int</td>
+            <td>Identificador único de la notificación</td>
+        </tr>
+        <tr>
+            <td>user</td>
+            <td>User</td>
+            <td>Usuario al que se le envía la notificación</td>
+        </tr>
+        <tr>
+            <td>message</td>
+            <td>str</td>
+            <td>Mensaje de la notificación</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td>datetime</td>
+            <td>Fecha de la notificación</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Observer</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>Users</td>
+            <td>list</td>
+            <td>Lista de usuarios observados</td>
+        </tr>
+        <tr>
+            <td>Group</td>
+            <td>Group</td>
+            <td>Grupo observado</td>
+        </tr>
+        <tr>
+            <td>Notificaciones</td>
+            <td>list</td>
+            <td>Lista de notificaciones observadas</td>
+        </tr>
+        <tr>
+            <td>Reminders</td>
+            <td>list</td>
+            <td>Lista de recordatorios observados</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Reminder</h3>
+      <table>
+        <thead>
+            <tr>
+                <th>Attribute</th>
+                <th>Type</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+          <tr>
+              <td>id</td>
+              <td>int</td>
+              <td>Identificador único del recordatorio</td>
+          </tr>
+          <tr>
+              <td>user</td>
+              <td>User</td>
+              <td>Usuario al que se le envía el recordatorio</td>
+          </tr>
+          <tr>
+              <td>message</td>
+              <td>str</td>
+              <td>Mensaje del recordatorio</td>
+          </tr>
+          <tr>
+              <td>date</td>
+              <td>datetime</td>
+              <td>Fecha del recordatorio</td>
+          </tr>
+        </tbody>
+      </table>
+    <h3>Transaction</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>id</td>
+            <td>int</td>
+            <td>Identificador único de la transacción</td>
+        </tr>
+        <tr>
+            <td>amount</td>
+            <td>float</td>
+            <td>Monto de la transacción</td>
+        </tr>
+        <tr>
+            <td>payer</td>
+            <td>User</td>
+            <td>Usuario que realiza la transacción</td>
+        </tr>
+        <tr>
+            <td>group</td>
+            <td>str</td>
+            <td>Grupo al que pertenece la transacción</td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td>enum</td>
+            <td>Tipo de transacción (Expense o Payment)</td>
+        </tr>
+        <tr>
+            <td>money</td>
+            <td>Type money</td>
+            <td>Moneda de la transacción</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td>datetime</td>
+            <td>Fecha de la transacción</td>
+        </tr>
+      </tbody>
+    </table>      
+    <h3>Payment</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+              Esta es una clase heredada de Transaction
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>id</td>
+            <td>int</td>
+            <td>Identificador único de la transacción</td>
+        </tr>
+        <tr>
+            <td>amount</td>
+            <td>float</td>
+            <td>Monto de la transacción</td>
+        </tr>
+        <tr>
+            <td>payer</td>
+            <td>User</td>
+            <td>Usuario que realiza la transacción</td>
+        </tr>
+        <tr>
+            <td>group</td>
+            <td>str</td>
+            <td>Grupo al que pertenece la transacción</td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td>enum</td>
+            <td>Tipo de transacción (Expense o Payment)</td>
+        </tr>
+        <tr>
+            <td>money</td>
+            <td>Type money</td>
+            <td>Moneda de la transacción</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td>datetime</td>
+            <td>Fecha de la transacción</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Expense</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+              Esta es una clase heredada de Transaction
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>id</td>
+            <td>int</td>
+            <td>Identificador único de la transacción</td>
+        </tr>
+        <tr>
+            <td>amount</td>
+            <td>float</td>
+            <td>Monto de la transacción</td>
+        </tr>
+        <tr>
+            <td>payer</td>
+            <td>User</td>
+            <td>Usuario que realiza la transacción</td>
+        </tr>
+        <tr>
+            <td>group</td>
+            <td>str</td>
+            <td>Grupo al que pertenece la transacción</td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td>enum</td>
+            <td>Tipo de transacción (Expense o Payment)</td>
+        </tr>
+        <tr>
+            <td>money</td>
+            <td>Type money</td>
+            <td>Moneda de la transacción</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td>datetime</td>
+            <td>Fecha de la transacción</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Money</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>type</td>
+            <td>str</td>
+            <td>Nombre de la moneda</td>
+        </tr>
+        <tr>
+            <td>money_codes</td>
+            <td>enum</td>
+            <td>Código de la moneda</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3>Receipt</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>typeDocument</td>
+            <td>str</td>
+            <td>Tipo de documento</td>
+        </tr>
+        <tr>
+            <td>fact_date</td>
+            <td>Date</td>
+            <td>Fecha de la factura</td>
+        </tr>
+        <tr>
+            <td>expiration_date</td>
+            <td>Date</td>
+            <td>Fecha de vencimiento</td>
+        </tr>
+        <tr>
+            <td>total</td>
+            <td>float</td>
+            <td>Total de la factura</td>
+        </tr>
+        <tr>
+            <td>tax</td>
+            <td>float</td>
+            <td>Impuesto de la factura</td>
+        </tr>
+      </tbody>
+  </table>
+  <h3>ReceiptChecker</h3>
+  <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>Receipts</td>
+            <td>list</td>
+            <td>Lista de facturas</td>
+        </tr>
+        <tr>
+            <td>Transactions</td>
+            <td>list</td>
+            <td>Lista de transacciones</td>
+        </tr>
+      </tbody>  
+  </div>
+
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram
