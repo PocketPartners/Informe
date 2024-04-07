@@ -587,6 +587,13 @@ _Preguntas generales:_
 
 Técnica utilizada en el diseño UX y la investigación de usuarios para comprender mejor las necesidades, emociones y comportamientos de los usuarios. Mapa Visual que representa desde la perspectiva del usuario el recorrido de sus necesidades y deseos en la problemática reconocida.    
 
+
+## **Empathy Map User Viajero**
+<p align="center"><img src="images/empathyMapUserViajero.png" alt="Empathy Map User Viajero" width="100%"></p>
+
+## **Empathy Map User Viajero**
+
+## **Empathy Map User Viajero**
 ### 2.3.5 As-Is Scenario Mapping
 
 Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar. 
