@@ -965,7 +965,7 @@ _Preguntas generales:_
       </td>
   </tr>
   </tbody>
-</table>
+</table>  
 
 ## 3.3 Impact Mapping 
 
