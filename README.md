@@ -12,7 +12,7 @@
 
 <div align="center">
 
-Ciclo: 2024 - 1
+Ciclo: 2024 - 0 1
 
 Curso: Desarrollo de Aplicaciones Open Source
 
@@ -26,7 +26,7 @@ Startup: FairFinance
 
 Producto: PocketPartners
 
-Grupo: 3
+Grupo: 03
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
@@ -582,6 +582,394 @@ _Preguntas generales:_
 ## **User persona compañero de piso**
 
 <p align="center"><img src="images/mapaPetraRios.png" alt="Mapa Petra Ríos" width="100%"></p>
+
+
+### 2.3.4 Empathy Mapping
+### 2.3.5 As-Is Scenario Mapping
+
+## 2.4 Ubiquitous Language
+
+# Capítulo III Requirements Especification
+## 3.1 To-Be Scenario Mapping
+## 3.2 User Stories
+<table>
+  <thead>
+    <tr>
+        <th>Epic/User Story ID</th>
+        <th>Titulo</th>
+        <th>Descripción</th>
+        <th>Criterios de aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+
+  <tbody>
+  <!-- US01
+  -->
+  <tr>
+      <td><strong>EP01</strong></td>
+      <td>Titulo US1</td>
+      <td>
+          Descripción US01
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US02
+  -->
+  <tr>
+      <td><strong>EP02</strong></td>
+      <td>Titulo US2</td>
+      <td>
+          Descripción US02
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US03
+  -->
+  <tr>
+      <td><strong>EP03</strong></td>
+      <td>Titulo US3</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US04
+  -->
+  <tr>
+      <td><strong>EP04</strong></td>
+      <td>Titulo US4</td>
+      <td>
+          Descripción US04
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US05
+  -->
+  <tr>
+      <td><strong>EP05</strong></td>
+      <td>Titulo US5</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US06
+  -->
+  <tr>
+      <td><strong>EP06</strong></td>
+      <td>Titulo US6</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US07
+  -->
+  <tr>
+      <td><strong>EP07</strong></td>
+      <td>Titulo US7</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US08
+  -->
+  <tr>
+      <td><strong>EP08</strong></td>
+      <td>Titulo US8</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US09
+  -->
+  <tr>
+      <td><strong>EP09</strong></td>
+      <td>Titulo US9</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US10
+  -->
+  <tr>
+      <td><strong>EP10</strong></td>
+      <td>Titulo US10</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US11
+  -->
+  <tr>
+      <td><strong>EP11</strong></td>
+      <td>Titulo US11</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US12
+  -->
+  <tr>
+      <td><strong>EP12</strong></td>
+      <td>Titulo US12</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US13
+  -->
+  <tr>
+      <td><strong>EP13</strong></td>
+      <td>Titulo US13</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US14
+  -->
+  <tr>
+      <td><strong>EP14</strong></td>
+      <td>Titulo US14</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US15
+  -->
+  <tr>
+      <td><strong>EP15</strong></td>
+      <td>Titulo US15</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US16
+  -->
+  <tr>
+      <td><strong>EP16</strong></td>
+      <td>Titulo US16</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US17
+  -->
+  <tr>
+      <td><strong>EP17</strong></td>
+      <td>Titulo US17</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US18
+  -->
+  <tr>
+      <td><strong>EP18</strong></td>
+      <td>Titulo US18</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US19
+  -->
+  <tr>
+      <td><strong>EP19</strong></td>
+      <td>Titulo US19</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  <!-- US20
+  -->
+  <tr>
+      <td><strong>EP20</strong></td>
+      <td>Titulo US20</td>
+      <td>
+          Descripción US03
+      </td>
+      <td>
+        <strong>Escenario 1: ...</strong> <br>
+        <strong>Dado que</strong> ... <br>
+        <strong>Cuando</strong> ... <br>
+        <strong>Entonces</strong> ...
+      </td>
+      <td>
+        EP01, EP02, ...
+      </td>
+  </tr>
+  </tbody>
+</table>
+
+## 3.3 Impact Mapping 
+
+## 3.4 Product Backlog
 
 # Capítulo IV Product Design
 
