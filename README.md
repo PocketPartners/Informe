@@ -592,6 +592,7 @@ Técnica utilizada en el diseño UX y la investigación de usuarios para compren
 <p align="center"><img src="images/empathyMapUserViajero.png" alt="Empathy Map User Viajero" width="100%"></p>
 
 ## **Empathy Map User Frecuente de restaurantes**
+<p align="center"><img src="images/empathyMapUserFrecuentedeRestaurantes.png" alt="Empathy Map User Viajero" width="100%"></p>
 
 ## **Empathy Map User Compañero de Piso**
 ### 2.3.5 As-Is Scenario Mapping
