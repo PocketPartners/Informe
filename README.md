@@ -987,11 +987,14 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.3 Impact Mapping
 
-#### 3.3.1. Mejorar la experiencia de distribución de movimientos financieros grupales. 
+#### Mejorar la experiencia de distribución de movimientos financieros grupales. 
+
+<p align="center"><img src="images/impactMapUserViajero.png" alt="Empathy Map User Viajero"  width="100%"></p>
 
 
+#### Digitalizar el 80% de procesos de registro de saldos y movimientos financieros grupales.
 
- 
+<p align="center"><img src="images/impactMapUserFrecuentedeRestaurante.png" alt="Empathy Map User Viajero"  width="100%"></p>
 
 
 ## 3.4 Product Backlog
