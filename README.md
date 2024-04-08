@@ -996,8 +996,12 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 <p align="center"><img src="images/impactMapUserFrecuentedeRestaurante.png" alt="Empathy Map User Viajero"  width="100%"></p>
 
+#### Discernir la preocupación constante del uso de diferentes registros de movimientos financieros en los usuarios Compañeros de piso.
 
-## 3.4 Product Backlog
+<p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
+
+
+## 3.4 Pro    duct Backlog
 
 # Capítulo IV Product Design
 
