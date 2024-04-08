@@ -1001,7 +1001,45 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 <p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
 
 
-## 3.4 Pro    duct Backlog
+## 3.4 Product Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr style="text-align: center;">
+      <td>1</td>
+      <td>US...</td>
+      <td>...</td>
+      <td style="text-align: justify;">...</td>
+      <td>...</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>2</td>
+      <td>US...</td>
+      <td>...</td>
+      <td style="text-align: justify;">...</td>
+      <td>...</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>3</td>
+      <td>US...</td>
+      <td>...</td>
+      <td style="text-align: justify;">...</td>
+      <td>...</td>
+    </tr>    
+  </tbody>
+
+</table>
+
 
 # Capítulo IV Product Design
 
