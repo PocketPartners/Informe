@@ -592,9 +592,12 @@ Técnica utilizada en el diseño UX y la investigación de usuarios para compren
 <p align="center"><img src="images/empathyMapUserViajero.png" alt="Empathy Map User Viajero" width="100%"></p>
 
 ## **Empathy Map User Frecuente de restaurantes**
-<p align="center"><img src="images/empathyMapUserFrecuentedeRestaurantes.png" alt="Empathy Map User Viajero" width="100%"></p>
+<p align="center"><img src="images/empathyMapUserFrecuentedeRestaurantes.png" alt="Empathy Map User Frecuente de Restaurantes" width="100%"></p>
 
 ## **Empathy Map User Compañero de Piso**
+
+<p align="center"><img src="images/empathyMapUserCompañerodePiso.png" alt="Empathy Map Compañero de Piso" width="100%"></p>
+
 ### 2.3.5 As-Is Scenario Mapping
 
 Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar. 
