@@ -987,6 +987,13 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.3 Impact Mapping
 
+#### 3.3.1. Mejorar la experiencia de distribución de movimientos financieros grupales. 
+
+
+
+ 
+
+
 ## 3.4 Product Backlog
 
 # Capítulo IV Product Design
