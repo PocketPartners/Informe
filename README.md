@@ -623,6 +623,113 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
       <img src="images/footer.png" alt="Footer" width="100%">
 </p>
 
+## 4.4. Web Applications UX/UI design
+### 4.4.1. Web Applications wireframes
+
+<p align="center"><img src="images/wireframeLogIn.jpg" alt="Wireframe de ingreso" width="100%"></p>
+
+<p align="center"><img src="images/wireframeSignUp.jpg" alt="Wireframe de cración de cuenta" width="100%"></p>
+
+<p align="center"><img src="images/wireframeMain.jpg" alt="Wireframe principal" width="100%"></p>
+
+<p align="center"><img src="images/wireframeSideBar.jpg" alt="Wireframe barra lateral" width="100%"></p>
+
+<p align="center"><img src="images/wireframeAdd.jpg" alt="Wireframe agregar" width="100%"></p>
+
+<p align="center"><img src="images/wireframeCreateGroup.jpg" alt="Wireframe crear grupo" width="100%"></p>
+
+<p align="center"><img src="images/wireframePayIn.jpg" alt="Wireframe pago entrante" width="100%"></p>
+
+<p align="center"><img src="images/wireframePayOut.jpg" alt="Wireframe pago saliente" width="100%"></p>
+
+<p align="center"><img src="images/wireframeNewSpent.jpg" alt="Wireframe nuevo gasto" width="100%"></p>
+
+<p align="center"><img src="images/wireframeDivision.jpg" alt="Wireframe división" width="100%"></p>
+
+<p align="center"><img src="images/wireframeExport.jpg" alt="Wireframe exportar" width="100%"></p>
+
+### 4.4.2. Web Application Wireflow Diagram
+
+El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+<p align="center"><img src="images/wireflowLogIn.png" alt="Wireflow ingreso" width="100%"></p>
+
+El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+<p align="center"><img src="images/wireflowSignUp.png" alt="Wireflow de cración de cuenta" width="100%"></p>
+
+El usuario desea realizar ajustes y cambios en su cuenta
+<p align="center"><img src="images/wirefloweSideBar.png" alt="Wireflow barra lateral" width="100%"></p>
+
+El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+<p align="center"><img src="images/wireflowExport.png" alt="Wireflow exportar" width="100%"></p>
+
+El usuario desea agregar un grupo o relizar un nuevo pago.
+<p align="center"><img src="images/wireflowAdd.png" alt="Wireflow agregar" width="100%"></p>
+
+El usuario desea crear un grupo
+<p align="center"><img src="images/wireflowCreateGroup.png" alt="Wireflow crear grupo" width="100%"></p>
+
+El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+<p align="center"><img src="images/wireflowPayIn.png" alt="Wireflow pago entrante" width="100%"></p>
+
+El usuario desea consultar sus pagos realizados y pagos faltantes
+<p align="center"><img src="images/wireflowPayOut.png" alt="Wireflow pago saliente" width="100%"></p>
+
+El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+<p align="center"><img src="images/wireflowNewSpent.png" alt="Wireflow nuevo gasto" width="100%"></p>
+
+### 4.4.3 Web Application Mock-Ups
+
+<p align="center"><img src="images/mockupLogIn.jpg" alt="Mock-Up de ingreso" width="100%"></p>
+
+<p align="center"><img src="images/mockupSignUp.jpg" alt="Mock-Up de cración de cuenta" width="100%"></p>
+
+<p align="center"><img src="images/mockupMain.jpg" alt="Mock-Up principal" width="100%"></p>
+
+<p align="center"><img src="images/mockupSideBar.jpg" alt="Mock-Up barra lateral" width="100%"></p>
+
+<p align="center"><img src="images/mockupAdd.jpg" alt="Mock-Up agregar" width="100%"></p>
+
+<p align="center"><img src="images/mockupCreateGroup.jpg" alt="Mock-Up crear grupo" width="100%"></p>
+
+<p align="center"><img src="images/mockupPayIn.jpg" alt="Mock-Up pago entrante" width="100%"></p>
+
+<p align="center"><img src="images/mockupPayOut.jpg" alt="Mock-Up pago saliente" width="100%"></p>
+
+<p align="center"><img src="images/mockupNewSpent.jpg" alt="Mock-Up nuevo gasto" width="100%"></p>
+
+<p align="center"><img src="images/mockupDivision.jpg" alt="Mock-Up división" width="100%"></p>
+
+<p align="center"><img src="images/mockupExport.jpg" alt="Mock-Up exportar" width="100%"></p>
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+<p align="center"><img src="images/userflowLogIn.png" alt="UserFlow ingreso" width="100%"></p>
+
+El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+<p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
+
+El usuario desea realizar ajustes y cambios en su cuenta
+<p align="center"><img src="images/userfloweSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
+
+El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+<p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
+
+El usuario desea agregar un grupo o relizar un nuevo pago.
+<p align="center"><img src="images/userflowAdd.png" alt="UserFlow agregar" width="100%"></p>
+
+El usuario desea crear un grupo
+<p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
+
+El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+<p align="center"><img src="images/wireflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
+
+El usuario desea consultar sus pagos realizados y pagos faltantes
+<p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
+
+El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+<p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ### 4.6.2. Software Architecture Container Diagrams.
