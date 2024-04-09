@@ -595,7 +595,22 @@ _Preguntas generales:_
 
 ### 2.3.4 Empathy Mapping
 
+Técnica utilizada en el diseño UX y la investigación de usuarios para comprender mejor las necesidades, emociones y comportamientos de los usuarios. Mapa Visual que representa desde la perspectiva del usuario el recorrido de sus necesidades y deseos en la problemática reconocida.    
+
+
+## **Empathy Map User Viajero**
+<p align="center"><img src="images/empathyMapUserViajero.png" alt="Empathy Map User Viajero" width="100%"></p>
+
+## **Empathy Map User Frecuente de restaurantes**
+<p align="center"><img src="images/empathyMapUserFrecuentedeRestaurantes.png" alt="Empathy Map User Frecuente de Restaurantes" width="100%"></p>
+
+## **Empathy Map User Compañero de Piso**
+
+<p align="center"><img src="images/empathyMapUserCompañerodePiso.png" alt="Empathy Map Compañero de Piso" width="100%"></p>
+
 ### 2.3.5 As-Is Scenario Mapping
+
+Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar. 
 
 ## 2.4 Ubiquitous Language
 
@@ -621,33 +636,43 @@ _Preguntas generales:_
   -->
   <tr>
       <td><strong>EP01</strong></td>
-      <td>Titulo US1</td>
+      <td>US1 - Notificaciones</td>
       <td>
-          Descripción US01
+          Como usuario, quiero recibir notificaciones automáticas cuando se agreguen nuevos gastos compartidos para mantenerme al tanto de las actualizaciones en mis finanzas compartidas y evitar perder información importante.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Recibir Notificacion</strong> <br>
+        <strong>Dado que</strong> estoy utilizando la aplicación PocketPartners en mi navegador web y he activado las notificaciones, <br>
+        <strong>Cuando</strong> agregue un nuevo gasto compartido asociado a uno de mis contactos ficticios mientras estoy conectado a la aplicación, <br>
+        <strong>Entonces</strong> debería ver una notificación emergente en la pantalla de mi navegador que me informe sobre la actualización en mis finanzas compartidas.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03
       </td>
   </tr>
   <!-- US02
   -->
   <tr>
       <td><strong>EP02</strong></td>
-      <td>Titulo US2</td>
+      <td>US2 - Añadir o Eliminar Transacciones</td>
       <td>
-          Descripción US02
+          Como usuario, quiero poder editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Observar opciones</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado en la aplicación PocketPartners y he iniciado sesión en mi cuenta, <br>
+        <strong>Cuando</strong> acceda a la sección de "Historial de Transacciones" o "Registro de Gastos", <br>
+        <strong>Entonces</strong> debería ver una lista de todas las transacciones registradas, con opciones para editar o eliminar cada una. <br>
+        <br> 
+        <strong>Escenario 2: Editar detalles</strong> <br>
+        <strong>Dado que</strong> estoy visualizando la lista de transacciones en la aplicación PocketPartners, <br>
+        <strong>Cuando</strong> seleccione una transacción específica que deseo editar, <br>
+        <strong>Entonces</strong> debería poder acceder a un formulario de edición donde pueda modificar los detalles de la transacción, como el monto, la descripción o la fecha. <br>
+        <br>
+        <strong>Escenario 3: Eliminar transaccion</strong> <br>
+        <strong>Dado que</strong> deseo eliminar una transacción registrada incorrectamente, <br>
+        <strong>Cuando</strong>seleccione la opción para eliminar una transacción específica, <br>
+        <strong>Entonces</strong> debería ver una confirmación de eliminación y, al confirmar, la transacción debe eliminarse de mi historial de transacciones de manera permanente.<br>
       </td>
       <td>
         EP01, EP02, ...
@@ -657,36 +682,46 @@ _Preguntas generales:_
   -->
   <tr>
       <td><strong>EP03</strong></td>
-      <td>Titulo US3</td>
+      <td>US3 - Division</td>
       <td>
-          Descripción US03
+          Como usuario, quiero tener la opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Dividir igualmente</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado en PocketPartners y estoy creando un nuevo gasto compartido, <br>
+        <strong>Cuando</strong> ingreso los detalles del gasto, como el monto total y la descripción, <br>
+        <strong>Entonces</strong> debería tener la opción de seleccionar la función "Dividir Equitativamente" antes de guardar el gasto.<br>
+        <br>
+        <strong>Escenario 2: Division</strong> <br>
+        <strong>Dado que</strong> he seleccionado la opción "Dividir Equitativamente" al crear un nuevo gasto, <br>
+        <strong>Cuando</strong> el gasto se guarda exitosamente, <br>
+        <strong>Entonces</strong> el monto total del gasto se dividirá automáticamente de manera equitativa entre todos los miembros del grupo.<br>
       </td>
       <td>
-        EP01, EP02, ...
+        EP01
       </td>
   </tr>
   <!-- US04
   -->
   <tr>
       <td><strong>EP04</strong></td>
-      <td>Titulo US4</td>
+      <td>US4 - Exportar Detalles</td>
       <td>
-          Descripción US04
+          Como usuario, quiero poder exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Encontrar Boton</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado en PocketPartners y deseo exportar un resumen de las transacciones de grupo, <br>
+        <strong>Cuando</strong> accedo a la sección de "+ detalles" o "Informe de Gastos", <br>
+        <strong>Entonces</strong> debería encontrar una opción claramente etiquetada para exportar el resumen de transacciones.<br>
+        <strong>Escenario 2: Exportar resumen</strong> <br>
+        <strong>Dado que</strong>  he seleccionado la opción de exportar un resumen de transacciones,<br>
+        <strong>Cuando</strong> elija el formato de archivo deseado, como PDF o CSV, <br>
+        <strong>Entonces</strong> la aplicación debería generar automáticamente el archivo de resumen en el formato seleccionado y comenzar la descarga.<br>
+        <strong>Y</strong> debería poder ver claramente un resumen detallado de mis transacciones, incluyendo la fecha, el monto y la descripción de cada transacción.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03
       </td>
   </tr>
   <!-- US05
@@ -695,7 +730,7 @@ _Preguntas generales:_
       <td><strong>EP05</strong></td>
       <td>Titulo US5</td>
       <td>
-          Descripción US03
+          Descripción US05
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -713,7 +748,7 @@ _Preguntas generales:_
       <td><strong>EP06</strong></td>
       <td>Titulo US6</td>
       <td>
-          Descripción US03
+          Descripción US06
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -731,7 +766,7 @@ _Preguntas generales:_
       <td><strong>EP07</strong></td>
       <td>Titulo US7</td>
       <td>
-          Descripción US03
+          Descripción US07
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -749,7 +784,7 @@ _Preguntas generales:_
       <td><strong>EP08</strong></td>
       <td>Titulo US8</td>
       <td>
-          Descripción US03
+          Descripción US08
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -767,7 +802,7 @@ _Preguntas generales:_
       <td><strong>EP09</strong></td>
       <td>Titulo US9</td>
       <td>
-          Descripción US03
+          Descripción US09
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -785,7 +820,7 @@ _Preguntas generales:_
       <td><strong>EP10</strong></td>
       <td>Titulo US10</td>
       <td>
-          Descripción US03
+          Descripción US10
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -803,7 +838,7 @@ _Preguntas generales:_
       <td><strong>EP11</strong></td>
       <td>Titulo US11</td>
       <td>
-          Descripción US03
+          Descripción US11
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -821,7 +856,7 @@ _Preguntas generales:_
       <td><strong>EP12</strong></td>
       <td>Titulo US12</td>
       <td>
-          Descripción US03
+          Descripción US12
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -839,7 +874,7 @@ _Preguntas generales:_
       <td><strong>EP13</strong></td>
       <td>Titulo US13</td>
       <td>
-          Descripción US03
+          Descripción US13
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -857,7 +892,7 @@ _Preguntas generales:_
       <td><strong>EP14</strong></td>
       <td>Titulo US14</td>
       <td>
-          Descripción US03
+          Descripción US14
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -875,7 +910,7 @@ _Preguntas generales:_
       <td><strong>EP15</strong></td>
       <td>Titulo US15</td>
       <td>
-          Descripción US03
+          Descripción US15
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -893,7 +928,7 @@ _Preguntas generales:_
       <td><strong>EP16</strong></td>
       <td>Titulo US16</td>
       <td>
-          Descripción US03
+          Descripción US16
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -911,7 +946,7 @@ _Preguntas generales:_
       <td><strong>EP17</strong></td>
       <td>Titulo US17</td>
       <td>
-          Descripción US03
+          Descripción US17
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -929,7 +964,7 @@ _Preguntas generales:_
       <td><strong>EP18</strong></td>
       <td>Titulo US18</td>
       <td>
-          Descripción US03
+          Descripción US18
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -947,7 +982,7 @@ _Preguntas generales:_
       <td><strong>EP19</strong></td>
       <td>Titulo US19</td>
       <td>
-          Descripción US03
+          Descripción US19
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -965,7 +1000,7 @@ _Preguntas generales:_
       <td><strong>EP20</strong></td>
       <td>Titulo US20</td>
       <td>
-          Descripción US03
+          Descripción US20
       </td>
       <td>
         <strong>Escenario 1: ...</strong> <br>
@@ -982,7 +1017,59 @@ _Preguntas generales:_
 
 ## 3.3 Impact Mapping
 
+#### Mejorar la experiencia de distribución de movimientos financieros grupales. 
+
+<p align="center"><img src="images/impactMapUserViajero.png" alt="Empathy Map User Viajero"  width="100%"></p>
+
+
+#### Digitalizar el 80% de procesos de registro de saldos y movimientos financieros grupales.
+
+<p align="center"><img src="images/impactMapUserFrecuentedeRestaurante.png" alt="Empathy Map User Viajero"  width="100%"></p>
+
+#### Discernir la preocupación constante del uso de diferentes registros de movimientos financieros en los usuarios Compañeros de piso.
+
+<p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
+
+
 ## 3.4 Product Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr style="text-align: center;">
+      <td>1</td>
+      <td>US...</td>
+      <td>...</td>
+      <td style="text-align: justify;">...</td>
+      <td>...</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>2</td>
+      <td>US...</td>
+      <td>...</td>
+      <td style="text-align: justify;">...</td>
+      <td>...</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>3</td>
+      <td>US...</td>
+      <td>...</td>
+      <td style="text-align: justify;">...</td>
+      <td>...</td>
+    </tr>    
+  </tbody>
+
+</table>
+
 
 # Capítulo IV Product Design
 
