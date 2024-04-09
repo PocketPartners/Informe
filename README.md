@@ -630,6 +630,18 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.1 To-Be Scenario Mapping
 
+###  To - Be User Viajero
+
+<p align="center"><img src="images/toBeUserViajero.jpg" alt="toBe User Viajero" width="100%"></p>
+
+###  To - Be User Frecuente de Restaurante
+
+<p align="center"><img src="images/toBeUserFrecuenteDeRestaurante.jpg" alt="toBe User Frecuente de Restaurante" width="100%"></p>
+
+###  To - Be User Compañero de Piso
+
+<p align="center"><img src="images/toBeUserCompañeroDePiso.jpg" alt="toBe User Compañero de Piso" width="100%"></p>
+
 ## 3.2 User Stories
 
 <table>
