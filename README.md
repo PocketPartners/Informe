@@ -457,6 +457,9 @@ _Preguntas generales:_
  </div>
  
  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
+#### Resumen de la entrevista
+
+El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones se olvida de anotar algún gasto o préstamo. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten el proceso aparte de Splitwise o otra mas conocida.
 
 ## 2.3. Needfinding
 
@@ -595,13 +598,14 @@ _Preguntas generales:_
 
 ### 2.3.4 Empathy Mapping
 
-Técnica utilizada en el diseño UX y la investigación de usuarios para comprender mejor las necesidades, emociones y comportamientos de los usuarios. Mapa Visual que representa desde la perspectiva del usuario el recorrido de sus necesidades y deseos en la problemática reconocida.    
-
+Técnica utilizada en el diseño UX y la investigación de usuarios para comprender mejor las necesidades, emociones y comportamientos de los usuarios. Mapa Visual que representa desde la perspectiva del usuario el recorrido de sus necesidades y deseos en la problemática reconocida.
 
 ## **Empathy Map User Viajero**
+
 <p align="center"><img src="images/empathyMapUserViajero.png" alt="Empathy Map User Viajero" width="100%"></p>
 
 ## **Empathy Map User Frecuente de restaurantes**
+
 <p align="center"><img src="images/empathyMapUserFrecuentedeRestaurantes.png" alt="Empathy Map User Frecuente de Restaurantes" width="100%"></p>
 
 ## **Empathy Map User Compañero de Piso**
@@ -610,17 +614,17 @@ Técnica utilizada en el diseño UX y la investigación de usuarios para compren
 
 ### 2.3.5 As-Is Scenario Mapping
 
-Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar. 
+Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar.
 
-###  As - Is User Viajero
+### As - Is User Viajero
 
 <p align="center"><img src="images/asIsUserViajero.jpg" alt="AsIs User Viajero" width="100%"></p>
 
-###  As - Is User Frecuente de Restaurante
+### As - Is User Frecuente de Restaurante
 
 <p align="center"><img src="images/asIsUserFrecuenteDeRestaurante.jpg" alt="AsIs User Frecuente de Restaurante" width="100%"></p>
 
-###  As - Is User Compañero de Piso
+### As - Is User Compañero de Piso
 
 <p align="center"><img src="images/asIsUserCompañeroDePiso.jpg" alt="AsIs User Compañero de Piso" width="100%"></p>
 
@@ -630,15 +634,15 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.1 To-Be Scenario Mapping
 
-###  To - Be User Viajero
+### To - Be User Viajero
 
 <p align="center"><img src="images/toBeUserViajero.jpg" alt="toBe User Viajero" width="100%"></p>
 
-###  To - Be User Frecuente de Restaurante
+### To - Be User Frecuente de Restaurante
 
 <p align="center"><img src="images/toBeUserFrecuenteDeRestaurante.jpg" alt="toBe User Frecuente de Restaurante" width="100%"></p>
 
-###  To - Be User Compañero de Piso
+### To - Be User Compañero de Piso
 
 <p align="center"><img src="images/toBeUserCompañeroDePiso.jpg" alt="toBe User Compañero de Piso" width="100%"></p>
 
@@ -1041,10 +1045,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.3 Impact Mapping
 
-#### Mejorar la experiencia de distribución de movimientos financieros grupales. 
+#### Mejorar la experiencia de distribución de movimientos financieros grupales.
 
 <p align="center"><img src="images/impactMapUserViajero.png" alt="Empathy Map User Viajero"  width="100%"></p>
-
 
 #### Digitalizar el 80% de procesos de registro de saldos y movimientos financieros grupales.
 
@@ -1053,7 +1056,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 #### Discernir la preocupación constante del uso de diferentes registros de movimientos financieros en los usuarios Compañeros de piso.
 
 <p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
-
 
 ## 3.4 Product Backlog
 
@@ -1093,7 +1095,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   </tbody>
 
 </table>
-
 
 # Capítulo IV Product Design
 
