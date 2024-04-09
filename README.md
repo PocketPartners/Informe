@@ -176,8 +176,11 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 # Capítulo I Introducción
 
 ## 1.1. Startup Profile
+
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo
+
 ### 1.1.1. Descripción de la Startup
+
 La startup, presentada con el nombre de “FairFinance”, se enfoca en facilitar la división de gastos y la gestión de finanzas compartidas entre grupos de personas.Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares
 que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente a través de servicios como PayPal o Venmo, lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
 
@@ -186,7 +189,6 @@ Misión: Facilitar la administración equitativa y transparente de gastos compar
 Visión: Convertirnos en la plataforma líder mundial para la gestión colaborativa de gastos, promoviendo la armonía y la transparencia en las relaciones financieras cotidianas.
 
 Logotipo de la Startup:
-
 
 Logotipo del servicio:
 
@@ -260,17 +262,17 @@ La plataforma será utilizada por una variedad de personas, incluidos amigos que
 Why (Por qué)
 ¿Cuál es la causa del problema?
 
-La causa principal del problema es tener un registro manual de quién ha pagado qué y quién debe a quién puede resultar confuso y propenso a errores humanos, lo que puede dar lugar a malentendidos y conflictos. 
- 
+La causa principal del problema es tener un registro manual de quién ha pagado qué y quién debe a quién puede resultar confuso y propenso a errores humanos, lo que puede dar lugar a malentendidos y conflictos.
+
 ¿Cuáles son las 2H?
 How (Cómo)
 ¿Cómo se utilizará el producto?.
 
 El producto será empleado para registrar fácilmente los gastos que comparten con otras personas, ingresando detalles como el monto, la descripción y quién participó en la transacción. A partir de ello, los usuarios pueden optar por dividir equitativamente el gasto entre todos los participantes, asignar porcentajes específicos a cada persona o personalizar la división según las contribuciones individuales.
 
-¿Cómo lograremos desarrollar la correcta división de  gastos entre nuestros usuarios?
+¿Cómo lograremos desarrollar la correcta división de gastos entre nuestros usuarios?
 
-Los técnicos y administradores acceden a la plataforma a través de un navegador. Dicha plataforma les permitirá revisar los cálculos de cada registro, así como la situación financiera global actual. Por otro lado, los usuarios pueden registrar todos los gastos de manera precisa dentro de la aplicación. Esto puede incluir la cantidad total del gasto, una descripción detallada y quiénes participaron en la transacción.Además, proporciona opciones flexibles para dividir los gastos. 
+Los técnicos y administradores acceden a la plataforma a través de un navegador. Dicha plataforma les permitirá revisar los cálculos de cada registro, así como la situación financiera global actual. Por otro lado, los usuarios pueden registrar todos los gastos de manera precisa dentro de la aplicación. Esto puede incluir la cantidad total del gasto, una descripción detallada y quiénes participaron en la transacción.Además, proporciona opciones flexibles para dividir los gastos.
 
 .How (Cómo)
 ¿Cómo se utilizará el producto?
@@ -281,7 +283,6 @@ How much (Cuánto)
 ¿Cuál es la magnitud del problema?
 
 Según La Encuesta Nacional de Capacidades Financieras (2023), el 46% de la población peruana cuenta con un nivel medio de educación financiera y un 13% tiene un nivel adecuado; pero aún hay un 41% que carece de capacidades financieras, según revela la tercera Encuesta Nacional de Capacidades Financieras, desarrollada por la Superintendencia de Banca, Seguros y AFP del Perú (SBS) y la CAF - Banco de Desarrollo de América Latina, presentada en la inauguración de la Semana Mundial del Ahorro 2023. La encuesta tiene como objetivo conocer los niveles de conocimientos, actitudes y comportamientos de los peruanos con relación a temas financieros, así como identificar cambios producidos respecto a los años 2013 y 2019. Esta fue realizada por Ipsos-Perú en el año 2022 e incluyó a peruanos a partir de los 18 años de todos los niveles socioeconómicos en zonas urbanas como rural. Cabe precisar que la encuesta se basó en la metodología de la Organización para la Cooperación y el Desarrollo Económico (OECD) y que se trata de una iniciativa que forma parte de la Política Nacional de Inclusión Financiera. Por otro lado, el porcentaje de adultos que eligió un producto financiero a partir de una comparación o búsqueda de información creció de 56% a 60% entre el 2019 y 2022. Asimismo, el consejo de familiares y amigos mantiene su influencia (40% en 2019 y 42% en el 2022) al momento de elegir un producto financiero. Sin embargo, otras estrategias que incrementan su relevancia fueron la revisión de portales de comparación de precios, tasas y tarifas y la publicidad en redes sociales, con el 21% y 18%, respectivamente. Es ahí que se ve implicado Pocket Partners como alternativa de gestión para una buena salud financiera.
-
 
 ¿Qué porcentaje de usuarios se verá beneficiado por el servicio?
 
@@ -868,72 +869,94 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   -->
   <tr>
       <td><strong>EP05</strong></td>
-      <td>Titulo US5</td>
+      <td>US5 -Acceso Seguro</td>
       <td>
-          Descripción US05
+          Como usuario, quiero que mi información sea accesible unicamente por mi o con una autorización especial para garantizar la seguridad y privacidad de mis datos financieros compartidos.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Acceso Seguro</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado en la aplicación PocketPartners, <br>
+        <strong>Cuando</strong>  Intento iniciar sesión, la aplicación debe solicitar mi nombre de usuario y contraseña o utilizar Google o Facebook. <br>
+        <strong>Entonces</strong> Y si ingreso los detalles correctamente, debería tener acceso a mi cuenta.
+        <br>
+        <strong>Escenario 2: Olvidar Contraseña</strong> <br>
+        <strong>Dado que</strong> he olvidado mi contraseña y necesito restablecerla, <br>
+        <strong>Cuando</strong> seleccione la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión, <br>
+        <strong>Entonces</strong> debería recibir un enlace de restablecimiento de contraseña en mi correo electrónico registrado para crear una nueva contraseña y acceder a mi cuenta.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US06
   -->
   <tr>
       <td><strong>EP06</strong></td>
-      <td>Titulo US6</td>
+      <td>US06 - Conversor de Moneda Integrado</td>
       <td>
-          Descripción US06
+          Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Acceso al Conversor</strong> <br>
+        <strong>Dado que</strong> 
+        Soy un usuario registrado en la aplicación PocketPartners y deseo convertir un monto de transacción a una moneda diferente, <br>
+        <br>
+        <strong>Cuando</strong> reviso los detalles de una transacción específica, <br>
+        <br>
+        <strong>Entonces</strong> debería encontrar una opción claramente etiquetada para acceder al conversor de moneda integrado.<br>
       </td>
       <td>
-        EP01, EP02, ...
+        EP03
       </td>
   </tr>
   <!-- US07
   -->
   <tr>
       <td><strong>EP07</strong></td>
-      <td>Titulo US7</td>
+      <td>US7 - Rastreador de Deuda</td>
       <td>
-          Descripción US07
+          Como usuario, quiero poder rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Rastreador de Deuda</strong> <br>
+        <strong>Dado que</strong> que soy un usuario de la aplicación PocketPartners, <br>
+        <strong>Cuando</strong>  selecciono el módulo de "Rastreador de Deuda", <br>
+        <strong>Entonces</strong> debería ver una lista de todas las deudas pendientes y el nombre del deudor.
+        <br>
+        <strong>Escenario 2: Notificar al deudor</strong><br>
+        <strong>Dado que</strong> que deseo recordar a un deudor sobre una deuda pendiente, <br>
+        <strong>Cuando</strong> seleccione la opción "Notificar al Deudor", <br>
+        <strong>Entonces</strong> debería poder enviar una notificación automática al deudor para recordarle sobre la deuda pendiente.
       </td>
       <td>
-        EP01, EP02, ...
+        EP01, EP02
       </td>
   </tr>
   <!-- US08
   -->
   <tr>
       <td><strong>EP08</strong></td>
-      <td>Titulo US8</td>
+      <td>US8 - Balance General</td>
       <td>
-          Descripción US08
+          Como usuario, quiero visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.	
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Acceso al Balance General</strong> <br>
+        <strong>Dado que</strong> 
+        Soy un usuario registrado en la aplicación PocketPartners y deseo visualizar mi balance general, <br>
+        <strong>Cuando</strong> Accedo a la sección de "Mi Balance" o "Resumen Financiero", <br>
+        <strong>Entonces</strong> Debería ver un resumen detallado de mis ingresos y egresos, incluyendo el saldo actual y los gastos totales.
+        <strong>Escenario 2: Filtrar por Fecha</strong> <br>
+        <strong>Dado que</strong> que deseo visualizar mi balance general para un período de tiempo específico, <br>
+        <strong>Cuando</strong> seleccione la opción "Filtrar por Fecha", <br>
+        <strong>Entonces</strong> debería poder seleccionar un rango de fechas personalizado para ver el balance general correspondiente a ese período.
+        <strong>Escenario 3: Detalles del Balance</strong> <br>
+        <strong>Dado que</strong> estoy revisando el resumen del balance, <br>
+        <strong>Cuando</strong> selecciono una categoría específica, <br>
+        <strong>Entonces</strong> debería ver la lista de transacciones correspondientes a esa categoría para un análisis más detallado.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03, EP04
       </td>
   </tr>
   <!-- US09
