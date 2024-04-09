@@ -657,7 +657,7 @@ El usuario no tiene una cuenta y desea crearse una para poder emprezar a utiliza
 <p align="center"><img src="images/wireflowSignUp.png" alt="Wireflow de cración de cuenta" width="100%"></p>
 
 El usuario desea realizar ajustes y cambios en su cuenta
-<p align="center"><img src="images/wirefloweSideBar.png" alt="Wireflow barra lateral" width="100%"></p>
+<p align="center"><img src="images/wireflowSidebar.png" alt="Wireflow barra lateral" width="100%"></p>
 
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
 <p align="center"><img src="images/wireflowExport.png" alt="Wireflow exportar" width="100%"></p>
@@ -710,7 +710,7 @@ El usuario no tiene una cuenta y desea crearse una para poder emprezar a utiliza
 <p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
 
 El usuario desea realizar ajustes y cambios en su cuenta
-<p align="center"><img src="images/userfloweSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
+<p align="center"><img src="images/userflowSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
 
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
 <p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
@@ -722,7 +722,7 @@ El usuario desea crear un grupo
 <p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
 
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
-<p align="center"><img src="images/wireflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
+<p align="center"><img src="images/userflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
 
 El usuario desea consultar sus pagos realizados y pagos faltantes
 <p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
