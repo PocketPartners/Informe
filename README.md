@@ -448,6 +448,16 @@ _Preguntas generales:_
 5. ¿Cuál es la mayor dificultad que tiene al momento de realizar esta operación?
 6. ¿Conoce alguna herramienta que le pueda ayudar a realizar estos cálculos?
 
+### 2.2.2 Registro de entrevistas
+
+- Renzo Castro, 20 años.
+
+ <div align="center">
+  <img src="images/image-entrevista-renzo.png"/>
+ </div>
+ 
+ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
+
 ## 2.3. Needfinding
 
 ### 2.3.1 User Personas
