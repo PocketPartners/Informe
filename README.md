@@ -176,18 +176,130 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 # Capítulo I Introducción
 
 ## 1.1. Startup Profile
-
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo
 ### 1.1.1. Descripción de la Startup
+La startup, presentada con el nombre de “FairFinance”, se enfoca en facilitar la división de gastos y la gestión de finanzas compartidas entre grupos de personas.Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares
+que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente a través de servicios como PayPal o Venmo, lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
+
+Misión: Facilitar la administración equitativa y transparente de gastos compartidos, simplificando la gestión financiera entre amigos, familiares y compañeros de vivienda.
+
+Visión: Convertirnos en la plataforma líder mundial para la gestión colaborativa de gastos, promoviendo la armonía y la transparencia en las relaciones financieras cotidianas.
+
+Logotipo de la Startup:
+
+
+Logotipo del servicio:
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+	<thead>
+        <tr >
+		<td colspan=6 style="text-align: center">
+				<h2>
+					Intregantes
+				</h2>
+		</td >
+		<td colspan=6 style="text-align: center">
+				<h2>
+					Descripción
+				</h2>
+		</td >
+		<td colspan=6 style="text-align: center">
+				<h2>
+					Conocimientos
+				</h2>
+		</td >
+        </tr>	
+    </thead>
+	<tr >
+		<td> Fiorella Jarama - U202120418 </td >
+	</tr>
+ 	<tr >
+		<td> Karen Ramos - U20201E493 </td >
+	</tr>
+ 	<tr >
+		<td> Joaquín Carbajal - U2021218813 </td >
+	</tr>
+	<tr >
+		<td> Diego Cisneros Tafur - U20221A715 </td >
+	</tr>
+	<tr >
+		<td> Randel Ventura - U201910669 </td >
+	</tr>
+</table>
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
 
+What (Qué)
+¿Cuál es el problema?
+
+El problema radica en el desafío de dividir equitativamente los gastos y las facturas compartidas entre amigos, compañeros de cuarto, familiares y grupos, este proceso podía ser complicado y propenso a generar conflictos, ya que calcular quién debe cuánto y a quién puede resultar confuso y tedioso.
+
+When (Cuándo)
+¿Cuándo sucede el problema?
+
+El dilema principal surge cuando se tiene situaciones donde hay gastos compartidos que deben dividirse equitativamente entre múltiples personas. Esto puede ocurrir en cualquier momento en el que un grupo de individuos comparta gastos, ya sea en viajes, cenas, facturas de servicios públicos o cualquier otro tipo de transacción económica compartida.
+
+Where (Dónde)
+¿A dónde se dirige?
+
+El servicio está direccionado a ser agente de solución para los grupos de personas que comparten responsabilidades económicas de una mismo recinto.
+
+¿Dónde surge el problema?
+
+El problema se manifiesta durante el proceso de dividir y rastrear gastos compartidos. hay una necesidad de registrar fácilmente quién pagó qué, dividir los gastos de manera equitativa y realizar un seguimiento en tiempo real de quién debe dinero a quién, esto permite simplificar y transparentar este proceso, por otro lado, ayuda a prevenir malentendidos y conflictos relacionados con el dinero, mejorando así la experiencia de compartir gastos entre amigos, familiares y compañeros de vivienda.
+
+Who (Quién)
+¿Quiénes están involucrados? ¿Quién lo utilizará?
+
+La plataforma será utilizada por una variedad de personas, incluidos amigos que comparten gastos en viajes, compañeros de apartamento que dividen el alquiler y las facturas, parejas que gestionan sus finanzas conjuntas, entre otros grupos que necesitan dividir y rastrear gastos compartidos.
+
+Why (Por qué)
+¿Cuál es la causa del problema?
+
+La causa principal del problema es tener un registro manual de quién ha pagado qué y quién debe a quién puede resultar confuso y propenso a errores humanos, lo que puede dar lugar a malentendidos y conflictos. 
+ 
+¿Cuáles son las 2H?
+How (Cómo)
+¿Cómo se utilizará el producto?.
+
+El producto será empleado para registrar fácilmente los gastos que comparten con otras personas, ingresando detalles como el monto, la descripción y quién participó en la transacción. A partir de ello, los usuarios pueden optar por dividir equitativamente el gasto entre todos los participantes, asignar porcentajes específicos a cada persona o personalizar la división según las contribuciones individuales.
+
+¿Cómo lograremos desarrollar la correcta división de  gastos entre nuestros usuarios?
+
+Los técnicos y administradores acceden a la plataforma a través de un navegador. Dicha plataforma les permitirá revisar los cálculos de cada registro, así como la situación financiera global actual. Por otro lado, los usuarios pueden registrar todos los gastos de manera precisa dentro de la aplicación. Esto puede incluir la cantidad total del gasto, una descripción detallada y quiénes participaron en la transacción.Además, proporciona opciones flexibles para dividir los gastos. 
+
+.How (Cómo)
+¿Cómo se utilizará el producto?
+
+Permite a los usuarios registrar fácilmente quién pagó qué, dividir los gastos de manera equitativa y realizar un seguimiento en tiempo real de quién debe dinero a quién. Al simplificar y transparentar este proceso, podemos ayudar a prevenir malentendidos y conflictos relacionados con el dinero, mejorando así la experiencia de compartir gastos entre amigos, familiares y compañeros de vivienda.
+
+How much (Cuánto)
+¿Cuál es la magnitud del problema?
+
+Según La Encuesta Nacional de Capacidades Financieras (2023), el 46% de la población peruana cuenta con un nivel medio de educación financiera y un 13% tiene un nivel adecuado; pero aún hay un 41% que carece de capacidades financieras, según revela la tercera Encuesta Nacional de Capacidades Financieras, desarrollada por la Superintendencia de Banca, Seguros y AFP del Perú (SBS) y la CAF - Banco de Desarrollo de América Latina, presentada en la inauguración de la Semana Mundial del Ahorro 2023. La encuesta tiene como objetivo conocer los niveles de conocimientos, actitudes y comportamientos de los peruanos con relación a temas financieros, así como identificar cambios producidos respecto a los años 2013 y 2019. Esta fue realizada por Ipsos-Perú en el año 2022 e incluyó a peruanos a partir de los 18 años de todos los niveles socioeconómicos en zonas urbanas como rural. Cabe precisar que la encuesta se basó en la metodología de la Organización para la Cooperación y el Desarrollo Económico (OECD) y que se trata de una iniciativa que forma parte de la Política Nacional de Inclusión Financiera. Por otro lado, el porcentaje de adultos que eligió un producto financiero a partir de una comparación o búsqueda de información creció de 56% a 60% entre el 2019 y 2022. Asimismo, el consejo de familiares y amigos mantiene su influencia (40% en 2019 y 42% en el 2022) al momento de elegir un producto financiero. Sin embargo, otras estrategias que incrementan su relevancia fueron la revisión de portales de comparación de precios, tasas y tarifas y la publicidad en redes sociales, con el 21% y 18%, respectivamente. Es ahí que se ve implicado Pocket Partners como alternativa de gestión para una buena salud financiera.
+
+
+¿Qué porcentaje de usuarios se verá beneficiado por el servicio?
+
+El sistema se dirige principalmente a grupos de personas que comparten gastos, como amigos, compañeros de apartamento, parejas, etc. Por lo tanto, el porcentaje de usuarios que se verán beneficiados depende en gran medida de la prevalencia de este tipo de relaciones y situaciones de compartición de gastos en la población general. En resumen, el porcentaje de usuarios que se verán beneficiados por el servicio probablemente sea significativo, especialmente entre aquellos que comparten gastos de manera regular en diversas situaciones sociales y de convivencia. Sin embargo, el porcentaje exacto variará dependiendo de factores demográficos y culturales específicos.
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+
+- Hemos detectado que a los usuarios les resulta difícil realizar un seguimiento preciso de los gastos compartidos con varias personas, lo que genera confusión, disputas y cálculos manuales que consumen mucho tiempo.
+- Hemos observado que los usuarios se sienten frustrados por la falta de actualizaciones en tiempo real sobre los gastos compartidos, lo que genera incertidumbre sobre sus obligaciones financieras y posibles gastos excesivos.
+- Hemos notado que los usuarios expresan frustración por el esfuerzo manual necesario para clasificar los gastos con precisión, lo que genera registros desorganizados y dificultades para rastrear los patrones de gastos.
+- Hemos detectado que los usuarios desean una integración perfecta con sus cuentas bancarias u otras plataformas financieras para agilizar el seguimiento de gastos y facilitar procesos de reembolso más rápidos.
+- Hemos observado que los usuarios luchan con la complejidad de liquidar facturas dentro de grupos, incluidas contribuciones desiguales, pagos parciales y múltiples métodos de pago, lo que genera retrasos y malentendidos.
+- Hemos observado que los usuarios expresan preocupaciones sobre la privacidad y la seguridad cuando comparten detalles de gastos con otros, particularmente en situaciones financieras delicadas o entre conocidos.
+- Los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
+- Los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
+- Los usuarios se sienten abrumados por el volumen de notificaciones y alertas dentro de la aplicación, lo que genera distracciones y dificultades para priorizar actualizaciones importantes.
 
 #### 1.2.2.2. Lean UX Assumptions
 
