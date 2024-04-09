@@ -179,7 +179,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo
 ### 1.1.1. Descripción de la Startup
 La startup, presentada con el nombre de “FairFinance”, se enfoca en facilitar la división de gastos y la gestión de finanzas compartidas entre grupos de personas.Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares
-que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente a través de servicios como PayPal o Venmo, lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
+que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
 
 Misión: Facilitar la administración equitativa y transparente de gastos compartidos, simplificando la gestión financiera entre amigos, familiares y compañeros de vivienda.
 
@@ -187,47 +187,46 @@ Visión: Convertirnos en la plataforma líder mundial para la gestión colaborat
 
 Logotipo de la Startup:
 
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.JPG" alt="Logo Startup" width="20%"></p></p>
 
 Logotipo del servicio:
 
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoServicio.JPG" alt="Logo Servicio" width="20%"></p></p>
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<table>
-	<thead>
-        <tr >
-		<td colspan=6 style="text-align: center">
-				<h2>
-					Intregantes
-				</h2>
-		</td >
-		<td colspan=6 style="text-align: center">
-				<h2>
-					Descripción
-				</h2>
-		</td >
-		<td colspan=6 style="text-align: center">
-				<h2>
-					Conocimientos
-				</h2>
-		</td >
-        </tr>	
-    </thead>
-	<tr >
-		<td> Fiorella Jarama - U202120418 </td >
-	</tr>
- 	<tr >
-		<td> Karen Ramos - U20201E493 </td >
-	</tr>
- 	<tr >
-		<td> Joaquín Carbajal - U2021218813 </td >
-	</tr>
-	<tr >
-		<td> Diego Cisneros Tafur - U20221A715 </td >
-	</tr>
-	<tr >
-		<td> Randel Ventura - U201910669 </td >
-	</tr>
-</table>
+<TABLE BORDER>
+	<TR>
+		<TH><h2>Intregantes</h2></TH> 
+		<TH><h2>Descripción</h2></TH>
+		<TH><h2>Conocimientos</h2></TH>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Fiorella Jarama - U202120418  <img src="images/fotoFiorella.JPG" alt="Foto Fiorella" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Estudiante de 6to ciclo de la carrera de Ingeniería de Software. Me interesa la inteligencia artificial y el desarrollo de aplicaciones móviles. Me considero una persona responsable y 			autodidacta, soy buena trabajando en grupo y adquirir nuevos conocimientos de parte de mis compañeros.</td>
+		<td style="text-align: center" align="center">Conocimiento de Frontend en lenguaje HTML, CSS, JavaScript. Conocimiento básico de C + +, Python, SQL. Habilidades en programas de diseño web, y conocimiento en Agile Frameworks</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Karen Ramos - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="40%"> </p></td>
+		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los 		objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia.</td>
+		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Joaquín Carbajal - U2021218813 <img src="images/fotoJoaquin.JPG" alt="Foto Joaquin" width="40%"> </p></td>
+		<td style="text-align: center" align="center">Estudiante de 5to ciclo de Ingeniería de Software. Me interesa el desarrollo móvil y el desarrollo web. En mis tiempos libres me gusta caminar, leer y cocinar. Considero que soy responsable 		y empeñoso para conseguir lo que busco.</td>
+		<td style="text-align: center" align="center">Buen manejo de lenguajes como HTML, CSS y C++, conocimiento del funcionamiento y uso de otros lenguajes como C#, JavaScript, Typescript, Java y SQL.</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Diego Cisneros Tafur - U20221A715 <img src="images/fotoDiego.JPG" alt="Foto Diego" width="40%"> </p></td>
+		<td style="text-align: center" align="center">Estudiante de 5to ciclo de Ingeniería de software. Me gusta la inteligencia artificial, programación competitiva, hacking ético, jugar videojuegos y leer.</td>
+		<td style="text-align: center" align="center">Domino C++, Python, SQL y Rust. También tengo conocimientos básicos de  JS y TS y me apasiona el desarrollo frontend y backend.</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Randel Ventura - U201910669 <img src="images/fotoRandel.JPG" alt="Foto Randel" width="40%"> </p></td>
+		<td style="text-align: center" align="center">21 años. Estudiante del 5to ciclo de Ingeniería de Software. Aspirante profesional del desarrollo web Frontend & Backend, inteligencia artificial, ML y Data Management.. Hobbies: Idiomas, 		tenis, literatura, cine francés y descubrir música</td>
+		<td style="text-align: center" align="center">Conocimientos Web Frontend: HTML, CSS, JavaScript, TS. Conocimientos dedicados:  Python, TensorFlow, PyTorch. Organización y desarrollo Agile. Frameworks Web: React, Spring y Laravel. </td>
+	</TR>
+</TABLE>
 
 ## 1.2. Solution Profile
 
@@ -297,15 +296,97 @@ El sistema se dirige principalmente a grupos de personas que comparten gastos, c
 - Hemos detectado que los usuarios desean una integración perfecta con sus cuentas bancarias u otras plataformas financieras para agilizar el seguimiento de gastos y facilitar procesos de reembolso más rápidos.
 - Hemos observado que los usuarios luchan con la complejidad de liquidar facturas dentro de grupos, incluidas contribuciones desiguales, pagos parciales y múltiples métodos de pago, lo que genera retrasos y malentendidos.
 - Hemos observado que los usuarios expresan preocupaciones sobre la privacidad y la seguridad cuando comparten detalles de gastos con otros, particularmente en situaciones financieras delicadas o entre conocidos.
-- Los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
-- Los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
-- Los usuarios se sienten abrumados por el volumen de notificaciones y alertas dentro de la aplicación, lo que genera distracciones y dificultades para priorizar actualizaciones importantes.
+- Hemos notado que los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
+- Hemos detectado que los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
+- Hemos detectado que los usuarios se sienten abrumados por el volumen de notificaciones y alertas dentro de la aplicación, lo que genera distracciones y dificultades para priorizar actualizaciones importantes.
 
 #### 1.2.2.2. Lean UX Assumptions
 
+Business Assumptions:
+
+1. Creemos que nuestros usuarios necesitan adoptar soluciones digitales para administrar gastos compartidos.
+2. Estas necesidades se pueden satisfacer con el desarrollo de una plataforma que permitirá el acceso oportuno y confiable a una plataforma en línea en lugar de métodos tradicionales como llevar un registro manual en una hoja de cálculo.
+3. Nuestros clientes están dispuestos a proporcionar información financiera, como detalles de cuentas bancarias o tarjetas de crédito, para facilitar los pagos y reembolsos a través de la aplicación.
+4. El valor más importante de un cliente es la equidad y la transparencia en la división de gastos compartidos y están dispuestos a utilizar una herramienta como FarFinance para lograrlo.
+5. El cliente también va a obtener diversos beneficios adicionales como visualizar reportes estadísticos dentro de la aplicación con datos actuales e históricos.
+6. Vamos a obtener la mayoría de los clientes ya que prefieren una experiencia de usuario sin complicaciones que les permita registrar y dividir gastos fácilmente, sin la necesidad de aprender complejas funciones o características.
+7. Vamos a obtener ingresos mediante el modelo de suscripción llamado FairFinance Pro y FairFinance Enterprise con diferentes niveles para el uso de la aplicación por parte de las empresas.
+8. Las notificaciones y los recordatorios automáticos son eficaces para mantener a los usuarios comprometidos y recordarles registrar sus gastos y realizar pagos en la aplicación.
+9. Vamos a tener ventaja frente a nuestra competencia debido a que la plataforma incluye validación contable con las version FarFinance Enterprise.
+10. El mayor riesgo del servicio es que el segmento objetivo no se muestre dispuesto e interesado en automatizar los procesos de pago colectivo. Las razones vendrían a ser de un contexto interno social: problemas de adaptación,pensamiento estático y manejo de herramientas tecnológicas.
+
+User Assumptions:
+
+¿Quién es el usuario?
+
+El usuario de FarFinance puede ser cualquier persona que necesita gestionar gastos compartidos de manera eficiente, ya sea en entornos personales o profesionales:
+
+Amigos o compañeros de cuarto: Grupos de amigos que comparten gastos comunes, como el alquiler, las facturas de servicios públicos, las compras de comestibles y las cenas fuera.
+
+Familias: Miembros de la familia que desean realizar un seguimiento de los gastos compartidos, como la compra de comestibles, la factura del teléfono celular o los gastos de viaje.
+
+Compañeros de trabajo: Equipos de trabajo que necesitan dividir gastos relacionados con viajes de negocios, almuerzos de equipo, suministros de oficina compartidos, etc.
+
+Estudiantes universitarios: Estudiantes universitarios que comparten gastos de vivienda, alimentos, libros de texto y otras necesidades estudiantiles comunes.
+
+Viajeros: Grupos de amigos o familias que viajan juntos y desean dividir los costos de alojamiento, transporte, comidas y actividades.
+
+Grupos sociales y comunitarios: Clubes, organizaciones sin fines de lucro o equipos deportivos que necesitan rastrear y dividir los costos de eventos, salidas grupales o actividades compartidas.
+
+Profesionales autónomos y freelancers: Trabajadores independientes que necesitan gestionar gastos comerciales compartidos, como alquiler de espacios de trabajo, herramientas y suministros.
+
+Grupos de proyectos o equipos de estudio: Estudiantes o profesionales que trabajan en proyectos grupales o académicos y necesitan compartir gastos relacionados con materiales, reuniones, etc.
+
+¿Qué problemas tiene nuestro producto? ¿Resolver?
+
+Un problema que enfrenta actualmente la aplicación, radica en que para algunos usuarios, especialmente aquellos menos familiarizados con la tecnología, la interfaz podría resultar confusa o compleja de usar. Esto puede dificultar la adopción y el uso continuo de la aplicación.Por otro lado, aunque se ofrece una amplia gama de características útiles, algunos usuarios pueden encontrar que carece de ciertas funcionalidades específicas que podrían mejorar su experiencia de usuario. Por ejemplo, puede haber demanda de características adicionales de informes o integraciones con otras aplicaciones financieras. Además, dado que involucra compartir información financiera y personal con otros usuarios, la privacidad y la seguridad de los datos son preocupaciones importantes. Cualquier brecha de seguridad o preocupación relacionada con la privacidad podría afectar la confianza de los usuarios en la aplicación.
+
+¿Qué características son importantes?
+
+Las características más importantes de la plataforma son: 
+Permite dividir los gastos de manera equitativa entre amigos, compañeros de piso o familiares. Esto es especialmente útil para situaciones en las que múltiples personas comparten gastos, como el alquiler, las facturas de servicios públicos, las comidas compartidas, etc.
+Registra quién debe dinero a quién, manteniendo un seguimiento claro de las deudas compartidas. Esto elimina la necesidad de llevar un registro manual y reduce las posibilidades de conflictos sobre quién debe pagar qué.
+Es útil para grupos de personas que pueden utilizar diferentes monedas. La aplicación admite múltiples monedas y realiza conversiones automáticamente, lo que facilita la gestión de gastos compartidos en diferentes países o regiones.
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+
+El producto encaja en varios aspectos de la vida y el trabajo, especialmente en situaciones donde las personas comparten gastos y necesitan una forma conveniente y equitativa de administrar sus finanzas compartidas
+
+¿Cuándo y cómo es nuestro producto usado?
+
+El servicio será utilizado por el segmento objetivo cuando surja la necesidad de agregar nuevos gastos, especificar quién participa en ellos, dividir equitativamente la cantidad, agregar comentarios y notas, y realizar un seguimiento de las deudas compartidas. La aplicación también proporciona notificaciones y recordatorios para ayudar a los usuarios a mantenerse al día con sus gastos compartidos y pagos pendientes.
+
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+
+La apariencia y el comportamiento deseado de FarFinance deben enfocarse en la usabilidad, la claridad y la eficiencia para facilitar la gestión de gastos compartidos, la interfaz de usuario debe ser simple y clara, con un diseño intuitivo que permita a los usuarios navegar fácilmente por la aplicación y acceder a todas las funciones importantes sin confusión. Por otro lado debe verse como una aplicación limpia, organizada y con funcionalidades claras y directas que faciliten la gestión de gastos compartidos para los usuarios.
+
+Feature Assumptions:
+
+Creemos que la aplicación debe contar con una interfaz de usuario intuitiva y fácil de usar para gestionar sus gastos compartidos, por lo que las características se desarrollan teniendo en cuenta la simplicidad y la intuición en el diseño de la interfaz de usuario.
+
+Creemos que la plataforma debe de tener la capacidad de manejar recordatorios para realizar pagos, por lo que las características incluyen notificaciones y recordatorios automáticos para ayudar a los usuarios a mantenerse al día con sus finanzas compartidas.
+
+Creemos que nuestros usuarios valoran la seguridad y la privacidad de sus datos financieros, por lo que las características se diseñan para garantizar la protección de la información personal y financiera de los usuarios mediante medidas de seguridad adecuadas. 
+
+Creemos que los usuarios pueden tener diferentes preferencias y necesidades en la forma en que desean dividir sus gastos compartidos, por lo que las características proporcionan opciones flexibles para dividir los gastos de manera equitativa según las preferencias individuales.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+Hypothesis Statement 01:
+Creemos que si simplificamos el proceso de división de gastos en FairFinance, entonces los usuarios encontrarán más fácil y rápido agregar y dividir gastos compartidos, lo que aumentará la adopción y retención de la aplicación
+
+Hypothesis Statement 02:
+Creemos que si implementamos notificaciones y recordatorios automáticos para deudas pendientes en FairFinance, entonces los usuarios estarán más al tanto de sus obligaciones financieras compartidas y tomarán medidas para resolverlas a tiempo, mejorando así la gestión de gastos compartidos.
+
+Hypothesis Statement 03:
+Creemos que si mejoramos la sincronización de datos en FairFinance, entonces los usuarios podrán acceder y actualizar su información de gastos compartidos de manera consistente desde cualquier dispositivo, lo que aumentará la conveniencia y la utilidad de la aplicación.
+
+Hypothesis Statement 04:
+Creemos que si implementamos medidas de seguridad adicionales para proteger la información financiera y personal de los usuarios en FairFinance, entonces los usuarios tendrán una mayor confianza en la privacidad de sus datos y estarán más inclinados a compartir información sensible a través de la aplicación.
+
 #### 1.2.2.4. Lean UX Canvas
+
+El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital Mural:
 
 ## 1.3. Segmentos objetivo
 
