@@ -612,6 +612,18 @@ Técnica utilizada en el diseño UX y la investigación de usuarios para compren
 
 Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar. 
 
+###  As - Is User Viajero
+
+<p align="center"><img src="images/asIsUserViajero.jpg" alt="AsIs User Viajero" width="100%"></p>
+
+###  As - Is User Frecuente de Restaurante
+
+<p align="center"><img src="images/asIsUserFrecuenteDeRestaurante.jpg" alt="AsIs User Frecuente de Restaurante" width="100%"></p>
+
+###  As - Is User Compañero de Piso
+
+<p align="center"><img src="images/asIsUserCompañeroDePiso.jpg" alt="AsIs User Compañero de Piso" width="100%"></p>
+
 ## 2.4 Ubiquitous Language
 
 # Capítulo III Requirements Especification
