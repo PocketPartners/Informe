@@ -2132,9 +2132,7 @@ Estrucutra de las ramas:
 
 <p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
 
-
-
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
