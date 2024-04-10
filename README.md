@@ -182,7 +182,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 ### 1.1.1. Descripción de la Startup
 
 La startup, presentada con el nombre de “FairFinance”, se enfoca en facilitar la división de gastos y la gestión de finanzas compartidas entre grupos de personas.Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares
-que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente a través de servicios como PayPal o Venmo, lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
+que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
 
 Misión: Facilitar la administración equitativa y transparente de gastos compartidos, simplificando la gestión financiera entre amigos, familiares y compañeros de vivienda.
 
@@ -190,46 +190,46 @@ Visión: Convertirnos en la plataforma líder mundial para la gestión colaborat
 
 Logotipo de la Startup:
 
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.JPG" alt="Logo Startup" width="20%"></p></p>
+
 Logotipo del servicio:
+
+<p style="text-align: center" align="center"> <p align="center"><img src="images/logoServicio.JPG" alt="Logo Servicio" width="20%"></p></p>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<table>
-	<thead>
-        <tr >
-		<td colspan=6 style="text-align: center">
-				<h2>
-					Intregantes
-				</h2>
-		</td >
-		<td colspan=6 style="text-align: center">
-				<h2>
-					Descripción
-				</h2>
-		</td >
-		<td colspan=6 style="text-align: center">
-				<h2>
-					Conocimientos
-				</h2>
-		</td >
-        </tr>	
-    </thead>
-	<tr >
-		<td> Fiorella Jarama - U202120418 </td >
-	</tr>
- 	<tr >
-		<td> Karen Ramos - U20201E493 </td >
-	</tr>
- 	<tr >
-		<td> Joaquín Carbajal - U2021218813 </td >
-	</tr>
-	<tr >
-		<td> Diego Cisneros Tafur - U20221A715 </td >
-	</tr>
-	<tr >
-		<td> Randel Ventura - U201910669 </td >
-	</tr>
-</table>
+<TABLE BORDER>
+	<TR>
+		<TH><h2>Intregantes</h2></TH> 
+		<TH><h2>Descripción</h2></TH>
+		<TH><h2>Conocimientos</h2></TH>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Fiorella Jarama - U202120418  <img src="images/fotoFiorella.JPG" alt="Foto Fiorella" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Estudiante de 6to ciclo de la carrera de Ingeniería de Software. Me interesa la inteligencia artificial y el desarrollo de aplicaciones móviles. Me considero una persona responsable y 			autodidacta, soy buena trabajando en grupo y adquirir nuevos conocimientos de parte de mis compañeros.</td>
+		<td style="text-align: center" align="center">Conocimiento de Frontend en lenguaje HTML, CSS, JavaScript. Conocimiento básico de C + +, Python, SQL. Habilidades en programas de diseño web, y conocimiento en Agile Frameworks</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Karen Ramos - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="40%"> </p></td>
+		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los 		objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia.</td>
+		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Joaquín Carbajal - U2021218813 <img src="images/fotoJoaquin.JPG" alt="Foto Joaquin" width="40%"> </p></td>
+		<td style="text-align: center" align="center">Estudiante de 5to ciclo de Ingeniería de Software. Me interesa el desarrollo móvil y el desarrollo web. En mis tiempos libres me gusta caminar, leer y cocinar. Considero que soy responsable 		y empeñoso para conseguir lo que busco.</td>
+		<td style="text-align: center" align="center">Buen manejo de lenguajes como HTML, CSS y C++, conocimiento del funcionamiento y uso de otros lenguajes como C#, JavaScript, Typescript, Java y SQL.</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Diego Cisneros Tafur - U20221A715 <img src="images/fotoDiego.JPG" alt="Foto Diego" width="40%"> </p></td>
+		<td style="text-align: center" align="center">Estudiante de 5to ciclo de Ingeniería de software. Me gusta la inteligencia artificial, programación competitiva, hacking ético, jugar videojuegos y leer.</td>
+		<td style="text-align: center" align="center">Domino C++, Python, SQL y Rust. También tengo conocimientos básicos de  JS y TS y me apasiona el desarrollo frontend y backend.</td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Randel Ventura - U201910669 <img src="images/fotoRandel.JPG" alt="Foto Randel" width="40%"> </p></td>
+		<td style="text-align: center" align="center">21 años. Estudiante del 5to ciclo de Ingeniería de Software. Aspirante profesional del desarrollo web Frontend & Backend, inteligencia artificial, ML y Data Management.. Hobbies: Idiomas, 		tenis, literatura, cine francés y descubrir música</td>
+		<td style="text-align: center" align="center">Conocimientos Web Frontend: HTML, CSS, JavaScript, TS. Conocimientos dedicados:  Python, TensorFlow, PyTorch. Organización y desarrollo Agile. Frameworks Web: React, Spring y Laravel. </td>
+	</TR>
+</TABLE>
 
 ## 1.2. Solution Profile
 
@@ -298,15 +298,97 @@ El sistema se dirige principalmente a grupos de personas que comparten gastos, c
 - Hemos detectado que los usuarios desean una integración perfecta con sus cuentas bancarias u otras plataformas financieras para agilizar el seguimiento de gastos y facilitar procesos de reembolso más rápidos.
 - Hemos observado que los usuarios luchan con la complejidad de liquidar facturas dentro de grupos, incluidas contribuciones desiguales, pagos parciales y múltiples métodos de pago, lo que genera retrasos y malentendidos.
 - Hemos observado que los usuarios expresan preocupaciones sobre la privacidad y la seguridad cuando comparten detalles de gastos con otros, particularmente en situaciones financieras delicadas o entre conocidos.
-- Los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
-- Los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
-- Los usuarios se sienten abrumados por el volumen de notificaciones y alertas dentro de la aplicación, lo que genera distracciones y dificultades para priorizar actualizaciones importantes.
+- Hemos notado que los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
+- Hemos detectado que los usuarios enfrentan desafíos al asignar responsabilidades por gastos específicos dentro de los grupos, lo que genera desacuerdos y dificultades para resolver disputas de manera justa.
+- Hemos detectado que los usuarios se sienten abrumados por el volumen de notificaciones y alertas dentro de la aplicación, lo que genera distracciones y dificultades para priorizar actualizaciones importantes.
 
 #### 1.2.2.2. Lean UX Assumptions
 
+Business Assumptions:
+
+1. Creemos que nuestros usuarios necesitan adoptar soluciones digitales para administrar gastos compartidos.
+2. Estas necesidades se pueden satisfacer con el desarrollo de una plataforma que permitirá el acceso oportuno y confiable a una plataforma en línea en lugar de métodos tradicionales como llevar un registro manual en una hoja de cálculo.
+3. Nuestros clientes están dispuestos a proporcionar información financiera, como detalles de cuentas bancarias o tarjetas de crédito, para facilitar los pagos y reembolsos a través de la aplicación.
+4. El valor más importante de un cliente es la equidad y la transparencia en la división de gastos compartidos y están dispuestos a utilizar una herramienta como FarFinance para lograrlo.
+5. El cliente también va a obtener diversos beneficios adicionales como visualizar reportes estadísticos dentro de la aplicación con datos actuales e históricos.
+6. Vamos a obtener la mayoría de los clientes ya que prefieren una experiencia de usuario sin complicaciones que les permita registrar y dividir gastos fácilmente, sin la necesidad de aprender complejas funciones o características.
+7. Vamos a obtener ingresos mediante el modelo de suscripción llamado FairFinance Pro y FairFinance Enterprise con diferentes niveles para el uso de la aplicación por parte de las empresas.
+8. Las notificaciones y los recordatorios automáticos son eficaces para mantener a los usuarios comprometidos y recordarles registrar sus gastos y realizar pagos en la aplicación.
+9. Vamos a tener ventaja frente a nuestra competencia debido a que la plataforma incluye validación contable con las version FarFinance Enterprise.
+10. El mayor riesgo del servicio es que el segmento objetivo no se muestre dispuesto e interesado en automatizar los procesos de pago colectivo. Las razones vendrían a ser de un contexto interno social: problemas de adaptación,pensamiento estático y manejo de herramientas tecnológicas.
+
+User Assumptions:
+
+¿Quién es el usuario?
+
+El usuario de FarFinance puede ser cualquier persona que necesita gestionar gastos compartidos de manera eficiente, ya sea en entornos personales o profesionales:
+
+Amigos o compañeros de cuarto: Grupos de amigos que comparten gastos comunes, como el alquiler, las facturas de servicios públicos, las compras de comestibles y las cenas fuera.
+
+Familias: Miembros de la familia que desean realizar un seguimiento de los gastos compartidos, como la compra de comestibles, la factura del teléfono celular o los gastos de viaje.
+
+Compañeros de trabajo: Equipos de trabajo que necesitan dividir gastos relacionados con viajes de negocios, almuerzos de equipo, suministros de oficina compartidos, etc.
+
+Estudiantes universitarios: Estudiantes universitarios que comparten gastos de vivienda, alimentos, libros de texto y otras necesidades estudiantiles comunes.
+
+Viajeros: Grupos de amigos o familias que viajan juntos y desean dividir los costos de alojamiento, transporte, comidas y actividades.
+
+Grupos sociales y comunitarios: Clubes, organizaciones sin fines de lucro o equipos deportivos que necesitan rastrear y dividir los costos de eventos, salidas grupales o actividades compartidas.
+
+Profesionales autónomos y freelancers: Trabajadores independientes que necesitan gestionar gastos comerciales compartidos, como alquiler de espacios de trabajo, herramientas y suministros.
+
+Grupos de proyectos o equipos de estudio: Estudiantes o profesionales que trabajan en proyectos grupales o académicos y necesitan compartir gastos relacionados con materiales, reuniones, etc.
+
+¿Qué problemas tiene nuestro producto? ¿Resolver?
+
+Un problema que enfrenta actualmente la aplicación, radica en que para algunos usuarios, especialmente aquellos menos familiarizados con la tecnología, la interfaz podría resultar confusa o compleja de usar. Esto puede dificultar la adopción y el uso continuo de la aplicación.Por otro lado, aunque se ofrece una amplia gama de características útiles, algunos usuarios pueden encontrar que carece de ciertas funcionalidades específicas que podrían mejorar su experiencia de usuario. Por ejemplo, puede haber demanda de características adicionales de informes o integraciones con otras aplicaciones financieras. Además, dado que involucra compartir información financiera y personal con otros usuarios, la privacidad y la seguridad de los datos son preocupaciones importantes. Cualquier brecha de seguridad o preocupación relacionada con la privacidad podría afectar la confianza de los usuarios en la aplicación.
+
+¿Qué características son importantes?
+
+Las características más importantes de la plataforma son: 
+Permite dividir los gastos de manera equitativa entre amigos, compañeros de piso o familiares. Esto es especialmente útil para situaciones en las que múltiples personas comparten gastos, como el alquiler, las facturas de servicios públicos, las comidas compartidas, etc.
+Registra quién debe dinero a quién, manteniendo un seguimiento claro de las deudas compartidas. Esto elimina la necesidad de llevar un registro manual y reduce las posibilidades de conflictos sobre quién debe pagar qué.
+Es útil para grupos de personas que pueden utilizar diferentes monedas. La aplicación admite múltiples monedas y realiza conversiones automáticamente, lo que facilita la gestión de gastos compartidos en diferentes países o regiones.
+
+¿Dónde encaja nuestro producto en su trabajo o vida?
+
+El producto encaja en varios aspectos de la vida y el trabajo, especialmente en situaciones donde las personas comparten gastos y necesitan una forma conveniente y equitativa de administrar sus finanzas compartidas
+
+¿Cuándo y cómo es nuestro producto usado?
+
+El servicio será utilizado por el segmento objetivo cuando surja la necesidad de agregar nuevos gastos, especificar quién participa en ellos, dividir equitativamente la cantidad, agregar comentarios y notas, y realizar un seguimiento de las deudas compartidas. La aplicación también proporciona notificaciones y recordatorios para ayudar a los usuarios a mantenerse al día con sus gastos compartidos y pagos pendientes.
+
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+
+La apariencia y el comportamiento deseado de FarFinance deben enfocarse en la usabilidad, la claridad y la eficiencia para facilitar la gestión de gastos compartidos, la interfaz de usuario debe ser simple y clara, con un diseño intuitivo que permita a los usuarios navegar fácilmente por la aplicación y acceder a todas las funciones importantes sin confusión. Por otro lado debe verse como una aplicación limpia, organizada y con funcionalidades claras y directas que faciliten la gestión de gastos compartidos para los usuarios.
+
+Feature Assumptions:
+
+Creemos que la aplicación debe contar con una interfaz de usuario intuitiva y fácil de usar para gestionar sus gastos compartidos, por lo que las características se desarrollan teniendo en cuenta la simplicidad y la intuición en el diseño de la interfaz de usuario.
+
+Creemos que la plataforma debe de tener la capacidad de manejar recordatorios para realizar pagos, por lo que las características incluyen notificaciones y recordatorios automáticos para ayudar a los usuarios a mantenerse al día con sus finanzas compartidas.
+
+Creemos que nuestros usuarios valoran la seguridad y la privacidad de sus datos financieros, por lo que las características se diseñan para garantizar la protección de la información personal y financiera de los usuarios mediante medidas de seguridad adecuadas. 
+
+Creemos que los usuarios pueden tener diferentes preferencias y necesidades en la forma en que desean dividir sus gastos compartidos, por lo que las características proporcionan opciones flexibles para dividir los gastos de manera equitativa según las preferencias individuales.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+Hypothesis Statement 01:
+Creemos que si simplificamos el proceso de división de gastos en FairFinance, entonces los usuarios encontrarán más fácil y rápido agregar y dividir gastos compartidos, lo que aumentará la adopción y retención de la aplicación
+
+Hypothesis Statement 02:
+Creemos que si implementamos notificaciones y recordatorios automáticos para deudas pendientes en FairFinance, entonces los usuarios estarán más al tanto de sus obligaciones financieras compartidas y tomarán medidas para resolverlas a tiempo, mejorando así la gestión de gastos compartidos.
+
+Hypothesis Statement 03:
+Creemos que si mejoramos la sincronización de datos en FairFinance, entonces los usuarios podrán acceder y actualizar su información de gastos compartidos de manera consistente desde cualquier dispositivo, lo que aumentará la conveniencia y la utilidad de la aplicación.
+
+Hypothesis Statement 04:
+Creemos que si implementamos medidas de seguridad adicionales para proteger la información financiera y personal de los usuarios en FairFinance, entonces los usuarios tendrán una mayor confianza en la privacidad de sus datos y estarán más inclinados a compartir información sensible a través de la aplicación.
+
 #### 1.2.2.4. Lean UX Canvas
+
+El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital Mural:
 
 ## 1.3. Segmentos objetivo
 
@@ -534,7 +616,7 @@ _Preguntas generales:_
 - ¿Cuántos años tiene?
 - ¿Cuál es la actividad que más realiza con sus amigos o conocidos?
 
-## _Preguntas para viajeros_
+## Preguntas para viajeros
 
 1. Al momento de realizar su viaje, ¿cómo llevan los registros de los gastos de cada uno?
 2. Cuando viaja con sus amigos, ¿cómo suelen realizar los pagos?
@@ -543,7 +625,7 @@ _Preguntas generales:_
 5. ¿Qué hace cuando se olvida anotar algún gasto o préstamo realizado?
 6. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 
-## _Preguntas para amigos que salen a almorzar_
+## Preguntas para amigos que salen a almorzar
 
 1. Cuando salen a cenar, ¿cómo pagan la cuenta?
 2. ¿Cómo hacen para recordar cuánto debe pagar cada uno?
@@ -552,7 +634,7 @@ _Preguntas generales:_
 5. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 6. ¿Cuál piensa que es la mayor dificultad al momento de hacer esta operación?
 
-## _Preguntas para compañeros de piso_
+## Preguntas para compañeros de piso
 
 1. ¿Cuál es su proceso para dividir los gastos?
 2. ¿Cómo lleva registro de los gastos?
@@ -563,16 +645,32 @@ _Preguntas generales:_
 
 ### 2.2.2 Registro de entrevistas
 
-- Renzo Castro, 20 años.
+#### Renzo Castro, 20 años.
 
  <div align="center">
   <img src="images/image-entrevista-renzo.png"/>
  </div>
  
  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
-#### Resumen de la entrevista
+
+
+##### Resumen de la entrevista
 
 El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones se olvida de anotar algún gasto o préstamo. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten el proceso aparte de Splitwise o otra mas conocida.
+<br>
+
+#### Margarita Robles, 36 años.
+
+ <div align="center">
+  <img src="images/image-entrevista-randel-UserViajero.png"/>
+ </div>
+ 
+ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+##### Resumen de la entrevista
+
+La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto SplitWise.
 
 ## 2.3. Needfinding
 
@@ -963,72 +1061,76 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   -->
   <tr>
       <td><strong>EP09</strong></td>
-      <td>Titulo US9</td>
+      <td>US9 - Ajustes de la cuenta</td>
       <td>
-          Descripción US09
+          Como usuario que poder modificar aspectos generales de mi cuenta. Como eliminar grupos, cambiar mis datos, entre otras cosas.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Modificación de datos</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere modificar sus datos personales (Nombre, apellido, correo) <br>
+        <strong>Cuando</strong> Entre a la barra lateral y de click en modificar datos <br>
+        <strong>Entonces</strong> Podré hacer los cambios necesarios
+	<strong>Escenario 2: Gestionar grupos</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere busca eliminar un grupo ya creado<br>
+        <strong>Cuando</strong> Entre a la barra lateral y de click en gestionar grupos <br>
+        <strong>Entonces</strong> Podré eliminar los grupos a los que ya no quiera participar
       </td>
       <td>
-        EP01, EP02, ...
+        EP02, EP05
       </td>
   </tr>
   <!-- US10
   -->
   <tr>
       <td><strong>EP10</strong></td>
-      <td>Titulo US10</td>
+      <td>US10 - Visualizar grupos</td>
       <td>
-          Descripción US10
+          Como usuario quiero poder tener una lista con los grupos a los que pertenezco en donde se pueda ver información relevante sobre los mismos
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Ver grupos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado que quiere ver sus grupos<br>
+        <strong>Cuando</strong> Presione la sección de grupos <br>
+        <strong>Entonces</strong> Se mostrarán los grupos en los que estoy asi como los gastos actuales y los participantes.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03, EP04
       </td>
   </tr>
   <!-- US11
   -->
   <tr>
       <td><strong>EP11</strong></td>
-      <td>Titulo US11</td>
+      <td>US11 - Crear nuevos grupos</td>
       <td>
-          Descripción US11
+          Como usuario quiero poder crear nuevos grupos con diferentes personas
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Creación de grupos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado que quiere crear un nuevo grupo <br>
+        <strong>Cuando</strong> Esté en la página principal y presione el botón de añadir, y luego agregar grupo <br>
+        <strong>Entonces</strong> Podré configurar los aspectos básicos del grupo que deseo crear
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US12
   -->
   <tr>
       <td><strong>EP12</strong></td>
-      <td>Titulo US12</td>
+      <td>US12 - Adición de gastos</td>
       <td>
-          Descripción US12
+          Como usuario quiero agregar gastos nuevos a los grupos a los que pertenezco.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Adición de gastos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar un nuevo gasto a un grupo existente <br>
+        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir gasto" en el recuadro del grupo deseado <br>
+        <strong>Entonces</strong> Podré añadir los datos imoprtantes del gasto y agregarlo a la lista de gastos del grupo.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US13
@@ -1448,6 +1550,7 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 </p>
 
 ## 4.4. Web Applications UX/UI design
+
 ### 4.4.1. Web Applications wireframes
 
 <p align="center"><img src="images/wireframeLogIn.jpg" alt="Wireframe de ingreso" width="100%"></p>
@@ -1475,30 +1578,39 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 ### 4.4.2. Web Application Wireflow Diagram
 
 El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+
 <p align="center"><img src="images/wireflowLogIn.png" alt="Wireflow ingreso" width="100%"></p>
 
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+
 <p align="center"><img src="images/wireflowSignUp.png" alt="Wireflow de cración de cuenta" width="100%"></p>
 
 El usuario desea realizar ajustes y cambios en su cuenta
+
 <p align="center"><img src="images/wireflowSidebar.png" alt="Wireflow barra lateral" width="100%"></p>
 
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+
 <p align="center"><img src="images/wireflowExport.png" alt="Wireflow exportar" width="100%"></p>
 
 El usuario desea agregar un grupo o relizar un nuevo pago.
+
 <p align="center"><img src="images/wireflowAdd.png" alt="Wireflow agregar" width="100%"></p>
 
 El usuario desea crear un grupo
+
 <p align="center"><img src="images/wireflowCreateGroup.png" alt="Wireflow crear grupo" width="100%"></p>
 
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+
 <p align="center"><img src="images/wireflowPayIn.png" alt="Wireflow pago entrante" width="100%"></p>
 
 El usuario desea consultar sus pagos realizados y pagos faltantes
+
 <p align="center"><img src="images/wireflowPayOut.png" alt="Wireflow pago saliente" width="100%"></p>
 
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+
 <p align="center"><img src="images/wireflowNewSpent.png" alt="Wireflow nuevo gasto" width="100%"></p>
 
 ### 4.4.3 Web Application Mock-Ups
@@ -1528,30 +1640,39 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 ### 4.4.4. Web Applications User Flow Diagrams
 
 El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+
 <p align="center"><img src="images/userflowLogIn.png" alt="UserFlow ingreso" width="100%"></p>
 
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+
 <p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
 
 El usuario desea realizar ajustes y cambios en su cuenta
+
 <p align="center"><img src="images/userflowSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
 
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+
 <p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
 
 El usuario desea agregar un grupo o relizar un nuevo pago.
+
 <p align="center"><img src="images/userflowAdd.png" alt="UserFlow agregar" width="100%"></p>
 
 El usuario desea crear un grupo
+
 <p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
 
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+
 <p align="center"><img src="images/userflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
 
 El usuario desea consultar sus pagos realizados y pagos faltantes
+
 <p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
 
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+
 <p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -2035,7 +2156,9 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
   </div>
 
 # Capítulo V Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
+
 ### 5.1.1. Software Development Environment Configuration
 
 **Requirements Management**
@@ -2063,8 +2186,9 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
 ### 5.1.2. Source Code Management
 
-El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones. 
-**Liks del repositorio de GitHub**: 
+El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones.
+**Liks del repositorio de GitHub**:
+
 - Link de la organización: https://github.com/PocketPartners
 - Link de la landing page: https://github.com/PocketPartners/LadingPage
 - Link del informe: https://github.com/PocketPartners/Informe
@@ -2072,6 +2196,7 @@ El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar
 - Link del back end: https://github.com/PocketPartners/Backend
 
 Estrucutra de las ramas:
+
 - **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
 - **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
 - **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
@@ -2079,10 +2204,62 @@ Estrucutra de las ramas:
 - **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+**HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
+ - Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
+ - Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: ```<p> Código claro y legible.</p>```
+- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: ```<img src="image.img" alt="brief image name">```
+- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
+al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
+- No omitir las etiquetas ```<html>```, ```<body>``` y ```<header>```.
+- Escribir en una línea los comentarios cortos.
+
+
+**CSS**: Entre las prácticas se mencionan:
+
+- Los nombres de clases son intuitivos, legibles y autodescriptivos.
+- Separar los nombres de las clases y ID con guión, por ejemplo: ```#userViajero-id``` y``` .userImg-shape{} ```
+- Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+- Usar comentarios para explicar el código.
+- Aplicar sangría a todo el contenido de un bloque.
+
+**JavaScript**: Principales prácticas aplicadas:
+
+- Uso de camelCase para nombrar variables y funciones. Por ejemplo, ```myVariable``` y ```myFunction```. 
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, ```myClass```. 
+- Evitar el uso de nombres de variables genéricos o ambiguos.
+- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
+- Uso de punto y coma al final de cada declaración.
+- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Uso de el operador ternario ```(condición ? resultadoTrue : resultadoFalse)``` de manera adecuada y legible.
+- Evitar el uso de funciones obsoletas o en desuso.
+- Uso de try-catch para manejar y gestionar errores de manera adecuada.
+
+
+**Gherking Language:** Lenguaje de dominio específico utilizado en Behavior Driven Development (BDD), se enfoca en facilitar la comunicación entre los equipos de negocios y técnicos al abordar los problemas concretos. Para mejorar la legibilidad y la organización de nuestrosd escenarios, se emplean saltos de línea y palabras clave como "Given", "When", "Then" y "And". Estas prácticas nos ayudan a estructurar de manera clara y efectiva los diferentes tipos de escenarios en BDD.
+
 ### 5.1.4. Software Deployment Configuration
 
+<p align="justify"> 
+  Para la implementación de la aplicación PocketPartners, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación. 
+  Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
+</p>
+
+- Paso uno: Crear un archivo de configuración de flujo de trabajo en la carpeta .github/workflows/main.yml.
+En este caso obtaremos por una ya creada por la comunidad de Github Actions exactamente el de Jekyll que nos permitira desplegar nuestra aplicación en Github Pages simplemente haciendo push a la rama main.
+
+  <img align="center" src="images/5-1-4-1.png" alt="Configuracion Github Actions" width="90%">
+
+- Paso dos: Subir nuestros cambios a la rama main.
+
+- Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
+  <img align="center" src="images/5-1-4-2.png" alt="Despliegue en Github Pages" width="90%">
+
 ## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
+
 #### 5.2.1.1. Sprint Planning 1
 
 <table>
@@ -2095,7 +2272,7 @@ Estrucutra de las ramas:
   <tbody>
     <tr>
       <td>Fecha</td>
-      <td>09/04/2024</td>
+      <td>08/04/2024</td>
     </tr>
     <tr>
       <td>Hora</td>
@@ -2152,25 +2329,33 @@ Estrucutra de las ramas:
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1
+En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 <p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
 
-### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 <p align="justify">En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
 </p>
 
-
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Avance de Conclusiones, Bibliografía y Anexos
+
 ### Conclusiones
+
 ### Bibliografía
 
 <p>Dividir gastos con amigos. (n.d.). Splitwise. https://www.splitwise.com/</p>
@@ -2182,3 +2367,5 @@ Estrucutra de las ramas:
 <p>Cronista, E. (2023, September 4). Esta app gratuita es ideal para llevar las cuentas en común y tenés que probarla. ECC. https://www.cronista.com/infotechnology/actualidad/esta-app-gratuita-es-ideal-para-llevar-las-cuentas-en-comun-y-tenes-que-probarla/</p>
 
 ### Anexos
+
+Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
