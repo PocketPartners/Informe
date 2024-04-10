@@ -1452,6 +1452,7 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 </p>
 
 ## 4.4. Web Applications UX/UI design
+
 ### 4.4.1. Web Applications wireframes
 
 <p align="center"><img src="images/wireframeLogIn.jpg" alt="Wireframe de ingreso" width="100%"></p>
@@ -1479,30 +1480,39 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 ### 4.4.2. Web Application Wireflow Diagram
 
 El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+
 <p align="center"><img src="images/wireflowLogIn.png" alt="Wireflow ingreso" width="100%"></p>
 
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+
 <p align="center"><img src="images/wireflowSignUp.png" alt="Wireflow de cración de cuenta" width="100%"></p>
 
 El usuario desea realizar ajustes y cambios en su cuenta
+
 <p align="center"><img src="images/wireflowSidebar.png" alt="Wireflow barra lateral" width="100%"></p>
 
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+
 <p align="center"><img src="images/wireflowExport.png" alt="Wireflow exportar" width="100%"></p>
 
 El usuario desea agregar un grupo o relizar un nuevo pago.
+
 <p align="center"><img src="images/wireflowAdd.png" alt="Wireflow agregar" width="100%"></p>
 
 El usuario desea crear un grupo
+
 <p align="center"><img src="images/wireflowCreateGroup.png" alt="Wireflow crear grupo" width="100%"></p>
 
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+
 <p align="center"><img src="images/wireflowPayIn.png" alt="Wireflow pago entrante" width="100%"></p>
 
 El usuario desea consultar sus pagos realizados y pagos faltantes
+
 <p align="center"><img src="images/wireflowPayOut.png" alt="Wireflow pago saliente" width="100%"></p>
 
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+
 <p align="center"><img src="images/wireflowNewSpent.png" alt="Wireflow nuevo gasto" width="100%"></p>
 
 ### 4.4.3 Web Application Mock-Ups
@@ -1532,30 +1542,39 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 ### 4.4.4. Web Applications User Flow Diagrams
 
 El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+
 <p align="center"><img src="images/userflowLogIn.png" alt="UserFlow ingreso" width="100%"></p>
 
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+
 <p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
 
 El usuario desea realizar ajustes y cambios en su cuenta
+
 <p align="center"><img src="images/userflowSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
 
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+
 <p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
 
 El usuario desea agregar un grupo o relizar un nuevo pago.
+
 <p align="center"><img src="images/userflowAdd.png" alt="UserFlow agregar" width="100%"></p>
 
 El usuario desea crear un grupo
+
 <p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
 
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+
 <p align="center"><img src="images/userflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
 
 El usuario desea consultar sus pagos realizados y pagos faltantes
+
 <p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
 
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+
 <p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -2039,12 +2058,16 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
   </div>
 
 # Capítulo V Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
+
 ### 5.1.1. Software Development Environment Configuration
+
 ### 5.1.2. Source Code Management
 
-El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones. 
-**Liks del repositorio de GitHub**: 
+El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones.
+**Liks del repositorio de GitHub**:
+
 - Link de la organización: https://github.com/PocketPartners
 - Link de la landing page: https://github.com/PocketPartners/LadingPage
 - Link del informe: https://github.com/PocketPartners/Informe
@@ -2052,6 +2075,7 @@ El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar
 - Link del back end: https://github.com/PocketPartners/Backend
 
 Estrucutra de las ramas:
+
 - **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
 - **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
 - **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
@@ -2059,10 +2083,23 @@ Estrucutra de las ramas:
 - **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
 ### 5.1.4. Software Deployment Configuration
 
+<p align="justify"> 
+  Para la implementación de la aplicación PocketPartners, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación. 
+  Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
+</p>
+  - Paso uno: Crear un archivo de configuración de flujo de trabajo en la carpeta .github/workflows/main.yml, en este caso obtaremos una ya creada por la comunidad de Github Actions exactamente el de Jekyll.
+  <img src="images/5-1-4-1.png" alt="Configuracion Github Actions" width="100%">
+  - Paso dos: Subir nuestros cambios a la rama main.
+  - Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
+  <img src="images/5-1-4-2.png" alt="Despliegue en Github Pages" width="100%">
+
 ## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
+
 #### 5.2.1.1. Sprint Planning 1
 
 <table>
@@ -2132,26 +2169,30 @@ Estrucutra de las ramas:
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 <p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
-
-
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 <p align="justify">En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
 </p>
 
-
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Avance de Conclusiones, Bibliografía y Anexos
+
 ### Conclusiones
+
 ### Bibliografía
+
 ### Anexos
