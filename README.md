@@ -963,72 +963,76 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   -->
   <tr>
       <td><strong>EP09</strong></td>
-      <td>Titulo US9</td>
+      <td>US9 - Ajustes de la cuenta</td>
       <td>
-          Descripción US09
+          Como usuario que poder modificar aspectos generales de mi cuenta. Como eliminar grupos, cambiar mis datos, entre otras cosas.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Modificación de datos</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere modificar sus datos personales (Nombre, apellido, correo) <br>
+        <strong>Cuando</strong> Entre a la barra lateral y de click en modificar datos <br>
+        <strong>Entonces</strong> Podré hacer los cambios necesarios
+	<strong>Escenario 2: Gestionar grupos</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere busca eliminar un grupo ya creado<br>
+        <strong>Cuando</strong> Entre a la barra lateral y de click en gestionar grupos <br>
+        <strong>Entonces</strong> Podré eliminar los grupos a los que ya no quiera participar
       </td>
       <td>
-        EP01, EP02, ...
+        EP02, EP05
       </td>
   </tr>
   <!-- US10
   -->
   <tr>
       <td><strong>EP10</strong></td>
-      <td>Titulo US10</td>
+      <td>US10 - Visualizar grupos</td>
       <td>
-          Descripción US10
+          Como usuario quiero poder tener una lista con los grupos a los que pertenezco en donde se pueda ver información relevante sobre los mismos
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Ver grupos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado que quiere ver sus grupos<br>
+        <strong>Cuando</strong> Presione la sección de grupos <br>
+        <strong>Entonces</strong> Se mostrarán los grupos en los que estoy asi como los gastos actuales y los participantes.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03, EP04
       </td>
   </tr>
   <!-- US11
   -->
   <tr>
       <td><strong>EP11</strong></td>
-      <td>Titulo US11</td>
+      <td>US11 - Crear nuevos grupos</td>
       <td>
-          Descripción US11
+          Como usuario quiero poder crear nuevos grupos con diferentes personas
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Creación de grupos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado que quiere crear un nuevo grupo <br>
+        <strong>Cuando</strong> Esté en la página principal y presione el botón de añadir, y luego agregar grupo <br>
+        <strong>Entonces</strong> Podré configurar los aspectos básicos del grupo que deseo crear
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US12
   -->
   <tr>
       <td><strong>EP12</strong></td>
-      <td>Titulo US12</td>
+      <td>US12 - Adición de gastos</td>
       <td>
-          Descripción US12
+          Como usuario quiero agregar gastos nuevos a los grupos a los que pertenezco.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Adición de gastos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar un nuevo gasto a un grupo existente <br>
+        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir gasto" en el recuadro del grupo deseado <br>
+        <strong>Entonces</strong> Podré añadir los datos imoprtantes del gasto y agregarlo a la lista de gastos del grupo.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US13
