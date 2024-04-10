@@ -534,7 +534,7 @@ _Preguntas generales:_
 - ¿Cuántos años tiene?
 - ¿Cuál es la actividad que más realiza con sus amigos o conocidos?
 
-## _Preguntas para viajeros_
+## Preguntas para viajeros
 
 1. Al momento de realizar su viaje, ¿cómo llevan los registros de los gastos de cada uno?
 2. Cuando viaja con sus amigos, ¿cómo suelen realizar los pagos?
@@ -543,7 +543,7 @@ _Preguntas generales:_
 5. ¿Qué hace cuando se olvida anotar algún gasto o préstamo realizado?
 6. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 
-## _Preguntas para amigos que salen a almorzar_
+## Preguntas para amigos que salen a almorzar
 
 1. Cuando salen a cenar, ¿cómo pagan la cuenta?
 2. ¿Cómo hacen para recordar cuánto debe pagar cada uno?
@@ -552,7 +552,7 @@ _Preguntas generales:_
 5. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 6. ¿Cuál piensa que es la mayor dificultad al momento de hacer esta operación?
 
-## _Preguntas para compañeros de piso_
+## Preguntas para compañeros de piso
 
 1. ¿Cuál es su proceso para dividir los gastos?
 2. ¿Cómo lleva registro de los gastos?
@@ -563,16 +563,32 @@ _Preguntas generales:_
 
 ### 2.2.2 Registro de entrevistas
 
-- Renzo Castro, 20 años.
+#### Renzo Castro, 20 años.
 
  <div align="center">
   <img src="images/image-entrevista-renzo.png"/>
  </div>
  
  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
-#### Resumen de la entrevista
+
+
+##### Resumen de la entrevista
 
 El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones se olvida de anotar algún gasto o préstamo. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten el proceso aparte de Splitwise o otra mas conocida.
+<br>
+
+#### Margarita Robles, 36 años.
+
+ <div align="center">
+  <img src="images/image-entrevista-randel-UserViajero.png"/>
+ </div>
+ 
+ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+##### Resumen de la entrevista
+
+La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto SplitWise.
 
 ## 2.3. Needfinding
 
