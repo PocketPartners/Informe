@@ -689,7 +689,11 @@ El entrevistado indica que al momento de viajar o en salidas con amigos y a la v
 
 ##### Resumen de la entrevista
 
-La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto SplitWise.
+La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto PocketPartners.
+
+### 2.2.3. Análisis de entrevistas
+
+<p align="justify">Los entrevistados destacan la necesidad de simplificar y agilizar el proceso de dividir gastos durante viajes y salidas con amigos o compañeros de vivienda. En ambas situaciones, los entrevistados utilizan métodos tradicionales como papel y lápiz, Google Sheets o Excel para llevar un registro de los gastos compartidos, pero enfrentan desafíos como la demora en el proceso, olvidos de gastos o préstamos, y la falta de conocimiento sobre herramientas más eficientes. Sin embargo, muestran disposición para adoptar soluciones que faciliten esta tarea. En este contexto, PocketPartners emerge como una solución prometedora. Al ofrecer una interfaz intuitiva, cálculos automáticos y registro en tiempo real, esta aplicación tiene el potencial de simplificar drásticamente el proceso de división de gastos, ayudando a los usuarios a gestionar de manera más efectiva sus finanzas compartidas durante sus actividades sociales y de viaje.</p>
 
 ## 2.3. Needfinding
 
@@ -2372,13 +2376,105 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-<p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
+<p align="justify">A continuación se presentan informacion de los commits de la Landing page de PocketPartners, con el uso de HTML, CSS y JavaScript</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>Landing Page</td>
+    <td>developer</td>
+    <td>1c23922a980579e72d882443b3c4d49823bbcbac</td>
+    <td>feat: navbar</td>
+    <td>08/10/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>84e4dbdcf1773fcfd5820743222dc1f490e8766c</td>
+    <td>feat: home</td>
+    <td>09/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3ed58ac70fba5ac93635032ee181856f107ccb33</td>
+    <td>feat(footer): added subscribe section in footer</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>1d21d009d135540353ccbdb44a64f18656e9c941</td>
+    <td>feat(footer): added footer info section with links and info about de company</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>8368ca2527fae35b1b94da3a03da0d3648473aa0</td>
+    <td>fix(footer): fixed styles in botton footer section</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>a6b9c0f3ec45231e74a78db230eb48c555b32229</td>
+    <td>fix(footer): icons size</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>e604b1c31ef96c3441acdd1294887eb738432ed1</td>
+    <td>feat: index de los services</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>5e8cfa0e61ca39da6d150a304ac2c50f20dfe9e5</td>
+    <td>feat: css de services</td>
+    <td>10/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>95d0e5d69e162c6805163ba5cbc179ee5c7d1a42</td>
+    <td>feat(footer): added hover in icons</td>
+    <td>10/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>272130405c146d13c389850eac08abdaeed5349e</td>
+    <td>feat: Add reviews</td>
+    <td>10/04/2024</td>
+  </tr>
+  </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript</p>
+
+<img align="center" src="images/home_deployed.png" alt="Home deployed" width="90%">
+
+<img align="center" src="images/services_deployed.png" alt="Services deployed" width="90%">
+
+<img align="center" src="images/plans_deployed.png" alt="Plans deployed" width="90%">
+
+<img align="center" src="images/about_deployed.png" alt="About deployed" width="90%">
+
+<img align="center" src="images/footer_deployed.png" alt="Footer deployed" width="90%">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2387,7 +2483,26 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<p align = "justify">Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.</p>
+
+<p align = "justify">En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages. </p>
+
+<p align = "justify">Puedes acceder a la página de inicio a través del siguiente enlace: ----- </p>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del landing page
+en Github </p>
+
+<img align="center" src="images/participacion_landing.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion2_landing.png" alt="Footer deployed" width="90%">
+
+<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Informe
+en Github </p>
+
+<img align="center" src="images/participacion_informe.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion2_informe.png" alt="Footer deployed" width="90%">
 
 ## Avance de Conclusiones, Bibliografía y Anexos
 
@@ -2408,11 +2523,21 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
 
 ### Anexos
 
-Lean UX Canvas: https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525 
-Landing Page Figma: https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1
-Wireframes y Mockups Figma: https://www.figma.com/file/aGnIQGSQByRUR5y16qirYd/Wireframe---Websites-PocketPartners?type=design&node-id=0%3A1&mode=design&t=A7asuU1bBsKnXbPR-1
-Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
-Landing Page:
-Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
-Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-Entrevista 3:
+<p align="justify">Lean UX Canvas: https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525 </p>
+
+<p align="justify">Landing Page Figma: https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1</p>
+
+<p align="justify">Wireframes y Mockups Figma: https://www.figma.com/file/aGnIQGSQByRUR5y16qirYd/Wireframe---Websites-PocketPartners?type=design&node-id=0%3A1&mode=design&t=A7asuU1bBsKnXbPR-1</p>
+
+<p align="justify">Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1</p>
+
+<p align="justify">Landing Page: </p>
+
+<p align="justify">Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO </p>
+
+<p align="justify">Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&
+nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
+
+<p align="justify">Entrevista 3: </p>
+
+<p align="justify">Video TB1: </p>
