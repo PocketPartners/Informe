@@ -2034,6 +2034,7 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
         <img src="images/PocketPartners-data-base-diagram.png" alt="Database Diagram" width="100%">
   </div>
 
+# Capítulo V Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
@@ -2041,17 +2042,96 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
-## 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1.
-#### 5.2.1.2. Sprint Backlog 1.
-#### 5.2.1.3. Development Evidence for Sprint Review.
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-## Avance de Conclusiones, Bibliografía y Anexos.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
 
-## Conclusiones
-## Bibliografía
-## Anexos
+<table>
+  <caption>Sprint #1</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>09/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Jarama Peñaloza, Fiorella</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de FairFinance</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará la organización de FairFinance en Github y el repositorio de la organización. Además, se implementará el single page landing page.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el landing se ha realizado mediante html y css.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
+
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<p align="justify">En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+</p>
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## Avance de Conclusiones, Bibliografía y Anexos
+### Conclusiones
+### Bibliografía
+### Anexos
