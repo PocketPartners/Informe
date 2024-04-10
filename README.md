@@ -915,7 +915,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US02
   -->
   <tr>
-      <td><strong>EP02</strong></td>
+      <td><strong>EP01</strong></td>
       <td>US2 - Añadir o Eliminar Transacciones</td>
       <td>
           Como usuario, quiero poder editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.
@@ -943,7 +943,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US03
   -->
   <tr>
-      <td><strong>EP03</strong></td>
+      <td><strong>EP01</strong></td>
       <td>US3 - Division</td>
       <td>
           Como usuario, quiero tener la opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos.
@@ -966,7 +966,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US04
   -->
   <tr>
-      <td><strong>EP04</strong></td>
+      <td><strong>EP01</strong></td>
       <td>US4 - Exportar Detalles</td>
       <td>
           Como usuario, quiero poder exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.
@@ -989,7 +989,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US05
   -->
   <tr>
-      <td><strong>EP05</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US5 -Acceso Seguro</td>
       <td>
           Como usuario, quiero que mi información sea accesible unicamente por mi o con una autorización especial para garantizar la seguridad y privacidad de mis datos financieros compartidos.
@@ -1012,7 +1012,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US06
   -->
   <tr>
-      <td><strong>EP06</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US06 - Conversor de Moneda Integrado</td>
       <td>
           Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.
@@ -1033,7 +1033,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US07
   -->
   <tr>
-      <td><strong>EP07</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US7 - Rastreador de Deuda</td>
       <td>
           Como usuario, quiero poder rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.
@@ -1056,7 +1056,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US08
   -->
   <tr>
-      <td><strong>EP08</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US8 - Balance General</td>
       <td>
           Como usuario, quiero visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.	
@@ -1083,7 +1083,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US09
   -->
   <tr>
-      <td><strong>EP09</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US9 - Ajustes de la cuenta</td>
       <td>
           Como usuario que poder modificar aspectos generales de mi cuenta. Como eliminar grupos, cambiar mis datos, entre otras cosas.
@@ -1105,7 +1105,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US10
   -->
   <tr>
-      <td><strong>EP10</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US10 - Visualizar grupos</td>
       <td>
           Como usuario quiero poder tener una lista con los grupos a los que pertenezco en donde se pueda ver información relevante sobre los mismos
@@ -1123,7 +1123,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US11
   -->
   <tr>
-      <td><strong>EP11</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US11 - Crear nuevos grupos</td>
       <td>
           Como usuario quiero poder crear nuevos grupos con diferentes personas
@@ -1141,7 +1141,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US12
   -->
   <tr>
-      <td><strong>EP12</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US12 - Adición de gastos</td>
       <td>
           Como usuario quiero agregar gastos nuevos a los grupos a los que pertenezco.
@@ -1159,7 +1159,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US13
   -->
   <tr>
-      <td><strong>EP13</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US13 - Adición de recibos de gastos</td>
       <td>
           Como usuario, quiero tener la opción de adjuntar recibos o imágenes a mis gastos para mantener un registro visual de mis transacciones.
@@ -1177,7 +1177,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US14
   -->
   <tr>
-      <td><strong>EP14</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US14 - Importar datos</td>
       <td>
           Como usuario, quiero poder importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.
@@ -1196,7 +1196,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US15
   -->
   <tr>
-      <td><strong>EP15</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US15 - Modificación de notas en los gastos</td>
       <td>
           Como usuario, quiero tener la opción de agregar notas o comentarios a cada gasto compartido, para proporcionar contexto adicional o aclaraciones sobre la transacción.
@@ -1218,7 +1218,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US16
   -->
   <tr>
-      <td><strong>EP16</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US16 - Pago recurrente</td>
       <td>
           Como usuario, quiero poder establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos 	  manualmente cada vez.
@@ -1240,73 +1240,73 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US17
   -->
   <tr>
-      <td><strong>EP17</strong></td>
-      <td>Titulo US17</td>
+      <td><strong>EP05</strong></td>
+      <td>US17 - Mostrar resultados de los cálculos financieros por individuo</td>
       <td>
-          Descripción US17
+          Como usuario quiero que me muestren los resultados finales de todos los cálculos financieros y el monto a ser pagado o recibido por cada integrante del grupo.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Muestra de resultados</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero que se me muestren todos los resultados financieros por integrante del grupo.<br>
+        <strong>Cuando</strong> dé click al boton de "mostrar resultados"  <br>
+        <strong>Entonces</strong> Me mostrará los resultados a pagar o recibir dinero por cada integrante del grupo.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US18
   -->
   <tr>
-      <td><strong>EP18</strong></td>
-      <td>Titulo US18</td>
+      <td><strong>EP05</strong></td>
+      <td>US18 - Buscar Grupo por nombre</td>
       <td>
-          Descripción US18
+          Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere buscar un grupo del cual soy integrante por el nombre <br>
+        <strong>Cuando</strong> dé click al icono de buscar <br>
+        <strong>Entonces</strong> podré ingresar un pequeño texto y ver los resultados
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US19
   -->
   <tr>
-      <td><strong>EP19</strong></td>
-      <td>Titulo US19</td>
+      <td><strong>EP05</strong></td>
+      <td>US19 - Mejora de subscripción</td>
       <td>
-          Descripción US19
+          Como usuario quiero poder cambiarme de subscripción para tener un mejor acceso a mejores servicios de SplitWise
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado <br>
+        <strong>Cuando</strong> dé click a la barra de estado de mi subscripción actual <br>
+        <strong>Entonces</strong> pueda cambiar de modo de subcripción y se realice el trámite correcto para ello.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US20
   -->
   <tr>
-      <td><strong>EP20</strong></td>
-      <td>Titulo US20</td>
+      <td><strong>EP05</strong></td>
+      <td>US20 - Acceso a versión de prueba</td>
       <td>
-          Descripción US20
+          Como usuario quiero tener acceso a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrad <br>
+        <strong>Cuando</strong> dé click a iniciar versión de prueba <br>
+        <strong>Entonces</strong> pueda iniciarse la comprobación de usuario para calificar como un usuario limitado por una cantidad de días y poder cambiarme a un modo de subscripción de mi preferencia.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   </tbody>
