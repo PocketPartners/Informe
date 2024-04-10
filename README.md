@@ -2037,6 +2037,22 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
+
+El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones. 
+**Liks del repositorio de GitHub**: 
+- Link de la organización: https://github.com/PocketPartners
+- Link de la landing page: https://github.com/PocketPartners/LadingPage
+- Link del informe: https://github.com/PocketPartners/Informe
+- Link del front end: https://github.com/PocketPartners/Frontend
+- Link del back end: https://github.com/PocketPartners/Backend
+
+Estrucutra de las ramas:
+- **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
+- **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
+- **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
+- **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
+- **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
