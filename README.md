@@ -176,8 +176,11 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 # Capítulo I Introducción
 
 ## 1.1. Startup Profile
+
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo
+
 ### 1.1.1. Descripción de la Startup
+
 La startup, presentada con el nombre de “FairFinance”, se enfoca en facilitar la división de gastos y la gestión de finanzas compartidas entre grupos de personas.Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares
 que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
 
@@ -259,17 +262,17 @@ La plataforma será utilizada por una variedad de personas, incluidos amigos que
 Why (Por qué)
 ¿Cuál es la causa del problema?
 
-La causa principal del problema es tener un registro manual de quién ha pagado qué y quién debe a quién puede resultar confuso y propenso a errores humanos, lo que puede dar lugar a malentendidos y conflictos. 
- 
+La causa principal del problema es tener un registro manual de quién ha pagado qué y quién debe a quién puede resultar confuso y propenso a errores humanos, lo que puede dar lugar a malentendidos y conflictos.
+
 ¿Cuáles son las 2H?
 How (Cómo)
 ¿Cómo se utilizará el producto?.
 
 El producto será empleado para registrar fácilmente los gastos que comparten con otras personas, ingresando detalles como el monto, la descripción y quién participó en la transacción. A partir de ello, los usuarios pueden optar por dividir equitativamente el gasto entre todos los participantes, asignar porcentajes específicos a cada persona o personalizar la división según las contribuciones individuales.
 
-¿Cómo lograremos desarrollar la correcta división de  gastos entre nuestros usuarios?
+¿Cómo lograremos desarrollar la correcta división de gastos entre nuestros usuarios?
 
-Los técnicos y administradores acceden a la plataforma a través de un navegador. Dicha plataforma les permitirá revisar los cálculos de cada registro, así como la situación financiera global actual. Por otro lado, los usuarios pueden registrar todos los gastos de manera precisa dentro de la aplicación. Esto puede incluir la cantidad total del gasto, una descripción detallada y quiénes participaron en la transacción.Además, proporciona opciones flexibles para dividir los gastos. 
+Los técnicos y administradores acceden a la plataforma a través de un navegador. Dicha plataforma les permitirá revisar los cálculos de cada registro, así como la situación financiera global actual. Por otro lado, los usuarios pueden registrar todos los gastos de manera precisa dentro de la aplicación. Esto puede incluir la cantidad total del gasto, una descripción detallada y quiénes participaron en la transacción.Además, proporciona opciones flexibles para dividir los gastos.
 
 .How (Cómo)
 ¿Cómo se utilizará el producto?
@@ -280,7 +283,6 @@ How much (Cuánto)
 ¿Cuál es la magnitud del problema?
 
 Según La Encuesta Nacional de Capacidades Financieras (2023), el 46% de la población peruana cuenta con un nivel medio de educación financiera y un 13% tiene un nivel adecuado; pero aún hay un 41% que carece de capacidades financieras, según revela la tercera Encuesta Nacional de Capacidades Financieras, desarrollada por la Superintendencia de Banca, Seguros y AFP del Perú (SBS) y la CAF - Banco de Desarrollo de América Latina, presentada en la inauguración de la Semana Mundial del Ahorro 2023. La encuesta tiene como objetivo conocer los niveles de conocimientos, actitudes y comportamientos de los peruanos con relación a temas financieros, así como identificar cambios producidos respecto a los años 2013 y 2019. Esta fue realizada por Ipsos-Perú en el año 2022 e incluyó a peruanos a partir de los 18 años de todos los niveles socioeconómicos en zonas urbanas como rural. Cabe precisar que la encuesta se basó en la metodología de la Organización para la Cooperación y el Desarrollo Económico (OECD) y que se trata de una iniciativa que forma parte de la Política Nacional de Inclusión Financiera. Por otro lado, el porcentaje de adultos que eligió un producto financiero a partir de una comparación o búsqueda de información creció de 56% a 60% entre el 2019 y 2022. Asimismo, el consejo de familiares y amigos mantiene su influencia (40% en 2019 y 42% en el 2022) al momento de elegir un producto financiero. Sin embargo, otras estrategias que incrementan su relevancia fueron la revisión de portales de comparación de precios, tasas y tarifas y la publicidad en redes sociales, con el 21% y 18%, respectivamente. Es ahí que se ve implicado Pocket Partners como alternativa de gestión para una buena salud financiera.
-
 
 ¿Qué porcentaje de usuarios se verá beneficiado por el servicio?
 
@@ -614,7 +616,7 @@ _Preguntas generales:_
 - ¿Cuántos años tiene?
 - ¿Cuál es la actividad que más realiza con sus amigos o conocidos?
 
-## _Preguntas para viajeros_
+## Preguntas para viajeros
 
 1. Al momento de realizar su viaje, ¿cómo llevan los registros de los gastos de cada uno?
 2. Cuando viaja con sus amigos, ¿cómo suelen realizar los pagos?
@@ -623,7 +625,7 @@ _Preguntas generales:_
 5. ¿Qué hace cuando se olvida anotar algún gasto o préstamo realizado?
 6. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 
-## _Preguntas para amigos que salen a almorzar_
+## Preguntas para amigos que salen a almorzar
 
 1. Cuando salen a cenar, ¿cómo pagan la cuenta?
 2. ¿Cómo hacen para recordar cuánto debe pagar cada uno?
@@ -632,7 +634,7 @@ _Preguntas generales:_
 5. ¿Conoce alguna herrmienta que le pueda ayudar a realizar estos cálculos?
 6. ¿Cuál piensa que es la mayor dificultad al momento de hacer esta operación?
 
-## _Preguntas para compañeros de piso_
+## Preguntas para compañeros de piso
 
 1. ¿Cuál es su proceso para dividir los gastos?
 2. ¿Cómo lleva registro de los gastos?
@@ -643,13 +645,32 @@ _Preguntas generales:_
 
 ### 2.2.2 Registro de entrevistas
 
-- Renzo Castro, 20 años.
+#### Renzo Castro, 20 años.
 
  <div align="center">
   <img src="images/image-entrevista-renzo.png"/>
  </div>
  
  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
+
+
+##### Resumen de la entrevista
+
+El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones se olvida de anotar algún gasto o préstamo. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten el proceso aparte de Splitwise o otra mas conocida.
+<br>
+
+#### Margarita Robles, 36 años.
+
+ <div align="center">
+  <img src="images/image-entrevista-randel-UserViajero.png"/>
+ </div>
+ 
+ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+##### Resumen de la entrevista
+
+La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto SplitWise.
 
 ## 2.3. Needfinding
 
@@ -788,13 +809,14 @@ _Preguntas generales:_
 
 ### 2.3.4 Empathy Mapping
 
-Técnica utilizada en el diseño UX y la investigación de usuarios para comprender mejor las necesidades, emociones y comportamientos de los usuarios. Mapa Visual que representa desde la perspectiva del usuario el recorrido de sus necesidades y deseos en la problemática reconocida.    
-
+Técnica utilizada en el diseño UX y la investigación de usuarios para comprender mejor las necesidades, emociones y comportamientos de los usuarios. Mapa Visual que representa desde la perspectiva del usuario el recorrido de sus necesidades y deseos en la problemática reconocida.
 
 ## **Empathy Map User Viajero**
+
 <p align="center"><img src="images/empathyMapUserViajero.png" alt="Empathy Map User Viajero" width="100%"></p>
 
 ## **Empathy Map User Frecuente de restaurantes**
+
 <p align="center"><img src="images/empathyMapUserFrecuentedeRestaurantes.png" alt="Empathy Map User Frecuente de Restaurantes" width="100%"></p>
 
 ## **Empathy Map User Compañero de Piso**
@@ -803,17 +825,17 @@ Técnica utilizada en el diseño UX y la investigación de usuarios para compren
 
 ### 2.3.5 As-Is Scenario Mapping
 
-Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar. 
+Visualización y comprensión el estado actual del proceso de la determinación de requerimientos. Este mapa muestra el flujo de actividades, las interacciones entre elementos y las áreas potenciales para mejorar.
 
-###  As - Is User Viajero
+### As - Is User Viajero
 
 <p align="center"><img src="images/asIsUserViajero.jpg" alt="AsIs User Viajero" width="100%"></p>
 
-###  As - Is User Frecuente de Restaurante
+### As - Is User Frecuente de Restaurante
 
 <p align="center"><img src="images/asIsUserFrecuenteDeRestaurante.jpg" alt="AsIs User Frecuente de Restaurante" width="100%"></p>
 
-###  As - Is User Compañero de Piso
+### As - Is User Compañero de Piso
 
 <p align="center"><img src="images/asIsUserCompañeroDePiso.jpg" alt="AsIs User Compañero de Piso" width="100%"></p>
 
@@ -823,15 +845,15 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.1 To-Be Scenario Mapping
 
-###  To - Be User Viajero
+### To - Be User Viajero
 
 <p align="center"><img src="images/toBeUserViajero.jpg" alt="toBe User Viajero" width="100%"></p>
 
-###  To - Be User Frecuente de Restaurante
+### To - Be User Frecuente de Restaurante
 
 <p align="center"><img src="images/toBeUserFrecuenteDeRestaurante.jpg" alt="toBe User Frecuente de Restaurante" width="100%"></p>
 
-###  To - Be User Compañero de Piso
+### To - Be User Compañero de Piso
 
 <p align="center"><img src="images/toBeUserCompañeroDePiso.jpg" alt="toBe User Compañero de Piso" width="100%"></p>
 
@@ -945,144 +967,170 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   -->
   <tr>
       <td><strong>EP05</strong></td>
-      <td>Titulo US5</td>
+      <td>US5 -Acceso Seguro</td>
       <td>
-          Descripción US05
+          Como usuario, quiero que mi información sea accesible unicamente por mi o con una autorización especial para garantizar la seguridad y privacidad de mis datos financieros compartidos.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Acceso Seguro</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado en la aplicación PocketPartners, <br>
+        <strong>Cuando</strong>  Intento iniciar sesión, la aplicación debe solicitar mi nombre de usuario y contraseña o utilizar Google o Facebook. <br>
+        <strong>Entonces</strong> Y si ingreso los detalles correctamente, debería tener acceso a mi cuenta.
+        <br>
+        <strong>Escenario 2: Olvidar Contraseña</strong> <br>
+        <strong>Dado que</strong> he olvidado mi contraseña y necesito restablecerla, <br>
+        <strong>Cuando</strong> seleccione la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión, <br>
+        <strong>Entonces</strong> debería recibir un enlace de restablecimiento de contraseña en mi correo electrónico registrado para crear una nueva contraseña y acceder a mi cuenta.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US06
   -->
   <tr>
       <td><strong>EP06</strong></td>
-      <td>Titulo US6</td>
+      <td>US06 - Conversor de Moneda Integrado</td>
       <td>
-          Descripción US06
+          Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Acceso al Conversor</strong> <br>
+        <strong>Dado que</strong> 
+        Soy un usuario registrado en la aplicación PocketPartners y deseo convertir un monto de transacción a una moneda diferente, <br>
+        <br>
+        <strong>Cuando</strong> reviso los detalles de una transacción específica, <br>
+        <br>
+        <strong>Entonces</strong> debería encontrar una opción claramente etiquetada para acceder al conversor de moneda integrado.<br>
       </td>
       <td>
-        EP01, EP02, ...
+        EP03
       </td>
   </tr>
   <!-- US07
   -->
   <tr>
       <td><strong>EP07</strong></td>
-      <td>Titulo US7</td>
+      <td>US7 - Rastreador de Deuda</td>
       <td>
-          Descripción US07
+          Como usuario, quiero poder rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Rastreador de Deuda</strong> <br>
+        <strong>Dado que</strong> que soy un usuario de la aplicación PocketPartners, <br>
+        <strong>Cuando</strong>  selecciono el módulo de "Rastreador de Deuda", <br>
+        <strong>Entonces</strong> debería ver una lista de todas las deudas pendientes y el nombre del deudor.
+        <br>
+        <strong>Escenario 2: Notificar al deudor</strong><br>
+        <strong>Dado que</strong> que deseo recordar a un deudor sobre una deuda pendiente, <br>
+        <strong>Cuando</strong> seleccione la opción "Notificar al Deudor", <br>
+        <strong>Entonces</strong> debería poder enviar una notificación automática al deudor para recordarle sobre la deuda pendiente.
       </td>
       <td>
-        EP01, EP02, ...
+        EP01, EP02
       </td>
   </tr>
   <!-- US08
   -->
   <tr>
       <td><strong>EP08</strong></td>
-      <td>Titulo US8</td>
+      <td>US8 - Balance General</td>
       <td>
-          Descripción US08
+          Como usuario, quiero visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.	
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Acceso al Balance General</strong> <br>
+        <strong>Dado que</strong> 
+        Soy un usuario registrado en la aplicación PocketPartners y deseo visualizar mi balance general, <br>
+        <strong>Cuando</strong> Accedo a la sección de "Mi Balance" o "Resumen Financiero", <br>
+        <strong>Entonces</strong> Debería ver un resumen detallado de mis ingresos y egresos, incluyendo el saldo actual y los gastos totales.
+        <strong>Escenario 2: Filtrar por Fecha</strong> <br>
+        <strong>Dado que</strong> que deseo visualizar mi balance general para un período de tiempo específico, <br>
+        <strong>Cuando</strong> seleccione la opción "Filtrar por Fecha", <br>
+        <strong>Entonces</strong> debería poder seleccionar un rango de fechas personalizado para ver el balance general correspondiente a ese período.
+        <strong>Escenario 3: Detalles del Balance</strong> <br>
+        <strong>Dado que</strong> estoy revisando el resumen del balance, <br>
+        <strong>Cuando</strong> selecciono una categoría específica, <br>
+        <strong>Entonces</strong> debería ver la lista de transacciones correspondientes a esa categoría para un análisis más detallado.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03, EP04
       </td>
   </tr>
   <!-- US09
   -->
   <tr>
       <td><strong>EP09</strong></td>
-      <td>Titulo US9</td>
+      <td>US9 - Ajustes de la cuenta</td>
       <td>
-          Descripción US09
+          Como usuario que poder modificar aspectos generales de mi cuenta. Como eliminar grupos, cambiar mis datos, entre otras cosas.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Modificación de datos</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere modificar sus datos personales (Nombre, apellido, correo) <br>
+        <strong>Cuando</strong> Entre a la barra lateral y de click en modificar datos <br>
+        <strong>Entonces</strong> Podré hacer los cambios necesarios
+	<strong>Escenario 2: Gestionar grupos</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere busca eliminar un grupo ya creado<br>
+        <strong>Cuando</strong> Entre a la barra lateral y de click en gestionar grupos <br>
+        <strong>Entonces</strong> Podré eliminar los grupos a los que ya no quiera participar
       </td>
       <td>
-        EP01, EP02, ...
+        EP02, EP05
       </td>
   </tr>
   <!-- US10
   -->
   <tr>
       <td><strong>EP10</strong></td>
-      <td>Titulo US10</td>
+      <td>US10 - Visualizar grupos</td>
       <td>
-          Descripción US10
+          Como usuario quiero poder tener una lista con los grupos a los que pertenezco en donde se pueda ver información relevante sobre los mismos
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Ver grupos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado que quiere ver sus grupos<br>
+        <strong>Cuando</strong> Presione la sección de grupos <br>
+        <strong>Entonces</strong> Se mostrarán los grupos en los que estoy asi como los gastos actuales y los participantes.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03, EP04
       </td>
   </tr>
   <!-- US11
   -->
   <tr>
       <td><strong>EP11</strong></td>
-      <td>Titulo US11</td>
+      <td>US11 - Crear nuevos grupos</td>
       <td>
-          Descripción US11
+          Como usuario quiero poder crear nuevos grupos con diferentes personas
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Creación de grupos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado que quiere crear un nuevo grupo <br>
+        <strong>Cuando</strong> Esté en la página principal y presione el botón de añadir, y luego agregar grupo <br>
+        <strong>Entonces</strong> Podré configurar los aspectos básicos del grupo que deseo crear
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US12
   -->
   <tr>
       <td><strong>EP12</strong></td>
-      <td>Titulo US12</td>
+      <td>US12 - Adición de gastos</td>
       <td>
-          Descripción US12
+          Como usuario quiero agregar gastos nuevos a los grupos a los que pertenezco.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Adición de gastos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar un nuevo gasto a un grupo existente <br>
+        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir gasto" en el recuadro del grupo deseado <br>
+        <strong>Entonces</strong> Podré añadir los datos imoprtantes del gasto y agregarlo a la lista de gastos del grupo.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US13
@@ -1234,10 +1282,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.3 Impact Mapping
 
-#### Mejorar la experiencia de distribución de movimientos financieros grupales. 
+#### Mejorar la experiencia de distribución de movimientos financieros grupales.
 
 <p align="center"><img src="images/impactMapUserViajero.png" alt="Empathy Map User Viajero"  width="100%"></p>
-
 
 #### Digitalizar el 80% de procesos de registro de saldos y movimientos financieros grupales.
 
@@ -1246,7 +1293,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 #### Discernir la preocupación constante del uso de diferentes registros de movimientos financieros en los usuarios Compañeros de piso.
 
 <p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
-
 
 ## 3.4 Product Backlog
 
@@ -1286,7 +1332,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   </tbody>
 
 </table>
-
 
 # Capítulo IV Product Design
 
@@ -1503,6 +1548,132 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
 <p align="center">
       <img src="images/footer.png" alt="Footer" width="100%">
 </p>
+
+## 4.4. Web Applications UX/UI design
+
+### 4.4.1. Web Applications wireframes
+
+<p align="center"><img src="images/wireframeLogIn.jpg" alt="Wireframe de ingreso" width="100%"></p>
+
+<p align="center"><img src="images/wireframeSignUp.jpg" alt="Wireframe de cración de cuenta" width="100%"></p>
+
+<p align="center"><img src="images/wireframeMain.jpg" alt="Wireframe principal" width="100%"></p>
+
+<p align="center"><img src="images/wireframeSideBar.jpg" alt="Wireframe barra lateral" width="100%"></p>
+
+<p align="center"><img src="images/wireframeAdd.jpg" alt="Wireframe agregar" width="100%"></p>
+
+<p align="center"><img src="images/wireframeCreateGroup.jpg" alt="Wireframe crear grupo" width="100%"></p>
+
+<p align="center"><img src="images/wireframePayIn.jpg" alt="Wireframe pago entrante" width="100%"></p>
+
+<p align="center"><img src="images/wireframePayOut.jpg" alt="Wireframe pago saliente" width="100%"></p>
+
+<p align="center"><img src="images/wireframeNewSpent.jpg" alt="Wireframe nuevo gasto" width="100%"></p>
+
+<p align="center"><img src="images/wireframeDivision.jpg" alt="Wireframe división" width="100%"></p>
+
+<p align="center"><img src="images/wireframeExport.jpg" alt="Wireframe exportar" width="100%"></p>
+
+### 4.4.2. Web Application Wireflow Diagram
+
+El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+
+<p align="center"><img src="images/wireflowLogIn.png" alt="Wireflow ingreso" width="100%"></p>
+
+El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+
+<p align="center"><img src="images/wireflowSignUp.png" alt="Wireflow de cración de cuenta" width="100%"></p>
+
+El usuario desea realizar ajustes y cambios en su cuenta
+
+<p align="center"><img src="images/wireflowSidebar.png" alt="Wireflow barra lateral" width="100%"></p>
+
+El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+
+<p align="center"><img src="images/wireflowExport.png" alt="Wireflow exportar" width="100%"></p>
+
+El usuario desea agregar un grupo o relizar un nuevo pago.
+
+<p align="center"><img src="images/wireflowAdd.png" alt="Wireflow agregar" width="100%"></p>
+
+El usuario desea crear un grupo
+
+<p align="center"><img src="images/wireflowCreateGroup.png" alt="Wireflow crear grupo" width="100%"></p>
+
+El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+
+<p align="center"><img src="images/wireflowPayIn.png" alt="Wireflow pago entrante" width="100%"></p>
+
+El usuario desea consultar sus pagos realizados y pagos faltantes
+
+<p align="center"><img src="images/wireflowPayOut.png" alt="Wireflow pago saliente" width="100%"></p>
+
+El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+
+<p align="center"><img src="images/wireflowNewSpent.png" alt="Wireflow nuevo gasto" width="100%"></p>
+
+### 4.4.3 Web Application Mock-Ups
+
+<p align="center"><img src="images/mockupLogIn.jpg" alt="Mock-Up de ingreso" width="100%"></p>
+
+<p align="center"><img src="images/mockupSignUp.jpg" alt="Mock-Up de cración de cuenta" width="100%"></p>
+
+<p align="center"><img src="images/mockupMain.jpg" alt="Mock-Up principal" width="100%"></p>
+
+<p align="center"><img src="images/mockupSideBar.jpg" alt="Mock-Up barra lateral" width="100%"></p>
+
+<p align="center"><img src="images/mockupAdd.jpg" alt="Mock-Up agregar" width="100%"></p>
+
+<p align="center"><img src="images/mockupCreateGroup.jpg" alt="Mock-Up crear grupo" width="100%"></p>
+
+<p align="center"><img src="images/mockupPayIn.jpg" alt="Mock-Up pago entrante" width="100%"></p>
+
+<p align="center"><img src="images/mockupPayOut.jpg" alt="Mock-Up pago saliente" width="100%"></p>
+
+<p align="center"><img src="images/mockupNewSpent.jpg" alt="Mock-Up nuevo gasto" width="100%"></p>
+
+<p align="center"><img src="images/mockupDivision.jpg" alt="Mock-Up división" width="100%"></p>
+
+<p align="center"><img src="images/mockupExport.jpg" alt="Mock-Up exportar" width="100%"></p>
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+
+<p align="center"><img src="images/userflowLogIn.png" alt="UserFlow ingreso" width="100%"></p>
+
+El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
+
+<p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
+
+El usuario desea realizar ajustes y cambios en su cuenta
+
+<p align="center"><img src="images/userflowSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
+
+El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
+
+<p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
+
+El usuario desea agregar un grupo o relizar un nuevo pago.
+
+<p align="center"><img src="images/userflowAdd.png" alt="UserFlow agregar" width="100%"></p>
+
+El usuario desea crear un grupo
+
+<p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
+
+El usuario desea consultar los pagos que le han hecho en sus distintos grupos
+
+<p align="center"><img src="images/userflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
+
+El usuario desea consultar sus pagos realizados y pagos faltantes
+
+<p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
+
+El usuario desea registrar un nuevo gasto y dividirlo con su grupo
+
+<p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -1983,3 +2154,191 @@ Se elaboró un esquema inicial para la página de inicio, estableciendo la dispo
   <div align="center">
         <img src="images/PocketPartners-data-base-diagram.png" alt="Database Diagram" width="100%">
   </div>
+
+# Capítulo V Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+### 5.1.2. Source Code Management
+
+El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones.
+**Liks del repositorio de GitHub**:
+
+- Link de la organización: https://github.com/PocketPartners
+- Link de la landing page: https://github.com/PocketPartners/LadingPage
+- Link del informe: https://github.com/PocketPartners/Informe
+- Link del front end: https://github.com/PocketPartners/Frontend
+- Link del back end: https://github.com/PocketPartners/Backend
+
+Estrucutra de las ramas:
+
+- **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
+- **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
+- **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
+- **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
+- **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+**HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
+ - Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
+ - Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: ```<p> Código claro y legible.</p>```
+- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: ```<img src="image.img" alt="brief image name">```
+- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
+al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
+- No omitir las etiquetas ```<html>```, ```<body>``` y ```<header>```.
+- Escribir en una línea los comentarios cortos.
+
+
+**CSS**: Entre las prácticas se mencionan:
+
+- Los nombres de clases son intuitivos, legibles y autodescriptivos.
+- Separar los nombres de las clases y ID con guión, por ejemplo: ```#userViajero-id``` y``` .userImg-shape{} ```
+- Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+- Usar comentarios para explicar el código.
+- Aplicar sangría a todo el contenido de un bloque.
+
+**JavaScript**: Principales prácticas aplicadas:
+
+- Uso de camelCase para nombrar variables y funciones. Por ejemplo, ```myVariable``` y ```myFunction```. 
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, ```myClass```. 
+- Evitar el uso de nombres de variables genéricos o ambiguos.
+- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
+- Uso de punto y coma al final de cada declaración.
+- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Uso de el operador ternario ```(condición ? resultadoTrue : resultadoFalse)``` de manera adecuada y legible.
+- Evitar el uso de funciones obsoletas o en desuso.
+- Uso de try-catch para manejar y gestionar errores de manera adecuada.
+
+
+**Gherking Language:** Lenguaje de dominio específico utilizado en Behavior Driven Development (BDD), se enfoca en facilitar la comunicación entre los equipos de negocios y técnicos al abordar los problemas concretos. Para mejorar la legibilidad y la organización de nuestrosd escenarios, se emplean saltos de línea y palabras clave como "Given", "When", "Then" y "And". Estas prácticas nos ayudan a estructurar de manera clara y efectiva los diferentes tipos de escenarios en BDD.
+
+
+
+### 5.1.4. Software Deployment Configuration
+
+<p align="justify"> 
+  Para la implementación de la aplicación PocketPartners, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación. 
+  Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
+</p>
+
+- Paso uno: Crear un archivo de configuración de flujo de trabajo en la carpeta .github/workflows/main.yml.
+En este caso obtaremos por una ya creada por la comunidad de Github Actions exactamente el de Jekyll que nos permitira desplegar nuestra aplicación en Github Pages simplemente haciendo push a la rama main.
+
+  <img align="center" src="images/5-1-4-1.png" alt="Configuracion Github Actions" width="90%">
+
+- Paso dos: Subir nuestros cambios a la rama main.
+
+- Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
+  <img align="center" src="images/5-1-4-2.png" alt="Despliegue en Github Pages" width="90%">
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+<table>
+  <caption>Sprint #1</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>09/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Jarama Peñaloza, Fiorella</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de FairFinance</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará la organización de FairFinance en Github y el repositorio de la organización. Además, se implementará el single page landing page.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el landing se ha realizado mediante html y css.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1
+
+En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+<p align="justify">En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+</p>
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## Avance de Conclusiones, Bibliografía y Anexos
+
+### Conclusiones
+
+### Bibliografía
+
+### Anexos
