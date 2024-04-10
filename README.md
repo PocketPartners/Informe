@@ -2170,6 +2170,13 @@ Estrucutra de las ramas:
 
 #### 5.2.1.2. Sprint Backlog 1
 
+En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 <p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
