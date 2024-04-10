@@ -672,6 +672,19 @@ El entrevistado indica que al momento de viajar o en salidas con amigos y a la v
 
 La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto SplitWise.
 
+#### Elizabeth Saico Quispe, 32 años.
+
+ <div align="center">
+  <img src="images/entrevista.PNG"/>
+ </div>
+ 
+ Link de la entrevista: https://www.youtube.com/watch?v=-d7Rogkp794
+
+
+##### Resumen de la entrevista
+
+La entrevistada indica que es muy importante llevar el gasto, ya que algunas ocasionaes uno paga ya sea con yape o tranferencia y los demas le hacen en recargo, pero muchas veecs es tedioso llevar un control en imagenes de dichos pagos la mayoria de veces solo se usa whatsapp sobre todo cuandos se tiene un viaje programado, por ahora el unico registro que lleva es el del historial de imagenes de whatsapp y el registrr de movimiento de sus tarjetas. Con el pasar de los dias de la finalizacion de algun viaje eso termina olvidandose y nunca se saldan cuentas.<br>
+
 ## 2.3. Needfinding
 
 ### 2.3.1 User Personas
