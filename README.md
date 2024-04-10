@@ -79,6 +79,34 @@ Abril 2024
   </tbody>
 </table>
 
+# **Student Outcomes**
+
+<table>
+  <thead>
+    <tr>
+        <th>Criterio especifico</th>
+        <th>Acciones realizadas</th>
+        <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto eningeniería</strong></td>
+      <td>- Carbajal Pozzo, Joaquín Alonso TB1: En esta entrega se realizaron los diagramas C4, diagramasinvolucrados en el proceso de DDD o Domain Driven Design. Unacaracterística de esta metodología es el uso del lenguaje ubicuo quepermite a 	todos los stakeholders internos y externos del proyectoentender detalles técnicos a un alto nivel mediante la visualización de los diagramas  
+      	- Cisneros Tafur, Diego Rafael TB1: Realizó la seccion de header en el landing page, además de sucorrespondiente codigo en javascript para cumplir funcionalidades.Adicionalmente se encargo de documentar los commits realizados por elequipo. 	- Jarama Peñaloza, Fiorella TB1: Para el trabajo se hizo uso de github para documentar el trabajo demodo que se aprendió a utilizar conventional commits y gitflow de modoque se pueda tener una correcta comunicación escrita en lo 		quecorresponde a la documentación del proyecto, además de aprender autiizar el lenguaje markdown para comunicarlo mediante github en unarchivo README.md - Ramos Carpio, Karen TB1: En el informe se comunicaron las herramientas a utilizar, su 	utilidad ylas convenciones típicas, esto con el objetivo de documentar el procesode elaboración y de explicar a un público ajeno al entorno de desarrollode software los pasos necesarios para diseñar a la aplicación Ventura Allasi, 	- Randel 	Russell TB1: Avance con tood el capitulo 4 y avance con el diagrama de base de datos</td>
+      <td>Se logró realizar un trabajo sobresaliente,pues cumplimos con todos los segmentosdel trabajo, de tal manera que se puedaentregar un trabajo digno. El documentoredactado se presenta como un sustentoescrito para todo aquel que desee 	conocera detalle los pasos seguidos para planificar,desarrollar y enviar el proyecto aproducción</td>
+  </tr>
+   <tr>
+      <td><strong>Comunicaoralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
+      <td>- Carbajal Pozzo, Joaquín Alonso TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de requirements elicitation, se comunicó lapropuesta de solución a los clientes esperados del proyecto 	y se dirigió eldiseño de la solución a una opción que cumple con los requisitossolicitados.
+      	- Cisneros Tafur, Diego Rafael TB1: Encargado de realizar la sección de sprint donde se incluye el sprintbacklog y sprint planning. De la mismas forma trabajo en el figmadiseñando la landing page y su versión responsive al igual que la 
+       versiónresponsive de la aplicación web. Ramos Carpio, Karen TB1: TB1: A lo hora de realizar el trabajo se tuvo que mantener un constatecontacto con nuestros segmento objetivo para poder delimitarcorrectamente nuestra solución, asímismo 	mantener una buenacomunicación y organización mediante reuniones. - Jarama Peñaloza, Fiorella TB1: Para culminar la entrega de esta primera versión del trabajo final,resultó necesario realizar exposiciones grabadas dentro de las cuales 	seexpresan los requisitos del proyecto, cómo estos fueron implementados ycuál fue el ciclo de vida del desarrollo del software a elaborar - Randel Russell TB1: Avance con tood el capitulo 4 y avance con el diagrama de base de datos</td>
+      <td>Como equipo pudimos establecer mediosde comunicación para poder entregar un trabajo completo ante el obstáculo quesuponen los cortos períodos de tiempopara la entrega del proyecto. De la mismamanera, se comunicaron los 			resultadosobtenidos a los stakeholders, quienes através de una serie de entrevistasdemostraron su satisfacción con elprograma </td>
+  </tr>
+	  
+  </tbody>
+</table>
+
 # **Project Report Collaboration Insights**
 
 URL Project Report (Github): https://github.com/PocketPartners/Informe
@@ -345,7 +373,7 @@ Un problema que enfrenta actualmente la aplicación, radica en que para algunos 
 
 ¿Qué características son importantes?
 
-Las características más importantes de la plataforma son: 
+Las características más importantes de la plataforma son:
 Permite dividir los gastos de manera equitativa entre amigos, compañeros de piso o familiares. Esto es especialmente útil para situaciones en las que múltiples personas comparten gastos, como el alquiler, las facturas de servicios públicos, las comidas compartidas, etc.
 Registra quién debe dinero a quién, manteniendo un seguimiento claro de las deudas compartidas. Esto elimina la necesidad de llevar un registro manual y reduce las posibilidades de conflictos sobre quién debe pagar qué.
 Es útil para grupos de personas que pueden utilizar diferentes monedas. La aplicación admite múltiples monedas y realiza conversiones automáticamente, lo que facilita la gestión de gastos compartidos en diferentes países o regiones.
@@ -368,7 +396,7 @@ Creemos que la aplicación debe contar con una interfaz de usuario intuitiva y f
 
 Creemos que la plataforma debe de tener la capacidad de manejar recordatorios para realizar pagos, por lo que las características incluyen notificaciones y recordatorios automáticos para ayudar a los usuarios a mantenerse al día con sus finanzas compartidas.
 
-Creemos que nuestros usuarios valoran la seguridad y la privacidad de sus datos financieros, por lo que las características se diseñan para garantizar la protección de la información personal y financiera de los usuarios mediante medidas de seguridad adecuadas. 
+Creemos que nuestros usuarios valoran la seguridad y la privacidad de sus datos financieros, por lo que las características se diseñan para garantizar la protección de la información personal y financiera de los usuarios mediante medidas de seguridad adecuadas.
 
 Creemos que los usuarios pueden tener diferentes preferencias y necesidades en la forma en que desean dividir sus gastos compartidos, por lo que las características proporcionan opciones flexibles para dividir los gastos de manera equitativa según las preferencias individuales.
 
@@ -389,6 +417,9 @@ Creemos que si implementamos medidas de seguridad adicionales para proteger la i
 #### 1.2.2.4. Lean UX Canvas
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital Mural:
+<p style="text-align: center" align="center"> <p align="center"><img src="images/LeanuxCanvas.png" alt="Lean Ux Canvas PocketPartners" width="40%"></p></p>
+<A HREF="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525"> Lean UX Canvas PocketPartners </A>
+
 <p style="text-align: center" align="center"> <p align="center"><img src="images/LeanuxCanvas.png" alt="Lean Ux Canvas PocketPartners" width="40%"></p></p>
 <A HREF="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525"> Lean UX Canvas PocketPartners </A>
 
@@ -673,7 +704,6 @@ _Preguntas generales:_
  
  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
 
-
 ##### Resumen de la entrevista
 
 El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones se olvida de anotar algún gasto o préstamo. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten el proceso aparte de Splitwise o otra mas conocida.
@@ -687,10 +717,13 @@ El entrevistado indica que al momento de viajar o en salidas con amigos y a la v
  
  Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-
 ##### Resumen de la entrevista
 
-La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto SplitWise.
+La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto PocketPartners.
+
+### 2.2.3. Análisis de entrevistas
+
+<p align="justify">Los entrevistados destacan la necesidad de simplificar y agilizar el proceso de dividir gastos durante viajes y salidas con amigos o compañeros de vivienda. En ambas situaciones, los entrevistados utilizan métodos tradicionales como papel y lápiz, Google Sheets o Excel para llevar un registro de los gastos compartidos, pero enfrentan desafíos como la demora en el proceso, olvidos de gastos o préstamos, y la falta de conocimiento sobre herramientas más eficientes. Sin embargo, muestran disposición para adoptar soluciones que faciliten esta tarea. En este contexto, PocketPartners emerge como una solución prometedora. Al ofrecer una interfaz intuitiva, cálculos automáticos y registro en tiempo real, esta aplicación tiene el potencial de simplificar drásticamente el proceso de división de gastos, ayudando a los usuarios a gestionar de manera más efectiva sus finanzas compartidas durante sus actividades sociales y de viaje.</p>
 
 #### Elizabeth Saico Quispe, 32 años.
 
@@ -874,6 +907,20 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 2.4 Ubiquitous Language
 
+- Final User(Usuario Final): Usuario determinado como miembro del grupo SplitWise, quien podrá crear registros, obtener los cálculos finales, etc.
+- Expense(Gasto): Los gastos los registra el usuario y se pueden clasificar como alimentos, servicios públicos, etc.
+- Record(Registro): Los registros se dar por el usuario y se podrán ordenar y filtrar para facilitar el acceso.
+- Balance(Balance): Registros de todos los movimientos financieros detodos los montos ingresados de los registros dados por el usuario.
+- Final Total Calculation(Cálculos finales): La plataforma calcula el importe total final de cada usuario en función de sus aportaciones y gastos.
+- Notification(Notificación): Los usuarios reciben notificaciones de nuevos gastos y actualizaciones de saldo.
+- Settlement(Asentamiento): La aplicación ofrece opciones para métodos de pago y seguimiento de transacciones.
+- Expense Sharing(Gasto compartido): La aplicación calcula automáticamente el valor equitativo.
+- Summary(Resumen): La plataforma proporciona un resumen de las transacciones y saldos de cada usuario.
+- Dashboard(Dashboard): El panel muestra una descripción general de las finanzas del grupo, incluidos saldos y transacciones recientes.
+- Privacy Settings(Configuraciones de privacidad): Los usuarios pueden establecer preferencias de privacidad para su información financiera.
+- Reminder(Recordatorio): La plataforma envía recordatorios a los usuarios sobre registros de transacciones o liquidaciones pendientes.
+- Integration(Integración): La plataforma ofrece integración con servicios externos para procesamiento de pagos e importación/exportación de datos.
+
 # Capítulo III Requirements Especification
 
 ## 3.1 To-Be Scenario Mapping
@@ -908,7 +955,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   -->
   <tr>
       <td><strong>EP01</strong></td>
-      <td>US1 - Notificaciones</td>
+      <td>US1 - Recibir notificaciones</td>
       <td>
           Como usuario, quiero recibir notificaciones automáticas cuando se agreguen nuevos gastos compartidos para mantenerme al tanto de las actualizaciones en mis finanzas compartidas y evitar perder información importante.
       </td>
@@ -922,10 +969,10 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         EP03
       </td>
   </tr>
-  <!-- US02
+  <!--
   -->
   <tr>
-      <td><strong>EP02</strong></td>
+      <td><strong>EP01</strong></td>
       <td>US2 - Añadir o Eliminar Transacciones</td>
       <td>
           Como usuario, quiero poder editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.
@@ -950,11 +997,11 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         EP01, EP02, ...
       </td>
   </tr>
-  <!-- US03
+  <!-- US03  
   -->
   <tr>
-      <td><strong>EP03</strong></td>
-      <td>US3 - Division</td>
+      <td><strong>EP01</strong></td>
+      <td>US3 - Division de presupuesto</td>
       <td>
           Como usuario, quiero tener la opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos.
       </td>
@@ -976,7 +1023,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US04
   -->
   <tr>
-      <td><strong>EP04</strong></td>
+      <td><strong>EP01</strong></td>
       <td>US4 - Exportar Detalles</td>
       <td>
           Como usuario, quiero poder exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.
@@ -999,7 +1046,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US05
   -->
   <tr>
-      <td><strong>EP05</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US5 -Acceso Seguro</td>
       <td>
           Como usuario, quiero que mi información sea accesible unicamente por mi o con una autorización especial para garantizar la seguridad y privacidad de mis datos financieros compartidos.
@@ -1022,7 +1069,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US06
   -->
   <tr>
-      <td><strong>EP06</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US06 - Conversor de Moneda Integrado</td>
       <td>
           Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.
@@ -1043,7 +1090,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US07
   -->
   <tr>
-      <td><strong>EP07</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US7 - Rastreador de Deuda</td>
       <td>
           Como usuario, quiero poder rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.
@@ -1066,7 +1113,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US08
   -->
   <tr>
-      <td><strong>EP08</strong></td>
+      <td><strong>EP02</strong></td>
       <td>US8 - Balance General</td>
       <td>
           Como usuario, quiero visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.	
@@ -1093,7 +1140,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US09
   -->
   <tr>
-      <td><strong>EP09</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US9 - Ajustes de la cuenta</td>
       <td>
           Como usuario que poder modificar aspectos generales de mi cuenta. Como eliminar grupos, cambiar mis datos, entre otras cosas.
@@ -1115,7 +1162,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US10
   -->
   <tr>
-      <td><strong>EP10</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US10 - Visualizar grupos</td>
       <td>
           Como usuario quiero poder tener una lista con los grupos a los que pertenezco en donde se pueda ver información relevante sobre los mismos
@@ -1133,7 +1180,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US11
   -->
   <tr>
-      <td><strong>EP11</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US11 - Crear nuevos grupos</td>
       <td>
           Como usuario quiero poder crear nuevos grupos con diferentes personas
@@ -1151,7 +1198,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US12
   -->
   <tr>
-      <td><strong>EP12</strong></td>
+      <td><strong>EP03</strong></td>
       <td>US12 - Adición de gastos</td>
       <td>
           Como usuario quiero agregar gastos nuevos a los grupos a los que pertenezco.
@@ -1169,7 +1216,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US13
   -->
   <tr>
-      <td><strong>EP13</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US13 - Adición de recibos de gastos</td>
       <td>
           Como usuario, quiero tener la opción de adjuntar recibos o imágenes a mis gastos para mantener un registro visual de mis transacciones.
@@ -1187,7 +1234,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US14
   -->
   <tr>
-      <td><strong>EP14</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US14 - Importar datos</td>
       <td>
           Como usuario, quiero poder importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.
@@ -1206,7 +1253,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US15
   -->
   <tr>
-      <td><strong>EP15</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US15 - Modificación de notas en los gastos</td>
       <td>
           Como usuario, quiero tener la opción de agregar notas o comentarios a cada gasto compartido, para proporcionar contexto adicional o aclaraciones sobre la transacción.
@@ -1228,7 +1275,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US16
   -->
   <tr>
-      <td><strong>EP16</strong></td>
+      <td><strong>EP04</strong></td>
       <td>US16 - Pago recurrente</td>
       <td>
           Como usuario, quiero poder establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos 	  manualmente cada vez.
@@ -1250,73 +1297,73 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US17
   -->
   <tr>
-      <td><strong>EP17</strong></td>
-      <td>Titulo US17</td>
+      <td><strong>EP05</strong></td>
+      <td>US17 - Mostrar resultados de los cálculos financieros por individuo</td>
       <td>
-          Descripción US17
+          Como usuario quiero que me muestren los resultados finales de todos los cálculos financieros y el monto a ser pagado o recibido por cada integrante del grupo.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Muestra de resultados</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero que se me muestren todos los resultados financieros por integrante del grupo.<br>
+        <strong>Cuando</strong> dé click al boton de "mostrar resultados"  <br>
+        <strong>Entonces</strong> Me mostrará los resultados a pagar o recibir dinero por cada integrante del grupo.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US18
   -->
   <tr>
-      <td><strong>EP18</strong></td>
-      <td>Titulo US18</td>
+      <td><strong>EP05</strong></td>
+      <td>US18 - Buscar Grupo por nombre</td>
       <td>
-          Descripción US18
+          Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere buscar un grupo del cual soy integrante por el nombre <br>
+        <strong>Cuando</strong> dé click al icono de buscar <br>
+        <strong>Entonces</strong> podré ingresar un pequeño texto y ver los resultados
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US19
   -->
   <tr>
-      <td><strong>EP19</strong></td>
-      <td>Titulo US19</td>
+      <td><strong>EP05</strong></td>
+      <td>US19 - Mejora de subscripción</td>
       <td>
-          Descripción US19
+          Como usuario quiero poder cambiarme de subscripción para tener un mejor acceso a mejores servicios de SplitWise
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado <br>
+        <strong>Cuando</strong> dé click a la barra de estado de mi subscripción actual <br>
+        <strong>Entonces</strong> pueda cambiar de modo de subcripción y se realice el trámite correcto para ello.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US20
   -->
   <tr>
-      <td><strong>EP20</strong></td>
-      <td>Titulo US20</td>
+      <td><strong>EP05</strong></td>
+      <td>US20 - Acceso a versión de prueba</td>
       <td>
-          Descripción US20
+          Como usuario quiero tener acceso a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrad <br>
+        <strong>Cuando</strong> dé click a iniciar versión de prueba <br>
+        <strong>Entonces</strong> pueda iniciarse la comprobación de usuario para calificar como un usuario limitado por una cantidad de días y poder cambiarme a un modo de subscripción de mi preferencia.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   </tbody>
@@ -1352,27 +1399,145 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <tbody>
     <tr style="text-align: center;">
       <td>1</td>
-      <td>US...</td>
-      <td>...</td>
+      <td>US9</td>
+      <td>Ajustes de la cuenta</td>
       <td style="text-align: justify;">...</td>
-      <td>...</td>
+      <td>1</td>
     </tr>  
     <tr style="text-align: center;">
       <td>2</td>
-      <td>US...</td>
-      <td>...</td>
+      <td>US5</td>
+      <td>Acceso Seguro</td>
       <td style="text-align: justify;">...</td>
-      <td>...</td>
+      <td>1</td>
     </tr>  
     <tr style="text-align: center;">
       <td>3</td>
-      <td>US...</td>
-      <td>...</td>
+      <td>US1</td>
+      <td>Recibir notificaciones</td>
       <td style="text-align: justify;">...</td>
-      <td>...</td>
+      <td>2</td>
     </tr>    
-  </tbody>
-
+    <tr style="text-align: center;">
+      <td>4</td>
+      <td>US10</td>
+      <td>Visualizar grupos</td>
+      <td style="text-align: justify;">...</td>
+      <td>2</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>5</td>
+      <td>US11</td>
+      <td>Crear nuevos grupos</td>
+      <td style="text-align: justify;">...</td>
+      <td>2</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>6</td>
+      <td>US12</td>
+      <td>Adición de gastos</td>
+      <td style="text-align: justify;">...</td>
+      <td>3</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>7</td>
+      <td>US13</td>
+      <td>Adición de recibos de gastos</td>
+      <td style="text-align: justify;">...</td>
+      <td>5</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>8</td>
+      <td>US15</td>
+      <td>Modificación de notas en los gastos/td>
+      <td style="text-align: justify;">...</td>
+      <td>5</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>9</td>
+      <td>US18</td>
+      <td>Buscar Grupo por nombre</td>
+      <td style="text-align: justify;">...</td>
+      <td>5</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>9</td>
+      <td>US16</td>
+      <td>Pago recurrente</td>
+      <td style="text-align: justify;">...</td>
+      <td>5</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>10</td>
+      <td>US8</td>
+      <td>Balance General</td>
+      <td style="text-align: justify;">...</td>
+      <td>5</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>11</td>
+      <td>US17</td>
+      <td>Mostrar resultados de los cálculos financieros por individuo</td>
+      <td style="text-align: justify;">...</td>
+      <td>8</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>12</td>
+      <td>US2</td>
+      <td>Añadir o Eliminar Transacciones</td>
+      <td style="text-align: justify;">...</td>
+      <td>8</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>13</td>
+      <td>US3</td>
+      <td>Division de presupuesto</td>
+      <td style="text-align: justify;">...</td>
+      <td>8</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>14</td>
+      <td>US7</td>
+      <td>Rastreador de Deuda</td>
+      <td style="text-align: justify;">...</td>
+      <td>8</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>15</td>
+      <td>US4</td>
+      <td>Exportar Detalles</td>
+      <td style="text-align: justify;">...</td>
+      <td>8</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>16</td>
+      <td>US06</td>
+      <td>Conversor de Moneda Integrado</td>
+      <td style="text-align: justify;">...</td>
+      <td>8</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>17</td>
+      <td>US14</td>
+      <td>Importar datos</td>
+      <td style="text-align: justify;">...</td>
+      <td>13</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>19</td>
+      <td>US19</td>
+      <td>Mejora de subscripción</td>
+      <td style="text-align: justify;">...</td>
+      <td>13</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>20</td>
+      <td>US20</td>
+      <td>Acceso a versión de prueba</td>
+      <td style="text-align: justify;">...</td>
+      <td>13</td>
+    </tr>  
+  </tbody>  
 </table>
 
 # Capítulo IV Product Design
@@ -2204,16 +2369,20 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 ### 5.1.1. Software Development Environment Configuration
 
 **Requirements Management**
+
 1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
 
 **Product UX/UI Design**
+
 1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En elcaso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.Ruta de referencia https://www.figma.com/login2.
 2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama declases asociado a la aplicación. Ruta de referencia https://www.lucidchart.com/
 
 **Software Testing**
+
 1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story.Ruta de referencia https://cucumber.io/docs/gherkin/
-   
+
 **Software Development**
+
 1. WebStorm: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos dedominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltipleslenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia https://www.jetbrains.com/webstorm/
 2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Seráempleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referenciahttps://www.w3schools.com/html/html5_syntax.asp
 3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la manocon HTML. Ruta de referencia https://google.github.io/styleguide/htmlcssguide.html
@@ -2221,9 +2390,11 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 5. Angular: Angular es un framework de desarrollo de aplicaciones web de código abierto y basado en TypeScript, mantenido por Google y una comunidad de desarrolladores. Es utilizado para crear aplicaciones web de una sola página (SPA) y aplicaciones web dinámicas. Angular proporciona un conjunto de herramientas y bibliotecas que simplifican el desarrollo de aplicaciones web complejas al seguir el patrón de arquitectura Modelo-Vista-Controlador (MVC) y ofrecer funcionalidades como enlace de datos bidireccional, inyección de dependencias, rutas, formularios reactivos, animaciones y mucho más https://angular.io/
 
 **Software Deployment**
+
 1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Seutilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederána través de la línea de comandos en sus sistemas locales. Ruta de referencia https://git-scm.com/
-   
+
 **Software Documentation and Project Management**
+
 1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración entiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través desus navegadores web. Ruta de referencia https://github.com/
 
 ### 5.1.2. Source Code Management
@@ -2248,36 +2419,35 @@ Estrucutra de las ramas:
 ### 5.1.3. Source Code Style Guide & Conventions
 
 **HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
- - Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
- - Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: ```<p> Código claro y legible.</p>```
-- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: ```<img src="image.img" alt="brief image name">```
-- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
-al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
-- No omitir las etiquetas ```<html>```, ```<body>``` y ```<header>```.
-- Escribir en una línea los comentarios cortos.
 
+- Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
+- Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: `<p> Código claro y legible.</p>`
+- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: `<img src="image.img" alt="brief image name">`
+- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
+  al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
+- No omitir las etiquetas `<html>`, `<body>` y `<header>`.
+- Escribir en una línea los comentarios cortos.
 
 **CSS**: Entre las prácticas se mencionan:
 
 - Los nombres de clases son intuitivos, legibles y autodescriptivos.
-- Separar los nombres de las clases y ID con guión, por ejemplo: ```#userViajero-id``` y``` .userImg-shape{} ```
+- Separar los nombres de las clases y ID con guión, por ejemplo: `#userViajero-id` y`.userImg-shape{}`
 - Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
 - Usar comentarios para explicar el código.
 - Aplicar sangría a todo el contenido de un bloque.
 
 **JavaScript**: Principales prácticas aplicadas:
 
-- Uso de camelCase para nombrar variables y funciones. Por ejemplo, ```myVariable``` y ```myFunction```. 
-- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, ```myClass```. 
+- Uso de camelCase para nombrar variables y funciones. Por ejemplo, `myVariable` y `myFunction`.
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, `myClass`.
 - Evitar el uso de nombres de variables genéricos o ambiguos.
 - Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
 - Uso de punto y coma al final de cada declaración.
 - Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
 - Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
-- Uso de el operador ternario ```(condición ? resultadoTrue : resultadoFalse)``` de manera adecuada y legible.
+- Uso de el operador ternario `(condición ? resultadoTrue : resultadoFalse)` de manera adecuada y legible.
 - Evitar el uso de funciones obsoletas o en desuso.
 - Uso de try-catch para manejar y gestionar errores de manera adecuada.
-
 
 **Gherking Language:** Lenguaje de dominio específico utilizado en Behavior Driven Development (BDD), se enfoca en facilitar la comunicación entre los equipos de negocios y técnicos al abordar los problemas concretos. Para mejorar la legibilidad y la organización de nuestrosd escenarios, se emplean saltos de línea y palabras clave como "Given", "When", "Then" y "And". Estas prácticas nos ayudan a estructurar de manera clara y efectiva los diferentes tipos de escenarios en BDD.
 
@@ -2371,19 +2541,115 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1
+
 En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
 <img src="images/5-2-1-2.png" alt="Trello" width="100%">
 
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-<p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS</p>
+<p align="justify">A continuación se presentan informacion de los commits de la Landing page de PocketPartners, con el uso de HTML, CSS y JavaScript</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>Landing Page</td>
+    <td>developer</td>
+    <td>1c23922a980579e72d882443b3c4d49823bbcbac</td>
+    <td>feat: navbar</td>
+    <td>08/10/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>84e4dbdcf1773fcfd5820743222dc1f490e8766c</td>
+    <td>feat: home</td>
+    <td>09/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3ed58ac70fba5ac93635032ee181856f107ccb33</td>
+    <td>feat(footer): added subscribe section in footer</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>1d21d009d135540353ccbdb44a64f18656e9c941</td>
+    <td>feat(footer): added footer info section with links and info about de company</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>8368ca2527fae35b1b94da3a03da0d3648473aa0</td>
+    <td>fix(footer): fixed styles in botton footer section</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>a6b9c0f3ec45231e74a78db230eb48c555b32229</td>
+    <td>fix(footer): icons size</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>e604b1c31ef96c3441acdd1294887eb738432ed1</td>
+    <td>feat: index de los services</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>5e8cfa0e61ca39da6d150a304ac2c50f20dfe9e5</td>
+    <td>feat: css de services</td>
+    <td>10/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>95d0e5d69e162c6805163ba5cbc179ee5c7d1a42</td>
+    <td>feat(footer): added hover in icons</td>
+    <td>10/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>272130405c146d13c389850eac08abdaeed5349e</td>
+    <td>feat: Add reviews</td>
+    <td>10/04/2024</td>
+  </tr>
+  </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript</p>
+
+<img align="center" src="images/home_deployed.png" alt="Home deployed" width="90%">
+
+<img align="center" src="images/services_deployed.png" alt="Services deployed" width="90%">
+
+<img align="center" src="images/plans_deployed.png" alt="Plans deployed" width="90%">
+
+<img align="center" src="images/about_deployed.png" alt="About deployed" width="90%">
+
+<img align="center" src="images/footer_deployed.png" alt="Footer deployed" width="90%">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2392,11 +2658,36 @@ En el primer Sprint, se implementará la página LandingPage de PocketPartners. 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+<p align = "justify">Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.</p>
+
+<p align = "justify">En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages. </p>
+
+<p align = "justify">Puedes acceder a la página de inicio a través del siguiente enlace: ----- </p>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del landing page
+en Github </p>
+
+<img align="center" src="images/participacion_landing.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion2_landing.png" alt="Footer deployed" width="90%">
+
+<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Informe
+en Github </p>
+
+<img align="center" src="images/participacion_informe.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion2_informe.png" alt="Footer deployed" width="90%">
 
 ## Avance de Conclusiones, Bibliografía y Anexos
 
 ### Conclusiones
+
+<p align="justify">La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.</p>
+
+<p align="justify">El equipo ha trabajado en el desarrollo de la aplicación, con contribuciones en el código de GitHub y el uso de herramientas como Visual Studio, HTML, y CSS. Se ha seguido la metodología GitFlow para el control del flujo de trabajo y la colaboración efectiva.</p>
+
+<p align="justify">Las entrevistas de validación y las preguntas diseñadas sugieren que el equipo está enfocado en la mejora continua y en la satisfacción del usuario. Esto es una práctica positiva para el desarrollo ágil.</p>
 
 ### Bibliografía
 
@@ -2407,11 +2698,21 @@ En el primer Sprint, se implementará la página LandingPage de PocketPartners. 
 
 ### Anexos
 
-Lean UX Canvas:
-Landing Page Figma: https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1 
-Wireframes y Mockups Figma: https://www.figma.com/file/aGnIQGSQByRUR5y16qirYd/Wireframe---Websites-PocketPartners?type=design&node-id=0%3A1&mode=design&t=A7asuU1bBsKnXbPR-1
-Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
-Landing Page:
-Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
-Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
-Entrevista 3: 
+<p align="justify">Lean UX Canvas: https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525 </p>
+
+<p align="justify">Landing Page Figma: https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1</p>
+
+<p align="justify">Wireframes y Mockups Figma: https://www.figma.com/file/aGnIQGSQByRUR5y16qirYd/Wireframe---Websites-PocketPartners?type=design&node-id=0%3A1&mode=design&t=A7asuU1bBsKnXbPR-1</p>
+
+<p align="justify">Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1</p>
+
+<p align="justify">Landing Page: </p>
+
+<p align="justify">Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO </p>
+
+<p align="justify">Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&
+nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
+
+<p align="justify">Entrevista 3: </p>
+
+<p align="justify">Video TB1: </p>
