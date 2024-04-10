@@ -79,6 +79,34 @@ Abril 2024
   </tbody>
 </table>
 
+# **Student Outcomes**
+
+<table>
+  <thead>
+    <tr>
+        <th>Criterio especifico</th>
+        <th>Acciones realizadas</th>
+        <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto eningeniería</strong></td>
+      <td>- Carbajal Pozzo, Joaquín Alonso TB1: En esta entrega se realizaron los diagramas C4, diagramasinvolucrados en el proceso de DDD o Domain Driven Design. Unacaracterística de esta metodología es el uso del lenguaje ubicuo quepermite a 	todos los stakeholders internos y externos del proyectoentender detalles técnicos a un alto nivel mediante la visualización de los diagramas  
+      	- Cisneros Tafur, Diego Rafael TB1: Realizó la seccion de header en el landing page, además de sucorrespondiente codigo en javascript para cumplir funcionalidades.Adicionalmente se encargo de documentar los commits realizados por elequipo. 	- Jarama Peñaloza, Fiorella TB1: Para el trabajo se hizo uso de github para documentar el trabajo demodo que se aprendió a utilizar conventional commits y gitflow de modoque se pueda tener una correcta comunicación escrita en lo 		quecorresponde a la documentación del proyecto, además de aprender autiizar el lenguaje markdown para comunicarlo mediante github en unarchivo README.md - Ramos Carpio, Karen TB1: En el informe se comunicaron las herramientas a utilizar, su 	utilidad ylas convenciones típicas, esto con el objetivo de documentar el procesode elaboración y de explicar a un público ajeno al entorno de desarrollode software los pasos necesarios para diseñar a la aplicación Ventura Allasi, 	- Randel 	Russell TB1: Avance con tood el capitulo 4 y avance con el diagrama de base de datos</td>
+      <td>Se logró realizar un trabajo sobresaliente,pues cumplimos con todos los segmentosdel trabajo, de tal manera que se puedaentregar un trabajo digno. El documentoredactado se presenta como un sustentoescrito para todo aquel que desee 	conocera detalle los pasos seguidos para planificar,desarrollar y enviar el proyecto aproducción</td>
+  </tr>
+   <tr>
+      <td><strong>Comunicaoralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
+      <td>- Carbajal Pozzo, Joaquín Alonso TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de requirements elicitation, se comunicó lapropuesta de solución a los clientes esperados del proyecto 	y se dirigió eldiseño de la solución a una opción que cumple con los requisitossolicitados.
+      	- Cisneros Tafur, Diego Rafael TB1: Encargado de realizar la sección de sprint donde se incluye el sprintbacklog y sprint planning. De la mismas forma trabajo en el figmadiseñando la landing page y su versión responsive al igual que la 
+       versiónresponsive de la aplicación web. Ramos Carpio, Karen TB1: TB1: A lo hora de realizar el trabajo se tuvo que mantener un constatecontacto con nuestros segmento objetivo para poder delimitarcorrectamente nuestra solución, asímismo 	mantener una buenacomunicación y organización mediante reuniones. - Jarama Peñaloza, Fiorella TB1: Para culminar la entrega de esta primera versión del trabajo final,resultó necesario realizar exposiciones grabadas dentro de las cuales 	seexpresan los requisitos del proyecto, cómo estos fueron implementados ycuál fue el ciclo de vida del desarrollo del software a elaborar - Randel Russell TB1: Avance con tood el capitulo 4 y avance con el diagrama de base de datos</td>
+      <td>Como equipo pudimos establecer mediosde comunicación para poder entregar un trabajo completo ante el obstáculo quesuponen los cortos períodos de tiempopara la entrega del proyecto. De la mismamanera, se comunicaron los 			resultadosobtenidos a los stakeholders, quienes através de una serie de entrevistasdemostraron su satisfacción con elprograma </td>
+  </tr>
+	  
+  </tbody>
+</table>
+
 # **Project Report Collaboration Insights**
 
 URL Project Report (Github): https://github.com/PocketPartners/Informe
