@@ -1039,72 +1039,81 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   -->
   <tr>
       <td><strong>EP13</strong></td>
-      <td>Titulo US13</td>
+      <td>US13 - Adición de recibos de gastos</td>
       <td>
-          Descripción US13
+          Como usuario, quiero tener la opción de adjuntar recibos o imágenes a mis gastos para mantener un registro visual de mis transacciones.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Adición de recibos de gastos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar un nuevo recibo a un grupo existente <br>
+        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir recibo" en el recuadro del grupo deseado <br>
+        <strong>Entonces</strong> Podré añadir las imágenes adjuntas junto con los detalles del gasto y agregarlo a la lista de gastos del grupo.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US14
   -->
   <tr>
       <td><strong>EP14</strong></td>
-      <td>Titulo US14</td>
+      <td>US14 - Importar datos</td>
       <td>
-          Descripción US14
+          Como usuario, quiero poder importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Importar datos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero importar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para 
+        facilitar la integración y la transferencia de información.<br>
+        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Importar servicios externos de gestión financiera" en el recuadro del grupo deseado <br>
+        <strong>Entonces</strong> la aplicacion generara una importación y exportación automática de datos.
       </td>
       <td>
-        EP01, EP02, ...
+        EP03, EP04
       </td>
   </tr>
   <!-- US15
   -->
   <tr>
       <td><strong>EP15</strong></td>
-      <td>Titulo US15</td>
+      <td>US15 - Modificación de notas en los gastos</td>
       <td>
-          Descripción US15
+          Como usuario, quiero tener la opción de agregar notas o comentarios a cada gasto compartido, para proporcionar contexto adicional o aclaraciones sobre la transacción.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Modificación de notas en gastos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar notas según sea necesario.<br>
+        <strong>Cuando</strong> Entre al detalle de gastos y a agrega notas<br>
+        <strong>Entonces</strong> se debe mostrar las notas junto con los detalles del gasto en la lista de transacciones.
+	<strong>Escenario 2: Eliminacion de notas en gastos</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero eliminar notas según sea necesario.<br>
+        <strong>Cuando</strong> Entre al detalle de gastos y a eliminar notas<br>
+        <strong>Entonces</strong> se debe eliminar las notas junto con los detalles del gasto en la lista de transacciones.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US16
   -->
   <tr>
       <td><strong>EP16</strong></td>
-      <td>Titulo US16</td>
+      <td>US16 - Pago recurrente</td>
       <td>
-          Descripción US16
+          Como usuario, quiero poder establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos 	  manualmente cada vez.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Agregar Pago Recurrente</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere programar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
+        <strong>Cuando</strong> Entre a la opcion Pagos Recurrentes <br>
+        <strong>Entonces</strong> Podré generar automáticamente los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
+	<strong>Escenario 2: Eliminar Pago Recurrente</strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere eliminar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
+        <strong>Cuando</strong> Entre a la opcion Pagos Recurrentes <br>
+        <strong>Entonces</strong> Podré eliminar los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
       </td>
       <td>
-        EP01, EP02, ...
+        EP02
       </td>
   </tr>
   <!-- US17
