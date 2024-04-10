@@ -2174,11 +2174,8 @@ Estrucutra de las ramas:
 ### Bibliografía
 
 <p>Dividir gastos con amigos. (n.d.). Splitwise. https://www.splitwise.com/</p>
-<br>
 <p>Tricount - Organiza tus gastos en groupo. (n.d.). Tricount.com. https://www.tricount.com/es/hacer-cuentas-entre-amigos</p>
-<br>
 <p>Expansión. (2023, June 13). Cuentas claras, amistades largas: apps para dividir gastos. Expansión. https://expansion.mx/tecnologia/2023/06/13/apps-para-dividir-gastos</p>
-<br>
 <p>Cronista, E. (2023, September 4). Esta app gratuita es ideal para llevar las cuentas en común y tenés que probarla. ECC. https://www.cronista.com/infotechnology/actualidad/esta-app-gratuita-es-ideal-para-llevar-las-cuentas-en-comun-y-tenes-que-probarla/</p>
 
 ### Anexos
