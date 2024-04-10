@@ -389,8 +389,28 @@ Creemos que si implementamos medidas de seguridad adicionales para proteger la i
 #### 1.2.2.4. Lean UX Canvas
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital Mural:
+<p style="text-align: center" align="center"> <p align="center"><img src="images/LeanuxCanvas.png" alt="Lean Ux Canvas PocketPartners" width="40%"></p></p>
+<A HREF="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525"> Lean UX Canvas PocketPartners </A>
 
 ## 1.3. Segmentos objetivo
+
+El segmento objetivo de PcketPartners consiste en personas y grupos que comparten gastos y desean una solución conveniente y efectiva para rastrear, dividir y liquidar esos gastos. Aquí hay algunos segmentos específicos que podrían formar parte del público objetivo de PocketPartners:
+
+Grupos de Amigos o Compañeros de Piso: Personas que comparten gastos comunes, como el alquiler, las facturas de servicios públicos, las compras de comestibles y las salidas sociales.
+
+Familias o Parejas: Hogares que desean administrar y dividir los gastos compartidos, incluyendo facturas, compras familiares y actividades recreativas.
+
+Grupos de Viajeros: Amigos o familiares que viajan juntos y necesitan rastrear y dividir los gastos relacionados con el transporte, el alojamiento, la comida y las actividades turísticas.
+
+Grupos de Trabajo o Proyectos: Equipos que colaboran en proyectos o actividades compartidas y necesitan una forma de dividir y registrar los gastos relacionados con el trabajo.
+
+Estudiantes o Residentes Universitarios: Estudiantes universitarios que viven juntos o comparten gastos de manera informal, como el alquiler de alojamiento, la compra de alimentos y los gastos de ocio.
+
+Profesionales Autónomos o Freelancers: Individuos que trabajan de forma independiente y necesitan rastrear y dividir los gastos relacionados con proyectos, clientes y actividades laborales.
+
+Grupos de Organizaciones sin Fines de Lucro o Clubes: Organizaciones sin fines de lucro, asociaciones o clubes que necesitan una manera de administrar y dividir los gastos compartidos entre sus miembros.
+
+PcketPartners se dirige a una amplia variedad de usuarios que comparten gastos en diferentes contextos y situaciones de la vida, ofreciendo una solución versátil y adaptable para satisfacer las necesidades de estos segmentos específicos.
 
 # Capítulo II Requirements Elicitation & Analysis
 
