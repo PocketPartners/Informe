@@ -417,6 +417,8 @@ Creemos que si implementamos medidas de seguridad adicionales para proteger la i
 #### 1.2.2.4. Lean UX Canvas
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital Mural:
+<p style="text-align: center" align="center"> <p align="center"><img src="images/LeanuxCanvas.png" alt="Lean Ux Canvas PocketPartners" width="40%"></p></p>
+<A HREF="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525"> Lean UX Canvas PocketPartners </A>
 
 <p style="text-align: center" align="center"> <p align="center"><img src="images/LeanuxCanvas.png" alt="Lean Ux Canvas PocketPartners" width="40%"></p></p>
 <A HREF="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525"> Lean UX Canvas PocketPartners </A>
@@ -718,6 +720,19 @@ El entrevistado indica que al momento de viajar o en salidas con amigos y a la v
 ##### Resumen de la entrevista
 
 La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto PocketPartners.
+
+#### Elizabeth Saico Quispe, 32 años.
+
+ <div align="center">
+  <img src="images/entrevista.PNG"/>
+ </div>
+ 
+ Link de la entrevista: https://www.youtube.com/watch?v=-d7Rogkp794
+
+
+##### Resumen de la entrevista
+
+La entrevistada indica que es muy importante llevar el gasto, ya que algunas ocasionaes uno paga ya sea con yape o tranferencia y los demas le hacen en recargo, pero muchas veces es tedioso llevar un control en imagenes de dichos pagos la mayoria de veces solo se usa whatsapp sobre todo cuandos se tiene un viaje programado, por ahora el unico registro que lleva es el del historial de imagenes de whatsapp y el registrr de movimiento de sus tarjetas. Con el pasar de los dias de la finalizacion de algun viaje eso termina olvidandose y nunca se saldan cuentas.<br>
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -2647,7 +2662,7 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
 
 <p align = "justify">En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages. </p>
 
-<p align = "justify">Puedes acceder a la página de inicio a través del siguiente enlace: ----- </p>
+<p align = "justify">Se puede acceder a la página de inicio a través del siguiente enlace: https://pocketpartners.github.io/LadingPage/  </p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 <p align = "justify">A continuación se presentan capturas de los insights del repositorio del landing page
@@ -2691,13 +2706,13 @@ en Github </p>
 
 <p align="justify">Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1</p>
 
-<p align="justify">Landing Page: </p>
+<p align="justify">Landing Page:https://pocketpartners.github.io/LadingPage/ </p>
 
 <p align="justify">Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO </p>
 
 <p align="justify">Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&
 nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
 
-<p align="justify">Entrevista 3: </p>
+<p align="justify">Entrevista 3: https://www.youtube.com/watch?v=-d7Rogkp794</p>
 
 <p align="justify">Video TB1: </p>
