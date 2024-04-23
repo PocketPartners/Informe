@@ -1882,6 +1882,12 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
 <p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
 
+## 4.5. Web Applications Prototyping
+
+<p align="justify">Nuestro prototipo de LandingPage: https://pocketpartners.github.io/LandingPage/ </p>
+
+<p align="center"><img src="images/home_deployed.png" alt="Home Deploy" width="100%"></p>
+
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
@@ -2706,7 +2712,7 @@ en Github </p>
 
 <p align="justify">Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1</p>
 
-<p align="justify">Landing Page:https://pocketpartners.github.io/LadingPage/ </p>
+<p align="justify">Landing Page:https://pocketpartners.github.io/LandingPage/ </p>
 
 <p align="justify">Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO </p>
 
