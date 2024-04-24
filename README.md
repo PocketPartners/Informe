@@ -1851,10 +1851,16 @@ El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y el
 
 <p align="center"><img src="images/userflowLogIn.png" alt="UserFlow ingreso" width="100%"></p>
 
+Error al ingresar a la cuenta
+<p align="center"><img src="images/inicio-error.jpg" alt="Error al iniciar sesión" width="100%"></p>
+
 #### User goal: Crear una cuenta
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
 
 <p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
+
+Error al crear una cuenta nueva
+<p align="center"><img src="images/crear-error.jpg" alt="Error al crear una cuenta nueva" width="100%"></p>
 
 #### User goal: Editar cuenta
 El usuario desea realizar ajustes y cambios en su cuenta
@@ -1876,6 +1882,9 @@ El usuario desea crear un grupo nuevo para empezar a dividir sus cuentas con los
 
 <p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
 
+Error al crear el grupo nuevo por falta de datos
+<p align="center"><img src="images/nuevoGrupo-error.jpg" alt="Error al crear un nuevo grupo" width="100%"></p>
+
 #### User goal: Consultar pagos entrantes
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
 
@@ -1890,6 +1899,9 @@ El usuario desea consultar sus pagos realizados y pagos faltantes
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
 <p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
+
+Error al registrar el nuevo gasto por falta de datos
+<p align="center"><img src="images/nuevoGasto-error.jpg" alt="Error al registrar un nuevo gasto" width="100%"></p>
 
 ## 4.5. Web Applications Prototyping
 
