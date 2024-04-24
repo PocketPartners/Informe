@@ -1846,38 +1846,47 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.
+#### User goal: Consultar movimientos y resumen.
+El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y el resumen de su cuenta.
 
 <p align="center"><img src="images/userflowLogIn.png" alt="UserFlow ingreso" width="100%"></p>
 
+#### User goal: Crear una cuenta
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
 
 <p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
 
+#### User goal: Editar cuenta
 El usuario desea realizar ajustes y cambios en su cuenta
 
 <p align="center"><img src="images/userflowSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
 
+#### User goal: Exportar datos
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
 
 <p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
 
-El usuario desea agregar un grupo o relizar un nuevo pago.
+#### User goal: Acceder menú agregar
+El usuario desea crear un grupo nuevo o relizar un pago a algún miembro perteneciente a un grupo existente.
 
 <p align="center"><img src="images/userflowAdd.png" alt="UserFlow agregar" width="100%"></p>
 
-El usuario desea crear un grupo
+#### User goal: Crear grupo
+El usuario desea crear un grupo nuevo para empezar a dividir sus cuentas con los otros miembros.
 
 <p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
 
+#### User goal: Consultar pagos entrantes
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
 
 <p align="center"><img src="images/userflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
 
+#### User goal: Consultar pagos salientes
 El usuario desea consultar sus pagos realizados y pagos faltantes
 
 <p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
 
+#### User goal: Registrar un nuevo gasto
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
 <p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
