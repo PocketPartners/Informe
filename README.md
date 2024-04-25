@@ -1938,10 +1938,11 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.3. Software Architecture Components Diagrams.
 
   <div align="center">
-        <img src="images/Component-diagram.png" alt="Component Diagram" width="100%">
+        <img src="images/Component-frotend-diagram.png" alt="Component Diagram" width="100%">
+        <img src="images/Component-backend-diagram.png" alt="Component Diagram" width="100%">
   </div>
 <p align ="justify">
-      El presente diagrama expone en detalle los componentes que integran la aplicación, 
+      Los diagrama exponen en detalle los componentes que integran la aplicación, 
       incluyendo las interfaces y dependencias entre ellos.
       Se ilustra la estructura interna de la aplicación y la forma en que los 
       distintos componentes mantienen una interconexión para ofrecer los servicios que el usuario demanda.
