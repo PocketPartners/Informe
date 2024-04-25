@@ -450,7 +450,7 @@ PcketPartners se dirige a una amplia variedad de usuarios que comparten gastos e
 
 ### 2.1.1. Análisis Competitivo
 
-<table>
+<table border>
     <thead>
         <tr >
             <th colspan=6 style="text-align: center">
@@ -756,9 +756,9 @@ La entrevistada indica que es muy importante llevar el gasto, ya que algunas oca
 
 ### 2.3.2 User task Matrix
 
-<table>
+<table >
     <thead>
-        <tr >
+        <tr>
         	<th colspan=1 style="text-align: center"></th>
 		<th colspan=2 style="text-align: center">Viajero</th>
 		<th colspan=2 style="text-align: center">Frecuenta restaurantes</th>
@@ -939,7 +939,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.2 User Stories
 
-<table>
+<table border>
   <thead>
     <tr>
         <th><h2>Epic/User Story ID</h2></th>
@@ -949,11 +949,10 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         <th><h2>Relacionado con (Epic ID)</h2></th>
     </tr>
   </thead>
-
   <tbody>
   <!-- US01
   -->
-  <tr>
+    <tr>
       <td rowspan=4 style="text-align: center" align="center"><b>EP01</b></td>
       <td style="text-align: center" align="center">US1 - Recibir notificaciones</td>
       <td style="text-align: center" align="center">
@@ -968,7 +967,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td style="text-align: center" align="center">
         EP03
       </td>
-  </tr>
+    </tr>
   <!-- US02
   -->
   <tr>
