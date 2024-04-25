@@ -1430,8 +1430,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   </tbody>
 </table>
 
-
-
 ## 3.3 Impact Mapping
 
 #### Mejorar la experiencia de distribución de movimientos financieros grupales.
@@ -1580,98 +1578,96 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>8</td>
     </tr>  
     <tr style="text-align: center;">
-
       <td>18</td>
       <td>T-08</td>
       <td>Desarrollar funciones de búsqueda avanzada</td>
       <td style="text-align: justify;">Crear herramientas de búsqueda que permitan a los usuarios encontrar rápidamente información específica sobre sus gastos.</td>
       <td>8</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>19</td>
       <td>US3</td>
       <td>Division de presupuesto</td>
       <td style="text-align: justify;">Opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos</td>
       <td>8</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>20</td>
       <td>US7</td>
       <td>Rastreador de Deuda</td>
       <td style="text-align: justify;">Rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.</td>
       <td>8</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>21</td>
       <td>T-06</td>
       <td>Desarrollar un sistema de reportes personalizados</td>
       <td style="text-align: justify;">Crear herramientas que permitan a los usuarios generar informes detallados y personalizados sobre sus gastos grupales. Estos informes podrían incluir gráficos, tablas y otros elementos visuales para ayudar a los usuarios a analizar y comprender mejor sus patrones de gasto.</td>
       <td>8</td>
-    </tr> 
+    </tr>
     <tr style="text-align: center;">
       <td>22</td>
       <td>US4</td>
       <td>Exportar Detalles</td>
       <td style="text-align: justify;">Exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.</td>
       <td>8</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>23</td>
       <td>T-10</td>
       <td>Optimizar la interfaz de usuario</td>
       <td style="text-align: justify;">Mejorar la interfaz de usuario para que sea más intuitiva y fácil de usar para los usuarios finales.</td>
       <td>8</td>
-    </tr> 
+    </tr>
     <tr style="text-align: center;">
       <td>24</td>
       <td>US06</td>
       <td>Conversor de Moneda Integrado</td>
       <td style="text-align: justify;">Convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
       <td>8</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
-
       <td>25</td>
       <td>T-07</td>
       <td>Desarrollar un sistema de análisis de datos</td>
       <td style="text-align: justify;">Crear herramientas que permitan a los usuarios analizar sus gastos grupales de forma visual y comprensible.</td>
       <td>13</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>26</td>
       <td>US14</td>
       <td>Importar datos</td>
       <td style="text-align: justify;">Importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.</td>
       <td>13</td>
-    </tr>     
+    </tr>
     <tr style="text-align: center;">
       <td>27</td>
       <td>US19</td>
       <td>Mejora de subscripción</td>
       <td style="text-align: justify;">Cambio de subscripción para tener un mejor acceso a mejores servicios de SplitWise</td>
       <td>13</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>28</td>
       <td>T-09</td>
       <td>Implementar pruebas automatizadas</td>
       <td style="text-align: justify;">Desarrollar pruebas automatizadas para garantizar la calidad del código y la funcionalidad de la aplicación.</td>
       <td>13</td>
-    </tr> 
+    </tr>
     <tr style="text-align: center;">
       <td>29</td>
       <td>US20</td>
       <td>Acceso a versión de prueba</td>
       <td style="text-align: justify;">Acceso o a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.</td>
       <td>13</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>30</td>
       <td>T-04</td>
       <td>Optimizar el rendimiento de la aplicación</td>
       <td style="text-align: justify;"> Mejorar la velocidad y eficiencia de la aplicación para ofrecer una experiencia de usuario más fluida.</td>
       <td>13</td>
-    </tr>      
+    </tr>
   </tbody>  
 </table>
 
