@@ -942,11 +942,11 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 <table>
   <thead>
     <tr>
-        <th>Epic/User Story ID</th>
-        <th>Titulo</th>
-        <th>Descripción</th>
-        <th>Criterios de aceptación</th>
-        <th>Relacionado con (Epic ID)</th>
+        <th><h2>Epic/User Story ID</h2></th>
+        <th><h2>Titulo</h2></th>
+        <th><h2>Descripción</h2></th>
+        <th><h2>Criterios de aceptación</h2></th>
+        <th><h2>Relacionado con (Epic ID)</h2></th>
     </tr>
   </thead>
 
@@ -954,415 +954,401 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US01
   -->
   <tr>
-      <td><strong>EP01</strong></td>
-      <td>US1 - Recibir notificaciones</td>
-      <td>
+      <td rowspan=4 style="text-align: center" align="center"><b>EP01</b></td>
+      <td style="text-align: center" align="center">US1 - Recibir notificaciones</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero recibir notificaciones automáticas cuando se agreguen nuevos gastos compartidos para mantenerme al tanto de las actualizaciones en mis finanzas compartidas y evitar perder información importante.
       </td>
-      <td>
-        <strong>Escenario 1: Recibir Notificacion</strong> <br>
-        <strong>Dado que</strong> el usuario utiliza la aplicación PocketPartners en mi navegador web y ha activado las notificaciones, <br>
-        <strong>Cuando</strong> agregue un nuevo gasto compartido asociado a uno de sus contactos ficticios mientras está conectado a la aplicación, <br>
-        <strong>Entonces</strong> mirará una notificación emergente en la pantalla de su navegador que le informe sobre la actualización de sus finanzas compartidas.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Recibir Notificacion</b> <br>
+        <b>Dado que</b> el usuario utiliza la aplicación PocketPartners en mi navegador web y ha activado las notificaciones, <br>
+        <b>Cuando</b> agregue un nuevo gasto compartido asociado a uno de sus contactos ficticios mientras está conectado a la aplicación, <br>
+        <b>Entonces</b> mirará una notificación emergente en la pantalla de su navegador que le informe sobre la actualización de sus finanzas compartidas.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP03
       </td>
   </tr>
-  <!--
+  <!-- US02
   -->
   <tr>
-      <td><strong>EP01</strong></td>
-      <td>US2 - Añadir o Eliminar Transacciones</td>
-      <td>
+      <td style="text-align: center" align="center">US2 - Añadir o Eliminar Transacciones</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero poder editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.
       </td>
-      <td>
-        <strong>Escenario 1: Observar opciones</strong> <br>
-        <strong>Dado que</strong> el usuario se ha registrado en la aplicación PocketPartners y ha iniciado sesión en su cuenta, <br>
-        <strong>Cuando</strong> acceda a la sección de "Historial de Transacciones" o "Registro de Gastos", <br>
-        <strong>Entonces</strong> mirará una lista de todas las transacciones registradas, con opciones para editar o eliminar cada una. <br>
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Observar opciones</b> <br>
+        <b>Dado que</b> el usuario se ha registrado en la aplicación PocketPartners y ha iniciado sesión en su cuenta, <br>
+        <b>Cuando</b> acceda a la sección de "Historial de Transacciones" o "Registro de Gastos", <br>
+        <b>Entonces</b> mirará una lista de todas las transacciones registradas, con opciones para editar o eliminar cada una. <br>
         <br> 
-        <strong>Escenario 2: Editar detalles</strong> <br>
-        <strong>Dado que</strong> el usuario está visualizando la lista de transacciones en la aplicación PocketPartners, <br>
-        <strong>Cuando</strong> seleccione una transacción específica que desea editar, <br>
-        <strong>Entonces</strong> podrá acceder a un formulario de edición donde pueda modificar los detalles de la transacción, el monto, la descripción o la fecha. <br>
+        <b>Escenario 2: Editar detalles</b> <br>
+        <b>Dado que</b> el usuario está visualizando la lista de transacciones en la aplicación PocketPartners, <br>
+        <b>Cuando</b> seleccione una transacción específica que desea editar, <br>
+        <b>Entonces</b> podrá acceder a un formulario de edición donde pueda modificar los detalles de la transacción, el monto, la descripción o la fecha. <br>
         <br>
-        <strong>Escenario 3: Eliminar transaccion</strong> <br>
-        <strong>Dado que</strong> el usuario desea eliminar una transacción registrada incorrectamente, <br>
-        <strong>Cuando</strong>seleccione la opción para eliminar una transacción específica, <br>
-        <strong>Entonces</strong> mirará una confirmación de eliminación y, al confirmar, la transacción se eliminará de su historial de transacciones de manera permanente.<br>
+        <b>Escenario 3: Eliminar transaccion</b> <br>
+        <b>Dado que</b> el usuario desea eliminar una transacción registrada incorrectamente, <br>
+        <b>Cuando</b>seleccione la opción para eliminar una transacción específica, <br>
+        <b>Entonces</b> mirará una confirmación de eliminación y, al confirmar, la transacción se eliminará de su historial de transacciones de manera permanente.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP01, EP02, ...
       </td>
   </tr>
   <!-- US03  
   -->
   <tr>
-      <td><strong>EP01</strong></td>
-      <td>US3 - Division de presupuesto</td>
-      <td>
+      <td style="text-align: center" align="center">US3 - Division de presupuesto</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero tener la opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos.
       </td>
-      <td>
-        <strong>Escenario 1: Dividir igualmente</strong> <br>
-        <strong>Dado que</strong> el usuario registrado en PocketPartners y está creando un nuevo gasto compartido, <br>
-        <strong>Cuando</strong> ingresa los detalles del gasto, como el monto total y la descripción, <br>
-        <strong>Entonces</strong> tendrá la opción de seleccionar la función "Dividir Equitativamente" antes de guardar el gasto.<br>
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Dividir igualmente</b> <br>
+        <b>Dado que</b> el usuario registrado en PocketPartners y está creando un nuevo gasto compartido, <br>
+        <b>Cuando</b> ingresa los detalles del gasto, como el monto total y la descripción, <br>
+        <b>Entonces</b> tendrá la opción de seleccionar la función "Dividir Equitativamente" antes de guardar el gasto.<br>
         <br>
-        <strong>Escenario 2: Division</strong> <br>
-        <strong>Dado que</strong> ha seleccionado la opción "Dividir Equitativamente" al crear un nuevo gasto, <br>
-        <strong>Cuando</strong> el gasto se guarda exitosamente, <br>
-        <strong>Entonces</strong> el monto total del gasto se dividirá automáticamente de manera equitativa entre todos los miembros del grupo.<br>
+        <b>Escenario 2: Division</b> <br>
+        <b>Dado que</b> ha seleccionado la opción "Dividir Equitativamente" al crear un nuevo gasto, <br>
+        <b>Cuando</b> el gasto se guarda exitosamente, <br>
+        <b>Entonces</b> el monto total del gasto se dividirá automáticamente de manera equitativa entre todos los miembros del grupo.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP01
       </td>
   </tr>
   <!-- US04
   -->
   <tr>
-      <td><strong>EP01</strong></td>
-      <td>US4 - Exportar Detalles</td>
-      <td>
+      <td style="text-align: center" align="center">US4 - Exportar Detalles</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero poder exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.
       </td>
-      <td>
-        <strong>Escenario 1: Encontrar Boton</strong> <br>
-        <strong>Dado que</strong> el usuario se ha registrado en PocketPartners y desea exportar un resumen de las transacciones de grupo, <br>
-        <strong>Cuando</strong> acceda a la sección de "+ detalles" o "Informe de Gastos", <br>
-        <strong>Entonces</strong> encontrará una opción claramente etiquetada para exportar el resumen de transacciones.<br>
-        <strong>Escenario 2: Exportar resumen</strong> <br>
-        <strong>Dado que</strong>  ha seleccionado la opción de exportar un resumen de transacciones,<br>
-        <strong>Cuando</strong> elija el formato de archivo deseado, como PDF o CSV, <br>
-        <strong>Entonces</strong> la aplicación generará automáticamente el archivo de resumen en el formato seleccionado y comenzará la descarga.<br>
-        <strong>Y</strong> podrá ver claramente un resumen detallado de sus transacciones, incluyendo la fecha, el monto y la descripción de cada transacción.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Encontrar Boton</b> <br>
+        <b>Dado que</b> el usuario se ha registrado en PocketPartners y desea exportar un resumen de las transacciones de grupo, <br>
+        <b>Cuando</b> acceda a la sección de "+ detalles" o "Informe de Gastos", <br>
+        <b>Entonces</b> encontrará una opción claramente etiquetada para exportar el resumen de transacciones.<br>
+	<br>
+        <b>Escenario 2: Exportar resumen</b> <br>
+        <b>Dado que</b>  ha seleccionado la opción de exportar un resumen de transacciones,<br>
+        <b>Cuando</b> elija el formato de archivo deseado, como PDF o CSV, <br>
+        <b>Entonces</b> la aplicación generará automáticamente el archivo de resumen en el formato seleccionado y comenzará la descarga.<br>
+        <b>Y</b> podrá ver claramente un resumen detallado de sus transacciones, incluyendo la fecha, el monto y la descripción de cada transacción.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP03
       </td>
   </tr>
   <!-- US05
   -->
   <tr>
-      <td><strong>EP02</strong></td>
-      <td>US5 -Acceso Seguro</td>
-      <td>
+	<td rowspan=4 style="text-align: center" align="center"><b>EP02</b></td>  
+      <td style="text-align: center" align="center">US5 -Acceso Seguro</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero que mi información sea accesible unicamente por mi o con una autorización especial para garantizar la seguridad y privacidad de mis datos financieros compartidos.
       </td>
-      <td>
-        <strong>Escenario 1: Acceso Seguro</strong> <br>
-        <strong>Dado que</strong> el usuario se ha registrado en la aplicación PocketPartners, <br>
-        <strong>Cuando</strong>  Intente iniciar sesión, la aplicación le solicitará su nombre de usuario y contraseña o podrá utilizar Google o Facebook. <br>
-        <strong>Entonces</strong> si ingreso los detalles correctamente, podré tener acceso a mi cuenta.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Acceso Seguro</b> <br>
+        <b>Dado que</b> el usuario se ha registrado en la aplicación PocketPartners, <br>
+        <b>Cuando</b>  Intente iniciar sesión, la aplicación le solicitará su nombre de usuario y contraseña o podrá utilizar Google o Facebook. <br>
+        <b>Entonces</b> si ingreso los detalles correctamente, podré tener acceso a mi cuenta.<br>
         <br>
-        <strong>Escenario 2: Olvidar Contraseña</strong> <br>
-        <strong>Dado que</strong> el usuario ha olvidado su contraseña y necesita restablecerla, <br>
-        <strong>Cuando</strong> seleccione la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión, <br>
-        <strong>Entonces</strong> recibirá un enlace de restablecimiento de contraseña en su correo electrónico registrado para crear una nueva contraseña y acceder a su cuenta.
+        <b>Escenario 2: Olvidar Contraseña</b> <br>
+        <b>Dado que</b> el usuario ha olvidado su contraseña y necesita restablecerla, <br>
+        <b>Cuando</b> seleccione la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión, <br>
+        <b>Entonces</b> recibirá un enlace de restablecimiento de contraseña en su correo electrónico registrado para crear una nueva contraseña y acceder a su cuenta.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP02
       </td>
   </tr>
   <!-- US06
   -->
   <tr>
-      <td><strong>EP02</strong></td>
-      <td>US06 - Conversor de Moneda Integrado</td>
-      <td>
+      <td style="text-align: center" align="center">US06 - Conversor de Moneda Integrado</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.
       </td>
-      <td>
-        <strong>Escenario 1: Acceso al Conversor</strong> <br>
-        <strong>Dado que</strong> 
-        el usuario se haya registrado en la aplicación y desea convertir un monto de transacción a una moneda diferente, <br>
-        <br>
-        <strong>Cuando</strong> revise los detalles de una transacción específica, <br>
-        <br>
-        <strong>Entonces</strong> encontrará una opción claramente etiquetada para acceder al conversor de moneda integrado.<br>
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Acceso al Conversor</b> <br>
+        <b>Dado que</b> el usuario se haya registrado en la aplicación y desea convertir un monto de transacción a una moneda diferente, <br>
+        <b>Cuando</b> revise los detalles de una transacción específica, <br>
+        <b>Entonces</b> encontrará una opción claramente etiquetada para acceder al conversor de moneda integrado.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP03
       </td>
   </tr>
   <!-- US07
   -->
   <tr>
-      <td><strong>EP02</strong></td>
-      <td>US7 - Rastreador de Deuda</td>
-      <td>
+      <td style="text-align: center" align="center">US7 - Rastreador de Deuda</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero poder rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.
       </td>
-      <td>
-        <strong>Escenario 1: Rastreador de Deuda</strong> <br>
-        <strong>Dado que</strong> que el usuario esté en la aplicación PocketPartners, <br>
-        <strong>Cuando</strong>  seleccione el módulo de "Rastreador de Deuda", <br>
-        <strong>Entonces</strong> mirará una lista de todas las deudas pendientes y el nombre del deudor.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Rastreador de Deuda</b> <br>
+        <b>Dado que</b> que el usuario esté en la aplicación PocketPartners, <br>
+        <b>Cuando</b>  seleccione el módulo de "Rastreador de Deuda", <br>
+        <b>Entonces</b> mirará una lista de todas las deudas pendientes y el nombre del deudor.<br>
         <br>
-        <strong>Escenario 2: Notificar al deudor</strong><br>
-        <strong>Dado que</strong> el usuario desea recordar a un deudor sobre una deuda pendiente, <br>
-        <strong>Cuando</strong> seleccione la opción "Notificar al Deudor", <br>
-        <strong>Entonces</strong> podrá enviar una notificación automática al deudor para recordarle sobre la deuda pendiente.
-      </td>
-      <td>
+        <b>Escenario 2: Notificar al deudor</b><br>
+        <b>Dado que</b> el usuario desea recordar a un deudor sobre una deuda pendiente, <br>
+        <b>Cuando</b> seleccione la opción "Notificar al Deudor", <br>
+        <b>Entonces</b> podrá enviar una notificación automática al deudor para recordarle sobre la deuda pendiente.<br>
+      </td style="text-align: center" align="center">
+      <td style="text-align: center" align="center">
         EP01, EP02
       </td>
   </tr>
   <!-- US08
   -->
   <tr>
-      <td><strong>EP02</strong></td>
-      <td>US8 - Balance General</td>
-      <td>
+      <td style="text-align: center" align="center">US8 - Balance General</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.	
       </td>
-      <td>
-        <strong>Escenario 1: Acceso al Balance General</strong> <br>
-        <strong>Dado que</strong> 
-        el usuario registrado ha ingresado en la aplicación PocketPartners y desea visualizar su balance general, <br>
-        <strong>Cuando</strong> Acceda a la sección de "Mi Balance" o "Resumen Financiero", <br>
-        <strong>Entonces</strong> mirará un resumen detallado de sus ingresos y egresos, incluyendo el saldo actual y los gastos totales.
-        <strong>Escenario 2: Filtrar por Fecha</strong> <br>
-        <strong>Dado que</strong> el usuario desea visualizar su balance general para un período de tiempo específico, <br>
-        <strong>Cuando</strong> seleccione la opción "Filtrar por Fecha", <br>
-        <strong>Entonces</strong> podrá seleccionar un rango de fechas personalizado para ver el balance general correspondiente a ese período.
-        <strong>Escenario 3: Detalles del Balance</strong> <br>
-        <strong>Dado que</strong> el usuario está revisando el resumen de su balance, <br>
-        <strong>Cuando</strong> seleccione una categoría específica, <br>
-        <strong>Entonces</strong> mirará la lista de transacciones correspondientes a esa categoría para un análisis más detallado.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Acceso al Balance General</b> <br>
+        <b>Dado que</b> el usuario registrado ha ingresado en la aplicación PocketPartners y desea visualizar su balance general, <br>
+        <b>Cuando</b> Acceda a la sección de "Mi Balance" o "Resumen Financiero", <br>
+        <b>Entonces</b> mirará un resumen detallado de sus ingresos y egresos, incluyendo el saldo actual y los gastos totales.<br>
+	<br>
+        <b>Escenario 2: Filtrar por Fecha</b> <br>
+        <b>Dado que</b> el usuario desea visualizar su balance general para un período de tiempo específico, <br>
+        <b>Cuando</b> seleccione la opción "Filtrar por Fecha", <br>
+        <b>Entonces</b> podrá seleccionar un rango de fechas personalizado para ver el balance general correspondiente a ese período.<br>
+	<br>
+        <b>Escenario 3: Detalles del Balance</b> <br>
+        <b>Dado que</b> el usuario está revisando el resumen de su balance, <br>
+        <b>Cuando</b> seleccione una categoría específica, <br>
+        <b>Entonces</b> mirará la lista de transacciones correspondientes a esa categoría para un análisis más detallado.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP03, EP04
       </td>
   </tr>
   <!-- US09
   -->
   <tr>
-      <td><strong>EP03</strong></td>
-      <td>US9 - Ajustes de la cuenta</td>
-      <td>
+      <td rowspan=4 style="text-align: center" align="center"><b>EP03</b></td>
+      <td style="text-align: center" align="center">US9 - Ajustes de la cuenta</td>
+      <td style="text-align: center" align="center">
           Como usuario que poder modificar aspectos generales de mi cuenta. Como eliminar grupos, cambiar mis datos, entre otras cosas.
       </td>
-      <td>
-        <strong>Escenario 1: Modificación de datos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiere modificar sus datos personales (Nombre, apellido, correo) <br>
-        <strong>Cuando</strong> entre a la barra lateral y de click en modificar datos <br>
-        <strong>Entonces</strong> podrá hacer los cambios necesarios
-	<strong>Escenario 2: Gestionar grupos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiere busca eliminar un grupo ya creado<br>
-        <strong>Cuando</strong> entre a la barra lateral y de click en gestionar grupos <br>
-        <strong>Entonces</strong> podrá eliminar los grupos a los que ya no quiera participar
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Modificación de datos</b> <br>
+        <b>Dado que</b> el usuario registrado quiere modificar sus datos personales (Nombre, apellido, correo) <br>
+        <b>Cuando</b> entre a la barra lateral y de click en modificar datos <br>
+        <b>Entonces</b> podrá hacer los cambios necesarios.<br>
+	<br>
+	<b>Escenario 2: Gestionar grupos</b> <br>
+        <b>Dado que</b> el usuario registrado quiere busca eliminar un grupo ya creado<br>
+        <b>Cuando</b> entre a la barra lateral y de click en gestionar grupos <br>
+        <b>Entonces</b> podrá eliminar los grupos a los que ya no quiera participar.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP02, EP05
       </td>
   </tr>
   <!-- US10
   -->
   <tr>
-      <td><strong>EP03</strong></td>
-      <td>US10 - Visualizar grupos</td>
-      <td>
+      <td style="text-align: center" align="center">US10 - Visualizar grupos</td>
+      <td style="text-align: center" align="center">
           Como usuario quiero poder tener una lista con los grupos a los que pertenezco en donde se pueda ver información relevante sobre los mismos
       </td>
-      <td>
-        <strong>Escenario 1: Ver grupos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiere ver sus grupos<br>
-        <strong>Cuando</strong> presione la sección de grupos <br>
-        <strong>Entonces</strong> se le mostrarán los grupos en los que está, asi como los gastos actuales y los participantes.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Ver grupos</b> <br>
+        <b>Dado que</b> el usuario registrado quiere ver sus grupos<br>
+        <b>Cuando</b> presione la sección de grupos <br>
+        <b>Entonces</b> se le mostrarán los grupos en los que está, asi como los gastos actuales y los participantes.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP03, EP04
       </td>
   </tr>
   <!-- US11
   -->
   <tr>
-      <td><strong>EP03</strong></td>
-      <td>US11 - Crear nuevos grupos</td>
-      <td>
+      <td style="text-align: center" align="center">US11 - Crear nuevos grupos</td>
+      <td style="text-align: center" align="center">
           Como usuario quiero poder crear nuevos grupos con diferentes personas
       </td>
-      <td>
-        <strong>Escenario 1: Creación de grupos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiere crear un nuevo grupo <br>
-        <strong>Cuando</strong> esté en la página principal y presione el botón de añadir, y luego "agregar grupo" <br>
-        <strong>Entonces</strong> podrá configurar los aspectos básicos del grupo que desee crear
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Creación de grupos</b> <br>
+        <b>Dado que</b> el usuario registrado quiere crear un nuevo grupo <br>
+        <b>Cuando</b> esté en la página principal y presione el botón de añadir, y luego "agregar grupo" <br>
+        <b>Entonces</b> podrá configurar los aspectos básicos del grupo que desee crear.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP02
       </td>
   </tr>
   <!-- US12
   -->
   <tr>
-      <td><strong>EP03</strong></td>
-      <td>US12 - Adición de gastos</td>
-      <td>
+      <td style="text-align: center" align="center">US12 - Adición de gastos</td>
+      <td style="text-align: center" align="center">
           Como usuario quiero agregar gastos nuevos a los grupos a los que pertenezco.
       </td>
-      <td>
-        <strong>Escenario 1: Adición de gastos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera agregar un nuevo gasto a un grupo existente <br>
-        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir gasto" en el recuadro del grupo deseado <br>
-        <strong>Entonces</strong> Podrá añadir los datos imoprtantes del gasto y agregarlo a la lista de gastos de su grupo seleccionado.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Adición de gastos</b> <br>
+        <b>Dado que</b> el usuario registrado quiera agregar un nuevo gasto a un grupo existente <br>
+        <b>Cuando</b> Entre en la pestaña "Grupos" y de click en la sección "Añadir gasto" en el recuadro del grupo deseado <br>
+        <b>Entonces</b> Podrá añadir los datos imoprtantes del gasto y agregarlo a la lista de gastos de su grupo seleccionado.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP02
       </td>
   </tr>
   <!-- US13
   -->
   <tr>
-      <td><strong>EP04</strong></td>
-      <td>US13 - Adición de recibos de gastos</td>
-      <td>
+      <td rowspan=4 style="text-align: center" align="center"><b>EP04</b></td>
+      <td style="text-align: center" align="center">US13 - Adición de recibos de gastos</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero tener la opción de adjuntar recibos o imágenes a mis gastos para mantener un registro visual de mis transacciones.
       </td>
-      <td>
-        <strong>Escenario 1: Adición de recibos de gastos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera agregar un nuevo recibo a un grupo existente <br>
-        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir recibo" en el recuadro del grupo deseado <br>
-        <strong>Entonces</strong> Podrá añadir las imágenes adjuntas junto con los detalles del gasto y agregarlo a la lista de gastos del grupo.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Adición de recibos de gastos</b> <br>
+        <b>Dado que</b> el usuario registrado quiera agregar un nuevo recibo a un grupo existente <br>
+        <b>Cuando</b> Entre en la pestaña "Grupos" y de click en la sección "Añadir recibo" en el recuadro del grupo deseado <br>
+        <b>Entonces</b> Podrá añadir las imágenes adjuntas junto con los detalles del gasto y agregarlo a la lista de gastos del grupo.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP02
       </td>
   </tr>
   <!-- US14
   -->
   <tr>
-      <td><strong>EP04</strong></td>
-      <td>US14 - Importar datos</td>
-      <td>
-          Como usuario, quiero poder importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.
+      <td style="text-align: center" align="center">US14 - Importar datos</td>
+      <td style="text-align: center" align="center">
+          Como usuario, quiero poder importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la transferencia de información.
       </td>
-      <td>
-        <strong>Escenario 1: Importar datos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera importar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para 
-        facilitar la integración y la transferencia de información.<br>
-        <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Importar servicios externos de gestión financiera" en el recuadro del grupo deseado <br>
-        <strong>Entonces</strong> se generará una importación y exportación automática de todos sus datos y movimientos financieros.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Importar datos</b> <br>
+        <b>Dado que</b> el usuario registrado quiera importar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la transferencia de información.<br>
+        <b>Cuando</b> Entre en la pestaña "Grupos" y de click en la sección "Importar servicios externos de gestión financiera" en el recuadro del grupo deseado <br>
+        <b>Entonces</b> se generará una importación y exportación automática de todos sus datos y movimientos financieros.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP03, EP04
       </td>
   </tr>
   <!-- US15
   -->
   <tr>
-      <td><strong>EP04</strong></td>
-      <td>US15 - Modificación de notas en los gastos</td>
-      <td>
+      <td style="text-align: center" align="center">US15 - Modificación de notas en los gastos</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero tener la opción de agregar notas o comentarios a cada gasto compartido, para proporcionar contexto adicional o aclaraciones sobre la transacción.
       </td>
-      <td>
-        <strong>Escenario 1: Modificación de notas en gastos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera agregar notas según sea necesario.<br>
-        <strong>Cuando</strong> Entre al detalle de gastos y a agregar notas<br>
-        <strong>Entonces</strong> se mostrará las notas junto con los detalles del gasto en la lista de transacciones.
-	<strong>Escenario 2: Eliminacion de notas en gastos</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera eliminar notas según sea necesario.<br>
-        <strong>Cuando</strong> Entre al detalle de gastos y a eliminar notas<br>
-        <strong>Entonces</strong> se eliminará las notas junto con los detalles del gasto en la lista de transacciones.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Modificación de notas en gastos</b> <br>
+        <b>Dado que</b> el usuario registrado quiera agregar notas según sea necesario.<br>
+        <b>Cuando</b> Entre al detalle de gastos y a agregar notas<br>
+        <b>Entonces</b> se mostrará las notas junto con los detalles del gasto en la lista de transacciones.<br>
+	<br>
+	<b>Escenario 2: Eliminacion de notas en gastos</b> <br>
+        <b>Dado que</b> el usuario registrado quiera eliminar notas según sea necesario.<br>
+        <b>Cuando</b> Entre al detalle de gastos y a eliminar notas<br>
+        <b>Entonces</b> se eliminará las notas junto con los detalles del gasto en la lista de transacciones.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP02
       </td>
   </tr>
   <!-- US16
   -->
   <tr>
-      <td><strong>EP04</strong></td>
-      <td>US16 - Pago recurrente</td>
-      <td>
-          Como usuario, quiero poder establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos 	  manualmente cada vez.
+      <td style="text-align: center" align="center">US16 - Pago recurrente</td>
+      <td style="text-align: center" align="center">
+          Como usuario, quiero poder establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos manualmente cada vez.
       </td>
-      <td>
-        <strong>Escenario 1: Agregar Pago Recurrente</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera programar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
-        <strong>Cuando</strong> Entre a la opcion Pagos Recurrentes <br>
-        <strong>Entonces</strong> Podrá generar automáticamente los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
-	<strong>Escenario 2: Eliminar Pago Recurrente</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera eliminar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
-        <strong>Cuando</strong> Entre a la opcion Pagos Recurrentes <br>
-        <strong>Entonces</strong> Podrá eliminar los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Agregar Pago Recurrente</b> <br>
+        <b>Dado que</b> el usuario registrado quiera programar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
+        <b>Cuando</b> Entre a la opcion Pagos Recurrentes <br>
+        <b>Entonces</b> Podrá generar automáticamente los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.<br>
+	<br>
+	<b>Escenario 2: Eliminar Pago Recurrente</b> <br>
+        <b>Dado que</b> el usuario registrado quiera eliminar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
+        <b>Cuando</b> Entre a la opcion Pagos Recurrentes <br>
+        <b>Entonces</b> Podrá eliminar los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP02
       </td>
   </tr>
   <!-- US17
   -->
   <tr>
-      <td><strong>EP05</strong></td>
-      <td>US17 - Mostrar resultados de los cálculos financieros por individuo</td>
-      <td>
+      <td rowspan=4 style="text-align: center" align="center"><b>EP05</b></td>
+      <td style="text-align: center" align="center">US17 - Mostrar resultados de los cálculos financieros por individuo</td>
+      <td style="text-align: center" align="center">
           Como usuario quiero que me muestren los resultados finales de todos los cálculos financieros y el monto a ser pagado o recibido por cada integrante del grupo.
       </td>
-      <td>
-        <strong>Escenario 1: Muestra de resultados</strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera que se muestren todos los resultados financieros por integrante del grupo.<br>
-        <strong>Cuando</strong> dé click al boton de "mostrar resultados"  <br>
-        <strong>Entonces</strong> Se mostrará los resultados a pagar o recibir dinero de cada integrante de su grupo seleccionado.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Muestra de resultados</b> <br>
+        <b>Dado que</b> el usuario registrado quiera que se muestren todos los resultados financieros por integrante del grupo.<br>
+        <b>Cuando</b> dé click al boton de "mostrar resultados"  <br>
+        <b>Entonces</b> Se mostrará los resultados a pagar o recibir dinero de cada integrante de su grupo seleccionado.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP05
       </td>
   </tr>
   <!-- US18
   -->
   <tr>
-      <td><strong>EP05</strong></td>
-      <td>US18 - Buscar Grupo por nombre</td>
-      <td>
+      <td style="text-align: center" align="center">US18 - Buscar Grupo por nombre</td>
+      <td style="text-align: center" align="center">
           Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.
       </td>
-      <td>
-        <strong>Escenario 1: </strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera buscar un grupo suyo por su nombre <br>
-        <strong>Cuando</strong> dé click al icono de buscar <br>
-        <strong>Entonces</strong> podrá ingresar un pequeño texto y ver los resultados de los grupos que coincidan con el texto ingresado
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: </b> <br>
+        <b>Dado que</b> el usuario registrado quiera buscar un grupo suyo por su nombre <br>
+        <b>Cuando</b> dé click al icono de buscar <br>
+        <b>Entonces</b> podrá ingresar un pequeño texto y ver los resultados de los grupos que coincidan con el texto ingresado.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP05
       </td>
   </tr>
   <!-- US19
   -->
   <tr>
-      <td><strong>EP05</strong></td>
-      <td>US19 - Mejora de subscripción</td>
-      <td>
+      <td style="text-align: center" align="center">US19 - Mejora de subscripción</td>
+      <td style="text-align: center" align="center">
           Como usuario quiero poder cambiarme de subscripción para tener un mejor acceso a mejores servicios de SplitWise
       </td>
-      <td>
-        <strong>Escenario 1: </strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera cambiarse de su actual plan PacketPartners <br>
-        <strong>Cuando</strong> dé click a la barra de estado de su subscripción actual <br>
-        <strong>Entonces</strong> pueda cambiar de modo de subcripción y comience el trámite correcto para la validación de ello.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: </b> <br>
+        <b>Dado que</b> el usuario registrado quiera cambiarse de su actual plan PacketPartners <br>
+        <b>Cuando</b> dé click a la barra de estado de su subscripción actual <br>
+        <b>Entonces</b> pueda cambiar de modo de subcripción y comience el trámite correcto para la validación de ello.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP05
       </td>
   </tr>
   <!-- US20
   -->
   <tr>
-      <td><strong>EP05</strong></td>
-      <td>US20 - Acceso a versión de prueba</td>
-      <td>
+      <td style="text-align: center" align="center">US20 - Acceso a versión de prueba</td>
+      <td style="text-align: center" align="center">
           Como usuario quiero tener acceso a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.
       </td>
-      <td>
-        <strong>Escenario 1: </strong> <br>
-        <strong>Dado que</strong> el usuario registrado quiera tener una versión de prueba, limitada, y ver todos los servicios disponibles de PocketPartners <br>
-        <strong>Cuando</strong> dé click a iniciar versión de prueba <br>
-        <strong>Entonces</strong> se iniciará la comprobación de usuario, calificará como un usuario dentro de la versión de prueba limitada, se mostrará cuántos días tiene de duración del servicio y podrá acceder al menú inicio.
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: </b> <br>
+        <b>Dado que</b> el usuario registrado quiera tener una versión de prueba, limitada, y ver todos los servicios disponibles de PocketPartners <br>
+        <b>Cuando</b> dé click a iniciar versión de prueba <br>
+        <b>Entonces</b> se iniciará la comprobación de usuario, calificará como un usuario dentro de la versión de prueba limitada, se mostrará cuántos días tiene de duración del servicio y podrá acceder al menú inicio.<br>
       </td>
-      <td>
+      <td style="text-align: center" align="center">
         EP05
       </td>
   </tr>
