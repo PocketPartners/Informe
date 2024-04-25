@@ -894,9 +894,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Recibir Notificacion</strong> <br>
-        <strong>Dado que</strong> estoy utilizando la aplicación PocketPartners en mi navegador web y he activado las notificaciones, <br>
-        <strong>Cuando</strong> agregue un nuevo gasto compartido asociado a uno de mis contactos ficticios mientras estoy conectado a la aplicación, <br>
-        <strong>Entonces</strong> debería ver una notificación emergente en la pantalla de mi navegador que me informe sobre la actualización en mis finanzas compartidas.
+        <strong>Dado que</strong> el usuario utiliza la aplicación PocketPartners en mi navegador web y ha activado las notificaciones, <br>
+        <strong>Cuando</strong> agregue un nuevo gasto compartido asociado a uno de sus contactos ficticios mientras está conectado a la aplicación, <br>
+        <strong>Entonces</strong> mirará una notificación emergente en la pantalla de su navegador que le informe sobre la actualización de sus finanzas compartidas.
       </td>
       <td>
         EP03
@@ -912,19 +912,19 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Observar opciones</strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado en la aplicación PocketPartners y he iniciado sesión en mi cuenta, <br>
+        <strong>Dado que</strong> el usuario se ha registrado en la aplicación PocketPartners y ha iniciado sesión en su cuenta, <br>
         <strong>Cuando</strong> acceda a la sección de "Historial de Transacciones" o "Registro de Gastos", <br>
-        <strong>Entonces</strong> debería ver una lista de todas las transacciones registradas, con opciones para editar o eliminar cada una. <br>
+        <strong>Entonces</strong> mirará una lista de todas las transacciones registradas, con opciones para editar o eliminar cada una. <br>
         <br> 
         <strong>Escenario 2: Editar detalles</strong> <br>
-        <strong>Dado que</strong> estoy visualizando la lista de transacciones en la aplicación PocketPartners, <br>
-        <strong>Cuando</strong> seleccione una transacción específica que deseo editar, <br>
-        <strong>Entonces</strong> debería poder acceder a un formulario de edición donde pueda modificar los detalles de la transacción, como el monto, la descripción o la fecha. <br>
+        <strong>Dado que</strong> el usuario está visualizando la lista de transacciones en la aplicación PocketPartners, <br>
+        <strong>Cuando</strong> seleccione una transacción específica que desea editar, <br>
+        <strong>Entonces</strong> podrá acceder a un formulario de edición donde pueda modificar los detalles de la transacción, el monto, la descripción o la fecha. <br>
         <br>
         <strong>Escenario 3: Eliminar transaccion</strong> <br>
-        <strong>Dado que</strong> deseo eliminar una transacción registrada incorrectamente, <br>
+        <strong>Dado que</strong> el usuario desea eliminar una transacción registrada incorrectamente, <br>
         <strong>Cuando</strong>seleccione la opción para eliminar una transacción específica, <br>
-        <strong>Entonces</strong> debería ver una confirmación de eliminación y, al confirmar, la transacción debe eliminarse de mi historial de transacciones de manera permanente.<br>
+        <strong>Entonces</strong> mirará una confirmación de eliminación y, al confirmar, la transacción se eliminará de su historial de transacciones de manera permanente.<br>
       </td>
       <td>
         EP01, EP02, ...
@@ -940,12 +940,12 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Dividir igualmente</strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado en PocketPartners y estoy creando un nuevo gasto compartido, <br>
-        <strong>Cuando</strong> ingreso los detalles del gasto, como el monto total y la descripción, <br>
-        <strong>Entonces</strong> debería tener la opción de seleccionar la función "Dividir Equitativamente" antes de guardar el gasto.<br>
+        <strong>Dado que</strong> el usuario registrado en PocketPartners y está creando un nuevo gasto compartido, <br>
+        <strong>Cuando</strong> ingresa los detalles del gasto, como el monto total y la descripción, <br>
+        <strong>Entonces</strong> tendrá la opción de seleccionar la función "Dividir Equitativamente" antes de guardar el gasto.<br>
         <br>
         <strong>Escenario 2: Division</strong> <br>
-        <strong>Dado que</strong> he seleccionado la opción "Dividir Equitativamente" al crear un nuevo gasto, <br>
+        <strong>Dado que</strong> ha seleccionado la opción "Dividir Equitativamente" al crear un nuevo gasto, <br>
         <strong>Cuando</strong> el gasto se guarda exitosamente, <br>
         <strong>Entonces</strong> el monto total del gasto se dividirá automáticamente de manera equitativa entre todos los miembros del grupo.<br>
       </td>
@@ -963,14 +963,14 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Encontrar Boton</strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado en PocketPartners y deseo exportar un resumen de las transacciones de grupo, <br>
-        <strong>Cuando</strong> accedo a la sección de "+ detalles" o "Informe de Gastos", <br>
-        <strong>Entonces</strong> debería encontrar una opción claramente etiquetada para exportar el resumen de transacciones.<br>
+        <strong>Dado que</strong> el usuario se ha registrado en PocketPartners y desea exportar un resumen de las transacciones de grupo, <br>
+        <strong>Cuando</strong> acceda a la sección de "+ detalles" o "Informe de Gastos", <br>
+        <strong>Entonces</strong> encontrará una opción claramente etiquetada para exportar el resumen de transacciones.<br>
         <strong>Escenario 2: Exportar resumen</strong> <br>
-        <strong>Dado que</strong>  he seleccionado la opción de exportar un resumen de transacciones,<br>
+        <strong>Dado que</strong>  ha seleccionado la opción de exportar un resumen de transacciones,<br>
         <strong>Cuando</strong> elija el formato de archivo deseado, como PDF o CSV, <br>
-        <strong>Entonces</strong> la aplicación debería generar automáticamente el archivo de resumen en el formato seleccionado y comenzar la descarga.<br>
-        <strong>Y</strong> debería poder ver claramente un resumen detallado de mis transacciones, incluyendo la fecha, el monto y la descripción de cada transacción.
+        <strong>Entonces</strong> la aplicación generará automáticamente el archivo de resumen en el formato seleccionado y comenzará la descarga.<br>
+        <strong>Y</strong> podrá ver claramente un resumen detallado de sus transacciones, incluyendo la fecha, el monto y la descripción de cada transacción.
       </td>
       <td>
         EP03
@@ -986,14 +986,14 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Acceso Seguro</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado en la aplicación PocketPartners, <br>
-        <strong>Cuando</strong>  Intento iniciar sesión, la aplicación debe solicitar mi nombre de usuario y contraseña o utilizar Google o Facebook. <br>
-        <strong>Entonces</strong> Y si ingreso los detalles correctamente, debería tener acceso a mi cuenta.
+        <strong>Dado que</strong> el usuario se ha registrado en la aplicación PocketPartners, <br>
+        <strong>Cuando</strong>  Intente iniciar sesión, la aplicación le solicitará su nombre de usuario y contraseña o podrá utilizar Google o Facebook. <br>
+        <strong>Entonces</strong> si ingreso los detalles correctamente, podré tener acceso a mi cuenta.
         <br>
         <strong>Escenario 2: Olvidar Contraseña</strong> <br>
-        <strong>Dado que</strong> he olvidado mi contraseña y necesito restablecerla, <br>
+        <strong>Dado que</strong> el usuario ha olvidado su contraseña y necesita restablecerla, <br>
         <strong>Cuando</strong> seleccione la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión, <br>
-        <strong>Entonces</strong> debería recibir un enlace de restablecimiento de contraseña en mi correo electrónico registrado para crear una nueva contraseña y acceder a mi cuenta.
+        <strong>Entonces</strong> recibirá un enlace de restablecimiento de contraseña en su correo electrónico registrado para crear una nueva contraseña y acceder a su cuenta.
       </td>
       <td>
         EP02
@@ -1010,11 +1010,11 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>
         <strong>Escenario 1: Acceso al Conversor</strong> <br>
         <strong>Dado que</strong> 
-        Soy un usuario registrado en la aplicación PocketPartners y deseo convertir un monto de transacción a una moneda diferente, <br>
+        el usuario se haya registrado en la aplicación y desea convertir un monto de transacción a una moneda diferente, <br>
         <br>
-        <strong>Cuando</strong> reviso los detalles de una transacción específica, <br>
+        <strong>Cuando</strong> revise los detalles de una transacción específica, <br>
         <br>
-        <strong>Entonces</strong> debería encontrar una opción claramente etiquetada para acceder al conversor de moneda integrado.<br>
+        <strong>Entonces</strong> encontrará una opción claramente etiquetada para acceder al conversor de moneda integrado.<br>
       </td>
       <td>
         EP03
@@ -1030,14 +1030,14 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Rastreador de Deuda</strong> <br>
-        <strong>Dado que</strong> que soy un usuario de la aplicación PocketPartners, <br>
-        <strong>Cuando</strong>  selecciono el módulo de "Rastreador de Deuda", <br>
-        <strong>Entonces</strong> debería ver una lista de todas las deudas pendientes y el nombre del deudor.
+        <strong>Dado que</strong> que el usuario esté en la aplicación PocketPartners, <br>
+        <strong>Cuando</strong>  seleccione el módulo de "Rastreador de Deuda", <br>
+        <strong>Entonces</strong> mirará una lista de todas las deudas pendientes y el nombre del deudor.
         <br>
         <strong>Escenario 2: Notificar al deudor</strong><br>
-        <strong>Dado que</strong> que deseo recordar a un deudor sobre una deuda pendiente, <br>
+        <strong>Dado que</strong> el usuario desea recordar a un deudor sobre una deuda pendiente, <br>
         <strong>Cuando</strong> seleccione la opción "Notificar al Deudor", <br>
-        <strong>Entonces</strong> debería poder enviar una notificación automática al deudor para recordarle sobre la deuda pendiente.
+        <strong>Entonces</strong> podrá enviar una notificación automática al deudor para recordarle sobre la deuda pendiente.
       </td>
       <td>
         EP01, EP02
@@ -1054,17 +1054,17 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>
         <strong>Escenario 1: Acceso al Balance General</strong> <br>
         <strong>Dado que</strong> 
-        Soy un usuario registrado en la aplicación PocketPartners y deseo visualizar mi balance general, <br>
-        <strong>Cuando</strong> Accedo a la sección de "Mi Balance" o "Resumen Financiero", <br>
-        <strong>Entonces</strong> Debería ver un resumen detallado de mis ingresos y egresos, incluyendo el saldo actual y los gastos totales.
+        el usuario registrado ha ingresado en la aplicación PocketPartners y desea visualizar su balance general, <br>
+        <strong>Cuando</strong> Acceda a la sección de "Mi Balance" o "Resumen Financiero", <br>
+        <strong>Entonces</strong> mirará un resumen detallado de sus ingresos y egresos, incluyendo el saldo actual y los gastos totales.
         <strong>Escenario 2: Filtrar por Fecha</strong> <br>
-        <strong>Dado que</strong> que deseo visualizar mi balance general para un período de tiempo específico, <br>
+        <strong>Dado que</strong> el usuario desea visualizar su balance general para un período de tiempo específico, <br>
         <strong>Cuando</strong> seleccione la opción "Filtrar por Fecha", <br>
-        <strong>Entonces</strong> debería poder seleccionar un rango de fechas personalizado para ver el balance general correspondiente a ese período.
+        <strong>Entonces</strong> podrá seleccionar un rango de fechas personalizado para ver el balance general correspondiente a ese período.
         <strong>Escenario 3: Detalles del Balance</strong> <br>
-        <strong>Dado que</strong> estoy revisando el resumen del balance, <br>
-        <strong>Cuando</strong> selecciono una categoría específica, <br>
-        <strong>Entonces</strong> debería ver la lista de transacciones correspondientes a esa categoría para un análisis más detallado.
+        <strong>Dado que</strong> el usuario está revisando el resumen de su balance, <br>
+        <strong>Cuando</strong> seleccione una categoría específica, <br>
+        <strong>Entonces</strong> mirará la lista de transacciones correspondientes a esa categoría para un análisis más detallado.
       </td>
       <td>
         EP03, EP04
@@ -1080,13 +1080,13 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Modificación de datos</strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado que quiere modificar sus datos personales (Nombre, apellido, correo) <br>
-        <strong>Cuando</strong> Entre a la barra lateral y de click en modificar datos <br>
-        <strong>Entonces</strong> Podré hacer los cambios necesarios
+        <strong>Dado que</strong> el usuario registrado quiere modificar sus datos personales (Nombre, apellido, correo) <br>
+        <strong>Cuando</strong> entre a la barra lateral y de click en modificar datos <br>
+        <strong>Entonces</strong> podrá hacer los cambios necesarios
 	<strong>Escenario 2: Gestionar grupos</strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado que quiere busca eliminar un grupo ya creado<br>
-        <strong>Cuando</strong> Entre a la barra lateral y de click en gestionar grupos <br>
-        <strong>Entonces</strong> Podré eliminar los grupos a los que ya no quiera participar
+        <strong>Dado que</strong> el usuario registrado quiere busca eliminar un grupo ya creado<br>
+        <strong>Cuando</strong> entre a la barra lateral y de click en gestionar grupos <br>
+        <strong>Entonces</strong> podrá eliminar los grupos a los que ya no quiera participar
       </td>
       <td>
         EP02, EP05
@@ -1102,9 +1102,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Ver grupos</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado que quiere ver sus grupos<br>
-        <strong>Cuando</strong> Presione la sección de grupos <br>
-        <strong>Entonces</strong> Se mostrarán los grupos en los que estoy asi como los gastos actuales y los participantes.
+        <strong>Dado que</strong> el usuario registrado quiere ver sus grupos<br>
+        <strong>Cuando</strong> presione la sección de grupos <br>
+        <strong>Entonces</strong> se le mostrarán los grupos en los que está, asi como los gastos actuales y los participantes.
       </td>
       <td>
         EP03, EP04
@@ -1120,9 +1120,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Creación de grupos</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado que quiere crear un nuevo grupo <br>
-        <strong>Cuando</strong> Esté en la página principal y presione el botón de añadir, y luego agregar grupo <br>
-        <strong>Entonces</strong> Podré configurar los aspectos básicos del grupo que deseo crear
+        <strong>Dado que</strong> el usuario registrado quiere crear un nuevo grupo <br>
+        <strong>Cuando</strong> esté en la página principal y presione el botón de añadir, y luego "agregar grupo" <br>
+        <strong>Entonces</strong> podrá configurar los aspectos básicos del grupo que desee crear
       </td>
       <td>
         EP02
@@ -1138,9 +1138,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Adición de gastos</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar un nuevo gasto a un grupo existente <br>
+        <strong>Dado que</strong> el usuario registrado quiera agregar un nuevo gasto a un grupo existente <br>
         <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir gasto" en el recuadro del grupo deseado <br>
-        <strong>Entonces</strong> Podré añadir los datos imoprtantes del gasto y agregarlo a la lista de gastos del grupo.
+        <strong>Entonces</strong> Podrá añadir los datos imoprtantes del gasto y agregarlo a la lista de gastos de su grupo seleccionado.
       </td>
       <td>
         EP02
@@ -1156,9 +1156,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Adición de recibos de gastos</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar un nuevo recibo a un grupo existente <br>
+        <strong>Dado que</strong> el usuario registrado quiera agregar un nuevo recibo a un grupo existente <br>
         <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Añadir recibo" en el recuadro del grupo deseado <br>
-        <strong>Entonces</strong> Podré añadir las imágenes adjuntas junto con los detalles del gasto y agregarlo a la lista de gastos del grupo.
+        <strong>Entonces</strong> Podrá añadir las imágenes adjuntas junto con los detalles del gasto y agregarlo a la lista de gastos del grupo.
       </td>
       <td>
         EP02
@@ -1174,10 +1174,10 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Importar datos</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado y quiero importar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para 
+        <strong>Dado que</strong> el usuario registrado quiera importar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para 
         facilitar la integración y la transferencia de información.<br>
         <strong>Cuando</strong> Entre en la pestaña "Grupos" y de click en la sección "Importar servicios externos de gestión financiera" en el recuadro del grupo deseado <br>
-        <strong>Entonces</strong> la aplicacion generara una importación y exportación automática de datos.
+        <strong>Entonces</strong> se generará una importación y exportación automática de todos sus datos y movimientos financieros.
       </td>
       <td>
         EP03, EP04
@@ -1193,13 +1193,13 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Modificación de notas en gastos</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado y quiero agregar notas según sea necesario.<br>
-        <strong>Cuando</strong> Entre al detalle de gastos y a agrega notas<br>
-        <strong>Entonces</strong> se debe mostrar las notas junto con los detalles del gasto en la lista de transacciones.
+        <strong>Dado que</strong> el usuario registrado quiera agregar notas según sea necesario.<br>
+        <strong>Cuando</strong> Entre al detalle de gastos y a agregar notas<br>
+        <strong>Entonces</strong> se mostrará las notas junto con los detalles del gasto en la lista de transacciones.
 	<strong>Escenario 2: Eliminacion de notas en gastos</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado y quiero eliminar notas según sea necesario.<br>
+        <strong>Dado que</strong> el usuario registrado quiera eliminar notas según sea necesario.<br>
         <strong>Cuando</strong> Entre al detalle de gastos y a eliminar notas<br>
-        <strong>Entonces</strong> se debe eliminar las notas junto con los detalles del gasto en la lista de transacciones.
+        <strong>Entonces</strong> se eliminará las notas junto con los detalles del gasto en la lista de transacciones.
       </td>
       <td>
         EP02
@@ -1215,13 +1215,13 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Agregar Pago Recurrente</strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado que quiere programar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
+        <strong>Dado que</strong> el usuario registrado quiera programar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
         <strong>Cuando</strong> Entre a la opcion Pagos Recurrentes <br>
-        <strong>Entonces</strong> Podré generar automáticamente los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
+        <strong>Entonces</strong> Podrá generar automáticamente los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
 	<strong>Escenario 2: Eliminar Pago Recurrente</strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado que quiere eliminar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
+        <strong>Dado que</strong> el usuario registrado quiera eliminar gastos recurrentes con detalles específicos (monto, frecuencia, fecha de inicio, etc.) <br>
         <strong>Cuando</strong> Entre a la opcion Pagos Recurrentes <br>
-        <strong>Entonces</strong> Podré eliminar los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
+        <strong>Entonces</strong> Podrá eliminar los gastos recurrentes en las fechas programadas y notificar a los participantes correspondientes.
       </td>
       <td>
         EP02
@@ -1237,9 +1237,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: Muestra de resultados</strong> <br>
-        <strong>Dado que</strong> Soy un usuario registrado y quiero que se me muestren todos los resultados financieros por integrante del grupo.<br>
+        <strong>Dado que</strong> el usuario registrado quiera que se muestren todos los resultados financieros por integrante del grupo.<br>
         <strong>Cuando</strong> dé click al boton de "mostrar resultados"  <br>
-        <strong>Entonces</strong> Me mostrará los resultados a pagar o recibir dinero por cada integrante del grupo.
+        <strong>Entonces</strong> Se mostrará los resultados a pagar o recibir dinero de cada integrante de su grupo seleccionado.
       </td>
       <td>
         EP05
@@ -1255,9 +1255,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: </strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado que quiere buscar un grupo del cual soy integrante por el nombre <br>
+        <strong>Dado que</strong> el usuario registrado quiera buscar un grupo suyo por su nombre <br>
         <strong>Cuando</strong> dé click al icono de buscar <br>
-        <strong>Entonces</strong> podré ingresar un pequeño texto y ver los resultados
+        <strong>Entonces</strong> podrá ingresar un pequeño texto y ver los resultados de los grupos que coincidan con el texto ingresado
       </td>
       <td>
         EP05
@@ -1273,9 +1273,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: </strong> <br>
-        <strong>Dado que</strong> soy un usuario registrado <br>
-        <strong>Cuando</strong> dé click a la barra de estado de mi subscripción actual <br>
-        <strong>Entonces</strong> pueda cambiar de modo de subcripción y se realice el trámite correcto para ello.
+        <strong>Dado que</strong> el usuario registrado quiera cambiarse de su actual plan PacketPartners <br>
+        <strong>Cuando</strong> dé click a la barra de estado de su subscripción actual <br>
+        <strong>Entonces</strong> pueda cambiar de modo de subcripción y comience el trámite correcto para la validación de ello.
       </td>
       <td>
         EP05
@@ -1291,9 +1291,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </td>
       <td>
         <strong>Escenario 1: </strong> <br>
-        <strong>Dado que</strong> soy un usuario registrad <br>
+        <strong>Dado que</strong> el usuario registrado quiera tener una versión de prueba, limitada, y ver todos los servicios disponibles de PocketPartners <br>
         <strong>Cuando</strong> dé click a iniciar versión de prueba <br>
-        <strong>Entonces</strong> pueda iniciarse la comprobación de usuario para calificar como un usuario limitado por una cantidad de días y poder cambiarme a un modo de subscripción de mi preferencia.
+        <strong>Entonces</strong> se iniciará la comprobación de usuario, calificará como un usuario dentro de la versión de prueba limitada, se mostrará cuántos días tiene de duración del servicio y podrá acceder al menú inicio.
       </td>
       <td>
         EP05
