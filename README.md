@@ -2391,6 +2391,92 @@ Error al registrar el nuevo gasto por falta de datos
         </tr>
       </tbody> 
     </table> 
+    <h3>Role</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+    <tbody>
+        <tr>
+            <td>RoleType</td>
+            <td>enum</td>
+            <td>Identifica el tipo de rol</td>
+        </tr>
+        <tr>
+            <td>roleAccess</td>
+            <td>int</td>
+            <td>Limita el rol segun un número</td>
+        </tr>
+    </tbody>
+  </table>
+      <h3>Subscription</h3>
+    <table>
+      <thead>
+          <tr>
+              <th>Attribute</th>
+              <th>Type</th>
+              <th>Description</th>
+          </tr>
+      </thead>
+    <tbody>
+        <tr>
+            <td>id</td>
+            <td>int</td>
+            <td>Identifica la suscripción</td>
+        </tr>
+        <tr>
+            <td>paymet_code</td>
+            <td>string</td>
+            <td>Codigo generado por el sistema paymet para la validacion del pago</td>
+        </tr>
+        <tr>
+          <td>Expire_date</td>
+          <td>date</td>
+          <td>Fecha de expiración de la suscripción</td>
+        </tr>
+    </tbody>
+  </table>
+  <h3>Cards<h3>
+  <table>
+    <thead>
+        <tr>
+            <th>Attribute</th>
+            <th>Type</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>id</td>
+        <td>int</td>
+        <td>Indentidicardor de la card</td>
+      </tr>
+      <tr>
+        <td>card_number</td>
+        <td>string</td>
+        <td>Número de la tarjeta</td>
+      </tr>
+      <tr>
+        <td>card_holder</td>
+        <td>string</td>
+        <td>Nombre del titular de la tarjeta</td>
+      </tr>
+      <tr>
+        <td>expiration_date</td>
+        <td>date</td>
+        <td>Fecha de expiración de la tarjeta</td>
+      </tr>
+      <tr>
+        <td>cvv</td>
+        <td>int</td>
+        <td>Código de seguridad de la tarjeta</td>
+      </tr>
+    </tbody>
+    </table>
   </div>
 
 ## 4.8. Database Design.
