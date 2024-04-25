@@ -1302,6 +1302,84 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   </tbody>
 </table>
 
+## Technical Stories
+
+<table>
+  <thead>
+    <tr>
+      <th>Technical Story ID</th>
+      <th>Titulo</th>
+      <th>Descripción</th>      
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </head>
+
+  <tbody>
+    <tr>
+      <td align="center">T-01</td>
+      <td>Crear una API REST para la aplicación</td>
+      <td> Como desarrollador, quiero crear una API RESTful para permitir a los usuarios acceder y gestionar sus gastos grupales desde diferentes dispositivos.</td>      
+      <td>Todas</td>
+    </tr>
+    <tr>
+      <td align="center">T-02</td>
+      <td>Implementar autenticación y autorización</td>
+      <td> Como desarrollador, quiero implementar un sistema de autenticación y autorización para garantizar que solo los usuarios registrados y autorizados puedan acceder a PocketPartners y sus servicios.</td>      
+      <td>Todas</td>
+    </tr>
+    <tr>
+      <td align="center">T-03</td>
+      <td>Desarrollar funciones de notificación push</td>
+      <td>Como desarrollador, quiero desarrollar funciones de notificación para informar a los usuarios sobre nuevos gastos, cambios en los gastos existentes y recordatorios de pagos pendientes.</td>      
+      <td>EP02, EP03, EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center">T-04</td>
+      <td>Optimizar el rendimiento de la aplicación</td>
+      <td>Como desarrollador, quiero optimizar el rendimiento de la aplicación para garantizar tiempos de carga rápidos y una experiencia fluida para los usuarios.</td>      
+      <td>Todas</td>
+    </tr>    
+    <tr>
+      <td align="center">T-05</td>
+      <td>Desarrollar una función de importación de datos</td>
+      <td> Como desarrollador, quiero desarrollar una función de importación de datos para que los usuarios puedan importar datos de sus transacciones bancarias y otros sistemas de registro de gastos.</td>
+      <td>EP03, EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center">T-06</td>
+      <td>Desarrollar un sistema de reportes personalizados</td>
+      <td>Como desarrollador, quiero desarrollar un sistema de reportes personalizados para que los usuarios puedan generar informes detallados sobre sus gastos grupales.</td>      
+      <td>EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center">T-07</td>
+      <td>Desarrollar un sistema de análisis de datos</td>
+      <td>Como desarrollador, quiero desarrollar un sistema de análisis de datos para permitir a los usuarios visualizar y analizar sus gastos grupales de forma gráfica y comprensible.</td>      
+      <td>EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center">T-08</td>
+      <td>Desarrollar funciones de búsqueda avanzada</td>
+      <td>Como desarrollador, quiero desarrollar funciones de búsqueda avanzada para que los usuarios puedan buscar y filtrar sus gastos por fecha, categoría, monto, etc.</td>      
+      <td>EP03, EP04</td>
+    </tr>    
+    <tr>
+      <td align="center">T-09</td>
+      <td>Implementar pruebas automatizadas</td>
+      <td>Como desarrollador, quiero implementar pruebas automatizadas para garantizar la calidad del código y reducir la posibilidad de errores en la aplicación.</td>      
+      <td>EP03, EP04, EP05</td>
+    </tr>
+    <tr>
+      <td align="center">T-10</td>
+      <td>Optimizar la interfaz de usuario</td>
+      <td> Como desarrollador, quiero optimizar la interfaz de usuario para que sea intuitiva y fácil de usar, mejorando así la experiencia del usuario.</td>
+      <td>Todas</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## 3.3 Impact Mapping
 
 #### Mejorar la experiencia de distribución de movimientos financieros grupales.
