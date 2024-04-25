@@ -2680,7 +2680,7 @@ El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar
 **Liks del repositorio de GitHub**:
 
 - Link de la organización: https://github.com/PocketPartners
-- Link de la landing page: https://github.com/PocketPartners/LadingPage
+- Link de la landing page: https://github.com/PocketPartners/LandingPage
 - Link del informe: https://github.com/PocketPartners/Informe
 - Link del front end: https://github.com/PocketPartners/Frontend
 - Link del back end: https://github.com/PocketPartners/Backend
@@ -2939,7 +2939,7 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
 
 <p align = "justify">En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Github Pages. </p>
 
-<p align = "justify">Se puede acceder a la página de inicio a través del siguiente enlace: https://pocketpartners.github.io/LadingPage/  </p>
+<p align = "justify">Se puede acceder a la página de inicio a través del siguiente enlace: https://pocketpartners.github.io/LandingPage/  </p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
