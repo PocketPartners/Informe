@@ -1230,73 +1230,73 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <!-- US17
   -->
   <tr>
-      <td><strong>EP17</strong></td>
-      <td>Titulo US17</td>
+      <td><strong>EP05</strong></td>
+      <td>US17 - Mostrar resultados de los cálculos financieros por individuo</td>
       <td>
-          Descripción US17
+          Como usuario quiero que me muestren los resultados finales de todos los cálculos financieros y el monto a ser pagado o recibido por cada integrante del grupo.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: Muestra de resultados</strong> <br>
+        <strong>Dado que</strong> Soy un usuario registrado y quiero que se me muestren todos los resultados financieros por integrante del grupo.<br>
+        <strong>Cuando</strong> dé click al boton de "mostrar resultados"  <br>
+        <strong>Entonces</strong> Me mostrará los resultados a pagar o recibir dinero por cada integrante del grupo.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US18
   -->
   <tr>
-      <td><strong>EP18</strong></td>
-      <td>Titulo US18</td>
+      <td><strong>EP05</strong></td>
+      <td>US18 - Buscar Grupo por nombre</td>
       <td>
-          Descripción US18
+          Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado que quiere buscar un grupo del cual soy integrante por el nombre <br>
+        <strong>Cuando</strong> dé click al icono de buscar <br>
+        <strong>Entonces</strong> podré ingresar un pequeño texto y ver los resultados
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US19
   -->
   <tr>
-      <td><strong>EP19</strong></td>
-      <td>Titulo US19</td>
+      <td><strong>EP05</strong></td>
+      <td>US19 - Mejora de subscripción</td>
       <td>
-          Descripción US19
+          Como usuario quiero poder cambiarme de subscripción para tener un mejor acceso a mejores servicios de SplitWise
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrado <br>
+        <strong>Cuando</strong> dé click a la barra de estado de mi subscripción actual <br>
+        <strong>Entonces</strong> pueda cambiar de modo de subcripción y se realice el trámite correcto para ello.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   <!-- US20
   -->
   <tr>
-      <td><strong>EP20</strong></td>
-      <td>Titulo US20</td>
+      <td><strong>EP05</strong></td>
+      <td>US20 - Acceso a versión de prueba</td>
       <td>
-          Descripción US20
+          Como usuario quiero tener acceso a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.
       </td>
       <td>
-        <strong>Escenario 1: ...</strong> <br>
-        <strong>Dado que</strong> ... <br>
-        <strong>Cuando</strong> ... <br>
-        <strong>Entonces</strong> ...
+        <strong>Escenario 1: </strong> <br>
+        <strong>Dado que</strong> soy un usuario registrad <br>
+        <strong>Cuando</strong> dé click a iniciar versión de prueba <br>
+        <strong>Entonces</strong> pueda iniciarse la comprobación de usuario para calificar como un usuario limitado por una cantidad de días y poder cambiarme a un modo de subscripción de mi preferencia.
       </td>
       <td>
-        EP01, EP02, ...
+        EP05
       </td>
   </tr>
   </tbody>
