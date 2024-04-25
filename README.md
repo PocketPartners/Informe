@@ -417,6 +417,7 @@ Creemos que si implementamos medidas de seguridad adicionales para proteger la i
 #### 1.2.2.4. Lean UX Canvas
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital Mural:
+
 <p style="text-align: center" align="center"> <p align="center"><img src="images/LeanuxCanvas.png" alt="Lean Ux Canvas PocketPartners" width="40%"></p></p>
 <A HREF="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525"> Lean UX Canvas PocketPartners </A>
 
@@ -728,7 +729,6 @@ La entrevistada indica ser una viajera concurrente con sus amigos o grupos afine
  </div>
  
  Link de la entrevista: https://www.youtube.com/watch?v=-d7Rogkp794
-
 
 ##### Resumen de la entrevista
 
@@ -1847,60 +1847,73 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 ### 4.4.4. Web Applications User Flow Diagrams
 
 #### User goal: Consultar movimientos y resumen.
+
 El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y el resumen de su cuenta.
 
 <p align="center"><img src="images/userflowLogIn.png" alt="UserFlow ingreso" width="100%"></p>
 
 Error al ingresar a la cuenta
+
 <p align="center"><img src="images/inicio-error.jpg" alt="Error al iniciar sesión" width="100%"></p>
 
 #### User goal: Crear una cuenta
+
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
 
 <p align="center"><img src="images/userflowSignUp.png" alt="UserFlow de cración de cuenta" width="100%"></p>
 
 Error al crear una cuenta nueva
+
 <p align="center"><img src="images/crear-error.jpg" alt="Error al crear una cuenta nueva" width="100%"></p>
 
 #### User goal: Editar cuenta
+
 El usuario desea realizar ajustes y cambios en su cuenta
 
 <p align="center"><img src="images/userflowSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
 
 #### User goal: Exportar datos
+
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
 
 <p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
 
 #### User goal: Acceder menú agregar
+
 El usuario desea crear un grupo nuevo o relizar un pago a algún miembro perteneciente a un grupo existente.
 
 <p align="center"><img src="images/userflowAdd.png" alt="UserFlow agregar" width="100%"></p>
 
 #### User goal: Crear grupo
+
 El usuario desea crear un grupo nuevo para empezar a dividir sus cuentas con los otros miembros.
 
 <p align="center"><img src="images/userflowCreateGroup.png" alt="UserFlow crear grupo" width="100%"></p>
 
 Error al crear el grupo nuevo por falta de datos
+
 <p align="center"><img src="images/nuevoGrupo-error.jpg" alt="Error al crear un nuevo grupo" width="100%"></p>
 
 #### User goal: Consultar pagos entrantes
+
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
 
 <p align="center"><img src="images/userflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
 
 #### User goal: Consultar pagos salientes
+
 El usuario desea consultar sus pagos realizados y pagos faltantes
 
 <p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
 
 #### User goal: Registrar un nuevo gasto
+
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
 <p align="center"><img src="images/userflowNewSpent.png" alt="UserFlow nuevo gasto" width="100%"></p>
 
 Error al registrar el nuevo gasto por falta de datos
+
 <p align="center"><img src="images/nuevoGasto-error.jpg" alt="Error al registrar un nuevo gasto" width="100%"></p>
 
 ## 4.5. Web Applications Prototyping
@@ -1938,7 +1951,7 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.3. Software Architecture Components Diagrams.
 
   <div align="center">
-        <img src="images/Component-frotend-diagram.png" alt="Component Diagram" width="100%">
+        <img src="images/Component-frontend-diagram.png" alt="Component Diagram" width="100%">
         <img src="images/Component-backend-diagram.png" alt="Component Diagram" width="100%">
   </div>
 <p align ="justify">
@@ -2693,6 +2706,7 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
 <p align = "justify">Se puede acceder a la página de inicio a través del siguiente enlace: https://pocketpartners.github.io/LadingPage/  </p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
 <p align = "justify">A continuación se presentan capturas de los insights del repositorio del landing page
 en Github </p>
 
