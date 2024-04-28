@@ -182,14 +182,22 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint n](#521-sprint-n)
-      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n) -[5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-n)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+          - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+          - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+          - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+          - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+          - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+          - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+          - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1339,7 +1347,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <tr>
       <td style="text-align: center" align="center">US20 - Acceso a versión de prueba</td>
       <td style="text-align: center" align="center">
-          Como usuario quiero tener acceso a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.
+          Como usuario quiero tener acceso a una versión de prueba limitada para poder verificar y probar los servicios que ofrece PocketPartners.
       </td>
       <td style="text-align: center" align="center">
         <b>Escenario 1: </b> <br>
@@ -1351,12 +1359,35 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         EP05
       </td>
   </tr>
+  <tr>
+      <td style="text-align: center" align="center">US21 - Acceso a Contactos</td>
+      <td style="text-align: center" align="center">
+          Como usuario quiero poder tener acceso a una lista de los contactos que tengo en esta aplicacion.
+      </td>
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Acceder a la lista de Contactos</b> <br>
+        <b>Dado que</b> el usuario registrado quiera poder observa una lista de los contactos <br>
+        <b>Cuando</b> dé click a Contactos en la barra de navegacion<br>
+        <b>Entonces</b> se mostrara una lista de todos los contactos<br>
+      </td>
+      <td style="text-align: center" align="center">
+        <b>Escenario 1: Agregar un Contactos</b> <br>
+        <b>Dado que</b> el usuario quiera agregar un nuevo contacto <br>
+        <b>Cuando</b> dé click a Add Contact<br>
+        <b>Entonces</b> se mostrara un formulario donde podra llenar la informacion del nuevo contacto<br>
+        <b>Y</b> luego podra visualizarlo en la misma lista<br>
+      </td>
+      <td style="text-align: center" align="center">
+        EP05
+      </td>
+  </tr>
   </tbody>
+
 </table>
 
 ## Technical Stories
 
-<table>
+<table border>
   <thead>
     <tr>
       <th>Technical Story ID</th>
@@ -1365,7 +1396,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <th>Relacionado con (Epic ID)</th>
     </tr>
   </head>
-
   <tbody>
     <tr>
       <td align="center">T-01</td>
@@ -1446,7 +1476,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.4 Product Backlog
 
-<table>
+<table border>
   <thead>
     <tr>
       <th># Orden</th>
@@ -1456,7 +1486,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <th>Story Points</th>
     </tr>
   </thead>
-
   <tbody>
     <tr style="text-align: center;">
       <td>1</td>
@@ -1975,6 +2004,8 @@ El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
 <p align="center"><img src="images/mockupExport.jpg" alt="Mock-Up exportar" width="100%"></p>
 
+<p align="center"><img src="images/contact_mockup.png" alt="Wireframe exportar" width="100%"></p>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 #### User goal: Consultar movimientos y resumen.
@@ -1987,7 +2018,7 @@ Error al ingresar a la cuenta
 
 <p align="center"><img src="images/inicio-error.jpg" alt="Error al iniciar sesión" width="100%"></p>
 
-#### User goal: Crear una cuenta
+#### User goal: Como usuario quiero crear una cuenta
 
 El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.
 
@@ -1997,25 +2028,25 @@ Error al crear una cuenta nueva
 
 <p align="center"><img src="images/crear-error.jpg" alt="Error al crear una cuenta nueva" width="100%"></p>
 
-#### User goal: Editar cuenta
+#### User goal: Como usuario quiero editar cuenta
 
 El usuario desea realizar ajustes y cambios en su cuenta
 
 <p align="center"><img src="images/userflowSideBar.png" alt="UserFlow barra lateral" width="100%"></p>
 
-#### User goal: Exportar datos
+#### User goal: Como usuario quiero exportar datos
 
 El usuario busca exportar sus datos para poder presentarselo a sus amigos y tenerlo registrado dentro de su máquina.
 
 <p align="center"><img src="images/userflowExport.png" alt="UserFlow exportar" width="100%"></p>
 
-#### User goal: Acceder menú agregar
+#### User goal: Como usuario quiero acceder menú agregar
 
 El usuario desea crear un grupo nuevo o relizar un pago a algún miembro perteneciente a un grupo existente.
 
 <p align="center"><img src="images/userflowAdd.png" alt="UserFlow agregar" width="100%"></p>
 
-#### User goal: Crear grupo
+#### User goal: Como usuario quiero crear un grupo
 
 El usuario desea crear un grupo nuevo para empezar a dividir sus cuentas con los otros miembros.
 
@@ -2025,19 +2056,19 @@ Error al crear el grupo nuevo por falta de datos
 
 <p align="center"><img src="images/nuevoGrupo-error.jpg" alt="Error al crear un nuevo grupo" width="100%"></p>
 
-#### User goal: Consultar pagos entrantes
+#### User goal: Como usuario quiero consultar pagos entrantes
 
 El usuario desea consultar los pagos que le han hecho en sus distintos grupos
 
 <p align="center"><img src="images/userflowPayIn.png" alt="UserFlow pago entrante" width="100%"></p>
 
-#### User goal: Consultar pagos salientes
+#### User goal: Como usuario quiero consultar pagos salientes
 
 El usuario desea consultar sus pagos realizados y pagos faltantes
 
 <p align="center"><img src="images/userflowPayOut.png" alt="UserFlow pago saliente" width="100%"></p>
 
-#### User goal: Registrar un nuevo gasto
+#### User goal: Como usuario quiero registrar un nuevo gasto
 
 El usuario desea registrar un nuevo gasto y dividirlo con su grupo
 
@@ -2998,7 +3029,7 @@ en Github </p>
       </td>
     </tr>
     <tr>
-      <td>Sprint 1 Velocity</td>
+      <td>Sprint 2 Velocity</td>
       <td>5</td>
     </tr>
     <tr>
@@ -3012,10 +3043,123 @@ en Github </p>
 
 En el segundo Sprint, se implementará el aplicativo web de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+<img src="Sprint-2.jpg" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
-https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
+https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan informacion de los commits del FrontedEnd del nuestro Aplicativo PocketPartners, con el uso de HTML, CSS, Typescript y Angular</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>Pocket Partners</td>
+    <td>develop</td>
+    <td>016d6dbf8409dea47e782ee48639aa9e67cf61f8</td>
+    <td>refactor(base-service): change the environment url</td>
+    <td>26/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>c8703dac7860ba425b0bbddc729e482f3c0e5f92</td>
+    <td>refactor(group): create group form added crud operation</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>3a785223c10951f3dc0b3fea0823b81b787a9624</td>
+    <td>feat(group): Added PageGroup component to display all groups</td>
+    <td>26/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>1d21d009d135540353ccbdb44a64f18656e9c941</td>
+    <td>feat(footer): added footer info section with links and info about de company</td>
+    <td>10/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>4a9a7deb9a494dc70d6c699a00670e85d237df4e</td>
+    <td>Feat: Created the pages and stablished the routes</td>
+    <td>27/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>aaed58b78887c2eea0b96db8b06279842996a9c7</td>
+    <td>fix(payments): show some info of groups</td>
+    <td>27/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>bdd4381672052b7c6290b87cc5855a239ee30288</td>
+    <td>feat: index de los services</td>
+    <td>28/04/2024</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>5e8cfa0e61ca39da6d150a304ac2c50f20dfe9e5</td>
+    <td>feat(contact): implementation of contacts screen</td>
+    <td>28/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>20b8b6e1233f0890c2f3ba2106cd0c0e8c412b53</td>
+    <td>feat(home): added expenses chart</td>
+    <td>29/04/2024</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>c83b8ab92af0d50516660c174545b22af7062861</td>
+    <td>feat(expenses): Added ExpenseCard component and its functionality on the expense page</td>
+    <td>29/04/2024</td>
+  </tr>
+  </table>
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+<p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google. Firebase que permite hospedar y desplegar sitios web estáticos de manera sencilla. Puedes vincular un repositorio Git (como GitHub). </p>
+
+<img align="center" src="https://firebase.google.com/images/social.png" alt="Firebase" width="90%">
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+La aplicación ha sido desplegada por FireBase:
+
+ - Debe ingresamos a la página oficial, registrarse y dimos a nuevo proyecto
+    <img align="center" src="images/firebase_inicio.png" alt="Firebase" width="50%">
+ - Luego configuramos el proyecto e instalamos lo necesario en la consola
+    <img align="center" src="images/firebase_hosting.png" alt="Firebase" width="50%">
+ - Después, inicializamos el proyecto siguiendo los pasos:
+ - Entramos a la carpeta de nuestro proyecto y nos logueamos con la consola
+ - Hacemos el “firebase init”
+- Frontend Web Applications : 
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Avance de Conclusiones, Bibliografía y Anexos
 
@@ -3026,6 +3170,10 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
 <p align="justify">El equipo ha trabajado en el desarrollo de la aplicación, con contribuciones en el código de GitHub y el uso de herramientas como Visual Studio, HTML, y CSS. Se ha seguido la metodología GitFlow para el control del flujo de trabajo y la colaboración efectiva.</p>
 
 <p align="justify">Las entrevistas de validación y las preguntas diseñadas sugieren que el equipo está enfocado en la mejora continua y en la satisfacción del usuario. Esto es una práctica positiva para el desarrollo ágil.</p>
+
+<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de PocketPartners. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
+
+<p align="justify">Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos Firebase para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.</p>
 
 ### Bibliografía
 
@@ -3053,4 +3201,6 @@ nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZp
 
 <p align="justify">Entrevista 3: https://www.youtube.com/watch?v=-d7Rogkp794</p>
 
-<p align="justify">Video TB1: </p>
+<p align="justify">Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
+
+<p align="justify">Video TB2: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
