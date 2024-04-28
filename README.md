@@ -3043,7 +3043,7 @@ en Github </p>
 
 En el segundo Sprint, se implementará el aplicativo web de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="Sprint-2.jpg" alt="Trello" width="100%">
+<img src="images/Sprint-2.jpg" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2
