@@ -939,6 +939,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.2 User Stories
 
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -1368,9 +1369,10 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   </tr>
   </tbody>
 </table>
+</div>
 
 ## Technical Stories
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -1380,7 +1382,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <th>Relacionado con (Epic ID)</th>
     </tr>
   </head>
-
   <tbody>
     <tr>
       <td align="center">T-01</td>
@@ -1444,7 +1445,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     </tr>
   </tbody>
 </table>
-
+</div>
 
 
 ## 3.3 Impact Mapping
@@ -1462,7 +1463,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 <p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
 
 ## 3.4 Product Backlog
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -1687,6 +1688,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     </tr>      
   </tbody>  
 </table>
+</div>
 
 # Capítulo IV Product Design
 
