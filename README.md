@@ -1595,7 +1595,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>8</td>
     </tr>  
     <tr style="text-align: center;">
-
       <td>18</td>
       <td>T-08</td>
       <td>Desarrollar funciones de búsqueda avanzada</td>
@@ -1645,7 +1644,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>8</td>
     </tr>  
     <tr style="text-align: center;">
-
       <td>25</td>
       <td>T-07</td>
       <td>Desarrollar un sistema de análisis de datos</td>
