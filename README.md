@@ -3240,6 +3240,19 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+<p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
+
+<img align="center" src="images/firebase_1.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_2.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_3.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_4.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_5.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_6.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_7.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_8.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_9.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_10.jpg" alt="Pocket" width="90%">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 <p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google. Firebase que permite hospedar y desplegar sitios web estáticos de manera sencilla. Puedes vincular un repositorio Git (como GitHub). </p>
