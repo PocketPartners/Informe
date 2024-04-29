@@ -730,8 +730,9 @@ _Preguntas generales:_
  <div align="center">
   <img src="images/image-entrevista-renzo.png"/>
  </div>
- 
- Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
+
+Inicio: Minuto 14:50
+Fin: Minuto 20:10
 
 ##### Resumen de la entrevista
 
@@ -744,6 +745,9 @@ El entrevistado indica que al momento de viajar o en salidas con amigos y a la v
   <img src="images/image-entrevista-salvador.png">
 </div>
 
+Inicio: Minuto 04:09
+Fin: Minuto 8:16
+
 ##### Resumen de la entrevista
 
 El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones es dificil cuado hay muchas personas involucradas. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten este proceso.
@@ -754,8 +758,9 @@ El entrevistado indica que al momento de viajar o en salidas con amigos y a la v
  <div align="center">
   <img src="images/image-entrevista-randel-UserViajero.png"/>
  </div>
- 
- Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: Minuto 00:00
+Fin: Minuto 04:04
 
 ##### Resumen de la entrevista
 
@@ -767,7 +772,8 @@ La entrevistada indica ser una viajera concurrente con sus amigos o grupos afine
   <img src="images/Pilarentrevista.PNG"/>
  </div>
  
- Link de la entrevista: 
+ Inicio: Minuto 22:11
+Fin: Minuto 23:49
 
 ##### Resumen de la entrevista
 
@@ -783,14 +789,15 @@ que pueda ayudarle con este proceso
   <img src="images/AnaLuciaentrevista.PNG"/>
  </div>
  
- Link de la entrevista: 
+  Inicio: Minuto 23:49
+  Fin: Minuto 26:36
 
 ##### Resumen de la entrevista
 
 Ana Lucia tiene 33 años y la actividad u ma realia con sus amigos y conocidos es viajar,
-al momemnto de realizar u viaje le toman foto a los pagos o las boletas que tengan 
+al momemnto de realizar u viaje le toman foto a los pagos o las boletas que tengan
 y cada uno realiza el pago respectivo a quien realizo el pago, no encuentra mucha demora
-al realizar los pagos ya que tienen un acuerdo previo de pago, lo que utilizza es la calculadora 
+al realizar los pagos ya que tienen un acuerdo previo de pago, lo que utilizza es la calculadora
 para realizar los calculos no conoce alguna aplicaacion que le ayude con este tipo de calculos.<br>
 
 #### Nadia Lucas Coronel, 22 años.
@@ -799,7 +806,8 @@ para realizar los calculos no conoce alguna aplicaacion que le ayude con este ti
   <img src="images/fiorella_entrevista.png"/>
  </div>
  
- <p align="justify">Link de la entrevista [Minuto de Inicio: ]: </p>
+  Inicio: Minuto 08:17
+  Fin: Minuto 10:54
 
 ##### Resumen de la Entrevista
 
@@ -811,7 +819,8 @@ para realizar los calculos no conoce alguna aplicaacion que le ayude con este ti
   <img src="images/Entrevista-JoaquinCarbajal.jpg"/>
  </div>
  
- <p align="justify">Link de la entrevista [Minuto de Inicio: ]: </p>
+  Inicio: Minuto 10:55
+  Fin: Minuto 14:52
 
 ##### Resumen de la Entrevista
 
