@@ -76,6 +76,26 @@ Abril 2024
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TP</strong></td>
+      <td>Lunes 29 de Abril</td>
+      <td>
+        <ul>
+          <li>Carbajal Pozzo, Joaquín Alonso</li>
+          <li>Cisneros Tafur, Diego Rafael</li>
+          <li>Jarama Peñaloza, Fiorella</li>
+          <li>Ramos Carpio, Karen</li>
+          <li>Ventura Allasi, Randel Russell</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.2.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
