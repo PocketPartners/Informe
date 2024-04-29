@@ -76,6 +76,26 @@ Abril 2024
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TP</strong></td>
+      <td>Lunes 29 de Abril</td>
+      <td>
+        <ul>
+          <li>Carbajal Pozzo, Joaquín Alonso</li>
+          <li>Cisneros Tafur, Diego Rafael</li>
+          <li>Jarama Peñaloza, Fiorella</li>
+          <li>Ramos Carpio, Karen</li>
+          <li>Ventura Allasi, Randel Russell</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.2.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -742,6 +762,18 @@ La entrevistada indica ser una viajera concurrente con sus amigos o grupos afine
 
 La entrevistada indica que es muy importante llevar el gasto, ya que algunas ocasionaes uno paga ya sea con yape o tranferencia y los demas le hacen en recargo, pero muchas veces es tedioso llevar un control en imagenes de dichos pagos la mayoria de veces solo se usa whatsapp sobre todo cuandos se tiene un viaje programado, por ahora el unico registro que lleva es el del historial de imagenes de whatsapp y el registrr de movimiento de sus tarjetas. Con el pasar de los dias de la finalizacion de algun viaje eso termina olvidandose y nunca se saldan cuentas.<br>
 
+#### Nadia Lucas Coronel, 22 años.
+
+ <div align="center">
+  <img src="images/fiorella_entrevista.png"/>
+ </div>
+ 
+ <p align="justify">Link de la entrevista [Minuto de Inicio: ]: </p>
+
+ ##### Resumen de la Entrevista
+
+<p align="justify">La entrevista proporciona una visión clara sobre cómo las personas gestionan y dividen sus gastos compartidos, destacando la importancia de establecer acuerdos iniciales y llevar un registro detallado de los gastos y pagos. Nadia menciona la variedad de métodos utilizados, desde guardar recibos físicos hasta el uso de aplicaciones móviles específicas. Aunque se resalta la necesidad de simplificar el proceso, se señala una dificultad común en recordar quién pagó qué, lo que destaca la demanda de herramientas más eficientes para facilitar la división de gastos</p> 
+
 ### 2.2.3. Análisis de entrevistas
 
 <p align="justify">Los entrevistados destacan la necesidad de simplificar y agilizar el proceso de dividir gastos durante viajes y salidas con amigos o compañeros de vivienda. En ambas situaciones, los entrevistados utilizan métodos tradicionales como papel y lápiz, Google Sheets o Excel para llevar un registro de los gastos compartidos, pero enfrentan desafíos como la demora en el proceso, olvidos de gastos o préstamos, y la falta de conocimiento sobre herramientas más eficientes. Sin embargo, muestran disposición para adoptar soluciones que faciliten esta tarea. En este contexto, PocketPartners emerge como una solución prometedora. Al ofrecer una interfaz intuitiva, cálculos automáticos y registro en tiempo real, esta aplicación tiene el potencial de simplificar drásticamente el proceso de división de gastos, ayudando a los usuarios a gestionar de manera más efectiva sus finanzas compartidas durante sus actividades sociales y de viaje.</p>
@@ -947,7 +979,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.2 User Stories
 
-<table border>
+
+<div align="center">
+<table>
   <thead>
     <tr>
         <th><h2>Epic/User Story ID</h2></th>
@@ -1384,10 +1418,11 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   </tbody>
 
 </table>
+</div>
 
 ## Technical Stories
-
-<table border>
+<div align="center">
+<table>
   <thead>
     <tr>
       <th>Technical Story ID</th>
@@ -1459,7 +1494,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     </tr>
   </tbody>
 </table>
-
+</div>
 ## 3.3 Impact Mapping
 
 #### Mejorar la experiencia de distribución de movimientos financieros grupales.
@@ -1475,8 +1510,8 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 <p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
 
 ## 3.4 Product Backlog
-
-<table border>
+<div align="center">
+<table>
   <thead>
     <tr>
       <th># Orden</th>
@@ -1699,6 +1734,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     </tr>
   </tbody>  
 </table>
+</div>
 
 # Capítulo IV Product Design
 
@@ -3043,7 +3079,7 @@ en Github </p>
 
 En el segundo Sprint, se implementará el aplicativo web de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="Sprint-2.jpg" alt="Trello" width="100%">
+<img src="images/Sprint-2.jpg" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2
