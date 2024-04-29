@@ -3041,7 +3041,7 @@ en Github </p>
       </td>
     </tr>
     <tr>
-      <td>Sprint 1 Velocity</td>
+      <td>Sprint 2 Velocity</td>
       <td>5</td>
     </tr>
     <tr>
@@ -3055,10 +3055,10 @@ en Github </p>
 
 En el segundo Sprint, se implementará el aplicativo web de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+<img src="images/Sprint-2.jpg" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
-https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
+https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
@@ -3144,21 +3144,21 @@ https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E651
   </tr>
   </table>
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 <p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.</p>
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 <p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google. Firebase que permite hospedar y desplegar sitios web estáticos de manera sencilla. Puedes vincular un repositorio Git (como GitHub). </p>
 
 <img align="center" src="https://firebase.google.com/images/social.png" alt="Firebase" width="90%">
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 La aplicación ha sido desplegada por FireBase:
 
@@ -3171,7 +3171,7 @@ La aplicación ha sido desplegada por FireBase:
  - Hacemos el “firebase init”
 - Frontend Web Applications : 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Avance de Conclusiones, Bibliografía y Anexos
 
