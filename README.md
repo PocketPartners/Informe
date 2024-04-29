@@ -191,13 +191,13 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
       - [5.2.2. Sprint 2](#522-sprint-2)
-          - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-          - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-          - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-          - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-          - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-          - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-          - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -716,6 +716,17 @@ _Preguntas generales:_
 ##### Resumen de la entrevista
 
 El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones se olvida de anotar algún gasto o préstamo. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten el proceso aparte de Splitwise o otra mas conocida.
+<br>
+
+#### Salvador Chamorro, 22 años.
+
+<div align="center">
+  <img src="images/image-entrevista-salvador.png">
+</div>
+
+##### Resumen de la entrevista
+
+El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones es dificil cuado hay muchas personas involucradas. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten este proceso.
 <br>
 
 #### Margarita Robles, 36 años.
@@ -3138,8 +3149,6 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-
-
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 <p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google. Firebase que permite hospedar y desplegar sitios web estáticos de manera sencilla. Puedes vincular un repositorio Git (como GitHub). </p>
@@ -3150,14 +3159,14 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
 
 La aplicación ha sido desplegada por FireBase:
 
- - Debe ingresamos a la página oficial, registrarse y dimos a nuevo proyecto
-    <img align="center" src="images/firebase_inicio.png" alt="Firebase" width="50%">
- - Luego configuramos el proyecto e instalamos lo necesario en la consola
-    <img align="center" src="images/firebase_hosting.png" alt="Firebase" width="50%">
- - Después, inicializamos el proyecto siguiendo los pasos:
- - Entramos a la carpeta de nuestro proyecto y nos logueamos con la consola
- - Hacemos el “firebase init”
-- Frontend Web Applications : 
+- Debe ingresamos a la página oficial, registrarse y dimos a nuevo proyecto
+  <img align="center" src="images/firebase_inicio.png" alt="Firebase" width="50%">
+- Luego configuramos el proyecto e instalamos lo necesario en la consola
+  <img align="center" src="images/firebase_hosting.png" alt="Firebase" width="50%">
+- Después, inicializamos el proyecto siguiendo los pasos:
+- Entramos a la carpeta de nuestro proyecto y nos logueamos con la consola
+- Hacemos el “firebase init”
+- Frontend Web Applications :
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
