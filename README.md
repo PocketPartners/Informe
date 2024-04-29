@@ -774,6 +774,18 @@ La entrevistada indica que es muy importante llevar el gasto, ya que algunas oca
 
 <p align="justify">La entrevista proporciona una visión clara sobre cómo las personas gestionan y dividen sus gastos compartidos, destacando la importancia de establecer acuerdos iniciales y llevar un registro detallado de los gastos y pagos. Nadia menciona la variedad de métodos utilizados, desde guardar recibos físicos hasta el uso de aplicaciones móviles específicas. Aunque se resalta la necesidad de simplificar el proceso, se señala una dificultad común en recordar quién pagó qué, lo que destaca la demanda de herramientas más eficientes para facilitar la división de gastos</p> 
 
+#### Isaac Martín Nonalaya Rondón, 21 años.
+
+ <div align="center">
+  <img src="images/Entrevista-JoaquinCarbajal.jpg"/>
+ </div>
+ 
+ <p align="justify">Link de la entrevista [Minuto de Inicio: ]: </p>
+
+ ##### Resumen de la Entrevista
+
+<p align="justify">La entrevista proporciona una visión clara sobre cómo algunas personas siguen llevando un método tradicional para llevar el registro de sus gastos debido a la complejidad que supone aprender otros métodos. Pero esto también refleja el interes de las personas por tener sus cuentas claras en todo momento, así como evidencia el uso de un sistema de registros de sus ingresos y egresos.</p> 
+
 ### 2.2.3. Análisis de entrevistas
 
 <p align="justify">Los entrevistados destacan la necesidad de simplificar y agilizar el proceso de dividir gastos durante viajes y salidas con amigos o compañeros de vivienda. En ambas situaciones, los entrevistados utilizan métodos tradicionales como papel y lápiz, Google Sheets o Excel para llevar un registro de los gastos compartidos, pero enfrentan desafíos como la demora en el proceso, olvidos de gastos o préstamos, y la falta de conocimiento sobre herramientas más eficientes. Sin embargo, muestran disposición para adoptar soluciones que faciliten esta tarea. En este contexto, PocketPartners emerge como una solución prometedora. Al ofrecer una interfaz intuitiva, cálculos automáticos y registro en tiempo real, esta aplicación tiene el potencial de simplificar drásticamente el proceso de división de gastos, ayudando a los usuarios a gestionar de manera más efectiva sus finanzas compartidas durante sus actividades sociales y de viaje.</p>
