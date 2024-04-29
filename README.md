@@ -3274,6 +3274,20 @@ La aplicación ha sido desplegada por FireBase:
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe
+en Github </p>
+
+<img align="center" src="images/participacion_informe_sprint2.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion_informe1_sprint2.png" alt="Footer deployed" width="90%">
+
+<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend
+en Github </p>
+
+<img align="center" src="images/participacion_frontEnd_sprint2.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion2_frontend_sprint2.jpg" alt="Footer deployed" width="90%">
+
 ## Avance de Conclusiones, Bibliografía y Anexos
 
 ### Conclusiones
