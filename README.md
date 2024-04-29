@@ -725,7 +725,7 @@ _Preguntas generales:_
 
 ### 2.2.2 Registro de entrevistas
 
-Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgB8WccgWLHh5FCPd73JH1hvg?e=edxjvJ
+Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1
 
 #### Renzo Castro, 20 años.
 
@@ -3309,7 +3309,7 @@ La aplicación ha sido desplegada por FireBase:
 
 <p align="justify">Landing Page:https://pocketpartners.github.io/LandingPage/ </p>
 
-<p align="justify">Todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgB8WccgWLHh5FCPd73JH1hvg?e=edxjvJ</p>
+<p align="justify">Todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1</p>
 
 <p align="justify">Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
 
