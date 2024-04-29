@@ -800,6 +800,19 @@ y cada uno realiza el pago respectivo a quien realizo el pago, no encuentra much
 al realizar los pagos ya que tienen un acuerdo previo de pago, lo que utilizza es la calculadora
 para realizar los calculos no conoce alguna aplicaacion que le ayude con este tipo de calculos.<br>
 
+#### Elizabeth Saico Quispe, 32 años.
+
+ <div align="center">
+  <img src="images/entrevista.PNG"/>
+ </div>
+
+Inicio: Minuto 26:37
+Fin: Minuto 29:46
+
+##### Resumen de la entrevista
+
+La entrevistada indica que es muy importante llevar el gasto, ya que algunas ocasionaes uno paga ya sea con yape o tranferencia y los demas le hacen en recargo, pero muchas veces es tedioso llevar un control en imagenes de dichos pagos la mayoria de veces solo se usa whatsapp sobre todo cuandos se tiene un viaje programado, por ahora el unico registro que lleva es el del historial de imagenes de whatsapp y el registrr de movimiento de sus tarjetas. Con el pasar de los dias de la finalizacion de algun viaje eso termina olvidandose y nunca se saldan cuentas.<br>
+
 #### Nadia Lucas Coronel, 22 años.
 
  <div align="center">
