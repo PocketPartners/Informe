@@ -210,14 +210,14 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-      - [5.2.2. Sprint 2](#522-sprint-2)
-          - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-          - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-          - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-          - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-          - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-          - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-          - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -431,16 +431,16 @@ Creemos que los usuarios pueden tener diferentes preferencias y necesidades en l
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 Hypothesis Statement 01:
-Creemos que si simplificamos el proceso de división de gastos en FairFinance, entonces los usuarios encontrarán más fácil y rápido agregar y dividir gastos compartidos, lo que aumentará la adopción y retención de la aplicación
+Creemos que si simplificamos el proceso de división de gastos en FairFinance los usuarios encontrarán más fácil y rápido agregar y dividir gastos compartidos. Sabremos que hemos tenido éxito cuando aumente la adopción y retención de la aplicación.
 
 Hypothesis Statement 02:
-Creemos que si implementamos notificaciones y recordatorios automáticos para deudas pendientes en FairFinance, entonces los usuarios estarán más al tanto de sus obligaciones financieras compartidas y tomarán medidas para resolverlas a tiempo, mejorando así la gestión de gastos compartidos.
+Creemos que si implementamos notificaciones y recordatorios automáticos para deudas pendientes en FairFinance los usuarios estarán más al tanto de sus obligaciones financieras compartidas y tomarán medidas para resolverlas a tiempo. Sabremos que hemos tenido éxito cuando la gestión de gastos compartidos de nuestros usuarios se vea mejorada, así como la gestión de sus ingresos y egresos.
 
 Hypothesis Statement 03:
-Creemos que si mejoramos la sincronización de datos en FairFinance, entonces los usuarios podrán acceder y actualizar su información de gastos compartidos de manera consistente desde cualquier dispositivo, lo que aumentará la conveniencia y la utilidad de la aplicación.
+Creemos que si mejoramos la sincronización de datos en FairFinance los usuarios podrán acceder y actualizar su información de gastos compartidos de manera consistente desde cualquier dispositivo. Sabremos que hemos tenido éxito cuando nuestros usuarios dejen comentarios positvos acerca del uso entre plataformas y la sincronización entre estos dispositivos.
 
 Hypothesis Statement 04:
-Creemos que si implementamos medidas de seguridad adicionales para proteger la información financiera y personal de los usuarios en FairFinance, entonces los usuarios tendrán una mayor confianza en la privacidad de sus datos y estarán más inclinados a compartir información sensible a través de la aplicación.
+Creemos que si implementamos medidas de seguridad adicionales para proteger la información financiera y personal de los usuarios en FairFinance los usuarios tendrán una mayor confianza en la privacidad de sus datos y estarán más inclinados a compartir información sensible a través de la aplicación. Sabremos que hemos tenido éxito cuando veamos que más usuarios utilizan nuestros features relacionados al manejo de infromación sensible.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -725,17 +725,34 @@ _Preguntas generales:_
 
 ### 2.2.2 Registro de entrevistas
 
+Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1
+
 #### Renzo Castro, 20 años.
 
  <div align="center">
   <img src="images/image-entrevista-renzo.png"/>
  </div>
- 
- Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO
+
+Inicio: Minuto 14:50
+Fin: Minuto 20:10
 
 ##### Resumen de la entrevista
 
 El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones se olvida de anotar algún gasto o préstamo. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten el proceso aparte de Splitwise o otra mas conocida.
+<br>
+
+#### Salvador Chamorro, 22 años.
+
+<div align="center">
+  <img src="images/image-entrevista-salvador.png">
+</div>
+
+Inicio: Minuto 04:09
+Fin: Minuto 8:16
+
+##### Resumen de la entrevista
+
+El entrevistado indica que al momento de viajar o en salidas con amigos y a la vez con personas con las que vive, utiliza herramientas conocidas como papel y lápiz, Google Sheets o Excel para llevar el registro de los gastos. Indica que el proceso de división de gastos es demora y que en ocasiones es dificil cuado hay muchas personas involucradas. Además, menciona que no conoce muchas herramientas que le ayuden con los cálculos o que le faciliten este proceso.
 <br>
 
 #### Margarita Robles, 36 años.
@@ -743,20 +760,56 @@ El entrevistado indica que al momento de viajar o en salidas con amigos y a la v
  <div align="center">
   <img src="images/image-entrevista-randel-UserViajero.png"/>
  </div>
- 
- Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Inicio: Minuto 00:00
+Fin: Minuto 04:04
 
 ##### Resumen de la entrevista
 
 La entrevistada indica ser una viajera concurrente con sus amigos o grupos afines de la misma actividad, utiliza herramientas caseras de apuntes como un cuadernillo, notas en el celular al momento de hacer registros y una calculadora al hacer los cálculos finales. Indica que el proceso de división de todos los gastos le toma buen tiempo de demora y que en ocasiones se da cuenta que olvidó anotar algún gasto o préstamo, lo cual es molesto. Menciona que no conoce ninguna herramienta que le ayude con los cálculos o que le faciliten el proceso de registras los gastos compartidos con sus compañeros viajeros, así que está contenta y dispuesta de recibir mayores noticias de nuestro producto PocketPartners.
+
+#### Pilar Iturbe, 32 años.
+
+ <div align="center">
+  <img src="images/Pilarentrevista.PNG"/>
+ </div>
+ 
+ Inicio: Minuto 22:11
+Fin: Minuto 23:49
+
+##### Resumen de la entrevista
+
+Pilar tiene 32 años las acrividades que ams realiza con sus amios es salir a comer,
+en cuanto a sus compañeros de piso, divide los gastos y pagos siempre por whatsapp
+no ha tenido muchas dificultades con este proceso y no conoce aluna herramienta
+que pueda ayudarle con este proceso
+.<br>
+
+#### Ana Lucia Aguilar, 33 años.
+
+ <div align="center">
+  <img src="images/AnaLuciaentrevista.PNG"/>
+ </div>
+ 
+  Inicio: Minuto 23:49
+  Fin: Minuto 26:36
+
+##### Resumen de la entrevista
+
+Ana Lucia tiene 33 años y la actividad u ma realia con sus amigos y conocidos es viajar,
+al momemnto de realizar u viaje le toman foto a los pagos o las boletas que tengan
+y cada uno realiza el pago respectivo a quien realizo el pago, no encuentra mucha demora
+al realizar los pagos ya que tienen un acuerdo previo de pago, lo que utilizza es la calculadora
+para realizar los calculos no conoce alguna aplicaacion que le ayude con este tipo de calculos.<br>
 
 #### Elizabeth Saico Quispe, 32 años.
 
  <div align="center">
   <img src="images/entrevista.PNG"/>
  </div>
- 
- Link de la entrevista: https://www.youtube.com/watch?v=-d7Rogkp794
+
+Inicio: Minuto 26:37
+Fin: Minuto 29:46
 
 ##### Resumen de la entrevista
 
@@ -768,11 +821,25 @@ La entrevistada indica que es muy importante llevar el gasto, ya que algunas oca
   <img src="images/fiorella_entrevista.png"/>
  </div>
  
- <p align="justify">Link de la entrevista [Minuto de Inicio: ]: </p>
+  Inicio: Minuto 08:17
+  Fin: Minuto 10:54
 
- ##### Resumen de la Entrevista
+##### Resumen de la Entrevista
 
-<p align="justify">La entrevista proporciona una visión clara sobre cómo las personas gestionan y dividen sus gastos compartidos, destacando la importancia de establecer acuerdos iniciales y llevar un registro detallado de los gastos y pagos. Nadia menciona la variedad de métodos utilizados, desde guardar recibos físicos hasta el uso de aplicaciones móviles específicas. Aunque se resalta la necesidad de simplificar el proceso, se señala una dificultad común en recordar quién pagó qué, lo que destaca la demanda de herramientas más eficientes para facilitar la división de gastos</p> 
+<p align="justify">La entrevista proporciona una visión clara sobre cómo las personas gestionan y dividen sus gastos compartidos, destacando la importancia de establecer acuerdos iniciales y llevar un registro detallado de los gastos y pagos. Nadia menciona la variedad de métodos utilizados, desde guardar recibos físicos hasta el uso de aplicaciones móviles específicas. Aunque se resalta la necesidad de simplificar el proceso, se señala una dificultad común en recordar quién pagó qué, lo que destaca la demanda de herramientas más eficientes para facilitar la división de gastos</p>
+
+#### Isaac Martín Nonalaya Rondón, 21 años.
+
+ <div align="center">
+  <img src="images/Entrevista-JoaquinCarbajal.jpg"/>
+ </div>
+ 
+  Inicio: Minuto 10:55
+  Fin: Minuto 14:52
+
+##### Resumen de la Entrevista
+
+<p align="justify">La entrevista proporciona una visión clara sobre cómo algunas personas siguen llevando un método tradicional para llevar el registro de sus gastos debido a la complejidad que supone aprender otros métodos. Pero esto también refleja el interes de las personas por tener sus cuentas claras en todo momento, así como evidencia el uso de un sistema de registros de sus ingresos y egresos.</p>
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -978,7 +1045,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 <p align="center"><img src="images/toBeUserCompañeroPiso.jpg" alt="toBe User Compañero de Piso" width="100%"></p>
 
 ## 3.2 User Stories
-
 
 <div align="center">
 <table>
@@ -1421,6 +1487,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 </div>
 
 ## Technical Stories
+
 <div align="center">
 <table>
   <thead>
@@ -1510,6 +1577,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 <p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
 
 ## 3.4 Product Backlog
+
 <div align="center">
 <table>
   <thead>
@@ -1541,196 +1609,196 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US1</td>
       <td>Recibir notificaciones</td>
       <td style="text-align: justify;">Envío de notificaciones automáticas cuando se agreguen nuevos gastos compartidos para mantener al tanto de las actualizaciones en las finanzas compartidas y evitar perder información importante.</td>
-      <td>2</td>
+      <td>1</td>
     </tr>    
     <tr style="text-align: center;">
       <td>4</td>
       <td>US10</td>
       <td>Visualizar grupos</td>
       <td style="text-align: justify;">Muestra de lista con los grupos a los que pertence el usuario en donde se pueda ver información relevante sobre los mismos</td>
-      <td>2</td>
+      <td>1</td>
     </tr>  
     <tr style="text-align: center;">
       <td>5</td>
       <td>US11</td>
       <td>Crear nuevos grupos</td>
       <td style="text-align: justify;">Creación de nuevos grupos SplitWise con diferentes personas</td>
-      <td>2</td>
+      <td>1</td>
     </tr>  
     <tr style="text-align: center;">
       <td>6</td>
       <td>US12</td>
       <td>Adición de gastos</td>
       <td style="text-align: justify;">Agregación de gastos nuevos a los grupos a los que pertence el usuario.</td>
-      <td>3</td>
+      <td>2</td>
     </tr>  
     <tr style="text-align: center;">
       <td>7</td>
       <td>US13</td>
       <td>Adición de recibos de gastos</td>
       <td style="text-align: justify;">Opción de adjuntar recibos o imágenes a mis gastos para mantener un registro visual de mis transacciones.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>8</td>
       <td>US15</td>
       <td>Modificación de notas en los gastos</td>
       <td style="text-align: justify;">Opción de agregar notas o comentarios a cada gasto compartido, para proporcionar contexto adicional o aclaraciones sobre la transacción.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr style="text-align: center;">
       <td>9</td>
       <td>T-02</td>
       <td>Implementar autenticación y autorización</td>
-      <td style="text-align: justify;">Crear un sistema que permita a los usuarios autenticarse de forma segura y gestionar sus permisos de acceso a la aplicación.</td>
-      <td>5</td>
+      <td style="text-align: justify;">Como desarrollador, quiero implementar un sistema de autenticación y autorización para garantizar que solo los usuarios registrados y autorizados puedan acceder a PocketPartners y sus servicios.</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>10</td>
       <td>US18</td>
       <td>Buscar Grupo por nombre</td>
       <td style="text-align: justify;">Buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>     
     <tr style="text-align: center;">
       <td>11</td>
       <td>US16</td>
       <td>Pago recurrente</td>
       <td style="text-align: justify;">Establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos 	  manualmente cada vez.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>12</td>
       <td>T-05</td>
       <td>Desarrollar una función de importación de datos</td>
-      <td style="text-align: justify;">Crear una función que permita a los usuarios importar datos de sus transacciones bancarias y otros sistemas de registro de gastos a la aplicación, facilitando la actualización y gestión de sus registros de gastos grupales.</td>
-      <td>5</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar una función de importación de datos para que los usuarios puedan importar datos de sus transacciones bancarias y otros sistemas de registro de gastos.</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>13</td>
       <td>US8</td>
       <td>Balance General</td>
       <td style="text-align: justify;">Visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>14</td>
       <td>T-03</td>
       <td>Integrar un sistema de notificaciones push</td>
-      <td style="text-align: justify;">Implementar un sistema que envíe notificaciones instantáneas a los usuarios a través de mensajes push.</td>
-      <td>5</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar funciones de notificación para informar a los usuarios sobre nuevos gastos, cambios en los gastos existentes y recordatorios de pagos pendientes.</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>15</td>
       <td>US17</td>
       <td>Mostrar resultados de los cálculos financieros por individuo</td>
       <td style="text-align: justify;">Mostrar los resultados finales de todos los cálculos financieros y el monto a ser pagado o recibido por cada integrante del grupo.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>  
     <tr style="text-align: center;">
       <td>16</td>
       <td>T-01</td>
       <td>Crear una API REST para la aplicación</td>
-      <td style="text-align: justify;">Desarrollar una interfaz de programación de aplicaciones (API) que permita a los usuarios acceder y gestionar sus gastos grupales a través de llamadas HTTP.</td>
-      <td>8</td>
+      <td style="text-align: justify;">Como desarrollador, quiero crear una API RESTful para permitir a los usuarios acceder y gestionar sus gastos grupales desde diferentes dispositivos.</td>
+      <td>5</td>
     </tr>  
     <tr style="text-align: center;">
       <td>17</td>
       <td>US2</td>
       <td>Añadir o Eliminar Transacciones</td>
       <td style="text-align: justify;">Editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>  
     <tr style="text-align: center;">
       <td>18</td>
       <td>T-08</td>
       <td>Desarrollar funciones de búsqueda avanzada</td>
-      <td style="text-align: justify;">Crear herramientas de búsqueda que permitan a los usuarios encontrar rápidamente información específica sobre sus gastos.</td>
-      <td>8</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar funciones de búsqueda avanzada para que los usuarios puedan buscar y filtrar sus gastos por fecha, categoría, monto, etc.</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>19</td>
       <td>US3</td>
       <td>Division de presupuesto</td>
       <td style="text-align: justify;">Opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>20</td>
       <td>US7</td>
       <td>Rastreador de Deuda</td>
       <td style="text-align: justify;">Rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>21</td>
       <td>T-06</td>
       <td>Desarrollar un sistema de reportes personalizados</td>
-      <td style="text-align: justify;">Crear herramientas que permitan a los usuarios generar informes detallados y personalizados sobre sus gastos grupales. Estos informes podrían incluir gráficos, tablas y otros elementos visuales para ayudar a los usuarios a analizar y comprender mejor sus patrones de gasto.</td>
-      <td>8</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar un sistema de reportes personalizados para que los usuarios puedan generar informes detallados sobre sus gastos grupales.</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>22</td>
       <td>US4</td>
       <td>Exportar Detalles</td>
       <td style="text-align: justify;">Exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>23</td>
       <td>T-10</td>
       <td>Optimizar la interfaz de usuario</td>
-      <td style="text-align: justify;">Mejorar la interfaz de usuario para que sea más intuitiva y fácil de usar para los usuarios finales.</td>
-      <td>8</td>
+      <td style="text-align: justify;">Como desarrollador, quiero optimizar la interfaz de usuario para que sea intuitiva y fácil de usar, mejorando así la experiencia del usuario.</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>24</td>
       <td>US06</td>
       <td>Conversor de Moneda Integrado</td>
       <td style="text-align: justify;">Convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>25</td>
       <td>T-07</td>
       <td>Desarrollar un sistema de análisis de datos</td>
-      <td style="text-align: justify;">Crear herramientas que permitan a los usuarios analizar sus gastos grupales de forma visual y comprensible.</td>
-      <td>13</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar un sistema de análisis de datos para permitir a los usuarios visualizar y analizar sus gastos grupales de forma gráfica y comprensible.</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>26</td>
       <td>US14</td>
       <td>Importar datos</td>
       <td style="text-align: justify;">Importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>27</td>
       <td>US19</td>
       <td>Mejora de subscripción</td>
       <td style="text-align: justify;">Cambio de subscripción para tener un mejor acceso a mejores servicios de SplitWise</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>28</td>
       <td>T-09</td>
       <td>Implementar pruebas automatizadas</td>
-      <td style="text-align: justify;">Desarrollar pruebas automatizadas para garantizar la calidad del código y la funcionalidad de la aplicación.</td>
-      <td>13</td>
+      <td style="text-align: justify;">Como desarrollador, quiero implementar pruebas automatizadas para garantizar la calidad del código y reducir la posibilidad de errores en la aplicación.</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>29</td>
       <td>US20</td>
       <td>Acceso a versión de prueba</td>
       <td style="text-align: justify;">Acceso o a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>30</td>
       <td>T-04</td>
       <td>Optimizar el rendimiento de la aplicación</td>
-      <td style="text-align: justify;"> Mejorar la velocidad y eficiencia de la aplicación para ofrecer una experiencia de usuario más fluida.</td>
-      <td>13</td>
+      <td style="text-align: justify;"> Como desarrollador, quiero optimizar el rendimiento de la aplicación para garantizar tiempos de carga rápidos y una experiencia fluida para los usuarios.</td>
+      <td>8</td>
     </tr>
   </tbody>  
 </table>
@@ -3174,7 +3242,18 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+<p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
 
+<img align="center" src="images/firebase_1.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_2.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_3.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_4.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_5.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_6.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_7.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_8.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_9.jpg" alt="Pocket" width="90%">
+<img align="center" src="images/firebase_10.jpg" alt="Pocket" width="90%">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -3186,16 +3265,30 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
 
 La aplicación ha sido desplegada por FireBase:
 
- - Debe ingresamos a la página oficial, registrarse y dimos a nuevo proyecto
-    <img align="center" src="images/firebase_inicio.png" alt="Firebase" width="50%">
- - Luego configuramos el proyecto e instalamos lo necesario en la consola
-    <img align="center" src="images/firebase_hosting.png" alt="Firebase" width="50%">
- - Después, inicializamos el proyecto siguiendo los pasos:
- - Entramos a la carpeta de nuestro proyecto y nos logueamos con la consola
- - Hacemos el “firebase init”
-- Frontend Web Applications : 
+- Debe ingresamos a la página oficial, registrarse y dimos a nuevo proyecto
+  <img align="center" src="images/firebase_inicio.png" alt="Firebase" width="50%">
+- Luego configuramos el proyecto e instalamos lo necesario en la consola
+  <img align="center" src="images/firebase_hosting.png" alt="Firebase" width="50%">
+- Después, inicializamos el proyecto siguiendo los pasos:
+- Entramos a la carpeta de nuestro proyecto y nos logueamos con la consola
+- Hacemos el “firebase init”
+- Frontend Web Applications :
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe
+en Github </p>
+
+<img align="center" src="images/participacion_informe_sprint2.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion_informe1_sprint2.png" alt="Footer deployed" width="90%">
+
+<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend
+en Github </p>
+
+<img align="center" src="images/participacion_frontEnd_sprint2.png" alt="Footer deployed" width="90%">
+
+<img align="center" src="images/participacion2_frontend_sprint2.jpg" alt="Footer deployed" width="90%">
 
 ## Avance de Conclusiones, Bibliografía y Anexos
 
@@ -3230,12 +3323,7 @@ La aplicación ha sido desplegada por FireBase:
 
 <p align="justify">Landing Page:https://pocketpartners.github.io/LandingPage/ </p>
 
-<p align="justify">Entrevista 1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EeGZzWgvpHBJr63SdUhU5nMBkNyqKHawW4ybbB9OPmhAcA?e=Vjn5sO </p>
-
-<p align="justify">Entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910669_upc_edu_pe/EbK5VeI6FutMvlmYek5mUAsBqUxNTBMrT530l3pD0BRmsg?e=XoEv29&
-nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
-
-<p align="justify">Entrevista 3: https://www.youtube.com/watch?v=-d7Rogkp794</p>
+<p align="justify">Todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1</p>
 
 <p align="justify">Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
 
