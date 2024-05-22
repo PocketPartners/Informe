@@ -431,16 +431,16 @@ Creemos que los usuarios pueden tener diferentes preferencias y necesidades en l
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 Hypothesis Statement 01:
-Creemos que si simplificamos el proceso de división de gastos en FairFinance, entonces los usuarios encontrarán más fácil y rápido agregar y dividir gastos compartidos, lo que aumentará la adopción y retención de la aplicación
+Creemos que si simplificamos el proceso de división de gastos en FairFinance los usuarios encontrarán más fácil y rápido agregar y dividir gastos compartidos. Sabremos que hemos tenido éxito cuando aumente la adopción y retención de la aplicación.
 
 Hypothesis Statement 02:
-Creemos que si implementamos notificaciones y recordatorios automáticos para deudas pendientes en FairFinance, entonces los usuarios estarán más al tanto de sus obligaciones financieras compartidas y tomarán medidas para resolverlas a tiempo, mejorando así la gestión de gastos compartidos.
+Creemos que si implementamos notificaciones y recordatorios automáticos para deudas pendientes en FairFinance los usuarios estarán más al tanto de sus obligaciones financieras compartidas y tomarán medidas para resolverlas a tiempo. Sabremos que hemos tenido éxito cuando la gestión de gastos compartidos de nuestros usuarios se vea mejorada, así como la gestión de sus ingresos y egresos.
 
 Hypothesis Statement 03:
-Creemos que si mejoramos la sincronización de datos en FairFinance, entonces los usuarios podrán acceder y actualizar su información de gastos compartidos de manera consistente desde cualquier dispositivo, lo que aumentará la conveniencia y la utilidad de la aplicación.
+Creemos que si mejoramos la sincronización de datos en FairFinance los usuarios podrán acceder y actualizar su información de gastos compartidos de manera consistente desde cualquier dispositivo. Sabremos que hemos tenido éxito cuando nuestros usuarios dejen comentarios positvos acerca del uso entre plataformas y la sincronización entre estos dispositivos.
 
 Hypothesis Statement 04:
-Creemos que si implementamos medidas de seguridad adicionales para proteger la información financiera y personal de los usuarios en FairFinance, entonces los usuarios tendrán una mayor confianza en la privacidad de sus datos y estarán más inclinados a compartir información sensible a través de la aplicación.
+Creemos que si implementamos medidas de seguridad adicionales para proteger la información financiera y personal de los usuarios en FairFinance los usuarios tendrán una mayor confianza en la privacidad de sus datos y estarán más inclinados a compartir información sensible a través de la aplicación. Sabremos que hemos tenido éxito cuando veamos que más usuarios utilizan nuestros features relacionados al manejo de infromación sensible.
 
 #### 1.2.2.4. Lean UX Canvas
 
