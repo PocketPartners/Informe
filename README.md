@@ -1650,7 +1650,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>9</td>
       <td>T-02</td>
       <td>Implementar autenticación y autorización</td>
-      <td style="text-align: justify;">Crear un sistema que permita a los usuarios autenticarse de forma segura y gestionar sus permisos de acceso a la aplicación.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero implementar un sistema de autenticación y autorización para garantizar que solo los usuarios registrados y autorizados puedan acceder a PocketPartners y sus servicios.</td>
       <td>3</td>
     </tr>  
     <tr style="text-align: center;">
@@ -1671,7 +1671,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>12</td>
       <td>T-05</td>
       <td>Desarrollar una función de importación de datos</td>
-      <td style="text-align: justify;">Crear una función que permita a los usuarios importar datos de sus transacciones bancarias y otros sistemas de registro de gastos a la aplicación, facilitando la actualización y gestión de sus registros de gastos grupales.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar una función de importación de datos para que los usuarios puedan importar datos de sus transacciones bancarias y otros sistemas de registro de gastos.</td>
       <td>3</td>
     </tr>  
     <tr style="text-align: center;">
@@ -1685,7 +1685,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>14</td>
       <td>T-03</td>
       <td>Integrar un sistema de notificaciones push</td>
-      <td style="text-align: justify;">Implementar un sistema que envíe notificaciones instantáneas a los usuarios a través de mensajes push.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar funciones de notificación para informar a los usuarios sobre nuevos gastos, cambios en los gastos existentes y recordatorios de pagos pendientes.</td>
       <td>3</td>
     </tr>  
     <tr style="text-align: center;">
@@ -1699,7 +1699,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>16</td>
       <td>T-01</td>
       <td>Crear una API REST para la aplicación</td>
-      <td style="text-align: justify;">Desarrollar una interfaz de programación de aplicaciones (API) que permita a los usuarios acceder y gestionar sus gastos grupales a través de llamadas HTTP.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero crear una API RESTful para permitir a los usuarios acceder y gestionar sus gastos grupales desde diferentes dispositivos.</td>
       <td>5</td>
     </tr>  
     <tr style="text-align: center;">
@@ -1713,7 +1713,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>18</td>
       <td>T-08</td>
       <td>Desarrollar funciones de búsqueda avanzada</td>
-      <td style="text-align: justify;">Crear herramientas de búsqueda que permitan a los usuarios encontrar rápidamente información específica sobre sus gastos.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar funciones de búsqueda avanzada para que los usuarios puedan buscar y filtrar sus gastos por fecha, categoría, monto, etc.</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
@@ -1734,7 +1734,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>21</td>
       <td>T-06</td>
       <td>Desarrollar un sistema de reportes personalizados</td>
-      <td style="text-align: justify;">Crear herramientas que permitan a los usuarios generar informes detallados y personalizados sobre sus gastos grupales. Estos informes podrían incluir gráficos, tablas y otros elementos visuales para ayudar a los usuarios a analizar y comprender mejor sus patrones de gasto.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar un sistema de reportes personalizados para que los usuarios puedan generar informes detallados sobre sus gastos grupales.</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
@@ -1748,7 +1748,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>23</td>
       <td>T-10</td>
       <td>Optimizar la interfaz de usuario</td>
-      <td style="text-align: justify;">Mejorar la interfaz de usuario para que sea más intuitiva y fácil de usar para los usuarios finales.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero optimizar la interfaz de usuario para que sea intuitiva y fácil de usar, mejorando así la experiencia del usuario.</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
@@ -1762,7 +1762,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>25</td>
       <td>T-07</td>
       <td>Desarrollar un sistema de análisis de datos</td>
-      <td style="text-align: justify;">Crear herramientas que permitan a los usuarios analizar sus gastos grupales de forma visual y comprensible.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero desarrollar un sistema de análisis de datos para permitir a los usuarios visualizar y analizar sus gastos grupales de forma gráfica y comprensible.</td>
       <td>8</td>
     </tr>
     <tr style="text-align: center;">
@@ -1783,7 +1783,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>28</td>
       <td>T-09</td>
       <td>Implementar pruebas automatizadas</td>
-      <td style="text-align: justify;">Desarrollar pruebas automatizadas para garantizar la calidad del código y la funcionalidad de la aplicación.</td>
+      <td style="text-align: justify;">Como desarrollador, quiero implementar pruebas automatizadas para garantizar la calidad del código y reducir la posibilidad de errores en la aplicación.</td>
       <td>8</td>
     </tr>
     <tr style="text-align: center;">
@@ -1797,7 +1797,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>30</td>
       <td>T-04</td>
       <td>Optimizar el rendimiento de la aplicación</td>
-      <td style="text-align: justify;"> Mejorar la velocidad y eficiencia de la aplicación para ofrecer una experiencia de usuario más fluida.</td>
+      <td style="text-align: justify;"> Como desarrollador, quiero optimizar el rendimiento de la aplicación para garantizar tiempos de carga rápidos y una experiencia fluida para los usuarios.</td>
       <td>8</td>
     </tr>
   </tbody>  
