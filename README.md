@@ -1609,196 +1609,196 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US1</td>
       <td>Recibir notificaciones</td>
       <td style="text-align: justify;">Envío de notificaciones automáticas cuando se agreguen nuevos gastos compartidos para mantener al tanto de las actualizaciones en las finanzas compartidas y evitar perder información importante.</td>
-      <td>2</td>
+      <td>1</td>
     </tr>    
     <tr style="text-align: center;">
       <td>4</td>
       <td>US10</td>
       <td>Visualizar grupos</td>
       <td style="text-align: justify;">Muestra de lista con los grupos a los que pertence el usuario en donde se pueda ver información relevante sobre los mismos</td>
-      <td>2</td>
+      <td>1</td>
     </tr>  
     <tr style="text-align: center;">
       <td>5</td>
       <td>US11</td>
       <td>Crear nuevos grupos</td>
       <td style="text-align: justify;">Creación de nuevos grupos SplitWise con diferentes personas</td>
-      <td>2</td>
+      <td>1</td>
     </tr>  
     <tr style="text-align: center;">
       <td>6</td>
       <td>US12</td>
       <td>Adición de gastos</td>
       <td style="text-align: justify;">Agregación de gastos nuevos a los grupos a los que pertence el usuario.</td>
-      <td>3</td>
+      <td>2</td>
     </tr>  
     <tr style="text-align: center;">
       <td>7</td>
       <td>US13</td>
       <td>Adición de recibos de gastos</td>
       <td style="text-align: justify;">Opción de adjuntar recibos o imágenes a mis gastos para mantener un registro visual de mis transacciones.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>8</td>
       <td>US15</td>
       <td>Modificación de notas en los gastos</td>
       <td style="text-align: justify;">Opción de agregar notas o comentarios a cada gasto compartido, para proporcionar contexto adicional o aclaraciones sobre la transacción.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr style="text-align: center;">
       <td>9</td>
       <td>T-02</td>
       <td>Implementar autenticación y autorización</td>
       <td style="text-align: justify;">Crear un sistema que permita a los usuarios autenticarse de forma segura y gestionar sus permisos de acceso a la aplicación.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>10</td>
       <td>US18</td>
       <td>Buscar Grupo por nombre</td>
       <td style="text-align: justify;">Buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>     
     <tr style="text-align: center;">
       <td>11</td>
       <td>US16</td>
       <td>Pago recurrente</td>
       <td style="text-align: justify;">Establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos 	  manualmente cada vez.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>12</td>
       <td>T-05</td>
       <td>Desarrollar una función de importación de datos</td>
       <td style="text-align: justify;">Crear una función que permita a los usuarios importar datos de sus transacciones bancarias y otros sistemas de registro de gastos a la aplicación, facilitando la actualización y gestión de sus registros de gastos grupales.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>13</td>
       <td>US8</td>
       <td>Balance General</td>
       <td style="text-align: justify;">Visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>14</td>
       <td>T-03</td>
       <td>Integrar un sistema de notificaciones push</td>
       <td style="text-align: justify;">Implementar un sistema que envíe notificaciones instantáneas a los usuarios a través de mensajes push.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>  
     <tr style="text-align: center;">
       <td>15</td>
       <td>US17</td>
       <td>Mostrar resultados de los cálculos financieros por individuo</td>
       <td style="text-align: justify;">Mostrar los resultados finales de todos los cálculos financieros y el monto a ser pagado o recibido por cada integrante del grupo.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>  
     <tr style="text-align: center;">
       <td>16</td>
       <td>T-01</td>
       <td>Crear una API REST para la aplicación</td>
       <td style="text-align: justify;">Desarrollar una interfaz de programación de aplicaciones (API) que permita a los usuarios acceder y gestionar sus gastos grupales a través de llamadas HTTP.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>  
     <tr style="text-align: center;">
       <td>17</td>
       <td>US2</td>
       <td>Añadir o Eliminar Transacciones</td>
       <td style="text-align: justify;">Editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>  
     <tr style="text-align: center;">
       <td>18</td>
       <td>T-08</td>
       <td>Desarrollar funciones de búsqueda avanzada</td>
       <td style="text-align: justify;">Crear herramientas de búsqueda que permitan a los usuarios encontrar rápidamente información específica sobre sus gastos.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>19</td>
       <td>US3</td>
       <td>Division de presupuesto</td>
       <td style="text-align: justify;">Opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>20</td>
       <td>US7</td>
       <td>Rastreador de Deuda</td>
       <td style="text-align: justify;">Rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>21</td>
       <td>T-06</td>
       <td>Desarrollar un sistema de reportes personalizados</td>
       <td style="text-align: justify;">Crear herramientas que permitan a los usuarios generar informes detallados y personalizados sobre sus gastos grupales. Estos informes podrían incluir gráficos, tablas y otros elementos visuales para ayudar a los usuarios a analizar y comprender mejor sus patrones de gasto.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>22</td>
       <td>US4</td>
       <td>Exportar Detalles</td>
       <td style="text-align: justify;">Exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>23</td>
       <td>T-10</td>
       <td>Optimizar la interfaz de usuario</td>
       <td style="text-align: justify;">Mejorar la interfaz de usuario para que sea más intuitiva y fácil de usar para los usuarios finales.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>24</td>
       <td>US06</td>
       <td>Conversor de Moneda Integrado</td>
       <td style="text-align: justify;">Convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>25</td>
       <td>T-07</td>
       <td>Desarrollar un sistema de análisis de datos</td>
       <td style="text-align: justify;">Crear herramientas que permitan a los usuarios analizar sus gastos grupales de forma visual y comprensible.</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>26</td>
       <td>US14</td>
       <td>Importar datos</td>
       <td style="text-align: justify;">Importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>27</td>
       <td>US19</td>
       <td>Mejora de subscripción</td>
       <td style="text-align: justify;">Cambio de subscripción para tener un mejor acceso a mejores servicios de SplitWise</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>28</td>
       <td>T-09</td>
       <td>Implementar pruebas automatizadas</td>
       <td style="text-align: justify;">Desarrollar pruebas automatizadas para garantizar la calidad del código y la funcionalidad de la aplicación.</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>29</td>
       <td>US20</td>
       <td>Acceso a versión de prueba</td>
       <td style="text-align: justify;">Acceso o a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>30</td>
       <td>T-04</td>
       <td>Optimizar el rendimiento de la aplicación</td>
       <td style="text-align: justify;"> Mejorar la velocidad y eficiencia de la aplicación para ofrecer una experiencia de usuario más fluida.</td>
-      <td>13</td>
+      <td>8</td>
     </tr>
   </tbody>  
 </table>
