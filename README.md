@@ -3255,6 +3255,8 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
 <img align="center" src="images/firebase_9.jpg" alt="Pocket" width="90%">
 <img align="center" src="images/firebase_10.jpg" alt="Pocket" width="90%">
 
+<p>Link: </p>
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 <p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google. Firebase que permite hospedar y desplegar sitios web estáticos de manera sencilla. Puedes vincular un repositorio Git (como GitHub). </p>
@@ -3323,8 +3325,10 @@ en Github </p>
 
 <p align="justify">Landing Page:https://pocketpartners.github.io/LandingPage/ </p>
 
+<p align="justify">Aplicacion PocketPartners:  </p>
+
 <p align="justify">Todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1</p>
 
 <p align="justify">Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
 
-<p align="justify">Video TB2: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
+<p align="justify">Video TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
