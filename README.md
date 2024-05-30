@@ -2278,7 +2278,7 @@ Error al registrar el nuevo gasto por falta de datos
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-<img src="images/PocketPartners-Diagram-Class-Diagrama.drawio.png" alt="Class Diagram">
+<img src="images/PocketPartners-Diagram-Class-Diagrama.drawio-actualizado.png" alt="Class Diagram">
 
 <p align ="justify">
       En este diagrama de clases se muestran las clases que componen la aplicación PocketPartners, se añadió el patron observer para la notificación de los usuarios que permite mantener informados a los usuarios sobre los cambios en el grupo o otros sistemas importantes como pagos o gastos.
@@ -2797,7 +2797,7 @@ Error al registrar el nuevo gasto por falta de datos
 [Modelo en Vertabelo](https://my.vertabelo.com/doc/4CT3rJsaHCDIFvnXBUAb4kzmHd2u4UmU)
 
   <div align="center">
-        <img src="images/PocketPartens_Open_Source.png" alt="Database Diagram" width="100%">
+        <img src="images/PocketPartens___Open_Source-2024-05-30_17-20.png" alt="Database Diagram" width="100%">
   </div>
 
 # Capítulo V Product Implementation, Validation & Deployment
