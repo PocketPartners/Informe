@@ -36,9 +36,19 @@ Grupo: 03
 |      Ramos Carpio, Karen       | U20201E493 |
 | Ventura Allasi, Randel Russell | U201910669 |
 
-Abril 2024
+Mayo 2024
 
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # **Registro de Versiones**
 
@@ -96,34 +106,119 @@ Abril 2024
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TB2</strong></td>
+      <td>Miercoles 5 de Mayo</td>
+      <td>
+        <ul>
+          <li>Carbajal Pozzo, Joaquín Alonso</li>
+          <li>Cisneros Tafur, Diego Rafael</li>
+          <li>Jarama Peñaloza, Fiorella</li>
+          <li>Ramos Carpio, Karen</li>
+          <li>Ventura Allasi, Randel Russell</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.4</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # **Student Outcomes**
 
-<table>
+<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
-    <tr>
-        <th>Criterio especifico</th>
-        <th>Acciones realizadas</th>
-        <th>Conclusiones</th>
+    <tr style="border-bottom: 1px solid black;">
+      <th style="border-right: 1px solid black;">Criterio Específico</th>
+      <th style="border-right: 1px solid black;">Acciones Realizadas</th>
+      <th>Conclusiones</th>
     </tr>
   </thead>
   <tbody>
-  <tr>
-      <td><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto eningeniería</strong></td>
-      <td>- Carbajal Pozzo, Joaquín Alonso TB1: En esta entrega se realizaron los diagramas C4, diagramasinvolucrados en el proceso de DDD o Domain Driven Design. Unacaracterística de esta metodología es el uso del lenguaje ubicuo quepermite a 	todos los stakeholders internos y externos del proyectoentender detalles técnicos a un alto nivel mediante la visualización de los diagramas  
-      	- Cisneros Tafur, Diego Rafael TB1: Realizó la seccion de header en el landing page, además de sucorrespondiente codigo en javascript para cumplir funcionalidades.Adicionalmente se encargo de documentar los commits realizados por elequipo. 	- Jarama Peñaloza, Fiorella TB1: Para el trabajo se hizo uso de github para documentar el trabajo demodo que se aprendió a utilizar conventional commits y gitflow de modoque se pueda tener una correcta comunicación escrita en lo 		quecorresponde a la documentación del proyecto, además de aprender autiizar el lenguaje markdown para comunicarlo mediante github en unarchivo README.md - Ramos Carpio, Karen TB1: En el informe se comunicaron las herramientas a utilizar, su 	utilidad ylas convenciones típicas, esto con el objetivo de documentar el procesode elaboración y de explicar a un público ajeno al entorno de desarrollode software los pasos necesarios para diseñar a la aplicación Ventura Allasi, 	- Randel 	Russell TB1: Avance con tood el capitulo 4 y avance con el diagrama de base de datos</td>
-      <td>Se logró realizar un trabajo sobresaliente,pues cumplimos con todos los segmentosdel trabajo, de tal manera que se puedaentregar un trabajo digno. El documentoredactado se presenta como un sustentoescrito para todo aquel que desee 	conocera detalle los pasos seguidos para planificar,desarrollar y enviar el proyecto aproducción</td>
-  </tr>
-   <tr>
-      <td><strong>Comunicaoralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería </strong></td>
-      <td>- Carbajal Pozzo, Joaquín Alonso TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de requirements elicitation, se comunicó lapropuesta de solución a los clientes esperados del proyecto 	y se dirigió eldiseño de la solución a una opción que cumple con los requisitossolicitados.
-      	- Cisneros Tafur, Diego Rafael TB1: Encargado de realizar la sección de sprint donde se incluye el sprintbacklog y sprint planning. De la mismas forma trabajo en el figmadiseñando la landing page y su versión responsive al igual que la 
-       versiónresponsive de la aplicación web. Ramos Carpio, Karen TB1: TB1: A lo hora de realizar el trabajo se tuvo que mantener un constatecontacto con nuestros segmento objetivo para poder delimitarcorrectamente nuestra solución, asímismo 	mantener una buenacomunicación y organización mediante reuniones. - Jarama Peñaloza, Fiorella TB1: Para culminar la entrega de esta primera versión del trabajo final,resultó necesario realizar exposiciones grabadas dentro de las cuales 	seexpresan los requisitos del proyecto, cómo estos fueron implementados ycuál fue el ciclo de vida del desarrollo del software a elaborar - Randel Russell TB1: Avance con tood el capitulo 4 y avance con el diagrama de base de datos</td>
-      <td>Como equipo pudimos establecer mediosde comunicación para poder entregar un trabajo completo ante el obstáculo quesuponen los cortos períodos de tiempopara la entrega del proyecto. De la mismamanera, se comunicaron los 			resultadosobtenidos a los stakeholders, quienes através de una serie de entrevistasdemostraron su satisfacción con elprograma </td>
-  </tr>
-	  
+    <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;">
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso: Realización de los diagramas C4, involucrados en el proceso de DDD (Domain Driven Design), utilizando el lenguaje ubicuo para permitir a todos los stakeholders entender detalles técnicos a un alto nivel.</li>
+          <li>Cisneros Tafur, Diego Rafael: Desarrollo de la sección de header en el landing page, implementación de funcionalidades en JavaScript y documentación de los commits realizados por el equipo.</li>
+          <li>Jarama Peñaloza, Fiorella: Utilización de GitHub para documentar el trabajo, aprendizaje de conventional commits y gitflow, y uso del lenguaje markdown para comunicarlo mediante GitHub en un archivo README.md.</li>
+          <li>Ramos Carpio, Karen: Comunicación de las herramientas a utilizar, su utilidad y las convenciones típicas en el informe, explicando los pasos necesarios para el diseño de la aplicación Ventura Allasi.</li>
+          <li>Randel Russell: Avance en el capítulo 4 y en el diagrama de base de datos.</li>
+        </ul> 
+        <ul> 
+          <p><strong>TP</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso: Realizo las pantallas correspondientes del fronted Incoming Payments, Outgoing Paymentes y Expenses. Del Informe los puntos de mejora como Unhappy Paths, un video de entrevista, y los puntos actuales de Sprint Planning 2 y el Sprint Backlog 2.</li>
+          <li>Cisneros Tafur, Diego Rafael:Realizo las pantallas correspondientes del fronted New Group, Show Groups. Del Informe los puntos de mejora como el Diagrama de Clases, Product Backlog y una Entrevista.</li>
+          <li>Jarama Peñaloza, Fiorella: Realizo las pantallas correspondientes del fronted Home, Contactos y Navbar. Del Informe los puntos de mejora como Landing Page Plans & Reviews y una Entrevista, y de los puntos actuales Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Services Documentation Evidence for Sprint Revie, Software Deployment Evidence for Sprint Review y Conclusiones.</li>
+          <li>Ramos Carpio, Karen: Solo realizo una entrevista.</li>
+          <li>Randel Russell: Realizo una de sus pantallas, Login. Del Informe el punto de mejora de Technical Stories y del informe actual Team Collaboration Insights during Sprint.</li>
+        </ul>
+        <ul> 
+          <p><strong>TB2</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso:</li>
+          <li>Cisneros Tafur, Diego Rafael:</li>
+          <li>Jarama Peñaloza, Fiorella: </li>
+          <li>Ramos Carpio, Karen: </li>
+          <li>Randel Russell:</li>
+        </ul>
+      </td>
+      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
+      <br>
+      <p><strong>TP:</strong></p><p align="justify"> Se logro completar la mayoria de los puntos pedidos, un punto a mejorar seria, que todos los miembros se comprometan a terminar, puesto que sino retrasan al resto de integrantes.</p> 
+      <p><strong>TB2:<strong></p><p align="justify"></p>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
+      <td style="border-right: 1px solid black;">
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso: Proceso de entrevistas para el requirements elicitation, comunicación de la propuesta de solución a los clientes esperados y dirección del diseño de la solución.</li>
+          <li>Cisneros Tafur, Diego Rafael: Creación de la sección de sprint, diseño de la landing page y su versión responsive, así como la versión responsive de la aplicación web.</li>
+          <li>Ramos Carpio, Karen: Mantenimiento de un contacto constante con los segmentos objetivo, comunicación y organización mediante reuniones.</li>
+          <li>Jarama Peñaloza, Fiorella: Realización de exposiciones grabadas para explicar los requisitos del proyecto, cómo fueron implementados y el ciclo de vida del desarrollo del software.</li>
+          <li>Randel Russell: Avance en el capítulo 4 y en el diagrama de base de datos.</li>
+        </ul>
+        <ul> 
+          <p><strong>TP</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso: Realizo las pantallas correspondientes del fronted Incoming Payments, Outgoing Paymentes y Expenses. Del Informe los puntos de mejora como Unhappy Paths, un video de entrevista, y los puntos actuales de Sprint Planning 2 y el Sprint Backlog 2.</li>
+          <li>Cisneros Tafur, Diego Rafael:Realizo las pantallas correspondientes del fronted New Group, Show Groups. Del Informe los puntos de mejora como el Diagrama de Clases, Product Backlog y una Entrevista.</li>
+          <li>Jarama Peñaloza, Fiorella: Realizo las pantallas correspondientes del fronted Home, Contactos y Navbar. Del Informe los puntos de mejora como Landing Page Plans & Reviews y una Entrevista, y de los puntos actuales Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Services Documentation Evidence for Sprint Revie, Software Deployment Evidence for Sprint Review y Conclusiones.</li>
+          <li>Ramos Carpio, Karen: Solo realizo una entrevista.</li>
+          <li>Randel Russell: Realizo una de sus pantallas, Login. Del Informe el punto de mejora de Technical Stories y del informe actual Team Collaboration Insights during Sprint.</li>
+        </ul>
+        <ul> 
+          <p><strong>TB2</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso:</li>
+          <li>Cisneros Tafur, Diego Rafael:</li>
+          <li>Jarama Peñaloza, Fiorella: </li>
+          <li>Ramos Carpio, Karen: </li>
+          <li>Randel Russell:</li>
+        </ul>
+      </td>
+      <td><p><strong>TB1</strong></p><p align="justify">El equipo estableció medios de comunicación para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa.</p>
+      <br>
+      <p><strong>TP:<strong></p><p align="justify">El equipo no logro realizar un trabajo completo debido a la falta de compromiso de dos integrantes, se tuvo que realizar varias tareas a ultimo segundo, sin embargo el trabajo entregado fue pasable para los estandares propuestos.</p>
+      <p><strong>TB2:<strong></p><p align="justify"></p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -271,6 +366,20 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
     - [Conclusiones](#conclusiones)
     - [Bibliografía](#bibliografía)
@@ -284,18 +393,17 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 ### 1.1.1. Descripción de la Startup
 
-La startup, presentada con el nombre de “FairFinance”, se enfoca en facilitar la división de gastos y la gestión de finanzas compartidas entre grupos de personas.Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares
-que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.
+<p align="justify">La startup, presentada con el nombre de “FairFinance”, se enfoca en facilitar la división de gastos y la gestión de finanzas compartidas entre grupos de personas.Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Por otro lado también ofrece características adicionales, como la posibilidad de dividir los gastos de forma equitativa según porcentajes personalizados, la programación de recordatorios de pago y la capacidad de agregar comentarios o notas a cada gasto. Además, proporciona opciones para liquidar deudas directamente lo que facilita la simplificación y la transparencia en la gestión de las finanzas compartidas.</p>
 
-Misión: Facilitar la administración equitativa y transparente de gastos compartidos, simplificando la gestión financiera entre amigos, familiares y compañeros de vivienda.
+<p align="justify">Misión: Facilitar la administración equitativa y transparente de gastos compartidos, simplificando la gestión financiera entre amigos, familiares y compañeros de vivienda.</p>
 
-Visión: Convertirnos en la plataforma líder mundial para la gestión colaborativa de gastos, promoviendo la armonía y la transparencia en las relaciones financieras cotidianas.
+<p align="justify">Visión: Convertirnos en la plataforma líder mundial para la gestión colaborativa de gastos, promoviendo la armonía y la transparencia en las relaciones financieras cotidianas.</p>
 
-Logotipo de la Startup:
+<p align="justify">Logotipo de la Startup:</p>
 
 <p style="text-align: center" align="center"> <p align="center"><img src="images/logoStartup.JPG" alt="Logo Startup" width="20%"></p></p>
 
-Logotipo del servicio:
+<p align="justify">Logotipo del servicio:</p>
 
 <p style="text-align: center" align="center"> <p align="center"><img src="images/logoServicio.JPG" alt="Logo Servicio" width="20%"></p></p>
 
@@ -338,58 +446,32 @@ Logotipo del servicio:
 
 ### 1.2.1. Antecedentes y problemática
 
-What (Qué)
-¿Cuál es el problema?
+<p><strong>What (Qué)</strong></p>
+<p align="justify">El problema radica en el desafío de dividir equitativamente los gastos y las facturas compartidas entre amigos, compañeros de cuarto, familiares y grupos, este proceso podía ser complicado y propenso a generar conflictos, ya que calcular quién debe cuánto y a quién puede resultar confuso y tedioso.</p>
 
-El problema radica en el desafío de dividir equitativamente los gastos y las facturas compartidas entre amigos, compañeros de cuarto, familiares y grupos, este proceso podía ser complicado y propenso a generar conflictos, ya que calcular quién debe cuánto y a quién puede resultar confuso y tedioso.
+<p><strong>When (Cuándo)</strong></p>
+<p align="justify">El dilema principal surge cuando se tiene situaciones donde hay gastos compartidos que deben dividirse equitativamente entre múltiples personas. Esto puede ocurrir en cualquier momento en el que un grupo de individuos comparta gastos, ya sea en viajes, cenas, facturas de servicios públicos o cualquier otro tipo de transacción económica compartida.</p>
 
-When (Cuándo)
-¿Cuándo sucede el problema?
+<p><strong>Where (Dónde)</strong></p>
+<p align="justify">El servicio está direccionado a ser agente de solución para los grupos de personas que comparten responsabilidades económicas de una mismo recinto.</p>
 
-El dilema principal surge cuando se tiene situaciones donde hay gastos compartidos que deben dividirse equitativamente entre múltiples personas. Esto puede ocurrir en cualquier momento en el que un grupo de individuos comparta gastos, ya sea en viajes, cenas, facturas de servicios públicos o cualquier otro tipo de transacción económica compartida.
+<p><strong>Where (Dónde)</strong></p>
+<p align="justify">El problema se manifiesta durante el proceso de dividir y rastrear gastos compartidos. hay una necesidad de registrar fácilmente quién pagó qué, dividir los gastos de manera equitativa y realizar un seguimiento en tiempo real de quién debe dinero a quién, esto permite simplificar y transparentar este proceso, por otro lado, ayuda a prevenir malentendidos y conflictos relacionados con el dinero, mejorando así la experiencia de compartir gastos entre amigos, familiares y compañeros de vivienda.</p>
 
-Where (Dónde)
-¿A dónde se dirige?
+<p><strong>Who (Quién)</strong></p>
+<p align="justify">La plataforma será utilizada por una variedad de personas, incluidos amigos que comparten gastos en viajes, compañeros de apartamento que dividen el alquiler y las facturas, parejas que gestionan sus finanzas conjuntas, entre otros grupos que necesitan dividir y rastrear gastos compartidos.</p>
 
-El servicio está direccionado a ser agente de solución para los grupos de personas que comparten responsabilidades económicas de una mismo recinto.
+<p><strong>Why (Por qué)</strong></p>
+<p align="justify">La causa principal del problema es tener un registro manual de quién ha pagado qué y quién debe a quién puede resultar confuso y propenso a errores humanos, lo que puede dar lugar a malentendidos y conflictos.</p>
 
-¿Dónde surge el problema?
+<p><strong>How (Cómo)</strong></p>
+<p align="justify">Permite a los usuarios registrar fácilmente quién pagó qué, dividir los gastos de manera equitativa y realizar un seguimiento en tiempo real de quién debe dinero a quién. Al simplificar y transparentar este proceso, podemos ayudar a prevenir malentendidos y conflictos relacionados con el dinero, mejorando así la experiencia de compartir gastos entre amigos, familiares y compañeros de vivienda.</p>
 
-El problema se manifiesta durante el proceso de dividir y rastrear gastos compartidos. hay una necesidad de registrar fácilmente quién pagó qué, dividir los gastos de manera equitativa y realizar un seguimiento en tiempo real de quién debe dinero a quién, esto permite simplificar y transparentar este proceso, por otro lado, ayuda a prevenir malentendidos y conflictos relacionados con el dinero, mejorando así la experiencia de compartir gastos entre amigos, familiares y compañeros de vivienda.
+<p><strong>How much (Cuánto)</strong></p>
+<p align="justify">Según La Encuesta Nacional de Capacidades Financieras (2023), el 46% de la población peruana cuenta con un nivel medio de educación financiera y un 13% tiene un nivel adecuado; pero aún hay un 41% que carece de capacidades financieras, según revela la tercera Encuesta Nacional de Capacidades Financieras, desarrollada por la Superintendencia de Banca, Seguros y AFP del Perú (SBS) y la CAF - Banco de Desarrollo de América Latina, presentada en la inauguración de la Semana Mundial del Ahorro 2023. La encuesta tiene como objetivo conocer los niveles de conocimientos, actitudes y comportamientos de los peruanos con relación a temas financieros, así como identificar cambios producidos respecto a los años 2013 y 2019. Esta fue realizada por Ipsos-Perú en el año 2022 e incluyó a peruanos a partir de los 18 años de todos los niveles socioeconómicos en zonas urbanas como rural. Cabe precisar que la encuesta se basó en la metodología de la Organización para la Cooperación y el Desarrollo Económico (OECD) y que se trata de una iniciativa que forma parte de la Política Nacional de Inclusión Financiera. Por otro lado, el porcentaje de adultos que eligió un producto financiero a partir de una comparación o búsqueda de información creció de 56% a 60% entre el 2019 y 2022. Asimismo, el consejo de familiares y amigos mantiene su influencia (40% en 2019 y 42% en el 2022) al momento de elegir un producto financiero. Sin embargo, otras estrategias que incrementan su relevancia fueron la revisión de portales de comparación de precios, tasas y tarifas y la publicidad en redes sociales, con el 21% y 18%, respectivamente. Es ahí que se ve implicado Pocket Partners como alternativa de gestión para una buena salud financiera.</p>
 
-Who (Quién)
-¿Quiénes están involucrados? ¿Quién lo utilizará?
-
-La plataforma será utilizada por una variedad de personas, incluidos amigos que comparten gastos en viajes, compañeros de apartamento que dividen el alquiler y las facturas, parejas que gestionan sus finanzas conjuntas, entre otros grupos que necesitan dividir y rastrear gastos compartidos.
-
-Why (Por qué)
-¿Cuál es la causa del problema?
-
-La causa principal del problema es tener un registro manual de quién ha pagado qué y quién debe a quién puede resultar confuso y propenso a errores humanos, lo que puede dar lugar a malentendidos y conflictos.
-
-¿Cuáles son las 2H?
-How (Cómo)
-¿Cómo se utilizará el producto?.
-
-El producto será empleado para registrar fácilmente los gastos que comparten con otras personas, ingresando detalles como el monto, la descripción y quién participó en la transacción. A partir de ello, los usuarios pueden optar por dividir equitativamente el gasto entre todos los participantes, asignar porcentajes específicos a cada persona o personalizar la división según las contribuciones individuales.
-
-¿Cómo lograremos desarrollar la correcta división de gastos entre nuestros usuarios?
-
-Los técnicos y administradores acceden a la plataforma a través de un navegador. Dicha plataforma les permitirá revisar los cálculos de cada registro, así como la situación financiera global actual. Por otro lado, los usuarios pueden registrar todos los gastos de manera precisa dentro de la aplicación. Esto puede incluir la cantidad total del gasto, una descripción detallada y quiénes participaron en la transacción.Además, proporciona opciones flexibles para dividir los gastos.
-
-.How (Cómo)
-¿Cómo se utilizará el producto?
-
-Permite a los usuarios registrar fácilmente quién pagó qué, dividir los gastos de manera equitativa y realizar un seguimiento en tiempo real de quién debe dinero a quién. Al simplificar y transparentar este proceso, podemos ayudar a prevenir malentendidos y conflictos relacionados con el dinero, mejorando así la experiencia de compartir gastos entre amigos, familiares y compañeros de vivienda.
-
-How much (Cuánto)
-¿Cuál es la magnitud del problema?
-
-Según La Encuesta Nacional de Capacidades Financieras (2023), el 46% de la población peruana cuenta con un nivel medio de educación financiera y un 13% tiene un nivel adecuado; pero aún hay un 41% que carece de capacidades financieras, según revela la tercera Encuesta Nacional de Capacidades Financieras, desarrollada por la Superintendencia de Banca, Seguros y AFP del Perú (SBS) y la CAF - Banco de Desarrollo de América Latina, presentada en la inauguración de la Semana Mundial del Ahorro 2023. La encuesta tiene como objetivo conocer los niveles de conocimientos, actitudes y comportamientos de los peruanos con relación a temas financieros, así como identificar cambios producidos respecto a los años 2013 y 2019. Esta fue realizada por Ipsos-Perú en el año 2022 e incluyó a peruanos a partir de los 18 años de todos los niveles socioeconómicos en zonas urbanas como rural. Cabe precisar que la encuesta se basó en la metodología de la Organización para la Cooperación y el Desarrollo Económico (OECD) y que se trata de una iniciativa que forma parte de la Política Nacional de Inclusión Financiera. Por otro lado, el porcentaje de adultos que eligió un producto financiero a partir de una comparación o búsqueda de información creció de 56% a 60% entre el 2019 y 2022. Asimismo, el consejo de familiares y amigos mantiene su influencia (40% en 2019 y 42% en el 2022) al momento de elegir un producto financiero. Sin embargo, otras estrategias que incrementan su relevancia fueron la revisión de portales de comparación de precios, tasas y tarifas y la publicidad en redes sociales, con el 21% y 18%, respectivamente. Es ahí que se ve implicado Pocket Partners como alternativa de gestión para una buena salud financiera.
-
-¿Qué porcentaje de usuarios se verá beneficiado por el servicio?
-
-El sistema se dirige principalmente a grupos de personas que comparten gastos, como amigos, compañeros de apartamento, parejas, etc. Por lo tanto, el porcentaje de usuarios que se verán beneficiados depende en gran medida de la prevalencia de este tipo de relaciones y situaciones de compartición de gastos en la población general. En resumen, el porcentaje de usuarios que se verán beneficiados por el servicio probablemente sea significativo, especialmente entre aquellos que comparten gastos de manera regular en diversas situaciones sociales y de convivencia. Sin embargo, el porcentaje exacto variará dependiendo de factores demográficos y culturales específicos.
+<p><strong>How much (Cuánto)</strong></p>
+<p align="justify">El sistema se dirige principalmente a grupos de personas que comparten gastos, como amigos, compañeros de apartamento, parejas, etc. Por lo tanto, el porcentaje de usuarios que se verán beneficiados depende en gran medida de la prevalencia de este tipo de relaciones y situaciones de compartición de gastos en la población general. En resumen, el porcentaje de usuarios que se verán beneficiados por el servicio probablemente sea significativo, especialmente entre aquellos que comparten gastos de manera regular en diversas situaciones sociales y de convivencia. Sin embargo, el porcentaje exacto variará dependiendo de factores demográficos y culturales específicos.</p>
 
 ### 1.2.2. Lean UX Process
 
@@ -3480,42 +3562,355 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
 <img align="center" src="images/firebase_9.jpg" alt="Pocket" width="90%">
 <img align="center" src="images/firebase_10.jpg" alt="Pocket" width="90%">
 
-<p>Link: </p>
+<p align="justify">Link: https://poketpartners-deployment.vercel.app/home</p>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-<p align="justify">Se hizo uso de Firebase Hosting, un servicio publico de Google. Firebase que permite hospedar y desplegar sitios web estáticos de manera sencilla. Puedes vincular un repositorio Git (como GitHub). </p>
+<p align="justify">Se hizo uso de Versel Deployment, un servicio publico. Versel permite hospedar y desplegar sitios web estáticos de manera sencilla, vinculando un repositorio de Github. </p>
 
-<img align="center" src="https://firebase.google.com/images/social.png" alt="Firebase" width="90%">
+<img align="center" src="https://curity.io/images/resources/code-examples/code-examples-vercel.jpg" alt="Versel" width="90%">
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-La aplicación ha sido desplegada por FireBase:
+<p align="justify">La aplicación ha sido desplegada por Versel:</p>
 
-- Debe ingresamos a la página oficial, registrarse y dimos a nuevo proyecto
-  <img align="center" src="images/firebase_inicio.png" alt="Firebase" width="50%">
-- Luego configuramos el proyecto e instalamos lo necesario en la consola
-  <img align="center" src="images/firebase_hosting.png" alt="Firebase" width="50%">
-- Después, inicializamos el proyecto siguiendo los pasos:
-- Entramos a la carpeta de nuestro proyecto y nos logueamos con la consola
-- Hacemos el “firebase init”
-- Frontend Web Applications :
+<ul>
+  <li>Crea una cuenta en Vercel si aún no se tiene una.</li>
+  <li>Accede al panel de Vercel y haz clic en el botón "Importar proyecto".</li>
+      <img align="center" src="images/import_git.png" alt="Import Git" width="50%">
+  <li>Selecciona GitHub como la plataforma de importación.</li>
+  <li>Se concede los permisos necesarios para que Vercel acceda a tus repositorios de GitHub.</li>
+  <li>Se encuentra y se selecciona el repositorio de nuestra aplicación en GitHub. "Pocket Partners"</li>
+      <img align="center" src="images/import_repo.png" alt="Import Repository" width="50%">
+  <li>Se configura los ajustes de despliegue, como el entorno de producción y las variables de entorno si es necesario.</li>
+  <li>Se hace clic en el botón "Desplegar" para iniciar el proceso de despliegue.</li>
+  <li>Vercel comenzará a compilar y desplegar la aplicación automáticamente.</li>
+  <li>Una vez completado el despliegue, se nos da una URL única donde estará accesible la aplicación.</li>
+  <li>Frontend Web Applications: Link: https://poketpartners-deployment.vercel.app/home</li>
+    <img align="center" src="images/PocketPartens_Vercel.png" alt="Vercel" width="50%">
+</ul>
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-<p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe
-en Github </p>
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github </p>
 
-<img align="center" src="images/participacion_informe_sprint2.png" alt="Footer deployed" width="90%">
+<img align="center" src="images/participacion_informe_sprint2.png" alt="participacion_informe_sprint2" width="90%">
 
-<img align="center" src="images/participacion_informe1_sprint2.png" alt="Footer deployed" width="90%">
+<img align="center" src="images/participacion_informe1_sprint2.png" alt="participacion_informe_sprint2" width="90%">
 
-<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend
-en Github </p>
+<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend en Github </p>
 
-<img align="center" src="images/participacion_frontEnd_sprint2.png" alt="Footer deployed" width="90%">
+<img align="center" src="images/participacion_frontEnd_sprint2.png" alt="participacion_informe_sprint2" width="90%">
 
-<img align="center" src="images/participacion2_frontend_sprint2.jpg" alt="Footer deployed" width="90%">
+<img align="center" src="images/participacion2_frontend_sprint2.jpg" alt="participacion_informe_sprint2" width="90%">
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+<table>
+  <caption>Sprint #3</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>31/05/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Jarama Peñaloza, Fiorella</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de FairFinance</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creara el repositiorio del Backend de Fairfinance y se dividiran las tareas de este segun corresponda.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se hizo las mejoras correspondientes al TP
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 3 Velocity</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herramienta para gestionar a los miembros del equipo y visualizar los avanzes del proyecto sera unicamente la tabla mostrada a continuación.
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Sprint #</th>
+    <th style="border: 1px solid black;" colspan="8">Sprint 3</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;" colspan="2">User Story</th>
+    <th style="border: 1px solid black;" colspan="7">Workitem/Task</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">EPIC ID</th>
+    <th style="border: 1px solid black;">EPIC Title</th>
+    <th style="border: 1px solid black;">US-ID</th>
+    <th style="border: 1px solid black;">Title</th>
+    <th style="border: 1px solid black;">Description</th>
+    <th style="border: 1px solid black;">Task</th>
+    <th style="border: 1px solid black;">Estimation (Hours)</th>
+    <th style="border: 1px solid black;">Assigned To</th>
+    <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;" rowspan="4">EP-08</td>
+    <td style="border: 1px solid black;" rowspan="4">Desarrollo del Backend</td>
+    <td style="border: 1px solid black;" rowspan="2">US-22</td>
+    <td style="border: 1px solid black;" rowspan="2">Modelado de las clases y endpoints</td>
+    <td style="border: 1px solid black;" rowspan="2">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
+    <td style="border: 1px solid black;">Modelado de clases en IntelliJ</td>
+    <td style="border: 1px solid black;" rowspan="2">3h</td>
+    <td style="border: 1px solid black;" rowspan="2">Fiorella Jarama - Diego Cisneros - Joaquin Carbajal</td>
+    <td style="border: 1px solid black;" rowspan="2">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Desarrollar y acceder a los endpoints necesarios</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">US-23</td>
+    <td style="border: 1px solid black;">Integracion del backend con el frontend</td>
+    <td style="border: 1px solid black;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+    <td style="border: 1px solid black;">Realizar conectividad</td>
+    <td style="border: 1px solid black;">4h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama - Diego Cisneros - Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+<p align = "justify">Repositorio Backend</p>
+
+<table border="1" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr>
+  <tr>
+    <td rowspan="6">backend</td>
+    <td rowspan="6">develop</td>
+    <td>ef5601def88d0aafe73666b64d0aee21d0514ec3</td>
+    <td>chore: initial commit</td>
+    <td>30/05/2024</td>
+  </tr>
+   <tr>
+    <td>4ef73da28fb05296178734164976a34ccc638986</td>
+    <td>chore: added shared context.</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>2956a1492786b703e8747d89983d21e0aafb3c66</td>
+    <td>feat(groupOperations): added main files for group operations.</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>5ae474e1a2c8bac258b3ea30f08d4bcad7769b31</td>
+    <td>feat(users): added user aggregate</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>6476aae475aacb03cec6597e4859f2b10f2c90bd</td>
+    <td>feat(users): added users bounded context</td>
+    <td>30/05/2024</td>
+  </tr>
+</table>
+
+<p align = "justify">Repositorio Frontend</p>
+
+<table border="1" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr>
+  <tr>
+    <td rowspan="11">Pocket Partners</td>
+    <td rowspan="11">develop</td>
+    <td>2b3d873879d1d5a1d406d18923342cf2c41d7785</td>
+    <td>feat: Update group page layout and styles</td>
+    <td>17/05/2024</td>
+  </tr>
+  <tr>
+    <td>4b25982cc649dd5e4bbfc726de1c2d744b656246</td>
+    <td>feat: Add redirect to group list after creating a new group</td>
+    <td>17/05/2024</td>
+  </tr>
+  <tr>
+    <td>6e38ca5a2f0c58b44503971e4ccddfe600bfca35</td>
+    <td>feat(app): new styles</td>
+    <td>21/05/2024</td>
+  </tr>
+  <tr>
+    <td>4d9395e1c58a4e546b640ba4773896fa194739ac</td>
+    <td>update(header): added navbar</td>
+    <td>21/05/2024</td>
+  </tr>
+  <tr>
+    <td>7e6665821135e3c6f00a6560b02ff36429e30802</td>
+    <td>chore: Update npm dependencies to latest versions</td>
+    <td>21/05/2024</td>
+  </tr>
+  <tr>
+    <td>12660a6eb3bf4c0f566d17167e022f272c91af42</td>
+    <td>feat: Add getById method to GroupService</td>
+    <td>21/05/2024</td>
+  </tr>
+  <tr>
+    <td>0875f48f49dd4fcebe7a30926ab90145692b81f7</td>
+    <td>feat: Add group detail page and redirect to group list after creating a new one</td>
+    <td>21/05/2024</td>
+  </tr>
+  <tr>
+    <td>b3e34b578aae92cb1c56aa21ce14959ee734a76f</td>
+    <td>update(navbar): added logo</td>
+    <td>22/05/2024</td>
+  </tr>
+  <tr>
+    <td>69c4aef8f659fe092008217897f159bdb17dbbba</td>
+    <td>update(group-details): added new styles</td>
+    <td>22/05/2024</td>
+  </tr>
+   <tr>
+    <td>cdaabfa45dee91dc7eaef2dd072e32e3b45f8043</td>
+    <td>update(details): divider & pieChart</td>
+    <td>28/05/2024</td>
+  </tr>
+  <tr>
+    <td>053f85b7ea928255e7570a58a7d6902affd080b3</td>
+    <td>feat: Add contacts to PartnerEntity and populate group members in FormCreateGroupComponent</td>
+    <td>30/05/2024</td>
+  </tr>
+</table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
+
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="" alt="Pocket Partners" width="90%">
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<p align = "justify">A continuación, se presenta una lista de los puntos finales registrados en OpenAPI que están dentro del alcance del Sprint 3. Posteriormente, se mostrará una tabla que detalla estos puntos finales.</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Entity</th>
+    <th style="border: 1px solid black;">Endpoint</th>
+    <th style="border: 1px solid black;">Swagger</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Users</td>
+    <td style="border: 1px solid black;">/api/v1/users</td>
+    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Users"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Groups</td>
+    <td style="border: 1px solid black;">/api/v1/groups</td>
+    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Groups"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Groups-Operations</td>
+    <td style="border: 1px solid black;">/api/v1/groups-operations</td>
+    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Groups-Operations"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Expenses</td>
+    <td style="border: 1px solid black;">/api/v1/expenses</td>
+    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Expenses"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Payments</td>
+    <td style="border: 1px solid black;">/api/v1/Payments</td>
+    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Payments"></td>
+  </tr>
+</table>
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+<p align = "justify">El Backend ha sido desplegado por ---:</p>
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github </p>
+
+<img align="center" src="" alt="Bars_report" width="90%">
+
+<img align="center" src="" alt="Wave_report" width="90%">
+
+<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Backend en Github </p>
+
+<img align="center" src="" alt="Bars_backend" width="90%">
+
+<img align="center" src="" alt="Wave_backend" width="90%">
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+## 5.4. Video About-the-Product
 
 ## Avance de Conclusiones, Bibliografía y Anexos
 
