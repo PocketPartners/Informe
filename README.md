@@ -3865,9 +3865,9 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
     <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;" rowspan="4">EP-08</td>
+    <td style="border: 1px solid black;" rowspan="4">EP-03</td>
     <td style="border: 1px solid black;" rowspan="4">Desarrollo del Backend</td>
-    <td style="border: 1px solid black;" rowspan="2">US-22</td>
+    <td style="border: 1px solid black;" rowspan="2">US-27</td>
     <td style="border: 1px solid black;" rowspan="2">Modelado de las clases y endpoints</td>
     <td style="border: 1px solid black;" rowspan="2">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
     <td style="border: 1px solid black;">Modelado de clases en IntelliJ</td>
@@ -3879,7 +3879,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
     <td style="border: 1px solid black;">Desarrollar y acceder a los endpoints necesarios</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-23</td>
+    <td style="border: 1px solid black;">US-28</td>
     <td style="border: 1px solid black;">Integracion del backend con el frontend</td>
     <td style="border: 1px solid black;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
     <td style="border: 1px solid black;">Realizar conectividad</td>
@@ -3902,8 +3902,8 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
     <th>Committed on</th>
   </tr>
   <tr>
-    <td rowspan="6">backend</td>
-    <td rowspan="6">develop</td>
+    <td rowspan="31">backend</td>
+    <td rowspan="31">develop</td>
     <td>ef5601def88d0aafe73666b64d0aee21d0514ec3</td>
     <td>chore: initial commit</td>
     <td>30/05/2024</td>
@@ -4046,7 +4046,17 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
   <tr>
     <td>0a56d2e37fb84e599b4842d7658a6628145b6097</td>
     <td>update(groups): added List all Groups</td>
-    <td>02/06/2024</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>67de7e4d6847112bc11c73efbd4df8698bebbb94</td>
+    <td>feat(member group): new verb GET to get all member from a group</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>c0ee5d6c0558f7ec0710aedad52c81d1ff84fd44</td>
+    <td>update(groups): get user full name</td>
+    <td>03/06/2024</td>
   </tr>
 </table>
 
@@ -4150,27 +4160,32 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Users</td>
     <td style="border: 1px solid black;">/api/v1/users</td>
-    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Users"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_users.png" alt="Swagger Users"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Groups</td>
     <td style="border: 1px solid black;">/api/v1/groups</td>
-    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Groups"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_groups.png" alt="Swagger Groups"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Groups-Operations</td>
     <td style="border: 1px solid black;">/api/v1/groups-operations</td>
-    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Groups-Operations"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_groupOperations.png" alt="Swagger Groups-Operations"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Expenses</td>
     <td style="border: 1px solid black;">/api/v1/expenses</td>
-    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Expenses"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Expenses.png" alt="Swagger Expenses"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Payments</td>
-    <td style="border: 1px solid black;">/api/v1/Payments</td>
-    <td style="border: 1px solid black;"><img src="https://via.placeholder.com/15" alt="Swagger Payments"></td>
+    <td style="border: 1px solid black;">/api/v1/payments</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Payments.png" alt="Swagger Payments"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">groupMembers</td>
+    <td style="border: 1px solid black;">/api/v1/groups/groupId/members</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Expenses.png" alt="Swagger Group Members"></td>
   </tr>
 </table>
 
@@ -4180,17 +4195,23 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
-<p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github </p>
+<p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github: </p>
 
-<img align="center" src="" alt="Bars_report" width="90%">
+<img align="center" src="images/insights_bars_report.png" alt="Bars_report" width="90%">
 
-<img align="center" src="" alt="Wave_report" width="90%">
+<img align="center" src="images/insights_wave_report.png" alt="Wave_report" width="90%">
 
-<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Backend en Github </p>
+<p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend en Github: </p>
 
-<img align="center" src="" alt="Bars_backend" width="90%">
+<img align="center" src="" alt="Bars_frontend" width="90%">
 
-<img align="center" src="" alt="Wave_backend" width="90%">
+<img align="center" src="" alt="Wave_frontend" width="90%">
+
+<p align = "justify">Finalmente se presentan capturas de los insights del repositorio del Backend en Github: </p>
+
+<img align="center" src="images/insights_bars_backend.png" alt="Bars_backend" width="90%">
+
+<img align="center" src="images/insights_wave_backend.png" alt="Wave_backend" width="90%">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
