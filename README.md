@@ -2360,7 +2360,7 @@ Error al registrar el nuevo gasto por falta de datos
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-<img src="images/PocketPartners-Diagram-Class-Diagrama.drawio.png" alt="Class Diagram">
+<img src="images/PocketPartners-Diagram-Class-Diagrama.drawio-actualizado.png" alt="Class Diagram">
 
 <p align ="justify">
       En este diagrama de clases se muestran las clases que componen la aplicación PocketPartners, se añadió el patron observer para la notificación de los usuarios que permite mantener informados a los usuarios sobre los cambios en el grupo o otros sistemas importantes como pagos o gastos.
@@ -2879,7 +2879,7 @@ Error al registrar el nuevo gasto por falta de datos
 [Modelo en Vertabelo](https://my.vertabelo.com/doc/4CT3rJsaHCDIFvnXBUAb4kzmHd2u4UmU)
 
   <div align="center">
-        <img src="images/PocketPartens_Open_Source.png" alt="Database Diagram" width="100%">
+        <img src="images/PocketPartens___Open_Source-2024-05-30_17-20.png" alt="Database Diagram" width="100%">
   </div>
 
 # Capítulo V Product Implementation, Validation & Deployment
@@ -3908,6 +3908,18 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+
+* En una escala del 1 al 10, ¿qué tan fácil te resulta utilizar PocketPartners para gestionar y dividir los gastos entre un grupo de personas? ¿Qué mejorarías para que fuera más intuitiva?
+* ¿Qué tan útil te resulta la capacidad de crear múltiples grupos con diferentes personas para gestionar los gastos? ¿Encuentras algún problema al gestionar varios grupos?
+* ¿Qué tan fácil te resulta añadir nuevos gastos en la aplicación? ¿Hay algún paso que te gustaría que fuera más sencillo o rápido?
+* ¿Consideras que los campos para especificar el nombre del gasto y la cantidad son suficientes? ¿Qué otros detalles te gustaría poder agregar al registrar un gasto?
+* ¿Qué tan útil te parece la funcionalidad de registrar si un pago ha sido realizado o no? ¿Te resulta claro el sistema de pagos entrantes y salientes?
+* ¿Qué tan claro y fácil de entender te resulta la división entre pagos pendientes y pagos realizados? ¿Cómo mejorarías esta sección?
+* ¿Qué tan útiles te parecen las notificaciones y recordatorios sobre pagos pendientes y realizados? ¿Te gustaría recibir más o menos notificaciones? ¿De qué tipo?
+* ¿Cómo valorarías la interfaz de usuario en términos de diseño y facilidad de navegación? ¿Qué aspectos visuales cambiarías o mejorarías?
+* ¿Hay alguna funcionalidad que sientas que falta en PocketPartners? ¿Qué características adicionales te gustaría ver en futuras actualizaciones?
+* En general, ¿qué tan satisfecho/a estás con PocketPartners? ¿Recomendarías esta aplicación a tus amigos o familiares? ¿Por qué?
+
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
