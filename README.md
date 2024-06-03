@@ -4266,8 +4266,12 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <p align="justify">Aplicacion PocketPartners:  </p>
 
-<p align="justify">Todas las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1</p>
+<p align="justify">Entrevistas - Capitulo II: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1</p>
+
+<p align="justify">Entrevistas - Capitulo IV: </p>
 
 <p align="justify">Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
 
 <p align="justify">Video TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
+
+<p align="justify">Video TB2: </p>
