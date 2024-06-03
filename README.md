@@ -114,8 +114,6 @@ Mayo 2024
           <li>Carbajal Pozzo, Joaquín Alonso</li>
           <li>Cisneros Tafur, Diego Rafael</li>
           <li>Jarama Peñaloza, Fiorella</li>
-          <li>Ramos Carpio, Karen</li>
-          <li>Ventura Allasi, Randel Russell</li>
         </ul>
       </td>
       <td>
@@ -129,6 +127,9 @@ Mayo 2024
   </tbody>
 </table>
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -172,17 +173,17 @@ Mayo 2024
         </ul>
         <ul> 
           <p><strong>TB2</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso:</li>
-          <li>Cisneros Tafur, Diego Rafael:</li>
-          <li>Jarama Peñaloza, Fiorella: </li>
-          <li>Ramos Carpio, Karen: </li>
-          <li>Randel Russell:</li>
+          <li>Carbajal Pozzo, Joaquín Alonso: Se encargó de desarrollar los endpoints del backend relacionados con Payments, Expense y Group Operations. Además, implementó mejoras importantes como Lean UX Hypothesis, Sprint Backlog 2, y el diseño de las entrevistas y evaluaciones heurísticas del informe actual. </li>
+          <li>Cisneros Tafur, Diego Rafael: Realizó el deployment del backend, así como los endpoints de Groups y GroupMembers. También mejoró la funcionalidad del frontend permitiendo la selección de miembros para el grupo y desarrollando una pantalla adicional para los detalles del grupo. Además, se encargó de la creación del video explicativo sobre el producto y redactó una conclusión.</li>
+          <li>Jarama Peñaloza, Fiorella: Desarrolló los acceptance tests y la mayor parte del Sprint 3, además de encargarse del endpoint de Users. También abordó las mejoras de los sprint backlogs anteriores y completó tareas pendientes del frontend como el sideBar y la división de montos por grupo.</li>
+          <li>Ramos Carpio, Karen: - </li>
+          <li>Randel Russell: - </li>
         </ul>
       </td>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
       <br>
       <p><strong>TP:</strong></p><p align="justify"> Se logro completar la mayoria de los puntos pedidos, un punto a mejorar seria, que todos los miembros se comprometan a terminar, puesto que sino retrasan al resto de integrantes.</p> 
-      <p><strong>TB2:<strong></p><p align="justify"></p>
+      <p><strong>TB2:<strong></p><p align="justify">En este sprint del proyecto, el equipo ha logrado avances significativos en el desarrollo de las funcionalidades del sistema, tales como el Backend de nuestro aplicativo y su integracion con el Frontend</p>
       </td>
     </tr>
     <tr style="border-bottom: 1px solid black;">
@@ -206,17 +207,17 @@ Mayo 2024
         </ul>
         <ul> 
           <p><strong>TB2</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso:</li>
-          <li>Cisneros Tafur, Diego Rafael:</li>
-          <li>Jarama Peñaloza, Fiorella: </li>
-          <li>Ramos Carpio, Karen: </li>
-          <li>Randel Russell:</li>
+          <li>Carbajal Pozzo, Joaquín Alonso: Se encargó de desarrollar los endpoints del backend relacionados con Payments, Expense y Group Operations. Además, implementó mejoras importantes como Lean UX Hypothesis, Sprint Backlog 2, y el diseño de las entrevistas y evaluaciones heurísticas del informe actual. </li>
+          <li>Cisneros Tafur, Diego Rafael: Realizó el deployment del backend, así como los endpoints de Groups y GroupMembers. También mejoró la funcionalidad del frontend permitiendo la selección de miembros para el grupo y desarrollando una pantalla adicional para los detalles del grupo. Además, se encargó de la creación del video explicativo sobre el producto y redactó una conclusión.</li>
+          <li>Jarama Peñaloza, Fiorella: Desarrolló los acceptance tests y la mayor parte del Sprint 3, además de encargarse del endpoint de Users. También abordó las mejoras de los sprint backlogs anteriores y completó tareas pendientes del frontend como el sideBar y la división de montos por grupo.</li>
+          <li>Ramos Carpio, Karen: - </li>
+          <li>Randel Russell: - </li>
         </ul>
       </td>
       <td><p><strong>TB1</strong></p><p align="justify">El equipo estableció medios de comunicación para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa.</p>
       <br>
-      <p><strong>TP:<strong></p><p align="justify">El equipo no logro realizar un trabajo completo debido a la falta de compromiso de dos integrantes, se tuvo que realizar varias tareas a ultimo segundo, sin embargo el trabajo entregado fue pasable para los estandares propuestos.</p>
-      <p><strong>TB2:<strong></p><p align="justify"></p>
+      <p><strong>TP:<strong></p><p align="justify">El equipo no logro realizar un trabajo completo, mientras algunos miembros han demostrado una participación activa y significativa en el desarrollo del proyecto, otros no han contribuido de manera tangible durante este periodo. Es crucial para el éxito del proyecto que todos los miembros del equipo se involucren y aporten en futuras tareas y sprints.</p>
+      <p><strong>TB2:<strong></p><p align="justify">En este sprint del proyecto, el equipo ha logrado avances significativos en el desarrollo de las funcionalidades del sistema, tales como el Backend de nuestro aplicativo y su integracion con el Frontend</p>
       </td>
     </tr>
   </tbody>
@@ -1223,7 +1224,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-03</b></td>
         <td style="text-align: center; border: 1px solid black;" align="center">Video - AboutTheProduct</td>
         <td style="border: 1px solid black;" align="justify">
-          Como usuario, quiero observar una seccion en el Landing Page que tenga un video acerca del producto que estoy considerando usar
+          Como usuario, quiero observar una seccion en el Landing Page que tenga un video acerca del producto que estoy considerando usar.
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Visualizando el Video sobre el Producto en el Landing Page <br>
@@ -1248,7 +1249,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
             <b>Cuando</b> visito la sección de "Reseñas" en el Landing Page. <br>
             <b>Entonces</b> espero encontrar testimonios y opiniones de usuarios que ya han utilizado la aplicación. <br>
             <b>Y</b>, deseo que estas reseñas sean variadas, incluyendo opiniones positivas y constructivas, para tener una visión equilibrada del producto. <br>
-            <b>Y</b>, busco reseñas que sean auténticas y relevantes, lo que me ayudará a tomar una decisión informada sobre si PocketPartners es la opción adecuada para mis necesidades financieras.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
       </tr>
@@ -1272,7 +1272,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     <!-- US-06 -->
     <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-06</b></td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Seccion Conactato</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">Seccion Contacto</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero observar una seccion donde este los contactos, como numero fijo o redes sociales, de la empresa. 
         </td>
@@ -1282,7 +1282,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
             <b>Cuando</b> llego al final del Landing Page y observo la sección "Footer". <br>
             <b>Entonces</b> espero encontrar los contactos de la empresa, como un número telefónico de contacto o enlaces a sus redes sociales. <br>
             <b>Y</b>, deseo que esta sección sea fácilmente accesible y visible, preferiblemente ubicada en la parte inferior de la página para una navegación conveniente. <br>
-            <b>Y</b>, busco una variedad de formas de contacto para elegir, lo que me permitirá comunicarme con la empresa de manera efectiva según mis preferencias personales.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
       </tr>
@@ -1303,14 +1302,14 @@ Visualización y comprensión el estado actual del proceso de la determinación 
             <br>
             <b>Entonces:</b> Ingreso la información requerida y confirmo la creación del grupo.
             <br>
-            <b>Finalmente:</b> El nuevo grupo se crea con éxito y puedo comenzar a utilizarlo para mantenerme al tanto de las actualizaciones en mis finanzas compartidas.
+            <b>Y:</b> El nuevo grupo se crea con éxito y puedo comenzar a utilizarlo para mantenerme al tanto de las actualizaciones en mis finanzas compartidas.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
       <!-- US09 -->
         <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-08</b></td>
-          <td style="text-align: center; border: 1px solid black;" align="center">Todos los grupos</td>
+          <td style="text-align: center; border: 1px solid black;" align="center">Lista de los grupos</td>
           <td style="border: 1px solid black;" align="justify">
             Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.
           </td>
@@ -1460,7 +1459,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
-      <!-- US18 -->
+      <!-- US16 -->
       <tr>
         <td style="text-align: center; border: 1px solid black;" align="center">US-16</td>
         <td style="text-align: center; border: 1px solid black;" align="center">Dividir Gastos</td>
@@ -1479,7 +1478,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
-      <!-- US-19 -->
+      <!-- US-17 -->
       <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-17</b></td>  
         <td style="text-align: center; border: 1px solid black;" align="center">Grafico de gastos mensuales </td>
@@ -1494,12 +1493,12 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
-      <!-- US-20 -->
+      <!-- US-18 -->
       <tr>
       <td style="text-align: center; border: 1px solid black;" align="center">US-18</td>
         <td style="text-align: center; border: 1px solid black;" align="center">Nuevo Gasto por Grupo</td>
         <td style="border: 1px solid black;" align="justify">
-          Como usuario, quiero poder agregar un nuevo gasto realizado y por espeficiar el grupo
+          Como usuario, quiero poder agregar un nuevo gasto realizado y por especificiar el grupo.
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Agregar un Nuevo Gasto por Grupo</b> <br>
@@ -1516,7 +1515,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
-      <!-- US-21 -->
+      <!-- US-19 -->
       <tr>
       <td style="text-align: center; border: 1px solid black;" align="center">US-19</td>
         <td style="text-align: center; border: 1px solid black;" align="center">Descartar Contactos</td>
@@ -1543,37 +1542,30 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
-      <!-- US22 -->
+      <!-- US20 -->
         <tr>
         <td style="text-align: center; border: 1px solid black;" align="center">US-20</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Grafico de avanze de pagos</td>
           <td style="border: 1px solid black;" align="justify">
-            Como usuario, quiero poder observar un grafico de pie para poder analizar cuantos pagos restantes faltan
+            Como usuario, quiero poder observar un grafico de pie para poder analizar cuantos pagos restantes faltan.
           </td>
           <td style="border: 1px solid black;" align="justify">
-            <b>Escenario 1: Éxito al Visualizar el Gráfico de Pie</b>
+            <b>Escenario: Éxito al Visualizar el Gráfico de Pie</b>
             <b>Dado que:</b> Soy un usuario que desea analizar el progreso de los pagos restantes. <br>
             <b>Cuando:</b> Accedo a la sección de análisis de pagos de la aplicación. <br>
             <b>Y:</b> Selecciono la opción para visualizar un gráfico de pie. <br>
             <b>Entonces:</b> Se me presenta un gráfico de pie que muestra el avance de los pagos realizados en comparación con los pagos totales. <br>
             <b>Y:</b> Puedo interpretar fácilmente la distribución de los pagos restantes a través del gráfico. <br>
             <b>Y:</b> Utilizo esta información para entender mejor mi situación financiera y planificar futuros pagos de manera más efectiva.
-            <b>Escenario 2: Error al Visualizar el Gráfico de Pie</b>
-            <b>Dado que:</b> Estoy intentando analizar el progreso de los pagos restantes. <br>
-            <b>Cuando:</b> Selecciono la opción para ver el gráfico de pie. <br>
-            <b>Y:</b> Existe un problema técnico o de conexión a la aplicación. <br>
-            <b>Entonces:</b> No se carga correctamente el gráfico de pie. <br>
-            <b>Y:</b> Se me muestra un mensaje de error indicando la razón por la cual no se pudo cargar el gráfico. <br>
-            <b>Y:</b> Intento nuevamente acceder al gráfico de pie después de resolver el problema técnico, asegurándome de poder utilizar esta herramienta para monitorear mi progreso financiero de manera efectiva.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
         </tr>
-        <!-- US-23 -->
+        <!-- US-21 -->
         <tr>
           <td style="text-align: center; border: 1px solid black;" align="center">US-21</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Nuevo Contacto</td>
           <td style="border: 1px solid black;" align="justify">
-            Como usuario quiero poder añadir un nuevo contacto para poder seleccionarlos cuando llegue a crear un nuevo Grupo
+            Como usuario quiero poder añadir un nuevo contacto para poder seleccionarlos cuando llegue a crear un nuevo Grupo.
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario 1: Éxito al Añadir un Nuevo Contacto</b>
@@ -1583,18 +1575,18 @@ Visualización y comprensión el estado actual del proceso de la determinación 
             <b>Entonces:</b> Se me presenta un formulario para ingresar la información del nuevo contacto, como nombre, dirección de correo electrónico, etc. <br>
             <b>Y:</b> Completo el formulario con la información del nuevo contacto. <br>
             <b>Entonces:</b> El contacto es añadido con éxito a mi lista de contactos. <br>
-            <b>Finalmente:</b> Puedo seleccionar este nuevo contacto cuando llegue a crear un nuevo grupo, facilitando así la gestión de mis grupos y contactos en la aplicación.
+            <b>Y:</b> Puedo seleccionar este nuevo contacto cuando llegue a crear un nuevo grupo, facilitando así la gestión de mis grupos y contactos en la aplicación.
             <b>Escenario 2: Error al Añadir un Nuevo Contacto</b>
             <b>Dado que:</b> Estoy intentando añadir un nuevo contacto a mi lista. <br>
             <b>Cuando:</b> Ingreso la información del nuevo contacto en el formulario correspondiente. <br>
             <b>Y:</b> Algo sale mal durante el proceso de añadir el contacto. <br>
             <b>Entonces:</b> Se me muestra un mensaje de error indicando la razón por la cual no se pudo añadir el contacto. <br>
-            <b>Además:</b> Se resaltan los campos del formulario que requieren corrección o información adicional. <br>
-            <b>Finalmente:</b> Corrijo los errores señalados y vuelvo a intentar añadir el contacto, asegurándome de completar el proceso con éxito para poder utilizar este contacto en la creación de nuevos grupos en la aplicación.
+            <b>Y:</b> Se resaltan los campos del formulario que requieren corrección o información adicional. <br>
+            <b>Y:</b> Corrijo los errores señalados y vuelvo a intentar añadir el contacto, asegurándome de completar el proceso con éxito para poder utilizar este contacto en la creación de nuevos grupos en la aplicación.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
         </tr>
-        <!-- US24 -->
+        <!-- US22 -->
         <tr>
         <td style="text-align: center; border: 1px solid black;" align="center">US-22</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Acceso a Contactos</td>
@@ -1615,7 +1607,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
         </tr>
-        <!-- US25 -->
+        <!-- US23 -->
         <tr>
           <td style="text-align: center; border: 1px solid black;" align="center">US-23</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Inicio de sesión en la aplicación</td>
@@ -1662,7 +1654,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
             <b>Entonces:</b> Identifico las entidades principales que formarán parte del sistema, como Usuario, Gasto, Grupo, etc. <br>
             <b>Entonces:</b> Defino las relaciones entre estas entidades, como la asociación de gastos a un grupo o la pertenencia de un usuario a varios grupos. <br>
             <b>Entonces:</b> Establezco los endpoints necesarios para interactuar con estas entidades, como la creación de un nuevo usuario, la obtención de información de un grupo, la actualización de un gasto, etc. <br>
-            <b>Finalmente:</b> Verifico que las clases estén bien estructuradas y que los endpoints cubran todas las funcionalidades requeridas por la aplicación, lo que garantiza un backend robusto y escalable.
+            <b>Y:</b> Verifico que las clases estén bien estructuradas y que los endpoints cubran todas las funcionalidades requeridas por la aplicación, lo que garantiza un backend robusto y escalable.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP03</td>
         </tr>
@@ -1671,7 +1663,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         <td style="text-align: center; border: 1px solid black;" align="center">US-26</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Integracion del backend con el frontend</td>
           <td style="border: 1px solid black;" align="justify">
-            Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación
+            Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario: Integración del Backend con el Frontend</b> <br>
@@ -1705,7 +1697,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.4 Product Backlog
 
-<div align="center">
 <table>
   <thead>
     <tr>
@@ -1719,217 +1710,188 @@ Visualización y comprensión el estado actual del proceso de la determinación 
   <tbody>
     <tr style="text-align: center;">
       <td>1</td>
-      <td>US9</td>
-      <td>Ajustes de la cuenta</td>
-      <td style="text-align: justify;">Modificación de aspectos generales de la cuenta del usuario. Eliminar grupos, cambiar datos, entre otros.</td>
-      <td>1</td>
+      <td>US-01</td>
+      <td>Landing Page - Home</td>
+      <td style="text-align: justify;">Como usuario, deseo encontrar una página de inicio atractiva y bien diseñada al ingresar al sitio web de la empresa, para obtener una impresión positiva de la misma desde el primer momento.</td>
+      <td>2</td>
     </tr>  
     <tr style="text-align: center;">
       <td>2</td>
-      <td>US5</td>
-      <td>Acceso Seguro</td>
-      <td style="text-align: justify;">La información sera accesible unicamente con una autorización especial para garantizar la seguridad y privacidad de los datos financieros compartidos de los usuarios.</td>
-      <td>1</td>
-    </tr>  
+      <td>US-02</td>
+      <td>Seccion - Servicios</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion en el Landing Page que me diga que servicios ofrece este aplicativo.</td>
+      <td>2</td>
+    </tr>
     <tr style="text-align: center;">
       <td>3</td>
-      <td>US1</td>
-      <td>Recibir notificaciones</td>
-      <td style="text-align: justify;">Envío de notificaciones automáticas cuando se agreguen nuevos gastos compartidos para mantener al tanto de las actualizaciones en las finanzas compartidas y evitar perder información importante.</td>
-      <td>1</td>
-    </tr>    
+      <td>US-03</td>
+      <td>Video - AboutTheProduct</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion en el Landing Page que tenga un video acerca del producto que estoy considerando usar.</td>
+      <td>3</td>
+    </tr>
     <tr style="text-align: center;">
       <td>4</td>
-      <td>US10</td>
-      <td>Visualizar grupos</td>
-      <td style="text-align: justify;">Muestra de lista con los grupos a los que pertence el usuario en donde se pueda ver información relevante sobre los mismos</td>
-      <td>1</td>
-    </tr>  
+      <td>US-04</td>
+      <td>Seccion Reseñas</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion donde halla reseñas de aquellos usuarios que ya hicieron uso de la aplicacion.</td>
+      <td>2</td>
+    </tr>
     <tr style="text-align: center;">
       <td>5</td>
-      <td>US11</td>
-      <td>Crear nuevos grupos</td>
-      <td style="text-align: justify;">Creación de nuevos grupos SplitWise con diferentes personas</td>
-      <td>1</td>
-    </tr>  
+      <td>US-05</td>
+      <td>Seccion Registro</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion donde halla un apoyo visual y un formulario para registarse.</td>
+      <td>2</td>
+    </tr>
     <tr style="text-align: center;">
       <td>6</td>
-      <td>US12</td>
-      <td>Adición de gastos</td>
-      <td style="text-align: justify;">Agregación de gastos nuevos a los grupos a los que pertence el usuario.</td>
+      <td>US-06</td>
+      <td>Seccion Contacto</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion donde este los contactos, como numero fijo o redes sociales, de la empresa. </td>
       <td>2</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>7</td>
-      <td>US13</td>
-      <td>Adición de recibos de gastos</td>
-      <td style="text-align: justify;">Opción de adjuntar recibos o imágenes a mis gastos para mantener un registro visual de mis transacciones.</td>
-      <td>3</td>
-    </tr>  
+      <td>US-07</td>
+      <td>Nuevo Grupo</td>
+      <td style="text-align: justify;">Como usuario, quiero crear un nuevo de dividion para podermantenerme al tanto de las actualizaciones en mis finanzas compartidas y evitar perder información importante.</td>
+      <td>5</td>
+    </tr>
     <tr style="text-align: center;">
       <td>8</td>
-      <td>US15</td>
-      <td>Modificación de notas en los gastos</td>
-      <td style="text-align: justify;">Opción de agregar notas o comentarios a cada gasto compartido, para proporcionar contexto adicional o aclaraciones sobre la transacción.</td>
+      <td>US-08</td>
+      <td>Lista de los grupos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.</td>
       <td>3</td>
     </tr>
     <tr style="text-align: center;">
       <td>9</td>
-      <td>T-02</td>
-      <td>Implementar autenticación y autorización</td>
-      <td style="text-align: justify;">Como desarrollador, quiero implementar un sistema de autenticación y autorización para garantizar que solo los usuarios registrados y autorizados puedan acceder a PocketPartners y sus servicios.</td>
-      <td>3</td>
-    </tr>  
+      <td>US-09</td>
+      <td>Detalles del Grupo</td>
+      <td style="text-align: justify;">Como usuario, quiero poder observar los detalles de los grupo, cuanto me deben en total y por gasto para poder llevar una cuenta mas detalla de cada grupo y mis finanzas.</td>
+      <td>5</td>
+    </tr>
     <tr style="text-align: center;">
       <td>10</td>
-      <td>US18</td>
-      <td>Buscar Grupo por nombre</td>
-      <td style="text-align: justify;">Buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.</td>
-      <td>3</td>
-    </tr>     
+      <td>US-10</td>
+      <td>Añadir o Eliminar Transacciones</td>
+      <td style="text-align: justify;">Como usuario, quiero poder editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.</td>
+      <td>5</td>
+    </tr>
     <tr style="text-align: center;">
       <td>11</td>
-      <td>US16</td>
-      <td>Pago recurrente</td>
-      <td style="text-align: justify;">Establecer gastos recurrentes con pagos programados automáticamente (como pagos mensuales de alquiler o facturas), para evitar la necesidad de registrarlos 	  manualmente cada vez.</td>
-      <td>3</td>
-    </tr>  
+      <td>US-11</td>
+      <td>Reportes de Gastos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder ver informes detallados sobre mis gastos compartidos para comprender mejor mis patrones de gastos y tomar decisiones financieras más informadas.</td>
+      <td>2</td>
+    </tr>
     <tr style="text-align: center;">
       <td>12</td>
-      <td>T-05</td>
-      <td>Desarrollar una función de importación de datos</td>
-      <td style="text-align: justify;">Como desarrollador, quiero desarrollar una función de importación de datos para que los usuarios puedan importar datos de sus transacciones bancarias y otros sistemas de registro de gastos.</td>
-      <td>3</td>
-    </tr>  
+      <td>US-12</td>
+      <td>Conversor de Moneda Integrado</td>
+      <td style="text-align: justify;">Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
+      <td>8</td>
+    </tr>
     <tr style="text-align: center;">
       <td>13</td>
-      <td>US8</td>
-      <td>Balance General</td>
-      <td style="text-align: justify;">Visualizar un balance general de mis gastos para poder tener una vision clara acerca de mis ingresos y egresos.</td>
-      <td>3</td>
-    </tr>  
+      <td>US-13</td>
+      <td>Detalles de Transacción</td>
+      <td style="text-align: justify;">Como usuario, quiero visualizar detalles específicos de cada transacción, como el nombre del usuario que ingresó la transacción, la fecha y una descripción del gasto, para tener claridad y transparencia en el registro de gastos compartidos.</td>
+      <td>5</td>
+    </tr>
     <tr style="text-align: center;">
       <td>14</td>
-      <td>T-03</td>
-      <td>Integrar un sistema de notificaciones push</td>
-      <td style="text-align: justify;">Como desarrollador, quiero desarrollar funciones de notificación para informar a los usuarios sobre nuevos gastos, cambios en los gastos existentes y recordatorios de pagos pendientes.</td>
-      <td>3</td>
-    </tr>  
+      <td>US-14</td>
+      <td>Registro de Pago</td>
+      <td style="text-align: justify;"> Como usuario, quiero registrar los pagos que hago a otros miembros del grupo para mantener un registro preciso y actualizado de las deudas pagadas y pendientes.</td>
+      <td>8</td>
+    </tr>
     <tr style="text-align: center;">
       <td>15</td>
-      <td>US17</td>
-      <td>Mostrar resultados de los cálculos financieros por individuo</td>
-      <td style="text-align: justify;">Mostrar los resultados finales de todos los cálculos financieros y el monto a ser pagado o recibido por cada integrante del grupo.</td>
-      <td>5</td>
-    </tr>  
+      <td>US-15</td>
+      <td>Historial de Gastos</td>
+      <td style="text-align: justify;">Como usuario, quiero visualizar el historial de gastos compartidos para revisar y analizar mis finanzas pasadas y tener un registro claro de todas las transacciones realizadas.</td>
+      <td>8</td>
+    </tr>
     <tr style="text-align: center;">
       <td>16</td>
-      <td>T-01</td>
-      <td>Crear una API REST para la aplicación</td>
-      <td style="text-align: justify;">Como desarrollador, quiero crear una API RESTful para permitir a los usuarios acceder y gestionar sus gastos grupales desde diferentes dispositivos.</td>
+      <td>US-16</td>
+      <td>Dividir Gastos</td>
+      <td style="text-align: justify;">Como usuario, quiero tener la opción de dividir un gasto en partes iguales entre los miembros del grupo para reflejar situaciones donde los costos no se distribuyen equitativamente.</td>
       <td>5</td>
-    </tr>  
+    </tr>
     <tr style="text-align: center;">
       <td>17</td>
-      <td>US2</td>
-      <td>Añadir o Eliminar Transacciones</td>
-      <td style="text-align: justify;">Editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.</td>
-      <td>5</td>
-    </tr>  
+      <td>US-17</td>
+      <td>Grafico de gastos mensuales </td>
+      <td style="text-align: justify;">Como usuario, quiero poder obervar en la aplicación PocketPartners mis finanzas desde un gráfico en la seccion "Home".</td>
+      <td>3</td>
+    </tr>
     <tr style="text-align: center;">
       <td>18</td>
-      <td>T-08</td>
-      <td>Desarrollar funciones de búsqueda avanzada</td>
-      <td style="text-align: justify;">Como desarrollador, quiero desarrollar funciones de búsqueda avanzada para que los usuarios puedan buscar y filtrar sus gastos por fecha, categoría, monto, etc.</td>
+      <td>US-18</td>
+      <td>Nuevo Gasto por Grupo</td>
+      <td style="text-align: justify;">Como usuario, quiero poder agregar un nuevo gasto realizado y por especificiar el grupo.</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>19</td>
-      <td>US3</td>
-      <td>Division de presupuesto</td>
-      <td style="text-align: justify;">Opción de dividir equitativamente un gasto entre los miembros del grupo para garantizar que todos contribuyan de manera justa y transparente a los gastos compartidos</td>
-      <td>5</td>
+      <td>US-19</td>
+      <td>Descartar Contactos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder descartar contactos de una dividion de gasto para poder gestionar mis finanzas compartidas de manera mas sencilla.</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>20</td>
-      <td>US7</td>
-      <td>Rastreador de Deuda</td>
-      <td style="text-align: justify;">Rastrear las deudas que otros usuarios tienen conmigo y mis deudas pendientes con otros para poder mantener un control sobre mis finanzas.</td>
-      <td>5</td>
+      <td>US-20</td>
+      <td>Grafico de avanze de pagos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder observar un grafico de pie para poder analizar cuantos pagos restantes faltan</td>
+      <td>3</td>
     </tr>
     <tr style="text-align: center;">
       <td>21</td>
-      <td>T-06</td>
-      <td>Desarrollar un sistema de reportes personalizados</td>
-      <td style="text-align: justify;">Como desarrollador, quiero desarrollar un sistema de reportes personalizados para que los usuarios puedan generar informes detallados sobre sus gastos grupales.</td>
+      <td>US-21</td>
+      <td>Nuevo Contacto</td>
+      <td style="text-align: justify;">Como usuario quiero poder añadir un nuevo contacto para poder seleccionarlos cuando llegue a crear un nuevo Grupo.</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>22</td>
-      <td>US4</td>
-      <td>Exportar Detalles</td>
-      <td style="text-align: justify;">Exportar un resumen de mis transacciones en un formato fácilmente legible, como un archivo PDF o CSV, para poder realizar un seguimiento detallado de mis gastos compartidos y compartir información con otros miembros del grupo si es necesario.</td>
-      <td>5</td>
+      <td>US-22</td>
+      <td>Acceso a Contactos</td>
+      <td style="text-align: justify;">Como usuario quiero poder tener acceso a una lista de los contactos que tengo en esta aplicación.</td>
+      <td>8</td>
     </tr>
     <tr style="text-align: center;">
       <td>23</td>
-      <td>T-10</td>
-      <td>Optimizar la interfaz de usuario</td>
-      <td style="text-align: justify;">Como desarrollador, quiero optimizar la interfaz de usuario para que sea intuitiva y fácil de usar, mejorando así la experiencia del usuario.</td>
+      <td>US-23</td>
+      <td>Inicio de sesión en la aplicación</td>
+      <td style="text-align: justify;">Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece PocketPartners.</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>24</td>
-      <td>US06</td>
-      <td>Conversor de Moneda Integrado</td>
-      <td style="text-align: justify;">Convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
+      <td>US-24</td>
+      <td>Cierre de sesión en la aplicación</td>
+      <td style="text-align: justify;">Como usuario, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella.</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>25</td>
-      <td>T-07</td>
-      <td>Desarrollar un sistema de análisis de datos</td>
-      <td style="text-align: justify;">Como desarrollador, quiero desarrollar un sistema de análisis de datos para permitir a los usuarios visualizar y analizar sus gastos grupales de forma gráfica y comprensible.</td>
-      <td>8</td>
+      <td>US-26</td>
+      <td>Modelado de las clases y endpoints</td>
+      <td style="text-align: justify;">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios.</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>26</td>
-      <td>US14</td>
-      <td>Importar datos</td>
-      <td style="text-align: justify;">Importar y exportar datos de transacciones desde y hacia otros servicios financieros y aplicaciones de gestión de gastos, para facilitar la integración y la 	  transferencia de información.</td>
-      <td>8</td>
-    </tr>
-    <tr style="text-align: center;">
-      <td>27</td>
-      <td>US19</td>
-      <td>Mejora de subscripción</td>
-      <td style="text-align: justify;">Cambio de subscripción para tener un mejor acceso a mejores servicios de SplitWise</td>
-      <td>8</td>
-    </tr>
-    <tr style="text-align: center;">
-      <td>28</td>
-      <td>T-09</td>
-      <td>Implementar pruebas automatizadas</td>
-      <td style="text-align: justify;">Como desarrollador, quiero implementar pruebas automatizadas para garantizar la calidad del código y reducir la posibilidad de errores en la aplicación.</td>
-      <td>8</td>
-    </tr>
-    <tr style="text-align: center;">
-      <td>29</td>
-      <td>US20</td>
-      <td>Acceso a versión de prueba</td>
-      <td style="text-align: justify;">Acceso o a una versión de prueba limitada para poder verificar y probar los servicios que ofrece SplitWise.</td>
-      <td>8</td>
-    </tr>
-    <tr style="text-align: center;">
-      <td>30</td>
-      <td>T-04</td>
-      <td>Optimizar el rendimiento de la aplicación</td>
-      <td style="text-align: justify;"> Como desarrollador, quiero optimizar el rendimiento de la aplicación para garantizar tiempos de carga rápidos y una experiencia fluida para los usuarios.</td>
+      <td>US-26</td>
+      <td>Integracion del backend con el frontend</td>
+      <td style="text-align: justify;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
       <td>8</td>
     </tr>
   </tbody>  
 </table>
-</div>
 
 # Capítulo IV Product Design
 
@@ -4275,7 +4237,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
         <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1">Link</a></td>
     </tr>
     <tr>
-        <td>Entrevistas - Capitulo IV</td>
+        <td>Entrevistas - Capitulo V</td>
         <td><a href="">Link</a></td>
     </tr>
 </table>
