@@ -298,7 +298,6 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
     - [To - Be User Frecuente de Restaurante](#to---be-user-frecuente-de-restaurante)
     - [To - Be User Compañero de Piso](#to---be-user-compañero-de-piso)
   - [3.2 User Stories](#32-user-stories)
-  - [Technical Stories](#technical-stories)
   - [3.3 Impact Mapping](#33-impact-mapping)
       - [Mejorar la experiencia de distribución de movimientos financieros grupales.](#mejorar-la-experiencia-de-distribución-de-movimientos-financieros-grupales)
       - [Digitalizar el 80% de procesos de registro de saldos y movimientos financieros grupales.](#digitalizar-el-80-de-procesos-de-registro-de-saldos-y-movimientos-financieros-grupales)
@@ -1175,7 +1174,6 @@ Visualización y comprensión el estado actual del proceso de la determinación 
 
 ## 3.2 User Stories
 
-
 <table style="border-collapse: collapse; border: 1px solid black;">
     <thead>
       <tr>
@@ -1240,7 +1238,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     <!-- US-04 -->
     <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-04</b></td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Seccion "Reseña"</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">Seccion Reseñas</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero observar una seccion donde halla reseñas de aquellos usuarios que ya hicieron uso de la aplicacion.
         </td>
@@ -1257,7 +1255,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     <!-- US-05 -->
     <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-05</b></td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Seccion "Registro"</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">Seccion Registro</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero observar una seccion donde halla un apoyo visual y un formulario para registarse.
         </td>
@@ -1274,7 +1272,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     <!-- US-06 -->
     <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-06</b></td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Seccion "Footer"</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">Seccion Conactato</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero observar una seccion donde este los contactos, como numero fijo o redes sociales, de la empresa. 
         </td>
@@ -1291,7 +1289,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <!-- US-07 -->
       <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-07</b></td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Crear un Nuevo Grupo</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">Nuevo Grupo</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero crear un nuevo de dividion para podermantenerme al tanto de las actualizaciones en mis finanzas compartidas y evitar perder información importante.
         </td>
@@ -1312,7 +1310,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <!-- US09 -->
         <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-08</b></td>
-          <td style="text-align: center; border: 1px solid black;" align="center">Visualizar todos los grupo</td>
+          <td style="text-align: center; border: 1px solid black;" align="center">Todos los grupos</td>
           <td style="border: 1px solid black;" align="justify">
             Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.
           </td>
@@ -1327,7 +1325,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
     <!-- US09 -->
       <tr>
         <td style="text-align: center; border: 1px solid black;" align="center">US-09</td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Observar Detalles del Grupo</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">Detalles del Grupo</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero poder observar los detalles de los grupo, cuanto me deben en total y por gasto para poder llevar una cuenta mas detalla de cada grupo y mis finanzas.
         </td>
@@ -1370,7 +1368,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <!-- US11 -->
       <tr>
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-11</b></td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Visualizar Reportes de Gastos</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">Reportes de Gastos</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero poder ver informes detallados sobre mis gastos compartidos para comprender mejor mis patrones de gastos y tomar decisiones financieras más informadas.
         </td>
@@ -1462,39 +1460,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
-      <!-- US16 -->
-      <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-16</td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Informes pagos entrantes</td>
-        <td style="border: 1px solid black;" align="justify">
-          Como usuario, quiero generar informes financieros periódicos de mis gastos compartidos para tener una visión global y detallada de mis finanzas y poder analizarlas en detalle.
-        </td>
-        <td style="border: 1px solid black;" align="justify">
-          <b>Escenario 1: Generación de informes</b> <br>
-          <b>Dado que</b> el usuario registrado desee obtener un resumen de sus finanzas compartidas, <br>
-          <b>Cuando</b> acceda a la sección de "Incoming Paymentes" <br>
-          <b>Entonces</b> podrá generar un informe detallado que incluya un resumen de los gastos totales, los montos compartidos y las contribuciones individuales de cada miembro del grupo. <br><br>
-        </td>
-        <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
-      </tr>
-      <!-- US17 -->
-      <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-17</td>
-        <td style="text-align: center; border: 1px solid black;" align="center">Informes pagos salientes</td>
-        <td style="border: 1px solid black;" align="justify">
-          Como usuario, quiero poder añadir notas o comentarios a mis transacciones para proporcionar contexto adicional o explicaciones sobre los gastos registrados.
-        </td>
-        <td style="border: 1px solid black;" align="justify">
-          <b>Escenario 1: Generación de informes</b> <br>
-          <b>Dado que</b> el usuario registrado desee obtener un resumen de sus finanzas compartidas, <br>
-          <b>Cuando</b> acceda a la sección de "Outgoing Payments" <br>
-          <b>Entonces</b> podrá generar un informe detallado que incluya un resumen de los gastos totales, los montos compartidos y las contribuciones individuales de cada miembro del grupo. <br><br>
-        </td>
-        <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
-      </tr>
       <!-- US18 -->
       <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-18</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">US-16</td>
         <td style="text-align: center; border: 1px solid black;" align="center">Dividir Gastos</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero tener la opción de dividir un gasto en partes iguales entre los miembros del grupo para reflejar situaciones donde los costos no se distribuyen equitativamente.
@@ -1513,8 +1481,8 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </tr>
       <!-- US-19 -->
       <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center"><b>US-19</b></td>  
-        <td style="text-align: center; border: 1px solid black;" align="center">Poder observar un grafico con los gastos mensuales</td>
+        <td style="text-align: center; border: 1px solid black;" align="center"><b>US-17</b></td>  
+        <td style="text-align: center; border: 1px solid black;" align="center">Grafico de gastos mensuales </td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero poder obervar en la aplicación PocketPartners mis finanzas desde un gráfico en la seccion "Home".
         </td>
@@ -1528,7 +1496,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </tr>
       <!-- US-20 -->
       <tr>
-      <td style="text-align: center; border: 1px solid black;" align="center">US-20</td>
+      <td style="text-align: center; border: 1px solid black;" align="center">US-18</td>
         <td style="text-align: center; border: 1px solid black;" align="center">Nuevo Gasto por Grupo</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero poder agregar un nuevo gasto realizado y por espeficiar el grupo
@@ -1550,7 +1518,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </tr>
       <!-- US-21 -->
       <tr>
-      <td style="text-align: center; border: 1px solid black;" align="center">US-21</td>
+      <td style="text-align: center; border: 1px solid black;" align="center">US-19</td>
         <td style="text-align: center; border: 1px solid black;" align="center">Descartar Contactos</td>
         <td style="border: 1px solid black;" align="justify">
           Como usuario, quiero poder descartar contactos de una dividion de gasto para poder gestionar mis finanzas compartidas de manera mas sencilla.
@@ -1577,7 +1545,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       </tr>
       <!-- US22 -->
         <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-22</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">US-20</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Grafico de avanze de pagos</td>
           <td style="border: 1px solid black;" align="justify">
             Como usuario, quiero poder observar un grafico de pie para poder analizar cuantos pagos restantes faltan
@@ -1602,8 +1570,8 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </tr>
         <!-- US-23 -->
         <tr>
-          <td style="text-align: center; border: 1px solid black;" align="center">US-23</td>
-          <td style="text-align: center; border: 1px solid black;" align="center">Añadir un Nuevo Contacto</td>
+          <td style="text-align: center; border: 1px solid black;" align="center">US-21</td>
+          <td style="text-align: center; border: 1px solid black;" align="center">Nuevo Contacto</td>
           <td style="border: 1px solid black;" align="justify">
             Como usuario quiero poder añadir un nuevo contacto para poder seleccionarlos cuando llegue a crear un nuevo Grupo
           </td>
@@ -1628,7 +1596,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </tr>
         <!-- US24 -->
         <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-24</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">US-22</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Acceso a Contactos</td>
           <td style="border: 1px solid black;" align="justify">
             Como usuario quiero poder tener acceso a una lista de los contactos que tengo en esta aplicación.
@@ -1649,7 +1617,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </tr>
         <!-- US25 -->
         <tr>
-          <td style="text-align: center; border: 1px solid black;" align="center">US-25</td>
+          <td style="text-align: center; border: 1px solid black;" align="center">US-23</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Inicio de sesión en la aplicación</td>
           <td style="border: 1px solid black;" align="justify">
             Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece PocketPartners.
@@ -1665,7 +1633,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </tr>
         <!-- US26 -->
         <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-26</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">US-24</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Cierre de sesión en la aplicación</td>
           <td style="border: 1px solid black;" align="justify">
             Como usuario, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella.
@@ -1682,7 +1650,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </tr>
         <!-- US-27 -->
         <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-27</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">US-25</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Modelado de las clases y endpoints</td>
           <td style="border: 1px solid black;" align="justify">
             Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios.
@@ -1700,7 +1668,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </tr>
         <!-- US-28 -->
         <tr>
-        <td style="text-align: center; border: 1px solid black;" align="center">US-28</td>
+        <td style="text-align: center; border: 1px solid black;" align="center">US-26</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Integracion del backend con el frontend</td>
           <td style="border: 1px solid black;" align="justify">
             Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación
@@ -3533,27 +3501,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US- 16</td>
-    <td style="border: 1px solid black;">Informes de los pagos entrantes</td>
-    <td style="border: 1px solid black;">T13</td>
-    <td style="border: 1px solid black;">Visualizar los pagos salientes con grupo, fecha y monto</td>
-    <td style="border: 1px solid black;">Como usuario, quiero ver los detalles de una transacción individual de mi registro financiero para poder analizarla con mayor profundidad.</td>
-    <td style="border: 1px solid black;">2h</td>
-    <td style="border: 1px solid black;">Joaquin Carbajal</td>
-    <td style="border: 1px solid black;">Done</td>
-  </tr>
-  <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US- 17</td>
-    <td style="border: 1px solid black;">Informes de los pagos salientes</td>
-    <td style="border: 1px solid black;">T14</td>
-    <td style="border: 1px solid black;">Visualizar los pagos salientes con grupo, fecha y monto</td>
-    <td style="border: 1px solid black;">Como usuario, quiero ver los detalles de una transacción individual de mi registro financiero para poder analizarla con mayor profundidad.</td>
-    <td style="border: 1px solid black;">3h</td>
-    <td style="border: 1px solid black;">Joaquin Carbajal</td>
-    <td style="border: 1px solid black;">Done</td>
-  </tr>
-  <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-18</td>
+    <td style="border: 1px solid black;">US-16</td>
     <td style="border: 1px solid black;">Dividir Gastos</td>
     <td style="border: 1px solid black;">T15</td>
     <td style="border: 1px solid black;">Poder dividir los gastos del grupo</td>
@@ -3563,7 +3511,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-19</td>
+    <td style="border: 1px solid black;">US-17</td>
     <td style="border: 1px solid black;">Grafico con los gastos mensuales</td>
     <td style="border: 1px solid black;">T16</td>
     <td style="border: 1px solid black;">Poder observar un grafico con los gastos mensuales</td>
@@ -3573,7 +3521,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-20</td>
+    <td style="border: 1px solid black;">US-18</td>
     <td style="border: 1px solid black;">Agregar un Nuevo Gasto por Grupo</td>
     <td style="border: 1px solid black;">T17</td>
     <td style="border: 1px solid black;">Agregar un nuevo gasto su informacion y grupo especificado</td>
@@ -3583,7 +3531,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-21</td>
+    <td style="border: 1px solid black;">US-19</td>
     <td style="border: 1px solid black;">Descartar Contactos de la division</td>
     <td style="border: 1px solid black;">T18</td>
     <td style="border: 1px solid black;">Descarte de usuarios</td>
@@ -3593,7 +3541,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-22</td>
+    <td style="border: 1px solid black;">US-20</td>
     <td style="border: 1px solid black;">Grafico de pagos</td>
     <td style="border: 1px solid black;">T19</td>
     <td style="border: 1px solid black;">Un Grafico de Pie para ver el avanze de los pagos</td>
@@ -3603,7 +3551,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-23</td>
+    <td style="border: 1px solid black;">US-21</td>
     <td style="border: 1px solid black;">Nuevo Contacto</td>
     <td style="border: 1px solid black;">T20</td>
     <td style="border: 1px solid black;">Añadir un Nuevo Contacto</td>
@@ -3613,7 +3561,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-24</td>
+    <td style="border: 1px solid black;">US-22</td>
     <td style="border: 1px solid black;">Acceso a Contactos</td>
     <td style="border: 1px solid black;">T21</td>
     <td style="border: 1px solid black;">Acceso a Contactos</td>
@@ -3867,7 +3815,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;" rowspan="4">EP-03</td>
     <td style="border: 1px solid black;" rowspan="4">Desarrollo del Backend</td>
-    <td style="border: 1px solid black;" rowspan="2">US-27</td>
+    <td style="border: 1px solid black;" rowspan="2">US-25</td>
     <td style="border: 1px solid black;" rowspan="2">Modelado de las clases y endpoints</td>
     <td style="border: 1px solid black;" rowspan="2">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
     <td style="border: 1px solid black;">Modelado de clases en IntelliJ</td>
@@ -3879,7 +3827,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
     <td style="border: 1px solid black;">Desarrollar y acceder a los endpoints necesarios</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-28</td>
+    <td style="border: 1px solid black;">US-26</td>
     <td style="border: 1px solid black;">Integracion del backend con el frontend</td>
     <td style="border: 1px solid black;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
     <td style="border: 1px solid black;">Realizar conectividad</td>
@@ -4131,6 +4079,14 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+<p align="justify">Incluimos el código de los .feature Files en el repositorio de Acceptance Tests, estos se realizaron con el lenguaje de Gerkin. A continuacion algunos ejemplos del Sprint 2 y Sprint 3</p>
+
+<img align="center" src="images/us10-feature.png" alt="Feature Gerkhin" width="80%">
+<img align="center" src="images/us12-feature.png" alt="Feature Gerkhin" width="80%">
+<img align="center" src="images/us17-feature.png" alt="Feature Gerkhin" width="80%">
+
+<img align="center" src="images/us25-feature.png" alt="Feature Gerkhin" width="80%">
+<img align="center" src="images/us26-feature.png" alt="Feature Gerkhin" width="80%">
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -4197,21 +4153,21 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github: </p>
 
-<img align="center" src="images/insights_bars_report.png" alt="Bars_report" width="90%">
+<img align="center" src="images/insights_bars_report.png" alt="Bars_report" width="80%">
 
-<img align="center" src="images/insights_wave_report.png" alt="Wave_report" width="90%">
+<img align="center" src="images/insights_wave_report.png" alt="Wave_report" width="80%">
 
 <p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend en Github: </p>
 
-<img align="center" src="" alt="Bars_frontend" width="90%">
+<img align="center" src="" alt="Bars_frontend" width="80%">
 
-<img align="center" src="" alt="Wave_frontend" width="90%">
+<img align="center" src="" alt="Wave_frontend" width="80%">
 
 <p align = "justify">Finalmente se presentan capturas de los insights del repositorio del Backend en Github: </p>
 
-<img align="center" src="images/insights_bars_backend.png" alt="Bars_backend" width="90%">
+<img align="center" src="images/insights_bars_backend.png" alt="Bars_backend" width="80%">
 
-<img align="center" src="images/insights_wave_backend.png" alt="Wave_backend" width="90%">
+<img align="center" src="images/insights_wave_backend.png" alt="Wave_backend" width="80%">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -4254,24 +4210,72 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 ### Anexos
 
-<p align="justify">Lean UX Canvas: https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525 </p>
+<h2><strong>Pocket Partners - Links<strong></h2>
 
-<p align="justify">Landing Page Figma: https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1</p>
+<table border="1">
+    <tr>
+        <th>Description</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Github - PocketPartners</td>
+        <td><a href="https://github.com/PocketPartners">Repositorio-PocketPartners</a></td>
+    </tr>
+    <tr>
+        <td>Landing Page</td>
+        <td><a href="https://pocketpartners.github.io/LandingPage/">LandingPage</a></td>
+    </tr>
+    <tr>
+        <td>Aplicacion PocketPartners</td>
+        <td>No disponible</td>
+    </tr>
+    <tr>
+        <td>Lean UX Canvas</td>
+        <td><a href="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525">LeanUXCanvas</a></td>
+    </tr>
+    <tr>
+        <td>Landing Page Figma</td>
+        <td><a href="https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1">Link</a></td>
+    </tr>
+    <tr>
+        <td>Wireframes y Mockups Figma</td>
+        <td><a href="https://www.figma.com/file/aGnIQGSQByRUR5y16qirYd/Wireframe---Websites-PocketPartners?type=design&node-id=0%3A1&mode=design&t=A7asuU1bBsKnXbPR-1">Figma</a></td>
+    </tr>
+    <tr>
+        <td>Trello Sprint 1</td>
+        <td><a href="https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1">Sprint1</a></td>
+    </tr>
+    <tr>
+        <td>Trello Sprint 2</td>
+        <td><a href="https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2">Sprint2</a></td>
+    </tr>
+</table>
 
-<p align="justify">Wireframes y Mockups Figma: https://www.figma.com/file/aGnIQGSQByRUR5y16qirYd/Wireframe---Websites-PocketPartners?type=design&node-id=0%3A1&mode=design&t=A7asuU1bBsKnXbPR-1</p>
+<h2><strong>Pocket Partners - Multimedia<strong></h2>
 
-<p align="justify">Trello: https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1</p>
-
-<p align="justify">Landing Page:https://pocketpartners.github.io/LandingPage/ </p>
-
-<p align="justify">Aplicacion PocketPartners:  </p>
-
-<p align="justify">Entrevistas - Capitulo II: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1</p>
-
-<p align="justify">Entrevistas - Capitulo IV: </p>
-
-<p align="justify">Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
-
-<p align="justify">Video TP: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe</p>
-
-<p align="justify">Video TB2: </p>
+<table border="1">
+    <tr>
+        <th>Description</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Video TB1</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe">Link</a></td>
+    </tr>
+    <tr>
+        <td>Video TP</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/EqlYKdNkxYlAtONw8dmNVJkBLc92dIsM6_vntJNJOEb0lg?e=eo0Bai">Link</a></td>
+    </tr>
+    <tr>
+        <td>Video TB2</td>
+        <td><a href="">Link</a></td>
+    </tr>
+    <tr>
+        <td>Entrevistas - Capitulo II</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1">Link</a></td>
+    </tr>
+    <tr>
+        <td>Entrevistas - Capitulo IV</td>
+        <td><a href="">Link</a></td>
+    </tr>
+</table>
