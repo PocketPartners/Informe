@@ -375,11 +375,11 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews](#53-validation-interviews)
-      - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-      - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-      - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-    - [5.4. Video About-the-Product](#54-video-about-the-product)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
     - [Conclusiones](#conclusiones)
     - [Bibliografía](#bibliografía)
@@ -4162,6 +4162,13 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de PocketPartners. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
 
 <p align="justify">Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos Firebase para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.</p>
+
+<p align="justify">
+Para el Spring número 3, el equipo concentró todos los recursos para completar algunos endpoints que podrían ser utilizados en la parte del frontend. Asimismo, se distribuyeron las tareas para mejorar el informe y algunas otras del sprint número 2, enfocándose específicamente en el frontend. Además, como parte de este sprint, se inició la integración de los endpoints desarrollados en la parte de backend con el frontend. Este enfoque nos permitió avanzar en la unificación del sistema, asegurando que las nuevas funcionalidades fueran accesibles y funcionales desde la interfaz de usuario. Asimismo, se establecieron reuniones periódicas para garantizar la coherencia y la calidad del trabajo entregado en cada fase del desarrollo.
+</p>
+<p align="justify">
+Para completar este sprint nos apoyamos en recursos y herramientas tales como IntelliJ IDEA Ultimate, Postman, Swagger, y OpenAPI, DataGrip y MySql. Estas herramientas nos permitieron modelar las clases y endpoints, desarrollar y acceder a los endpoints necesarios, y realizar la integración del backend con el frontend. Además, se utilizaron herramientas de documentación y colaboración como Swagger y OpenAPI para garantizar la coherencia y la calidad del trabajo entregado. Asimismo, se planeo la integración de pruebas unitarias y a features.
+</p>
 
 ### Bibliografía
 
