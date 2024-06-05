@@ -4044,10 +4044,14 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <p align="justify">Incluimos el código de los .feature Files en el repositorio de Acceptance Tests, estos se realizaron con el lenguaje de Gerkin. A continuacion algunos ejemplos del Sprint 2 y Sprint 3</p>
 
 <img align="center" src="images/us10-feature.png" alt="Feature Gerkhin" width="80%">
+
 <img align="center" src="images/us12-feature.png" alt="Feature Gerkhin" width="80%">
+
 <img align="center" src="images/us17-feature.png" alt="Feature Gerkhin" width="80%">
 
+
 <img align="center" src="images/us25-feature.png" alt="Feature Gerkhin" width="80%">
+
 <img align="center" src="images/us26-feature.png" alt="Feature Gerkhin" width="80%">
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
@@ -4055,15 +4059,18 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
 
 <img align="center" src="images/deploy_pp_0.1.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_pp_0.2.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_pp_1.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_pp_2.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_pp_3.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_pp_4.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_pp_5.png" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
 
 <p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://poketpartners-deployment.vercel.app/">PocketPartners</a>
 
@@ -4111,11 +4118,49 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-<p align = "justify">Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories
-correspondientes al entregable. De la misma forma se desplego la web application completa, asimismo, se desplego el back-end.
-Landing page:
-El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama
-"develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.</p>
+<p align="justify"> Para desplegar el backend se hizo uso de Docker y de Microsoft Azure, mientras que con el frontend se siguo usando Vercel. A continuacion las evidencias de deploy en Azure</p>
+
+<p align="justify">
+  - Crear un archivo Dockerfile en el directorio raíz de tu proyecto Spring Boot que defina cómo se debe construir la imagen Docker de tu aplicación.
+</p>
+<p align="justify">
+  - Construir la imagen Docker localmente utilizando el Dockerfile.
+</p>
+<p align="justify">
+  - Probar la imagen Docker localmente para asegurarte de que la aplicación funcione correctamente.
+</p>
+<p align="justify">
+  - Iniciar sesión en Azure utilizando Azure CLI.
+</p>
+
+<img align="center" src="images/azure_mysql.png" alt="deploy" width="80%">
+
+<p align="justify">
+  - Crear un grupo de recursos en Azure para organizar los recursos relacionados con tu despliegue.
+</p>
+
+<img align="center" src="images/azure_mysql1.png" alt="deploy" width="80%">
+
+<p align="justify">
+  - Crear un registro de contenedor en Azure (ACR) para almacenar y gestionar las imágenes Docker.
+</p>
+<p align="justify">
+  - Iniciar sesión en el registro de contenedor (ACR) utilizando Azure CLI.
+</p>
+<p align="justify">
+  - Etiquetar y empujar la imagen Docker al registro de contenedor en Azure.
+</p>
+<p align="justify">
+  - Crear un servicio de contenedor en Azure que utilice la imagen Docker almacenada en el registro de contenedor.
+</p>
+<p align="justify">
+  - Verificar que la aplicación esté desplegada correctamente accediendo a la URL pública proporcionada por Azure.
+</p>
+
+
+<img align="center" src="images/docker_deploy.png" alt="deploy" width="80%">
+<br>
+<img align="center" src="images/azure_deploy.png" alt="deploy" width="80%">
 
 <p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a>
 
@@ -4172,7 +4217,7 @@ Fin: Minuto
 #### Nadia Lucas, 22 años.
 
  <div align="center">
-  <img src="images/"/>
+  <img src="images/entrevistafinaleNadia.png"/>
  </div>
 
 Inicio: Minuto 
@@ -4351,6 +4396,13 @@ evitando así eliminaciones accidentales
 
 ## 5.4. Video About-the-Product
 
+<p align="justify">A continuación se presenta nuestro video acerca del producto</p>
+
+<img src="images/about_the_product.png" alt="About - The - Product" width="80%">
+
+<p align="justify">Se puede ver en el siguiente Link</p>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EYYdJTAyb9hJkt0bJfaZAv0BNjhrDg0hcKGkH_Towr85oQ?e=biP4J2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+
 ## Avance de Conclusiones, Bibliografía y Anexos
 
 ### Conclusiones
@@ -4455,10 +4507,10 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="">About-The-Product</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EYYdJTAyb9hJkt0bJfaZAv0BNjhrDg0hcKGkH_Towr85oQ?e=biP4J2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXcHVYhP5qVBiCimuUfwI30B0gdMevEuBSLLGnE1r226tw?e=FOah3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXcHVYhP5qVBiCimuUfwI30B0gdMevEuBSLLGnE1r226tw?e=FOah3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a>About-The-Team</td>
     </tr>
 </table>
