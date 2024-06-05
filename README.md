@@ -378,6 +378,12 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [Elizabeth Quispe, 33 años.](#elizabeth-quispe-33-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
+    - [Ely Cortez, 24 años.](#ely-cortez-24-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
+      - [Gonzalo Vargas, 19 años](#gonzalo-vargas-19-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
@@ -3662,7 +3668,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
   <li>Se hace clic en el botón "Desplegar" para iniciar el proceso de despliegue.</li>
   <li>Vercel comenzará a compilar y desplegar la aplicación automáticamente.</li>
   <li>Una vez completado el despliegue, se nos da una URL única donde estará accesible la aplicación.</li>
-  <li>Frontend Web Applications: Link: https://poketpartners-deployment.vercel.app/home</li>
+  <li>Frontend Web Applications: Link: https://pocket-partners-frontend.vercel.app/home</li>
     <img align="center" src="images/PocketPartens_Vercel.png" alt="Vercel" width="50%">
 </ul>
 
@@ -4044,26 +4050,35 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <p align="justify">Incluimos el código de los .feature Files en el repositorio de Acceptance Tests, estos se realizaron con el lenguaje de Gerkin. A continuacion algunos ejemplos del Sprint 2 y Sprint 3</p>
 
 <img align="center" src="images/us10-feature.png" alt="Feature Gerkhin" width="80%">
+
 <img align="center" src="images/us12-feature.png" alt="Feature Gerkhin" width="80%">
+
 <img align="center" src="images/us17-feature.png" alt="Feature Gerkhin" width="80%">
 
+
 <img align="center" src="images/us25-feature.png" alt="Feature Gerkhin" width="80%">
+
 <img align="center" src="images/us26-feature.png" alt="Feature Gerkhin" width="80%">
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 <p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
 
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_0.1.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_0.2.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_1.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_2.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_3.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_4.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_5.png" alt="Pocket Partners" width="90%">
+
+<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4109,8 +4124,51 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-<p align = "justify">El Backend ha sido desplegado por ---:</p>
+<p align="justify"> Para desplegar el backend se hizo uso de Docker y de Microsoft Azure, mientras que con el frontend se siguo usando Vercel. A continuacion las evidencias de deploy en Azure</p>
 
+<p align="justify">
+  - Crear un archivo Dockerfile en el directorio raíz de tu proyecto Spring Boot que defina cómo se debe construir la imagen Docker de tu aplicación.
+</p>
+<p align="justify">
+  - Construir la imagen Docker localmente utilizando el Dockerfile.
+</p>
+<p align="justify">
+  - Probar la imagen Docker localmente para asegurarte de que la aplicación funcione correctamente.
+</p>
+<p align="justify">
+  - Iniciar sesión en Azure utilizando Azure CLI.
+</p>
+
+<img align="center" src="images/azure_mysql.png" alt="deploy" width="80%">
+
+<p align="justify">
+  - Crear un grupo de recursos en Azure para organizar los recursos relacionados con tu despliegue.
+</p>
+
+<img align="center" src="images/azure_mysql1.png" alt="deploy" width="80%">
+
+<p align="justify">
+  - Crear un registro de contenedor en Azure (ACR) para almacenar y gestionar las imágenes Docker.
+</p>
+<p align="justify">
+  - Iniciar sesión en el registro de contenedor (ACR) utilizando Azure CLI.
+</p>
+<p align="justify">
+  - Etiquetar y empujar la imagen Docker al registro de contenedor en Azure.
+</p>
+<p align="justify">
+  - Crear un servicio de contenedor en Azure que utilice la imagen Docker almacenada en el registro de contenedor.
+</p>
+<p align="justify">
+  - Verificar que la aplicación esté desplegada correctamente accediendo a la URL pública proporcionada por Azure.
+</p>
+
+
+<img align="center" src="images/docker_deploy.png" alt="deploy" width="80%">
+<br>
+<img align="center" src="images/azure_deploy.png" alt="deploy" width="80%">
+
+<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a>
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github: </p>
@@ -4121,9 +4179,9 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend en Github: </p>
 
-<img align="center" src="" alt="Bars_frontend" width="80%">
+<img align="center" src="images/insights_bars_frontend.png" alt="Bars_frontend" width="80%">
 
-<img align="center" src="" alt="Wave_frontend" width="80%">
+<img align="center" src="images/insights_wave_frontend.png" alt="Wave_frontend" width="80%">
 
 <p align = "justify">Finalmente se presentan capturas de los insights del repositorio del Backend en Github: </p>
 
@@ -4140,14 +4198,243 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 * ¿Consideras que los campos para especificar el nombre del gasto y la cantidad son suficientes? ¿Qué otros detalles te gustaría poder agregar al registrar un gasto?
 * ¿Qué tan útil te parece la funcionalidad de registrar si un pago ha sido realizado o no? ¿Te resulta claro el sistema de pagos entrantes y salientes?
 * ¿Qué tan claro y fácil de entender te resulta la división entre pagos pendientes y pagos realizados? ¿Cómo mejorarías esta sección?
-* ¿Qué tan útiles te parecen las notificaciones y recordatorios sobre pagos pendientes y realizados? ¿Te gustaría recibir más o menos notificaciones? ¿De qué tipo?
 * ¿Cómo valorarías la interfaz de usuario en términos de diseño y facilidad de navegación? ¿Qué aspectos visuales cambiarías o mejorarías?
 * ¿Hay alguna funcionalidad que sientas que falta en PocketPartners? ¿Qué características adicionales te gustaría ver en futuras actualizaciones?
 * En general, ¿qué tan satisfecho/a estás con PocketPartners? ¿Recomendarías esta aplicación a tus amigos o familiares? ¿Por qué?
 
 ### 5.3.2. Registro de Entrevistas
+
+Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### Elizabeth Quispe, 33 años.
+
+ <div align="center">
+  <img src="images/entrevistafinaluser1.JPG"/>
+ </div>
+
+Inicio: 23:01
+Fin: 28:10
+
+##### Resumen de la entrevista
+
+<p align="jusitfy">La entrevistada indica que le resulta fácil utilizar PocketPartners para gestionar y dividir sus gastos, por otro lado menciona que la aplicacion es intuitiva y es amigable, ademas no encuentra problemas al gestionar varios grupos, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Le gustaria agregar funcionalidad adicional para efectuar los pagos por la misma aplicacion y no tener que consultar otra.En general se encuentra satisfecha con PocketPartners y si recomendaria nuestra aplicación a sus amigos o familiares.</p>
+<br>
+
+#### Nadia Lucas, 22 años.
+
+ <div align="center">
+  <img src="images/entrevistafinaleNadia.png"/>
+ </div>
+
+Inicio: 17:21
+Fin: 23:00
+
+##### Resumen de la entrevista
+
+<p align="jusitfy">Nadia Lucas calificó la facilidad de uso de PocketPartners para gestionar y dividir gastos como un 8/10, destacando que es intuitiva pero sugiere simplificar la adición de nuevos miembros y la división de gastos en múltiples categorías. Encuentra muy útil la capacidad de crear múltiples grupos y considera fácil añadir nuevos gastos, aunque propone una función de escaneo de recibos para mayor rapidez. Los campos actuales para especificar gastos son suficientes, pero le gustaría agregar más detalles como descripción, fecha y categoría. Valora positivamente la funcionalidad de registrar pagos realizados y encuentra el sistema de pagos claro. Aunque la interfaz es buena, recomienda mejoras visuales para mayor atractivo. Sugiere la integración con servicios de pago móvil y, en general, está muy satisfecha con la aplicación, recomendándola por su efectividad en la gestión de gastos compartidos.</p>
+<br>
+
+
+### Ely Cortez, 24 años.
+
+ <div align="center">
+  <img src="images/entrvista_cortez.png"/>
+ </div>
+
+ Inicio: 06:21
+ Fin: 17:20
+
+#### Resumen de la entrevista
+
+En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que la interfaz de usaurio en clara y dfeinida. También, le gustaron algunas funcionalidad, como la de crear grupo. Sin embargo, menciono que le gustaria que la aplicacion tenga la funcionalidad de poder agregar un recordatorio para los pagos pendientes. En general, se encuentra satisfecha con PocketPartners ye si recomendaria nuestra aplicación a sus amigos o familiars.
+
+#### Gonzalo Vargas, 19 años
+
+<div align="center">
+  <img src="images/entrevistafinalGonzalo.jpg"/>
+ </div>
+
+ Inicio: 00:00
+ Fin: 06:20
+
+ #### Resumen de la entrevista
+
+ En la presente entrevista se meciona la facilidad de uso de la app por parte del usuario. Mencionando que si bien existen puntos de mejora con respecto a la simpliza del diseño, los colores o algunas funcioanlidades extra, la app le resulta muy interesante y merecedora de ser compartida con sus allegados para simplificar algunos de sus procesos e interacciones diarios.
+
 ### 5.3.3. Evaluaciones según heurísticas
+
+<p>SITE o APP A EVALUAR:</p>
+<p>PocketPartners:</p>
+<p>Meta: El propósito general de la evaluación es encontrar problemas existentes en PocketPartners.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada
+por Jakob Nielsen.</p>
+
+1. Desktop landing page
+	1. Información y descripción de la aplicación y sus funcionalidades
+	2. Visualización de planes de pago y precio de la aplicación
+	3. Interacción del landing page con la aplicación
+2. Web Application
+	1. Visualización de perfil de usuario
+        
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+
+1. Desktop landing page
+	1. Redes sociales asociadas al startup
+	2. Política de privacidad y condiciones de uso
+2. Web Application
+	1. Registro de nuevo usuario
+	2. Modificación y eliminación de procesos o cultivos registrados
+	3. Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+	4. Documentación y exportación de registros
+	5. Flexibilidad de uso a través de atajos por teclado
+	6. Acceso a recursos de ayuda dentro de la aplicación
+	7. Política de privacidad y condiciones de uso
+
+<p>ESCALA DE SEVERIDAD:</p>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Nivel</th>
+    <th style="border: 1px solid black;">Descripción</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no
+	ser que exista disponibilidad de tiempo</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar
+	una prioridad baja resolverlo de cara al siguiente reléase
+</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe
+	asignar una prioridad alta.
+</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea
+	corregido antes del lanzamiento</td>
+  </tr>
+</table>
+
+<p>TABLA RESUMEN:</p>
+<p>Desktop landing page</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">#</th>
+    <th style="border: 1px solid black;">Problema</th>
+    <th style="border: 1px solid black;">Escala de severidad</th>
+	  <th style="border: 1px solid black;">Heurística/Principio violada(o)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la
+	aplicación y no a la pasarela de pago.</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Usability: Control y libertad del usuario</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">Al seleccionar el boton interactivo “Descubrelo ahora” del landing, el usuario no es
+	direccionado al formulario de registro o inicio de sesión</td>
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Usability: Coincidencia entre el sistema y el mundo real</td>
+  </tr>
+   <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">El formulario de Contacto no muestra funcionalidad</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Usability: Visibilidad del estado del sistema</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar
+	cuenta de usuario</td>
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Usability - Flexibilidad y eficiencia de uso / Usability – Prevenir errores</td>
+  </tr>
+</table>
+
+<p>Problema #01: Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela
+de pago.</p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Control y libertad del usuario</p>
+<p>Descripción del problema: Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia
+proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la
+aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control
+para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han
+cometido un error.</p>
+<img src="images/planeslandpag.JPG" alt="Imagen de Planes" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de
+suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse
+de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.</p>
+
+<p>Problema #02: Al seleccionar el boton interactivo “Descubrelo ahora” del landing, el usuario no es
+direccionado al formulario de registro o inicio de sesión</p>
+<p>Escala de Severidad: 03</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Control y libertad del usuario</p>
+<p>Descripción del problema: Cuando un usuario hace clic en un botón con etiqueta "Descubrelo ahora", se espera que sea redirigido a una
+acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al
+hacer clic en "Descubrelo ahora" no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no
+coincide con la expectativa del usuario.</p>
+<img src="images/descubreloboton.JPG" alt="Imagen de Descubrelo ahora" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al
+seleccionar los botones "Descubrelo ahora", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión
+correspondiente. La etiqueta "Descubrelo ahora" debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. Este
+ajuste en la interacción del usuario mejorará la coherencia y la usabilidad del landing page al alinear las expectativas del usuario
+con las acciones reales que se pueden llevar a cabo al hacer clic en los botones "Descubrelo ahora".</p>
+
+<p>Problema #03:El formulario de Contacto no muestra funcionalidad </p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Usability- Visibilidad del estado del sistema</p>
+<p>Descripción del problema: El problema identificado consiste en que el formulario de contacto en el sitio web o aplicación no muestra funcionalidad. En
+otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes, lo que limita su
+capacidad para comunicarse con el sitio o la empresa. Esta falta de funcionalidad en el formulario de contacto dificulta que los
+usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de
+completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.</p>
+<img src="images/suscribe.JPG" alt="Imagen de contacto" width="50%">
+<p>Recomendación: Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de
+enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.
+</p>
+
+<p>Problema #04:Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario</p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Usability - Flexibilidad y eficiencia de uso: La falta de funcionalidades para modificar perfiles o eliminar cuentas afecta la
+flexibilidad y eficiencia de uso, ya que los usuarios no pueden realizar estas acciones de manera efectiva, lo que puede dificultar
+la gestión de sus perfiles y cuentas.
+Usability - Prevenir errores: La heurística "Prevenir errores" implica proporcionar a los usuarios la capacidad de corregir errores o
+deshacer acciones. La ausencia de opciones para modificar perfiles o eliminar cuentas limita la capacidad de los usuarios para
+corregir o deshacer cambios en sus perfiles, lo que puede resultar en problemas de usabilidad y satisfacción del usuario.</p>
+<p>Descripción del problema: El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios
+modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la
+eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con
+opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y
+eficiencia de uso", ya que no proporciona estas funciones esenciales</p>
+<img src="images/perfil.JPG" alt="Imagen de perfiles" width="50%">
+<p>Recomendación: Para solucionar el problema, se recomienda incorporar estas funcionalidades clave de manera eficiente y accesible en la interfaz.
+De igual forma, es esencial que se incluyan medidas de protección de datos y confirmación para la eliminación de cuentas,
+evitando así eliminaciones accidentales
+</p>
+
 ## 5.4. Video About-the-Product
+
+<p align="justify">A continuación se presenta nuestro video acerca del producto</p>
+
+<img src="images/about_the_product.png" alt="About - The - Product" width="80%">
+
+<p align="justify">Se puede ver en el siguiente Link</p>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EYYdJTAyb9hJkt0bJfaZAv0BNjhrDg0hcKGkH_Towr85oQ?e=biP4J2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
 
 ## Avance de Conclusiones, Bibliografía y Anexos
 
@@ -4161,7 +4448,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de PocketPartners. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
 
-<p align="justify">Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos Firebase para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.</p>
+<p align="justify">Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos Vercel para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.</p>
 
 <p align="justify">
 Para el Spring número 3, el equipo concentró todos los recursos para completar algunos endpoints que podrían ser utilizados en la parte del frontend. Asimismo, se distribuyeron las tareas para mejorar el informe y algunas otras del sprint número 2, enfocándose específicamente en el frontend. Además, como parte de este sprint, se inició la integración de los endpoints desarrollados en la parte de backend con el frontend. Este enfoque nos permitió avanzar en la unificación del sistema, asegurando que las nuevas funcionalidades fueran accesibles y funcionales desde la interfaz de usuario. Asimismo, se establecieron reuniones periódicas para garantizar la coherencia y la calidad del trabajo entregado en cada fase del desarrollo.
@@ -4196,7 +4483,11 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Aplicacion PocketPartners</td>
-        <td>No disponible</td>
+        <td><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a></td>
+    </tr>
+    <tr>
+        <td>Backend PocketPartners</td>
+        <td><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a></td>
     </tr>
     <tr>
         <td>Lean UX Canvas</td>
@@ -4229,15 +4520,15 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Video TB1</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe">TB1</a></td>
     </tr>
     <tr>
         <td>Video TP</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/EqlYKdNkxYlAtONw8dmNVJkBLc92dIsM6_vntJNJOEb0lg?e=eo0Bai">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/EqlYKdNkxYlAtONw8dmNVJkBLc92dIsM6_vntJNJOEb0lg?e=eo0Bai">TP</a></td>
     </tr>
     <tr>
         <td>Video TB2</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUoti0xOAFtCtDVQwaXj-70BCyFLwPiW-DFClqWeM5ymBg?e=b1Oppe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TB2</a></td>
     </tr>
     <tr>
         <td>Entrevistas - Capitulo II</td>
@@ -4245,6 +4536,14 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Entrevistas - Capitulo V</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Product</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EYYdJTAyb9hJkt0bJfaZAv0BNjhrDg0hcKGkH_Towr85oQ?e=biP4J2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Team</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXcHVYhP5qVBiCimuUfwI30B0gdMevEuBSLLGnE1r226tw?e=FOah3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 </table>
