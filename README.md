@@ -378,6 +378,10 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [Elizabeth Quispe, 33 años.](#elizabeth-quispe-33-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
+    - [Ely Cortez, 24 años.](#ely-cortez-24-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
@@ -4169,6 +4173,17 @@ Fin: Minuto
 
 La entrevistada indica que le resulta fácil utilizar PocketPartners para gestionar y dividir sus gastos, por otro lado menciona que la aplicacion es intuitiva y es amigable, ademas no encuentra problemas al gestionar varios grupos, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Le gustaria agregar funcionalidad adicional para efectuar los pagos por la misma aplicacion y no tener que consultar otra.En general se encuentra satisfecha con PocketPartners y si recomendaria nuestra aplicación a sus amigos o familiares.
 <br>
+
+
+### Ely Cortez, 24 años.
+
+ <div align="center">
+  <img src="images/entrvista_cortez.png"/>
+ </div>
+
+#### Resumen de la entrevista
+
+En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que la interfaz de usaurio en clara y dfeinida. También, le gustaron algunas funcionalidad, como la de crear grupo. Sin embargo, menciono que le gustaria que la aplicacion tenga la funcionalidad de poder agregar un recordatorio para los pagos pendientes. En general, se encuentra satisfecha con PocketPartners ye si recomendaria nuestra aplicación a sus amigos o familiars.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
