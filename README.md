@@ -4228,6 +4228,19 @@ Fin: Minuto
 <p align="jusitfy">Nadia Lucas calificó la facilidad de uso de PocketPartners para gestionar y dividir gastos como un 8/10, destacando que es intuitiva pero sugiere simplificar la adición de nuevos miembros y la división de gastos en múltiples categorías. Encuentra muy útil la capacidad de crear múltiples grupos y considera fácil añadir nuevos gastos, aunque propone una función de escaneo de recibos para mayor rapidez. Los campos actuales para especificar gastos son suficientes, pero le gustaría agregar más detalles como descripción, fecha y categoría. Valora positivamente la funcionalidad de registrar pagos realizados y encuentra el sistema de pagos claro. Aunque la interfaz es buena, recomienda mejoras visuales para mayor atractivo. Sugiere la integración con servicios de pago móvil y, en general, está muy satisfecha con la aplicación, recomendándola por su efectividad en la gestión de gastos compartidos.</p>
 <br>
 
+#### Gonzalo Vargas, 19 años
+
+<div align="center">
+  <img src="images/entrevistafinalGonzalo.jpg"/>
+ </div>
+
+ Inicio: Minuto
+ Fin: Minuto
+
+ #### Resumen de la entrevista
+
+ En la presente entrevista se meciona la facilidad de uso de la app por parte del usuario. Mencionando que si bien existen puntos de mejora con respecto a la simpliza del diseño, los colores o algunas funcioanlidades extra, la app le resulta muy interesante y merecedora de ser compartida con sus allegados para simplificar algunos de sus procesos e interacciones diarios.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 <p>SITE o APP A EVALUAR:</p>
