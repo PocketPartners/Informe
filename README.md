@@ -4111,8 +4111,11 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-<p align = "justify">El Backend ha sido desplegado por ---:</p>
-
+<p align = "justify">Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories
+correspondientes al entregable. De la misma forma se desplego la web application completa, asimismo, se desplego el back-end.
+Landing page:
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama
+"develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.</p>
 
 <p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a>
 
