@@ -382,6 +382,8 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
         - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
     - [Ely Cortez, 24 años.](#ely-cortez-24-años)
       - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
+      - [Gonzalo Vargas, 19 años](#gonzalo-vargas-19-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
@@ -4184,6 +4186,19 @@ La entrevistada indica que le resulta fácil utilizar PocketPartners para gestio
 #### Resumen de la entrevista
 
 En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que la interfaz de usaurio en clara y dfeinida. También, le gustaron algunas funcionalidad, como la de crear grupo. Sin embargo, menciono que le gustaria que la aplicacion tenga la funcionalidad de poder agregar un recordatorio para los pagos pendientes. En general, se encuentra satisfecha con PocketPartners ye si recomendaria nuestra aplicación a sus amigos o familiars.
+
+#### Gonzalo Vargas, 19 años
+
+<div align="center">
+  <img src="images/entrevistafinalGonzalo.jpg"/>
+ </div>
+
+ Inicio: Minuto
+ Fin: Minuto
+
+ #### Resumen de la entrevista
+
+ En la presente entrevista se meciona la facilidad de uso de la app por parte del usuario. Mencionando que si bien existen puntos de mejora con respecto a la simpliza del diseño, los colores o algunas funcioanlidades extra, la app le resulta muy interesante y merecedora de ser compartida con sus allegados para simplificar algunos de sus procesos e interacciones diarios.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
