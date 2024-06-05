@@ -378,6 +378,12 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [Elizabeth Quispe, 33 años.](#elizabeth-quispe-33-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
+    - [Ely Cortez, 24 años.](#ely-cortez-24-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
+      - [Gonzalo Vargas, 19 años](#gonzalo-vargas-19-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
@@ -4227,6 +4233,17 @@ Fin: Minuto
 
 <p align="jusitfy">Nadia Lucas calificó la facilidad de uso de PocketPartners para gestionar y dividir gastos como un 8/10, destacando que es intuitiva pero sugiere simplificar la adición de nuevos miembros y la división de gastos en múltiples categorías. Encuentra muy útil la capacidad de crear múltiples grupos y considera fácil añadir nuevos gastos, aunque propone una función de escaneo de recibos para mayor rapidez. Los campos actuales para especificar gastos son suficientes, pero le gustaría agregar más detalles como descripción, fecha y categoría. Valora positivamente la funcionalidad de registrar pagos realizados y encuentra el sistema de pagos claro. Aunque la interfaz es buena, recomienda mejoras visuales para mayor atractivo. Sugiere la integración con servicios de pago móvil y, en general, está muy satisfecha con la aplicación, recomendándola por su efectividad en la gestión de gastos compartidos.</p>
 <br>
+
+
+### Ely Cortez, 24 años.
+
+ <div align="center">
+  <img src="images/entrvista_cortez.png"/>
+ </div>
+
+#### Resumen de la entrevista
+
+En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que la interfaz de usaurio en clara y dfeinida. También, le gustaron algunas funcionalidad, como la de crear grupo. Sin embargo, menciono que le gustaria que la aplicacion tenga la funcionalidad de poder agregar un recordatorio para los pagos pendientes. En general, se encuentra satisfecha con PocketPartners ye si recomendaria nuestra aplicación a sus amigos o familiars.
 
 #### Gonzalo Vargas, 19 años
 
