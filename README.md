@@ -3930,29 +3930,82 @@ Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heur�
 por Jakob Nielsen.</p>
 
 1. Desktop landing page
-1. Información y descripción de la aplicación y sus funcionalidades
-2. Visualización de planes de pago y precio de la aplicación
-3. Header y footer apropiado para la landing page
-4. Interacción del landing page con la aplicación
+	1. Información y descripción de la aplicación y sus funcionalidades
+	2. Visualización de planes de pago y precio de la aplicación
+	3. Header y footer apropiado para la landing page
+	4. Interacción del landing page con la aplicación
 2. Web Application
-1. Inicio de sesión con usuario existente
-2. Indicadores claros de progreso o estado del proceso
-3. Iconografía comprensible y consistente con el mundo real
-4. Mensajes de error que reflejen el registro de datos incorrectos
-5. Acciones de retroceso dentro de la aplicación
-6. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
-7. Evaluar existencia de patrones de diseño o navegación
-8. Elementos de la interfaz de usuario consistentes
-9. Pestañas de navegación dentro de la aplicación
-10. Botones interactivos y de uso intuitivo
-11. Búsqueda de procesos y cultivos con registro previo
-12. Navegación y orientación dentro de la aplicación
-13. Apertura y visualización de cultivos registrados
-14. Visualización de perfil de usuario
-15. Visualización del perfil de la empresa
-16. Mensajes que orienten al usuario sobre el estado del sistema
-17. Cambio de idioma de la aplicación
-18. Estética general de la interfaz atractiva y agradable visualmente
+	1. Inicio de sesión con usuario existente
+	2. Indicadores claros de progreso o estado del proceso
+	3. Iconografía comprensible y consistente con el mundo real
+	4. Visualización de perfil de usuario
+	5. Cambio de idioma de la aplicación
+	6. Estética general de la interfaz atractiva y agradable visualmente
+    
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+
+1. Desktop landing page
+	1. Redes sociales asociadas al startup
+	2. Política de privacidad y condiciones de uso
+2. Web Application
+	1. Registro de nuevo usuario
+	2. Modificación y eliminación de procesos o cultivos registrados
+	3. Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+	4. Documentación y exportación de registros
+	5. Flexibilidad de uso a través de atajos por teclado
+	6. Acceso a recursos de ayuda dentro de la aplicación
+	7. Política de privacidad y condiciones de uso
+
+<p>ESCALA DE SEVERIDAD:</p>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Nivel</th>
+    <th style="border: 1px solid black;">Descripción</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no
+	ser que exista disponibilidad de tiempo</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar
+	una prioridad baja resolverlo de cara al siguiente reléase
+</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe
+	asignar una prioridad alta.
+</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea
+	corregido antes del lanzamiento</td>
+  </tr>
+</table>
+
+<p>TABLA RESUMEN:</p>
+<p>Desktop landing page</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">#</th>
+    <th style="border: 1px solid black;">Problema</th>
+    <th style="border: 1px solid black;">Escala de severidad</th>
+	  <th style="border: 1px solid black;">Heurística/Principio violada(o)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">La sección de “About the Team”, aparte de no integrar información pertinente, está
+	ubicada por encima del producto</td>
+    <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">Usability: Coincidencia entre el sistema y el mundo real</td>
+  </tr>
+</table>
 
 ## 5.4. Video About-the-Product
 
