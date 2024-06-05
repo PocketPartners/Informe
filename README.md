@@ -4000,12 +4000,27 @@ por Jakob Nielsen.</p>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">1</td>
-    <td style="border: 1px solid black;">La sección de “About the Team”, aparte de no integrar información pertinente, está
-	ubicada por encima del producto</td>
+    <td style="border: 1px solid black;">Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la
+	aplicación y no a la pasarela de pago.</td>
     <td style="border: 1px solid black;">2</td>
     <td style="border: 1px solid black;">Usability: Coincidencia entre el sistema y el mundo real</td>
   </tr>
 </table>
+
+<p>Problema #01: Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela
+de pago.</p>
+<p>Escala de Severidad: 04</p>
+<p>Heurística relacionada: Usability - Control y libertad del usuario</p>
+<p>Descripción del problema: Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia
+proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la
+aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control
+para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han
+cometido un error.</p>
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de
+suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse
+de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.</p>
+
 
 ## 5.4. Video About-the-Product
 
