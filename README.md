@@ -3932,16 +3932,10 @@ por Jakob Nielsen.</p>
 1. Desktop landing page
 	1. Información y descripción de la aplicación y sus funcionalidades
 	2. Visualización de planes de pago y precio de la aplicación
-	3. Header y footer apropiado para la landing page
-	4. Interacción del landing page con la aplicación
+	3. Interacción del landing page con la aplicación
 2. Web Application
-	1. Inicio de sesión con usuario existente
-	2. Indicadores claros de progreso o estado del proceso
-	3. Iconografía comprensible y consistente con el mundo real
-	4. Visualización de perfil de usuario
-	5. Cambio de idioma de la aplicación
-	6. Estética general de la interfaz atractiva y agradable visualmente
-    
+	1. Visualización de perfil de usuario
+        
 <p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
 
 1. Desktop landing page
@@ -4002,25 +3996,96 @@ por Jakob Nielsen.</p>
     <td style="border: 1px solid black;">1</td>
     <td style="border: 1px solid black;">Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la
 	aplicación y no a la pasarela de pago.</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Usability: Control y libertad del usuario</td>
+  </tr>
+  <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">Al seleccionar el boton interactivo “Descubrelo ahora” del landing, el usuario no es
+	direccionado al formulario de registro o inicio de sesión</td>
+    <td style="border: 1px solid black;">3</td>
     <td style="border: 1px solid black;">Usability: Coincidencia entre el sistema y el mundo real</td>
+  </tr>
+   <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">El formulario de Contacto no muestra funcionalidad</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Usability: Visibilidad del estado del sistema</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar
+	cuenta de usuario</td>
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Usability - Flexibilidad y eficiencia de uso / Usability – Prevenir errores</td>
   </tr>
 </table>
 
 <p>Problema #01: Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela
 de pago.</p>
 <p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
 <p>Heurística relacionada: Usability - Control y libertad del usuario</p>
 <p>Descripción del problema: Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia
 proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la
 aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control
 para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han
 cometido un error.</p>
+<img src="images/planeslandpag.JPG" alt="Imagen de Planes" width="50%">
 <p>Recomendación: Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
 recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de
 suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse
 de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.</p>
 
+<p>Problema #02: Al seleccionar el boton interactivo “Descubrelo ahora” del landing, el usuario no es
+direccionado al formulario de registro o inicio de sesión</p>
+<p>Escala de Severidad: 03</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Control y libertad del usuario</p>
+<p>Descripción del problema: Cuando un usuario hace clic en un botón con etiqueta "Descubrelo ahora", se espera que sea redirigido a una
+acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al
+hacer clic en "Descubrelo ahora" no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no
+coincide con la expectativa del usuario.</p>
+<img src="images/descubreloboton.JPG" alt="Imagen de Descubrelo ahora" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al
+seleccionar los botones "Descubrelo ahora", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión
+correspondiente. La etiqueta "Descubrelo ahora" debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. Este
+ajuste en la interacción del usuario mejorará la coherencia y la usabilidad del landing page al alinear las expectativas del usuario
+con las acciones reales que se pueden llevar a cabo al hacer clic en los botones "Descubrelo ahora".</p>
+
+<p>Problema #03:El formulario de Contacto no muestra funcionalidad </p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Usability- Visibilidad del estado del sistema</p>
+<p>Descripción del problema: El problema identificado consiste en que el formulario de contacto en el sitio web o aplicación no muestra funcionalidad. En
+otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes, lo que limita su
+capacidad para comunicarse con el sitio o la empresa. Esta falta de funcionalidad en el formulario de contacto dificulta que los
+usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de
+completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.</p>
+<img src="images/suscribe.JPG" alt="Imagen de contacto" width="50%">
+<p>Recomendación: Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de
+enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.
+</p>
+
+<p>Problema #04:Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario</p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Usability - Flexibilidad y eficiencia de uso: La falta de funcionalidades para modificar perfiles o eliminar cuentas afecta la
+flexibilidad y eficiencia de uso, ya que los usuarios no pueden realizar estas acciones de manera efectiva, lo que puede dificultar
+la gestión de sus perfiles y cuentas.
+Usability - Prevenir errores: La heurística "Prevenir errores" implica proporcionar a los usuarios la capacidad de corregir errores o
+deshacer acciones. La ausencia de opciones para modificar perfiles o eliminar cuentas limita la capacidad de los usuarios para
+corregir o deshacer cambios en sus perfiles, lo que puede resultar en problemas de usabilidad y satisfacción del usuario.</p>
+<p>Descripción del problema: El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios
+modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la
+eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con
+opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y
+eficiencia de uso", ya que no proporciona estas funciones esenciales</p>
+<img src="images/perfil.JPG" alt="Imagen de perfiles" width="50%">
+<p>Recomendación: Para solucionar el problema, se recomienda incorporar estas funcionalidades clave de manera eficiente y accesible en la interfaz.
+De igual forma, es esencial que se incluyan medidas de protección de datos y confirmación para la eliminación de cuentas,
+evitando así eliminaciones accidentales
+</p>
 
 ## 5.4. Video About-the-Product
 
