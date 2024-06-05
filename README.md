@@ -4065,6 +4065,8 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <img align="center" src="" alt="Pocket Partners" width="90%">
 <img align="center" src="" alt="Pocket Partners" width="90%">
 
+<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://poketpartners-deployment.vercel.app/">PocketPartners</a>
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 <p align = "justify">A continuación, se presenta una lista de los puntos finales registrados en OpenAPI que están dentro del alcance del Sprint 3. Posteriormente, se mostrará una tabla que detalla estos puntos finales.</p>
@@ -4111,6 +4113,8 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <p align = "justify">El Backend ha sido desplegado por ---:</p>
 
+
+<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a>
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github: </p>
@@ -4364,6 +4368,10 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
         <td><a href="https://poketpartners-deployment.vercel.app/">PocketPartners</a></td>
     </tr>
     <tr>
+        <td>Backend PocketPartners</td>
+        <td><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a></td>
+    </tr>
+    <tr>
         <td>Lean UX Canvas</td>
         <td><a href="https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525">LeanUXCanvas</a></td>
     </tr>
@@ -4394,15 +4402,15 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Video TB1</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/Eq9TFLToIZtMomN6mfv397EB4D3AkI-2Yv81xXFYqN0roQ?e=V2eIYe">TB1</a></td>
     </tr>
     <tr>
         <td>Video TP</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/EqlYKdNkxYlAtONw8dmNVJkBLc92dIsM6_vntJNJOEb0lg?e=eo0Bai">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:f:/g/personal/u20221a715_upc_edu_pe/EqlYKdNkxYlAtONw8dmNVJkBLc92dIsM6_vntJNJOEb0lg?e=eo0Bai">TP</a></td>
     </tr>
     <tr>
         <td>Video TB2</td>
-        <td><a href="">Link</a></td>
+        <td><a href="">TB2</a></td>
     </tr>
     <tr>
         <td>Entrevistas - Capitulo II</td>
@@ -4411,5 +4419,13 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     <tr>
         <td>Entrevistas - Capitulo V</td>
         <td><a href="">Link</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Product</td>
+        <td><a href="">About-The-Product</a></td>
+    </tr>
+    <tr>
+        <td>Video About-The-Team</td>
+        <td><a href="">About-The-Team</a></td>
     </tr>
 </table>
