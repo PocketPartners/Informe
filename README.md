@@ -4198,7 +4198,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 ### 5.3.2. Registro de Entrevistas
 
-Link de las entrevistas:
+Link de las entrevistas: 
 
 #### Elizabeth Quispe, 33 años.
 
