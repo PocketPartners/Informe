@@ -3922,6 +3922,38 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
+
+<p>SITE o APP A EVALUAR:</p>
+<p>PocketPartners:</p>
+<p>Meta: El propósito general de la evaluación es encontrar problemas existentes en PocketPartners.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada
+por Jakob Nielsen.</p>
+
+1. Desktop landing page
+1. Información y descripción de la aplicación y sus funcionalidades
+2. Visualización de planes de pago y precio de la aplicación
+3. Header y footer apropiado para la landing page
+4. Interacción del landing page con la aplicación
+2. Web Application
+1. Inicio de sesión con usuario existente
+2. Indicadores claros de progreso o estado del proceso
+3. Iconografía comprensible y consistente con el mundo real
+4. Mensajes de error que reflejen el registro de datos incorrectos
+5. Acciones de retroceso dentro de la aplicación
+6. Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+7. Evaluar existencia de patrones de diseño o navegación
+8. Elementos de la interfaz de usuario consistentes
+9. Pestañas de navegación dentro de la aplicación
+10. Botones interactivos y de uso intuitivo
+11. Búsqueda de procesos y cultivos con registro previo
+12. Navegación y orientación dentro de la aplicación
+13. Apertura y visualización de cultivos registrados
+14. Visualización de perfil de usuario
+15. Visualización del perfil de la empresa
+16. Mensajes que orienten al usuario sobre el estado del sistema
+17. Cambio de idioma de la aplicación
+18. Estética general de la interfaz atractiva y agradable visualmente
+
 ## 5.4. Video About-the-Product
 
 ## Avance de Conclusiones, Bibliografía y Anexos
