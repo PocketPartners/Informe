@@ -4144,7 +4144,6 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 * ¿Consideras que los campos para especificar el nombre del gasto y la cantidad son suficientes? ¿Qué otros detalles te gustaría poder agregar al registrar un gasto?
 * ¿Qué tan útil te parece la funcionalidad de registrar si un pago ha sido realizado o no? ¿Te resulta claro el sistema de pagos entrantes y salientes?
 * ¿Qué tan claro y fácil de entender te resulta la división entre pagos pendientes y pagos realizados? ¿Cómo mejorarías esta sección?
-* ¿Qué tan útiles te parecen las notificaciones y recordatorios sobre pagos pendientes y realizados? ¿Te gustaría recibir más o menos notificaciones? ¿De qué tipo?
 * ¿Cómo valorarías la interfaz de usuario en términos de diseño y facilidad de navegación? ¿Qué aspectos visuales cambiarías o mejorarías?
 * ¿Hay alguna funcionalidad que sientas que falta en PocketPartners? ¿Qué características adicionales te gustaría ver en futuras actualizaciones?
 * En general, ¿qué tan satisfecho/a estás con PocketPartners? ¿Recomendarías esta aplicación a tus amigos o familiares? ¿Por qué?
