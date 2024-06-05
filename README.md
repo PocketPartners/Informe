@@ -3668,7 +3668,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
   <li>Se hace clic en el botón "Desplegar" para iniciar el proceso de despliegue.</li>
   <li>Vercel comenzará a compilar y desplegar la aplicación automáticamente.</li>
   <li>Una vez completado el despliegue, se nos da una URL única donde estará accesible la aplicación.</li>
-  <li>Frontend Web Applications: Link: https://poketpartners-deployment.vercel.app/home</li>
+  <li>Frontend Web Applications: Link: https://pocket-partners-frontend.vercel.app/home</li>
     <img align="center" src="images/PocketPartens_Vercel.png" alt="Vercel" width="50%">
 </ul>
 
@@ -4078,7 +4078,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <img align="center" src="images/deploy_pp_5.png" alt="Pocket Partners" width="90%">
 
-<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://poketpartners-deployment.vercel.app/">PocketPartners</a>
+<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4204,7 +4204,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 ### 5.3.2. Registro de Entrevistas
 
-Link de las entrevistas: 
+Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Elizabeth Quispe, 33 años.
 
@@ -4212,8 +4212,8 @@ Link de las entrevistas:
   <img src="images/entrevistafinaluser1.JPG"/>
  </div>
 
-Inicio: Minuto 
-Fin: Minuto
+Inicio: 23:01
+Fin: 28:10
 
 ##### Resumen de la entrevista
 
@@ -4226,8 +4226,8 @@ Fin: Minuto
   <img src="images/entrevistafinaleNadia.png"/>
  </div>
 
-Inicio: Minuto 
-Fin: Minuto
+Inicio: 17:21
+Fin: 23:00
 
 ##### Resumen de la entrevista
 
@@ -4241,6 +4241,9 @@ Fin: Minuto
   <img src="images/entrvista_cortez.png"/>
  </div>
 
+ Inicio: 06:21
+ Fin: 17:20
+
 #### Resumen de la entrevista
 
 En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que la interfaz de usaurio en clara y dfeinida. También, le gustaron algunas funcionalidad, como la de crear grupo. Sin embargo, menciono que le gustaria que la aplicacion tenga la funcionalidad de poder agregar un recordatorio para los pagos pendientes. En general, se encuentra satisfecha con PocketPartners ye si recomendaria nuestra aplicación a sus amigos o familiars.
@@ -4251,8 +4254,8 @@ En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que
   <img src="images/entrevistafinalGonzalo.jpg"/>
  </div>
 
- Inicio: Minuto
- Fin: Minuto
+ Inicio: 00:00
+ Fin: 06:20
 
  #### Resumen de la entrevista
 
@@ -4480,7 +4483,7 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Aplicacion PocketPartners</td>
-        <td><a href="https://poketpartners-deployment.vercel.app/">PocketPartners</a></td>
+        <td><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a></td>
     </tr>
     <tr>
         <td>Backend PocketPartners</td>
@@ -4525,7 +4528,7 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Video TB2</td>
-        <td><a href="">TB2</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUoti0xOAFtCtDVQwaXj-70BCyFLwPiW-DFClqWeM5ymBg?e=b1Oppe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TB2</a></td>
     </tr>
     <tr>
         <td>Entrevistas - Capitulo II</td>
@@ -4533,7 +4536,7 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Entrevistas - Capitulo V</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
     </tr>
     <tr>
         <td>Video About-The-Product</td>
@@ -4541,6 +4544,6 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXcHVYhP5qVBiCimuUfwI30B0gdMevEuBSLLGnE1r226tw?e=FOah3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a>About-The-Team</td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXcHVYhP5qVBiCimuUfwI30B0gdMevEuBSLLGnE1r226tw?e=FOah3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 </table>
