@@ -4170,6 +4170,19 @@ Fin: Minuto
 La entrevistada indica que le resulta fácil utilizar PocketPartners para gestionar y dividir sus gastos, por otro lado menciona que la aplicacion es intuitiva y es amigable, ademas no encuentra problemas al gestionar varios grupos, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Le gustaria agregar funcionalidad adicional para efectuar los pagos por la misma aplicacion y no tener que consultar otra.En general se encuentra satisfecha con PocketPartners y si recomendaria nuestra aplicación a sus amigos o familiares.
 <br>
 
+#### Gonzalo Vargas, 19 años
+
+<div align="center">
+  <img src="images/entrevistafinalGonzalo.jpg"/>
+ </div>
+
+ Inicio: Minuto
+ Fin: Minuto
+
+ #### Resumen de la entrevista
+
+ En la presente entrevista se meciona la facilidad de uso de la app por parte del usuario. Mencionando que si bien existen puntos de mejora con respecto a la simpliza del diseño, los colores o algunas funcioanlidades extra, la app le resulta muy interesante y merecedora de ser compartida con sus allegados para simplificar algunos de sus procesos e interacciones diarios.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 <p>SITE o APP A EVALUAR:</p>
