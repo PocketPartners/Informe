@@ -4054,13 +4054,13 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
 
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
-<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_0.1.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_0.2.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_1.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_2.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_3.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_4.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_pp_5.png" alt="Pocket Partners" width="90%">
 <img align="center" src="" alt="Pocket Partners" width="90%">
 <img align="center" src="" alt="Pocket Partners" width="90%">
 <img align="center" src="" alt="Pocket Partners" width="90%">
@@ -4121,9 +4121,9 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <p align = "justify">De la mimsma manera se presentan capturas de los insights del repositorio del Frontend en Github: </p>
 
-<img align="center" src="" alt="Bars_frontend" width="80%">
+<img align="center" src="images/insights_bars_frontend.png" alt="Bars_frontend" width="80%">
 
-<img align="center" src="" alt="Wave_frontend" width="80%">
+<img align="center" src="images/insights_wave_frontend.png" alt="Wave_frontend" width="80%">
 
 <p align = "justify">Finalmente se presentan capturas de los insights del repositorio del Backend en Github: </p>
 
@@ -4361,7 +4361,7 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Aplicacion PocketPartners</td>
-        <td>No disponible</td>
+        <td><a href="https://poketpartners-deployment.vercel.app/">PocketPartners</a></td>
     </tr>
     <tr>
         <td>Lean UX Canvas</td>
