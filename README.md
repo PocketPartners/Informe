@@ -4163,7 +4163,21 @@ Fin: Minuto
 
 ##### Resumen de la entrevista
 
-La entrevistada indica que le resulta fácil utilizar PocketPartners para gestionar y dividir sus gastos, por otro lado menciona que la aplicacion es intuitiva y es amigable, ademas no encuentra problemas al gestionar varios grupos, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Le gustaria agregar funcionalidad adicional para efectuar los pagos por la misma aplicacion y no tener que consultar otra.En general se encuentra satisfecha con PocketPartners y si recomendaria nuestra aplicación a sus amigos o familiares.
+<p align="jusitfy">La entrevistada indica que le resulta fácil utilizar PocketPartners para gestionar y dividir sus gastos, por otro lado menciona que la aplicacion es intuitiva y es amigable, ademas no encuentra problemas al gestionar varios grupos, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Le gustaria agregar funcionalidad adicional para efectuar los pagos por la misma aplicacion y no tener que consultar otra.En general se encuentra satisfecha con PocketPartners y si recomendaria nuestra aplicación a sus amigos o familiares.</p>
+<br>
+
+#### Nadia Lucas, 22 años.
+
+ <div align="center">
+  <img src="images/"/>
+ </div>
+
+Inicio: Minuto 
+Fin: Minuto
+
+##### Resumen de la entrevista
+
+<p align="jusitfy">Nadia Lucas calificó la facilidad de uso de PocketPartners para gestionar y dividir gastos como un 8/10, destacando que es intuitiva pero sugiere simplificar la adición de nuevos miembros y la división de gastos en múltiples categorías. Encuentra muy útil la capacidad de crear múltiples grupos y considera fácil añadir nuevos gastos, aunque propone una función de escaneo de recibos para mayor rapidez. Los campos actuales para especificar gastos son suficientes, pero le gustaría agregar más detalles como descripción, fecha y categoría. Valora positivamente la funcionalidad de registrar pagos realizados y encuentra el sistema de pagos claro. Aunque la interfaz es buena, recomienda mejoras visuales para mayor atractivo. Sugiere la integración con servicios de pago móvil y, en general, está muy satisfecha con la aplicación, recomendándola por su efectividad en la gestión de gastos compartidos.</p>
 <br>
 
 ### 5.3.3. Evaluaciones según heurísticas
@@ -4442,6 +4456,6 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="">About-The-Team</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXcHVYhP5qVBiCimuUfwI30B0gdMevEuBSLLGnE1r226tw?e=FOah3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 </table>
