@@ -3921,6 +3921,23 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 * En general, ¿qué tan satisfecho/a estás con PocketPartners? ¿Recomendarías esta aplicación a tus amigos o familiares? ¿Por qué?
 
 ### 5.3.2. Registro de Entrevistas
+
+Link de las entrevistas:
+
+#### Elizabeth Quispe, 33 años.
+
+ <div align="center">
+  <img src="images/entrevistafinaluser1.JPG"/>
+ </div>
+
+Inicio: Minuto 
+Fin: Minuto
+
+##### Resumen de la entrevista
+
+La entrevistada indica que le resulta fácil utilizar PocketPartners para gestionar y dividir sus gastos, por otro lado menciona que la aplicacion es intuitiva y es amigable, ademas no encuentra problemas al gestionar varios grupos, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Le gustaria agregar funcionalidad adicional para efectuar los pagos por la misma aplicacion y no tener que consultar otra.En general se encuentra satisfecha con PocketPartners y si recomendaria nuestra aplicación a sus amigos o familiares.
+<br>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 <p>SITE o APP A EVALUAR:</p>
