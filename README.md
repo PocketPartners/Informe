@@ -859,8 +859,9 @@ _Preguntas generales:_
 6. ¿Conoce alguna herramienta que le pueda ayudar a realizar estos cálculos?
 
 ### 2.2.2 Registro de entrevistas
-
-Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1
+Link de las entrevistas:
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/Eauqe08D_odKv6wei15YkBgBGgLwmBNKkY-dZDeTV66P1g?e=moang1
+">Entrevistas</a></td>
 
 #### Renzo Castro, 20 años.
 
@@ -3763,11 +3764,11 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <table style="width:100%; border-collapse: collapse;">
   <tr style="border: 1px solid black;">
     <th style="border: 1px solid black;">Sprint #</th>
-    <th style="border: 1px solid black;" colspan="8">Sprint 3</th>
+    <th style="border: 1px solid black;" colspan="9">Sprint 3</th>
   </tr>
   <tr style="border: 1px solid black;">
     <th style="border: 1px solid black;" colspan="2">User Story</th>
-    <th style="border: 1px solid black;" colspan="7">Workitem/Task</th>
+    <th style="border: 1px solid black;" colspan="8">Workitem/Task</th>
   </tr>
   <tr style="border: 1px solid black;">
     <th style="border: 1px solid black;">EPIC ID</th>
@@ -3775,33 +3776,131 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
     <th style="border: 1px solid black;">US-ID</th>
     <th style="border: 1px solid black;">Title</th>
     <th style="border: 1px solid black;">Description</th>
-    <th style="border: 1px solid black;">Task</th>
+    <th style="border: 1px solid black;">Task Id</th>
+    <th style="border: 1px solid black;">Task Description</th>
     <th style="border: 1px solid black;">Estimation (Hours)</th>
     <th style="border: 1px solid black;">Assigned To</th>
     <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;" rowspan="4">EP-03</td>
-    <td style="border: 1px solid black;" rowspan="4">Desarrollo del Backend</td>
-    <td style="border: 1px solid black;" rowspan="2">US-25</td>
-    <td style="border: 1px solid black;" rowspan="2">Modelado de las clases y endpoints</td>
-    <td style="border: 1px solid black;" rowspan="2">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
-    <td style="border: 1px solid black;">Modelado de clases en IntelliJ</td>
-    <td style="border: 1px solid black;" rowspan="2">3h</td>
-    <td style="border: 1px solid black;" rowspan="2">Fiorella Jarama - Diego Cisneros - Joaquin Carbajal</td>
-    <td style="border: 1px solid black;" rowspan="2">Done</td>
-  </tr>
-  <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">Desarrollar y acceder a los endpoints necesarios</td>
-  </tr>
-  <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-26</td>
-    <td style="border: 1px solid black;">Integracion del backend con el frontend</td>
-    <td style="border: 1px solid black;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
-    <td style="border: 1px solid black;">Realizar conectividad</td>
-    <td style="border: 1px solid black;">4h</td>
-    <td style="border: 1px solid black;">Fiorella Jarama - Diego Cisneros - Joaquin Carbajal</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-03</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Desarrollo del Backend</td>
+    <td style="border: 1px solid black;" rowspan="8">US-25</td>
+    <td style="border: 1px solid black;" rowspan="8">Modelado de las clases, endpoints y despliegue</td>
+    <td style="border: 1px solid black;" rowspan="8">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Endpoint Users</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
     <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Endpoint Payments</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-03</td>
+    <td style="border: 1px solid black;">Endpoint Expenses</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-04</td>
+    <td style="border: 1px solid black;">Endpoint GroupOperations</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-05</td>
+    <td style="border: 1px solid black;">Endpoint Groups</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-06</td>
+    <td style="border: 1px solid black;">Despliegue en Azure</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-07</td>
+    <td style="border: 1px solid black;">Despliegue en Docker</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-08</td>
+    <td style="border: 1px solid black;">Test Unitarios</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">In Progress</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;"rowspan="8">US-26</td>
+    <td style="border: 1px solid black;"rowspan="8">Integracion del backend con el frontend</td>
+    <td style="border: 1px solid black;"rowspan="8">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla de los usuarios</td>
+    <td style="border: 1px solid black;">1h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla de los grupos</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-03</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Expenses</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-04</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Incoming Payments</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-05</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Outgoing Payments</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-06</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla New Group</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-07</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Group-Detail</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">In Progress</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-08</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla New Expense</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">In Progress</td>
   </tr>
 </table>
 
@@ -4168,7 +4267,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <br>
 <img align="center" src="images/azure_deploy.png" alt="deploy" width="80%">
 
-<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a>
+<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html">PocketPartners</a>
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github: </p>
@@ -4189,6 +4288,611 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <img align="center" src="images/insights_wave_backend.png" alt="Wave_backend" width="80%">
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <caption>Sprint #4</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>17/06/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Jarama Peñaloza, Fiorella</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de FairFinance</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 4 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se realizaran las mejoras especificadas del sprint anterior y se agregaran aquellas caracterirsticas que estuvieron faltantes en la entrega pasada.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 4 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se hizo las mejoras correspondientes al TB2
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Velocity</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuestro aplicativo. La herramienta para gestionar a los miembros del equipo y visualizar los avanzes del proyecto sera unicamente la tabla mostrada a continuación.
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Sprint #</th>
+    <th style="border: 1px solid black;" colspan="9">Sprint 4</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;" colspan="2">User Story</th>
+    <th style="border: 1px solid black;" colspan="8">Workitem/Task</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">EPIC ID</th>
+    <th style="border: 1px solid black;">EPIC Title</th>
+    <th style="border: 1px solid black;">US-ID</th>
+    <th style="border: 1px solid black;">Title</th>
+    <th style="border: 1px solid black;">Description</th>
+    <th style="border: 1px solid black;">Task Id</th>
+    <th style="border: 1px solid black;">Task Description</th>
+    <th style="border: 1px solid black;">Estimation (Hours)</th>
+    <th style="border: 1px solid black;">Assigned To</th>
+    <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-03</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Desarrollo del Backend</td>
+    <td style="border: 1px solid black;" rowspan="8">US-25</td>
+    <td style="border: 1px solid black;" rowspan="8">Modelado de las clases, endpoints y despliegue</td>
+    <td style="border: 1px solid black;" rowspan="8">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Endpoint Users</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Endpoint Payments</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-03</td>
+    <td style="border: 1px solid black;">Endpoint Expenses</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-04</td>
+    <td style="border: 1px solid black;">Endpoint GroupOperations</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-05</td>
+    <td style="border: 1px solid black;">Endpoint Groups</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-06</td>
+    <td style="border: 1px solid black;">Despliegue en Azure</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-07</td>
+    <td style="border: 1px solid black;">Despliegue en Docker</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-08</td>
+    <td style="border: 1px solid black;">Test Unitarios</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;"rowspan="8">US-26</td>
+    <td style="border: 1px solid black;"rowspan="8">Integracion del backend con el frontend</td>
+    <td style="border: 1px solid black;"rowspan="8">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla de los usuarios</td>
+    <td style="border: 1px solid black;">1h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla de los grupos</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-03</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Expenses</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-04</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Incoming Payments</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-05</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Outgoing Payments</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-06</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla New Group</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-07</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Group-Detail</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-08</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla New Expense</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-04</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Authorization</td>
+    <td style="border: 1px solid black;" rowspan="3">US-23</td>
+    <td style="border: 1px solid black;" rowspan="3">Inicio de sesión en la aplicación</td>
+    <td style="border: 1px solid black;" rowspan="3">Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece PocketPartners.
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Sign-in route</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+</td>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Register roure</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-03</td>
+    <td style="border: 1px solid black;">Contraseña hasheada</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;"rowspan="2">US-24</td>
+    <td style="border: 1px solid black;"rowspan="2">Cierre de sesión en la aplicación</td>
+    <td style="border: 1px solid black;"rowspan="2">Como usuario, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella.</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Sign-out</td>
+    <td style="border: 1px solid black;">1h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+    </tr>
+  <tr>
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Implementacion del Authorizacion Bounded Context en el frontend</td>
+    <td style="border: 1px solid black;">1h</td>
+    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+</table>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+<p align = "justify">Repositorio Backend</p>
+
+<table border="1" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr>
+  <tr>
+    <td rowspan="31">backend</td>
+    <td rowspan="31">develop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p align = "justify">Repositorio Frontend</p>
+
+<table border="1" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr>
+  <tr>
+    <td rowspan="11">Pocket Partners</td>
+    <td rowspan="11">develop</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">Incluimos los test unitarios del backend de nuestro aplicativo</p>
+
+<img align="center" src="" alt="TestUnitarios" width="80%">
+
+<img align="center" src="" alt="TestUnitarios" width="80%">
+
+<img align="center" src="" alt="TestUnitarios" width="80%">
+
+<img align="center" src="" alt="TestUnitarios" width="80%">
+
+<img align="center" src="" alt="TestUnitarios" width="80%">
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+<p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
+
+<img align="center" src="images/deploy_pp_0.1.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_0.2.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_1.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_2.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_3.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_4.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_pp_5.png" alt="Pocket Partners" width="90%">
+
+<img align="center" src="" alt="Pocket Partners" width="90%">
+
+<img align="center" src="" alt="Pocket Partners" width="90%">
+
+<img align="center" src="" alt="Pocket Partners" width="90%">
+
+<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<p align = "justify">A continuación, se presenta una lista de los puntos finales registrados en OpenAPI que están dentro del alcance del Sprint 4. Posteriormente, se mostrará una tabla que detalla estos puntos finales.</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Entity</th>
+    <th style="border: 1px solid black;">Endpoint</th>
+    <th style="border: 1px solid black;">Swagger</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Authentication</td>
+    <td style="border: 1px solid black;">/api/v1/authentication</td>
+    <td style="border: 1px solid black;"><img src="" alt="Swagger Authentication"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Users</td>
+    <td style="border: 1px solid black;">/api/v1/users</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_users.png" alt="Swagger Users"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Groups</td>
+    <td style="border: 1px solid black;">/api/v1/groups</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_groups.png" alt="Swagger Groups"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Groups-Operations</td>
+    <td style="border: 1px solid black;">/api/v1/groups-operations</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_groupOperations.png" alt="Swagger Groups-Operations"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Expenses</td>
+    <td style="border: 1px solid black;">/api/v1/expenses</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Expenses.png" alt="Swagger Expenses"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Payments</td>
+    <td style="border: 1px solid black;">/api/v1/payments</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Payments.png" alt="Swagger Payments"></td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">groupMembers</td>
+    <td style="border: 1px solid black;">/api/v1/groups/groupId/members</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_Expenses.png" alt="Swagger Group Members"></td>
+  </tr>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+<p align="justify"> Para desplegar el backend se hizo uso de Docker y de Microsoft Azure, mientras que con el frontend se siguo usando Vercel. A continuacion las evidencias de deploy en Azure</p>
+
+<p align="justify">
+  - Crear un archivo Dockerfile en el directorio raíz de tu proyecto Spring Boot que defina cómo se debe construir la imagen Docker de tu aplicación.
+</p>
+<p align="justify">
+  - Construir la imagen Docker localmente utilizando el Dockerfile.
+</p>
+<p align="justify">
+  - Probar la imagen Docker localmente para asegurarte de que la aplicación funcione correctamente.
+</p>
+<p align="justify">
+  - Iniciar sesión en Azure utilizando Azure CLI.
+</p>
+
+<img align="center" src="images/azure_mysql.png" alt="deploy" width="80%">
+
+<p align="justify">
+  - Crear un grupo de recursos en Azure para organizar los recursos relacionados con tu despliegue.
+</p>
+
+<img align="center" src="images/azure_mysql1.png" alt="deploy" width="80%">
+
+<p align="justify">
+  - Crear un registro de contenedor en Azure (ACR) para almacenar y gestionar las imágenes Docker.
+</p>
+<p align="justify">
+  - Iniciar sesión en el registro de contenedor (ACR) utilizando Azure CLI.
+</p>
+<p align="justify">
+  - Etiquetar y empujar la imagen Docker al registro de contenedor en Azure.
+</p>
+<p align="justify">
+  - Crear un servicio de contenedor en Azure que utilice la imagen Docker almacenada en el registro de contenedor.
+</p>
+<p align="justify">
+  - Verificar que la aplicación esté desplegada correctamente accediendo a la URL pública proporcionada por Azure.
+</p>
+
+<img align="center" src="images/docker_deploy.png" alt="deploy" width="80%">
+<br>
+<img align="center" src="images/azure_deploy.png" alt="deploy" width="80%">
+
+<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html">PocketPartners</a>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+<p align = "justify">A continuación se presentan capturas de los insights finales del repositorio del informe en Github: </p>
+
+<img align="center" src="" alt="Bars_report_final" width="80%">
+
+<img align="center" src="" alt="Wave_report_final" width="80%">
+
+<p align = "justify">De la mimsma manera se presentan capturas de los insights finales del repositorio del Frontend en Github: </p>
+
+<img align="center" src="" alt="Bars_frontend_final" width="80%">
+
+<img align="center" src="" alt="Wave_frontend_final" width="80%">
+
+<p align = "justify">Finalmente se presentan capturas de los insights finales del repositorio del Backend en Github: </p>
+
+<img align="center" src="" alt="Bars_backend_final" width="80%">
+
+<img align="center" src="" alt="Wave_backend_final" width="80%">
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 
@@ -4204,7 +4908,8 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 ### 5.3.2. Registro de Entrevistas
 
-Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link de las entrevistas:
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevistas</a></td>
 
 #### Elizabeth Quispe, 33 años.
 
@@ -4261,13 +4966,12 @@ En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que
 
  En la presente entrevista se meciona la facilidad de uso de la app por parte del usuario. Mencionando que si bien existen puntos de mejora con respecto a la simpliza del diseño, los colores o algunas funcioanlidades extra, la app le resulta muy interesante y merecedora de ser compartida con sus allegados para simplificar algunos de sus procesos e interacciones diarios.
 
-### 5.3.3. Evaluaciones según heurísticas
+### 5.4.3. Evaluaciones según heurísticas
 
 <p>SITE o APP A EVALUAR:</p>
 <p>PocketPartners:</p>
 <p>Meta: El propósito general de la evaluación es encontrar problemas existentes en PocketPartners.
-Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada
-por Jakob Nielsen.</p>
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.</p>
 
 1. Desktop landing page
 	1. Información y descripción de la aplicación y sus funcionalidades
@@ -4427,6 +5131,8 @@ De igual forma, es esencial que se incluyan medidas de protección de datos y co
 evitando así eliminaciones accidentales
 </p>
 
+
+
 ## 5.4. Video About-the-Product
 
 <p align="justify">A continuación se presenta nuestro video acerca del producto</p>
@@ -4487,7 +5193,7 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Backend PocketPartners</td>
-        <td><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html#">PocketPartners</a></td>
+        <td><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html">PocketPartners</a></td>
     </tr>
     <tr>
         <td>Lean UX Canvas</td>
@@ -4529,6 +5235,10 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     <tr>
         <td>Video TB2</td>
         <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUoti0xOAFtCtDVQwaXj-70BCyFLwPiW-DFClqWeM5ymBg?e=b1Oppe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TB2</a></td>
+    </tr>
+    <tr>
+        <td>Video TF</td>
+        <td><a href="">TF</a></td>
     </tr>
     <tr>
         <td>Entrevistas - Capitulo II</td>
