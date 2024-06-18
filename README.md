@@ -114,13 +114,32 @@ Mayo 2024
           <li>Carbajal Pozzo, Joaquín Alonso</li>
           <li>Cisneros Tafur, Diego Rafael</li>
           <li>Jarama Peñaloza, Fiorella</li>
+          <li>Ramos Carpio, Karen</li>
         </ul>
       </td>
       <td>
         Se han incluído los siguientes capítulos:
         <ul>
-          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.4</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.4, contando con el Sprint 3</li>
           <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+      <td><strong>TB2</strong></td>
+      <td>Lunes 17 de Junio</td>
+      <td>
+        <ul>
+          <li>Carbajal Pozzo, Joaquín Alonso</li>
+          <li>Cisneros Tafur, Diego Rafael</li>
+          <li>Jarama Peñaloza, Fiorella</li>
+          <li>Ramos Carpio, Karen</li>
+          <li>Ventura Allasi, Randel Russell</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.4, , contando con el ultimo sprint, Sprint 4</li>
+          <li>Conclusiones, Bibliografía y Anexos</li>
         </ul>
       </td>
   </tr>
@@ -173,52 +192,76 @@ Mayo 2024
         </ul>
         <ul> 
           <p><strong>TB2</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso: Se encargó de desarrollar los endpoints del backend relacionados con Payments, Expense y Group Operations. Además, implementó mejoras importantes como Lean UX Hypothesis, Sprint Backlog 2, y el diseño de las entrevistas y evaluaciones heurísticas del informe actual. </li>
-          <li>Cisneros Tafur, Diego Rafael: Realizó el deployment del backend, así como los endpoints de Groups y GroupMembers. También mejoró la funcionalidad del frontend permitiendo la selección de miembros para el grupo y desarrollando una pantalla adicional para los detalles del grupo. Además, se encargó de la creación del video explicativo sobre el producto y redactó una conclusión.</li>
-          <li>Jarama Peñaloza, Fiorella: Desarrolló los acceptance tests y la mayor parte del Sprint 3, además de encargarse del endpoint de Users. También abordó las mejoras de los sprint backlogs anteriores y completó tareas pendientes del frontend como el sideBar y la división de montos por grupo.</li>
-          <li>Ramos Carpio, Karen: - </li>
+          <li>Carbajal Pozzo, Joaquín Alonso: Se encargó de desarrollar los endpoints del backend relacionados con Payments, Expense y Group Operations. Además, implementó mejoras importantes como Lean UX Hypothesis, Sprint Backlog 2, y el diseño de las entrevistas y evaluaciones heurísticas del informe actual, además de una entevista de validación. </li>
+          <li>Cisneros Tafur, Diego Rafael: Realizó el deployment del backend, así como los endpoints de Groups y GroupMembers. También mejoró la funcionalidad del frontend permitiendo la selección de miembros para el grupo y desarrollando una pantalla adicional para los detalles del grupo. Además, se encargó de la creación del video explicativo sobre el producto y redactó una conclusión, además de una entevista de validación.</li>
+          <li>Jarama Peñaloza, Fiorella: Desarrolló los acceptance tests y la mayor parte del Sprint 3, además de encargarse del endpoint de Users. También abordó las mejoras de los sprint backlogs anteriores y completó tareas pendientes del frontend como el sideBar y la división de montos por grupo, además de una entevista de validación.</li>
+          <li>Ramos Carpio, Karen: Realizo una entrevista de validacion y evaluaciones heurísticas del informe actual. </li>
           <li>Randel Russell: - </li>
+        </ul>
+        <ul> 
+          <p><strong>TF</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso: </li>
+          <li>Cisneros Tafur, Diego Rafael:</li>
+          <li>Jarama Peñaloza, Fiorella: </li>
+          <li>Ramos Carpio, Karen: </li>
+          <li>Randel Russell: </li>
         </ul>
       </td>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
       <br>
       <p><strong>TP:</strong></p><p align="justify"> Se logro completar la mayoria de los puntos pedidos, un punto a mejorar seria, que todos los miembros se comprometan a terminar, puesto que sino retrasan al resto de integrantes.</p> 
       <p><strong>TB2:<strong></p><p align="justify">En este sprint del proyecto, el equipo ha logrado avances significativos en el desarrollo de las funcionalidades del sistema, tales como el Backend de nuestro aplicativo y su integracion con el Frontend</p>
+      <p><strong>TF:<strong></p><p align="justify"></p>
       </td>
     </tr>
     <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</strong></td>
       <td style="border-right: 1px solid black;">
-        <ul>
-          <p><strong>TB1</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso: Proceso de entrevistas para el requirements elicitation, comunicación de la propuesta de solución a los clientes esperados y dirección del diseño de la solución.</li>
-          <li>Cisneros Tafur, Diego Rafael: Creación de la sección de sprint, diseño de la landing page y su versión responsive, así como la versión responsive de la aplicación web.</li>
-          <li>Ramos Carpio, Karen: Mantenimiento de un contacto constante con los segmentos objetivo, comunicación y organización mediante reuniones.</li>
-          <li>Jarama Peñaloza, Fiorella: Realización de exposiciones grabadas para explicar los requisitos del proyecto, cómo fueron implementados y el ciclo de vida del desarrollo del software.</li>
-          <li>Randel Russell: Avance en el capítulo 4 y en el diagrama de base de datos.</li>
-        </ul>
+          <ul>
+            <p><strong>TB1</strong></p>
+            <li>Carbajal Pozzo, Joaquín Alonso: Proceso de entrevistas para el requirements elicitation, comunicación de la propuesta de solución a los clientes esperados y dirección del diseño de la solución.</li>
+            <li>Cisneros Tafur, Diego Rafael: Creación de la sección de sprint, diseño de la landing page y su versión responsive, así como la versión responsive de la aplicación web.</li>
+            <li>Ramos Carpio, Karen: Mantenimiento de un contacto constante con los segmentos objetivo, comunicación y organización mediante reuniones.</li>
+            <li>Jarama Peñaloza, Fiorella: Realización de exposiciones grabadas para explicar los requisitos del proyecto, cómo fueron implementados y el ciclo de vida del desarrollo del software.</li>
+            <li>Randel Russell: Comunicación de avances en el capítulo 4 y presentación del diagrama de base de datos.</li>
+          </ul>
+          <ul> 
+            <p><strong>TP</strong></p>
+            <li>Carbajal Pozzo, Joaquín Alonso: Presentación de pantallas del frontend para Incoming Payments, Outgoing Payments y Expenses. Comunicación de mejoras en el informe como Unhappy Paths y presentación de entrevistas y puntos actuales de Sprint Planning 2 y Sprint Backlog 2.</li>
+            <li>Cisneros Tafur, Diego Rafael: Presentación de pantallas del frontend para New Group y Show Groups. Comunicación de mejoras en el informe como el Diagrama de Clases, Product Backlog y una entrevista.</li>
+            <li>Jarama Peñaloza, Fiorella: Presentación de pantallas del frontend para Home, Contactos y Navbar. Comunicación de mejoras en el informe como Landing Page Plans & Reviews y una entrevista. Presentación de evidencias actuales como Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y conclusiones.</li>
+            <li>Ramos Carpio, Karen: Realización y comunicación de una entrevista.</li>
+            <li>Randel Russell: Presentación de pantalla de Login. Comunicación de mejoras en el informe de Technical Stories y presentación actual de Team Collaboration Insights during Sprint.</li>
+          </ul>
+          <ul> 
+            <p><strong>TB2</strong></p>
+            <li>Carbajal Pozzo, Joaquín Alonso: Comunicación de desarrollo de endpoints del backend relacionados con Payments, Expense y Group Operations. Presentación de mejoras importantes como Lean UX Hypothesis, Sprint Backlog 2, y diseño de entrevistas y evaluaciones heurísticas del informe actual, además de una entrevista de validación.</li>
+            <li>Cisneros Tafur, Diego Rafael: Comunicación de deployment del backend y desarrollo de endpoints de Groups y GroupMembers. Presentación de mejoras en la funcionalidad del frontend permitiendo la selección de miembros para el grupo y desarrollo de una pantalla adicional para los detalles del grupo. Creación de un video explicativo sobre el producto y redacción de una conclusión, además de una entrevista de validación.</li>
+            <li>Jarama Peñaloza, Fiorella: Comunicación de desarrollo de acceptance tests y la mayor parte del Sprint 3. Presentación de mejoras de los sprint backlogs anteriores y completación de tareas pendientes del frontend como el sideBar y la división de montos por grupo, además de una entrevista de validación.</li>
+            <li>Ramos Carpio, Karen: Realización y comunicación de una entrevista de validación y evaluaciones heurísticas del informe actual.</li>
+            <li>Randel Russell: - </li>
+          </ul>
         <ul> 
-          <p><strong>TP</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso: Realizo las pantallas correspondientes del fronted Incoming Payments, Outgoing Paymentes y Expenses. Del Informe los puntos de mejora como Unhappy Paths, un video de entrevista, y los puntos actuales de Sprint Planning 2 y el Sprint Backlog 2.</li>
-          <li>Cisneros Tafur, Diego Rafael:Realizo las pantallas correspondientes del fronted New Group, Show Groups. Del Informe los puntos de mejora como el Diagrama de Clases, Product Backlog y una Entrevista.</li>
-          <li>Jarama Peñaloza, Fiorella: Realizo las pantallas correspondientes del fronted Home, Contactos y Navbar. Del Informe los puntos de mejora como Landing Page Plans & Reviews y una Entrevista, y de los puntos actuales Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Services Documentation Evidence for Sprint Revie, Software Deployment Evidence for Sprint Review y Conclusiones.</li>
-          <li>Ramos Carpio, Karen: Solo realizo una entrevista.</li>
-          <li>Randel Russell: Realizo una de sus pantallas, Login. Del Informe el punto de mejora de Technical Stories y del informe actual Team Collaboration Insights during Sprint.</li>
-        </ul>
-        <ul> 
-          <p><strong>TB2</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso: Se encargó de desarrollar los endpoints del backend relacionados con Payments, Expense y Group Operations. Además, implementó mejoras importantes como Lean UX Hypothesis, Sprint Backlog 2, y el diseño de las entrevistas y evaluaciones heurísticas del informe actual. </li>
-          <li>Cisneros Tafur, Diego Rafael: Realizó el deployment del backend, así como los endpoints de Groups y GroupMembers. También mejoró la funcionalidad del frontend permitiendo la selección de miembros para el grupo y desarrollando una pantalla adicional para los detalles del grupo. Además, se encargó de la creación del video explicativo sobre el producto y redactó una conclusión.</li>
-          <li>Jarama Peñaloza, Fiorella: Desarrolló los acceptance tests y la mayor parte del Sprint 3, además de encargarse del endpoint de Users. También abordó las mejoras de los sprint backlogs anteriores y completó tareas pendientes del frontend como el sideBar y la división de montos por grupo.</li>
-          <li>Ramos Carpio, Karen: - </li>
-          <li>Randel Russell: - </li>
+          <p><strong>TF</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso: </li>
+          <li>Cisneros Tafur, Diego Rafael:</li>
+          <li>Jarama Peñaloza, Fiorella: </li>
+          <li>Ramos Carpio, Karen: </li>
+          <li>Randel Russell: </li>
         </ul>
       </td>
-      <td><p><strong>TB1</strong></p><p align="justify">El equipo estableció medios de comunicación para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa.</p>
-      <br>
-      <p><strong>TP:<strong></p><p align="justify">El equipo no logro realizar un trabajo completo, mientras algunos miembros han demostrado una participación activa y significativa en el desarrollo del proyecto, otros no han contribuido de manera tangible durante este periodo. Es crucial para el éxito del proyecto que todos los miembros del equipo se involucren y aporten en futuras tareas y sprints.</p>
-      <p><strong>TB2:<strong></p><p align="justify">En este sprint del proyecto, el equipo ha logrado avances significativos en el desarrollo de las funcionalidades del sistema, tales como el Backend de nuestro aplicativo y su integracion con el Frontend</p>
-      </td>
+      <td><p><strong>TB1</strong></p>
+        <p align="justify">El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.</p>
+        <br>
+        <p><strong>TP:</strong></p>
+        <p align="justify">El equipo no logró realizar un trabajo completo en esta etapa. Mientras algunos miembros demostraron una participación activa y significativa en el desarrollo del proyecto y comunicaron sus ideas y avances con claridad, otros no contribuyeron de manera tangible durante este periodo. Es crucial para el éxito del proyecto que todos los miembros del equipo se involucren y aporten en futuras tareas y sprints. La comunicación efectiva debe ser una prioridad para asegurar la cohesión y el avance del proyecto.</p>
+        <br>
+        <p><strong>TB2:</strong></p>
+        <p align="justify">En este sprint del proyecto, el equipo ha logrado avances significativos en el desarrollo de las funcionalidades del sistema, tales como el backend de nuestro aplicativo y su integración con el frontend. Los miembros del equipo han comunicado de manera clara y objetiva estos avances a los stakeholders, asegurando que todos los niveles jerárquicos estén informados y alineados con los objetivos del proyecto.</p>
+        <br>
+        <p><strong>TF:</strong></p>
+        <p align="justify">El equipo ha demostrado una mejora constante en la comunicación de sus ideas y resultados a lo largo del proyecto. La implementación de técnicas de comunicación efectiva ha permitido que los resultados sean presentados de manera objetiva a públicos de diferentes especialidades y niveles jerárquicos, asegurando la comprensión y satisfacción de los stakeholders.</p>
+        </td>
     </tr>
   </tbody>
 </table>
@@ -375,6 +418,15 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
