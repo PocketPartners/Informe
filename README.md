@@ -124,15 +124,15 @@ Mayo 2024
           <li>Avance de Conclusiones, Bibliografía y Anexos</li>
         </ul>
       </td>
-      <td><strong>TB2</strong></td>
+  </tr>
+  <tr> 
+  <td><strong>TF</strong></td>
       <td>Lunes 17 de Junio</td>
       <td>
         <ul>
           <li>Carbajal Pozzo, Joaquín Alonso</li>
           <li>Cisneros Tafur, Diego Rafael</li>
           <li>Jarama Peñaloza, Fiorella</li>
-          <li>Ramos Carpio, Karen</li>
-          <li>Ventura Allasi, Randel Russell</li>
         </ul>
       </td>
       <td>
@@ -142,7 +142,7 @@ Mayo 2024
           <li>Conclusiones, Bibliografía y Anexos</li>
         </ul>
       </td>
-  </tr>
+    </tr>
   </tbody>
 </table>
 
@@ -199,19 +199,19 @@ Mayo 2024
           <li>Randel Russell: - </li>
         </ul>
         <ul> 
-          <p><strong>TF</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso: </li>
-          <li>Cisneros Tafur, Diego Rafael:</li>
-          <li>Jarama Peñaloza, Fiorella: </li>
-          <li>Ramos Carpio, Karen: </li>
-          <li>Randel Russell: </li>
+          <p><strong>TF:</strong></p>
+          <li>Carbajal Pozzo, Joaquín Alonso: Realizó la implementación completa de la autenticación del backend y la sección "about-the-product". Además, añadió una pantalla adicional al proyecto.</li>
+          <li>Cisneros Tafur, Diego Rafael: Implementó todos los endpoints restantes del proyecto, incluyendo el crucial de autenticación.</li>
+          <li>Jarama Peñaloza, Fiorella:Se encargó de la redacción completa del informe del sprint 4 y también diseñó las interfaces de usuario para signIn y signUp.</li>
+          <li>Ramos Carpio, Karen: - </li>
+          <li>Randel Russell: - </li>
         </ul>
       </td>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
       <br>
       <p><strong>TP:</strong></p><p align="justify"> Se logro completar la mayoria de los puntos pedidos, un punto a mejorar seria, que todos los miembros se comprometan a terminar, puesto que sino retrasan al resto de integrantes.</p> 
       <p><strong>TB2:<strong></p><p align="justify">En este sprint del proyecto, el equipo ha logrado avances significativos en el desarrollo de las funcionalidades del sistema, tales como el Backend de nuestro aplicativo y su integracion con el Frontend</p>
-      <p><strong>TF:<strong></p><p align="justify"></p>
+      <p><strong>TF<strong></p><p align="justify">Para este último sprint, podemos decir que el equipo logró cubrir todos los puntos de mejora y faltantes de la entrega anterior, y que se trabajó arduamente para tener un buen producto final.</p>
       </td>
     </tr>
     <tr style="border-bottom: 1px solid black;">
@@ -243,11 +243,11 @@ Mayo 2024
           </ul>
         <ul> 
           <p><strong>TF</strong></p>
-          <li>Carbajal Pozzo, Joaquín Alonso: </li>
-          <li>Cisneros Tafur, Diego Rafael:</li>
-          <li>Jarama Peñaloza, Fiorella: </li>
-          <li>Ramos Carpio, Karen: </li>
-          <li>Randel Russell: </li>
+          <li>Carbajal Pozzo, Joaquín Alonso: Completó la implementación de la autenticación del backend y la sección "about-the-product", además de desarrollar una pantalla adicional. Demostró habilidades para comunicar efectivamente sus ideas técnicas a audiencias de diversas especialidades y niveles jerárquicos dentro del equipo de ingeniería.</li>
+          <li>Cisneros Tafur, Diego Rafael: Implementó todos los endpoints restantes del proyecto, incluyendo el crucial de autenticación. Destacó por su capacidad para explicar de manera clara y objetiva los detalles técnicos del desarrollo a diferentes audiencias especializadas en ingeniería.</li>
+          <li>Jarama Peñaloza, Fiorella: Redactó integralmente el informe del sprint 4 y diseñó las interfaces de usuario para signIn y signUp. Mostró habilidades efectivas de comunicación oral al presentar resultados técnicos ante audiencias con diferentes niveles de experiencia en el ámbito del proyecto de ingeniería.</li>
+          <li>Ramos Carpio, Karen: - </li>
+          <li>Randel Russell: - </li>
         </ul>
       </td>
       <td><p><strong>TB1</strong></p>
@@ -266,7 +266,7 @@ Mayo 2024
   </tbody>
 </table>
 
-# **Project Report Collaboration Insights**
+# **Project Report Online**
 
 URL Project Report (Github): https://github.com/PocketPartners/Informe
 
@@ -4269,7 +4269,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">groupMembers</td>
     <td style="border: 1px solid black;">/api/v1/groups/groupId/members</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Expenses.png" alt="Swagger Group Members"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_groupMembers.png" alt="Swagger Group Members"></td>
   </tr>
 </table>
 
@@ -4319,7 +4319,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 <br>
 <img align="center" src="images/azure_deploy.png" alt="deploy" width="80%">
 
-<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html">PocketPartners</a>
+<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://pocketpartners.azurewebsites.net/swagger-ui/index.html">PocketPartners</a>
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <p align = "justify">A continuación se presentan capturas de los insights del repositorio del informe en Github: </p>
@@ -4585,15 +4585,15 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <td style="border: 1px solid black;"rowspan="2">Como usuario, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella.</td>
     <td style="border: 1px solid black;">TS-01</td>
     <td style="border: 1px solid black;">Sign-out</td>
-    <td style="border: 1px solid black;">1h</td>
-    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">3h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
     <td style="border: 1px solid black;">Done</td>
     </tr>
   <tr>
     <td style="border: 1px solid black;">TS-02</td>
     <td style="border: 1px solid black;">Implementacion del Authorizacion Bounded Context en el frontend</td>
-    <td style="border: 1px solid black;">1h</td>
-    <td style="border: 1px solid black;">Fiorella Jarama</td>
+    <td style="border: 1px solid black;">3h</td>
+    <td style="border: 1px solid black;">Diego Cisneros</td>
     <td style="border: 1px solid black;">Done</td>
   </tr>
 </table>
@@ -4613,124 +4613,59 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
   <tr>
     <td rowspan="31">backend</td>
     <td rowspan="31">develop</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10c0d344c411e9a4ca63621e221c851b0c201f34</td>
+    <td>fix(secutiry): working.</td>
+    <td>18/06/2024</td>
   </tr>
    <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2df5e1a8eebe625d2ee9dbcf50922671cf250e9b</td>
+    <td>fix(security): now userinformationid is not saved on table user.</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>97f9b993f2af7d4660097549bf5f0d4c2a3921df</td>
+    <td>fix(merge): fixed merge from security branch</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>a148db2ae0eb620115a87474313dd62945959bdc</td>
+    <td>refactor(cors): now using cors config of user iam layer</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2df4a891b521866b3b168213a38755e8c4fff046</td>
+    <td>refactor(cors): optimize the cors config</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>51c6801fff3c97fbfd8b3b296591f0e4b364b0f6</td>
+    <td>fix: tryed to fix user information</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5ba62f1660b0e223349b79281c6d7a67febf4d90</td>
+    <td>feat(user info): added new verb to get a user info by user id</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>72a5f7bef73b63f187b19e4058d39b65ce1149a4</td>
+    <td>feat(group member): Get All Members in Group</td>
+    <td>19/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>cb5938eca51f5655bed2e10288a8b7b8cae8135a</td>
+    <td>fix(exprenses): always returned a bad request</td>
+    <td>19/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>08d4e642c4e608f96118c730976f0851228f3e37</td>
+    <td>fix(group members): changed verbs to resolve with a resource groupmember</td>
+    <td>20/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>172ca8387f0ed45fac9184febe6671068ba7d174</td>
+    <td>feat(unitTests): Test for UserInformation,Group,Expense,Payments</td>
+    <td>21/06/2024</td>
   </tr>
 </table>
 
@@ -4745,90 +4680,168 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <th>Committed on</th>
   </tr>
   <tr>
-    <td rowspan="11">Pocket Partners</td>
-    <td rowspan="11">develop</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="30">Pocket Partners</td>
+    <td rowspan="30">develop</td>
+    <td>05b5cd6a981790866660b3df4ad969f535db7935</td>
+    <td>refactor: Update development environment baseURL</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>d2d1363040097150e2afd7a35c0094c62cfac8c4</td>
+    <td>feat: Add authentication guard and interceptor</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>380dc1e7885d2cee53603b64a7e6aa52c3d37fd7</td>
+    <td>feat(iam): Add sign-up and sign-in features.</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>f22ff3086f04d617ef8f38eed02711be64de55b6</td>
+    <td>refactor: Update npm dependencies to latest versions</td>
+    <td>18/06/2024</td>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>4c760d2c7eefa6068711ba49bcdc884d5f035c16</td>
+    <td>chore: Update production flag in environment.ts file</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>aeca03bacb0d2f0ac579b1974f4c8a140806c885</td>
+    <td>feat: Update home component use display the user auth info</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>3ca91364942bd8984359deff340bd2c4154858fe</td>
+    <td>feat: now using the iam layer by the backend</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5bce0e828c4465fcd63ba390742b68e5660aebac</td>
+    <td>feat: Update app component to handle user authentication</td>
+    <td>18/06/2024</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>63775c1458db33f49c14203a4e104e285363d9b5</td>
+    <td>fix: Update contact service resource endpoint</td>
+    <td>18/06/2024</td>
+  </tr>
+  <tr>
+    <td>968b122046f1e9335b6af2837e27958a3ea33add</td>
+    <td>feat: add-expense component to include joinedGroups for see in the form</td>
+    <td>19/06/2024</td>
+  </tr>
+  <tr>
+    <td>3dbe195aa0bad41122a2a13ba91e197479df7e85</td>
+    <td>refactor: Update group entity property name from 'image' to 'groupPhoto'</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>e71d8a57cd442020482646d1c5b3430294ef5169</td>
+    <td>feat(group detail): added new title info</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>d7bc0ddf6448ec7105203fb27f7f0cc3da65d456</td>
+    <td>refactor: Update authentication service name in group details component</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>a695a4a32d7066a72f49e0f539ba45bf9385a685</td>
+    <td>docs: added the comment to describe the function</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>19fdbbc02fe7c67fea964a98c7c7696572d95680</td>
+    <td>feat: Update group details component to calculate total expenses and total members</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>72483bbd9264638f150e79eccdd8571600caec0d</td>
+    <td>feat(group details): now you can select a name to pay a expense</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>276ecaefced6af71ef00e22453aa600b6d7b3e87</td>
+    <td>fix(group details): improve the view and solve warns</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>922011c16741416b346003bea62f90f91f099008</td>
+    <td>fix(group details): fix a reading code of currency during the init phase.</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>a3d9fcace197436df566aee4ab11f8d51f6c1d11</td>
+    <td>fix(create group): now you can create a group and automatically join in the data base</td>
+    <td>20/06/2024</td>
+  </tr>
+  <tr>
+    <td>b332fc0ae921b81689740658035a7151f3280e14</td>
+    <td>add(signIn): Login Style</td>
+    <td>21/06/2024</td>
+  </tr>
+  <tr>
+    <td>2aed5ae31d2ea90993e0e0b7032d4c2a1102ebb8</td>
+    <td>add(signIn):Side Image</td>
+    <td>21/06/2024</td>
+  </tr>
+  <tr>
+    <td>a75d693fa2f6ac1d218c2f851aaf279256509129</td>
+    <td>add(signUp): Register Style</td>
+    <td>21/06/2024</td>
+  </tr>
+  <tr>
+    <td>3791d262bb243038baea6bc47b20b369477922aa</td>
+    <td>add(signUp):Side Image</td>
+    <td>21/06/2024</td>
+  </tr>
+  <tr>
+    <td>622abce2ac8175ef7297a68d142126f86296ef09</td>
+    <td>fix(signUp): Register Style</td>
+    <td>21/06/2024</td>
   </tr>
 </table>
 
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
-<p align="justify">Incluimos los test unitarios del backend de nuestro aplicativo</p>
+<p align="justify">Para este sprint se completo finalmente el backend de el aplicativo, por se hicieron algunos test unitarios en cuanto a los aggregates que usamos</p>
 
-<img align="center" src="" alt="TestUnitarios" width="80%">
+<img align="center" src="images/unitTests/tests.png" alt="TestUnitarios" width="80%">
 
-<img align="center" src="" alt="TestUnitarios" width="80%">
+<img align="center" src="images/unitTests/userInfo_test.png" alt="TestUnitarios" width="80%">
 
-<img align="center" src="" alt="TestUnitarios" width="80%">
+<img align="center" src="images/unitTests/userInfo_test_fallido.png" alt="TestUnitarios" width="80%">
 
-<img align="center" src="" alt="TestUnitarios" width="80%">
+<img align="center" src="images/unitTests/expenses_test.png" alt="TestUnitarios" width="80%">
 
-<img align="center" src="" alt="TestUnitarios" width="80%">
+<img align="center" src="images/unitTests/expenses_test_fallido.png" alt="TestUnitarios" width="80%">
+
+<img align="center" src="images/unitTests/payments_test.png" alt="TestUnitarios" width="80%">
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 <p align="justify">A continuación se presentan capturas de la aplicacion web en Angular</p>
 
-<img align="center" src="images/deploy_pp_0.1.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final.png" alt="Pocket Partners" width="90%">
 
-<img align="center" src="images/deploy_pp_0.2.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final2.png" alt="Pocket Partners" width="90%">
 
-<img align="center" src="images/deploy_pp_1.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final3.jpg" alt="Pocket Partners" width="90%">
 
 <img align="center" src="images/deploy_pp_2.png" alt="Pocket Partners" width="90%">
 
-<img align="center" src="images/deploy_pp_3.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final5.jpg" alt="Pocket Partners" width="90%">
 
-<img align="center" src="images/deploy_pp_4.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final6.jpg" alt="Pocket Partners" width="90%">
 
-<img align="center" src="images/deploy_pp_5.png" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final7.jpg" alt="Pocket Partners" width="90%">
 
-<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final8.jpg" alt="Pocket Partners" width="90%">
 
-<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final9.jpg" alt="Pocket Partners" width="90%">
 
-<img align="center" src="" alt="Pocket Partners" width="90%">
+<img align="center" src="images/deploy_final10.jpg" alt="Pocket Partners" width="90%">
 
 <p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a>
 
@@ -4845,12 +4858,16 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Authentication</td>
     <td style="border: 1px solid black;">/api/v1/authentication</td>
-    <td style="border: 1px solid black;"><img src="" alt="Swagger Authentication"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_auth.png" alt="Swagger Authentication"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Users</td>
     <td style="border: 1px solid black;">/api/v1/users</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_users.png" alt="Swagger Users"></td>
+    <td style="border: 1px solid black;"><img src="images/swagger_users1.png" alt="Swagger Users"></td>
+    <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">UsersInformation</td>
+    <td style="border: 1px solid black;">/api/v1/usersInformation</td>
+    <td style="border: 1px solid black;"><img src="images/swagger_usersInfo.png" alt="Swagger Users"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Groups</td>
@@ -4865,17 +4882,17 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Expenses</td>
     <td style="border: 1px solid black;">/api/v1/expenses</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Expenses.png" alt="Swagger Expenses"></td>
+    <td style="border: 1px solid black;"><img src="images/swaggerFinal/expense.png" alt="Swagger Expenses"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">Payments</td>
     <td style="border: 1px solid black;">/api/v1/payments</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Payments.png" alt="Swagger Payments"></td>
+    <td style="border: 1px solid black;"><img src="images/swaggerFinal/payment.png" alt="Swagger Payments"></td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">groupMembers</td>
     <td style="border: 1px solid black;">/api/v1/groups/groupId/members</td>
-    <td style="border: 1px solid black;"><img src="images/swagger_Expenses.png" alt="Swagger Group Members"></td>
+    <td style="border: 1px solid black;"><img src="images/swaggerFinal/member.png" alt="Swagger Group Members"></td>
   </tr>
 </table>
 
@@ -5194,26 +5211,34 @@ evitando así eliminaciones accidentales
 <p align="justify">Se puede ver en el siguiente Link</p>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EYYdJTAyb9hJkt0bJfaZAv0BNjhrDg0hcKGkH_Towr85oQ?e=biP4J2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
 
-## Avance de Conclusiones, Bibliografía y Anexos
+## Conclusiones, Bibliografía y Anexos
 
 ### Conclusiones
 
-<p align="justify">La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.</p>
+<p align="justify">- La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.</p>
 
-<p align="justify">El equipo ha trabajado en el desarrollo de la aplicación, con contribuciones en el código de GitHub y el uso de herramientas como Visual Studio, HTML, y CSS. Se ha seguido la metodología GitFlow para el control del flujo de trabajo y la colaboración efectiva.</p>
+<p align="justify">- El equipo ha trabajado en el desarrollo de la aplicación, con contribuciones en el código de GitHub y el uso de herramientas como Visual Studio, HTML, y CSS. Se ha seguido la metodología GitFlow para el control del flujo de trabajo y la colaboración efectiva.</p>
 
-<p align="justify">Las entrevistas de validación y las preguntas diseñadas sugieren que el equipo está enfocado en la mejora continua y en la satisfacción del usuario. Esto es una práctica positiva para el desarrollo ágil.</p>
+<p align="justify">- Las entrevistas de validación y las preguntas diseñadas sugieren que el equipo está enfocado en la mejora continua y en la satisfacción del usuario. Esto es una práctica positiva para el desarrollo ágil.</p>
 
-<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de PocketPartners. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
+<p align="justify">- Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de PocketPartners. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
 
-<p align="justify">Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos Vercel para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.</p>
+<p align="justify">- Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos Vercel para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.</p>
 
 <p align="justify">
-Para el Spring número 3, el equipo concentró todos los recursos para completar algunos endpoints que podrían ser utilizados en la parte del frontend. Asimismo, se distribuyeron las tareas para mejorar el informe y algunas otras del sprint número 2, enfocándose específicamente en el frontend. Además, como parte de este sprint, se inició la integración de los endpoints desarrollados en la parte de backend con el frontend. Este enfoque nos permitió avanzar en la unificación del sistema, asegurando que las nuevas funcionalidades fueran accesibles y funcionales desde la interfaz de usuario. Asimismo, se establecieron reuniones periódicas para garantizar la coherencia y la calidad del trabajo entregado en cada fase del desarrollo.
+- Para el Spring número 3, el equipo concentró todos los recursos para completar algunos endpoints que podrían ser utilizados en la parte del frontend. Asimismo, se distribuyeron las tareas para mejorar el informe y algunas otras del sprint número 2, enfocándose específicamente en el frontend. Además, como parte de este sprint, se inició la integración de los endpoints desarrollados en la parte de backend con el frontend. Este enfoque nos permitió avanzar en la unificación del sistema, asegurando que las nuevas funcionalidades fueran accesibles y funcionales desde la interfaz de usuario. Asimismo, se establecieron reuniones periódicas para garantizar la coherencia y la calidad del trabajo entregado en cada fase del desarrollo.
 </p>
 <p align="justify">
-Para completar este sprint nos apoyamos en recursos y herramientas tales como IntelliJ IDEA Ultimate, Postman, Swagger, y OpenAPI, DataGrip y MySql. Estas herramientas nos permitieron modelar las clases y endpoints, desarrollar y acceder a los endpoints necesarios, y realizar la integración del backend con el frontend. Además, se utilizaron herramientas de documentación y colaboración como Swagger y OpenAPI para garantizar la coherencia y la calidad del trabajo entregado. Asimismo, se planeo la integración de pruebas unitarias y a features.
+- Para completar este sprint 3 nos apoyamos en recursos y herramientas tales como IntelliJ IDEA Ultimate, Postman, Swagger, y OpenAPI, DataGrip y MySql. Estas herramientas nos permitieron modelar las clases y endpoints, desarrollar y acceder a los endpoints necesarios, y realizar la integración del backend con el frontend. Además, se utilizaron herramientas de documentación y colaboración como Swagger y OpenAPI para garantizar la coherencia y la calidad del trabajo entregado. Asimismo, se planeo la integración de pruebas unitarias y a features.
 </p>
+<p align="justify">
+- Para el sprint 4, realizamos varios ajustes y mejoras en los formularios de inicio de sesión y registro de una aplicación Angular para hacerlos más atractivos y funcionales. Añadimos imágenes junto a los formularios, centramos enlaces e íconos de redes sociales, y ajustamos el tamaño de los mat-card para evitar desbordamientos. En el formulario de registro, organizamos los campos en dos columnas para reducir su longitud. Estos cambios mejoraron la estética y la usabilidad de los formularios, proporcionando una mejor experiencia de usuario.
+</p>
+<p align="justify">
+- Asimismo para este sprint 4 hemos hecho pruebas unitarias. Las pruebas unitarias son cruciales para garantizar la calidad del software. Al corregirlas y ajustarlas, no solo mejoramos la precisión de nuestras validaciones, sino que también fortalecemos la integridad del sistema. Esto asegura que el código funcione como se espera, facilitando un desarrollo ágil y robusto, con detección temprana de errores y mejorando la confianza en el producto final.
+</p>
+
+<p align="justify">- En el desarrollo de la plataforma PocketPartners, hemos seguido un enfoque meticuloso y colaborativo que ha demostrado ser efectivo para alcanzar nuestros objetivos. Desde el diseño detallado orientado a objetos que ha proporcionado una base sólida para el desarrollo y la implementación del sistema, hasta la integración exitosa de todos los endpoints en el frontend y backend, hemos asegurado una experiencia de usuario coherente y funcional. Además, hemos mejorado significativamente la estética y usabilidad con ajustes en los formularios y la implementación de pruebas unitarias, garantizando la calidad del software y fortaleciendo la confianza en nuestra solución final.</p>
 
 ### Bibliografía
 
@@ -5245,7 +5270,7 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Backend PocketPartners</td>
-        <td><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html">PocketPartners</a></td>
+        <td><a href="https://pocketpartners.azurewebsites.net/swagger-ui/index.html">PocketPartners</a></td>
     </tr>
     <tr>
         <td>Lean UX Canvas</td>
@@ -5253,7 +5278,7 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Landing Page Figma</td>
-        <td><a href="https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1">Link</a></td>
+        <td><a href="https://www.figma.com/file/6T9PCsMZDovaaJKLzoGxuF/PocketPartners-Landing-Page?type=design&node-id=201%3A116&mode=design&t=sIqLYVxz41m2vlgD-1">Figma</a></td>
     </tr>
     <tr>
         <td>Wireframes y Mockups Figma</td>
@@ -5306,6 +5331,6 @@ Para completar este sprint nos apoyamos en recursos y herramientas tales como In
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXcHVYhP5qVBiCimuUfwI30B0gdMevEuBSLLGnE1r226tw?e=FOah3S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EYAIdCuNVrJOgSzZ7bwQ3BgBJcXs-n_R3Zh7v5TTn1XUGQ?e=dAwM3i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 </table>
