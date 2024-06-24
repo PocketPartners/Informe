@@ -3941,7 +3941,7 @@ La entrevistada indica que le resulta fácil utilizar PocketPartners para gestio
 #### Margarita Robles, 32 años
 
 <div align="center">
-  <img src="images/entrevistafinaluser2.JPG"/>
+  <img src="images/entrevistafinaluser2.png"/>
 </div>
 Inicio: Minuto
 
