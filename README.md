@@ -4133,6 +4133,10 @@ evitando así eliminaciones accidentales
 
 <p align="justify">Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos Firebase para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.</p>
 
+<p align="justify">A través de ejemplos interactivos, podemos explorar de manera detallada cómo se comportan y se integran estos componentes en nuestras aplicaciones. Esta guía exhaustiva nos permite aprovechar al máximo gracias a las características que Angular Material ofrece, facilitando el desarrollo de interfaces de usuario robustas y atractivas.</p>
+
+<p align="justify">Elaborar los criterios de aceptación utilizando el lenguaje Gherkin para las historias de usuario asignadas al último sprint es una práctica esencial para validar los diversos escenarios posibles en la interacción entre el usuario y la plataforma. Esta metodología no solo nos permite definir de manera clara y precisa las expectativas de comportamiento de las funcionalidades, sino que también facilita la identificación y eliminación de posibles resultados no deseados.</p>
+
 ### Bibliografía
 
 <p>Dividir gastos con amigos. (n.d.). Splitwise. https://www.splitwise.com/</p>
