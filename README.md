@@ -36,7 +36,7 @@ Grupo: 03
 |      Ramos Carpio, Karen       | U20201E493 |
 | Ventura Allasi, Randel Russell | U201910669 |
 
-Mayo 2024
+Junio 2024
 
 </div>
 
@@ -133,6 +133,8 @@ Mayo 2024
           <li>Carbajal Pozzo, Joaquín Alonso</li>
           <li>Cisneros Tafur, Diego Rafael</li>
           <li>Jarama Peñaloza, Fiorella</li>
+          <li>Ramos Carpio, Karen</li>
+          <li>Ventura Allasi, Randel Russell</li>
         </ul>
       </td>
       <td>
@@ -204,7 +206,7 @@ Mayo 2024
           <li>Cisneros Tafur, Diego Rafael: Implementó todos los endpoints restantes del proyecto, incluyendo el crucial de autenticación.</li>
           <li>Jarama Peñaloza, Fiorella:Se encargó de la redacción completa del informe del sprint 4 y también diseñó las interfaces de usuario para signIn y signUp.</li>
           <li>Ramos Carpio, Karen: - </li>
-          <li>Randel Russell: - </li>
+          <li>Randel Russell: Realizo dos entrevistas y conclusiones del trabajo en general </li>
         </ul>
       </td>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.</p>
@@ -247,7 +249,7 @@ Mayo 2024
           <li>Cisneros Tafur, Diego Rafael: Implementó todos los endpoints restantes del proyecto, incluyendo el crucial de autenticación. Destacó por su capacidad para explicar de manera clara y objetiva los detalles técnicos del desarrollo a diferentes audiencias especializadas en ingeniería.</li>
           <li>Jarama Peñaloza, Fiorella: Redactó integralmente el informe del sprint 4 y diseñó las interfaces de usuario para signIn y signUp. Mostró habilidades efectivas de comunicación oral al presentar resultados técnicos ante audiencias con diferentes niveles de experiencia en el ámbito del proyecto de ingeniería.</li>
           <li>Ramos Carpio, Karen: - </li>
-          <li>Randel Russell: - </li>
+          <li>Randel Russell: Realizo dos entrevistas y conclusiones del trabajo en general </li>
         </ul>
       </td>
       <td><p><strong>TB1</strong></p>
@@ -432,10 +434,14 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
       - [Elizabeth Quispe, 33 años.](#elizabeth-quispe-33-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
-    - [Ely Cortez, 24 años.](#ely-cortez-24-años)
-      - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
+      - [Nadia Lucas, 22 años.](#ely-cortez-22-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
+      - [Ely Cortez, 24 años.](#ely-cortez-24-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
       - [Gonzalo Vargas, 19 años](#gonzalo-vargas-19-años)
-      - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-11)
+      - [Margarita Robles, 32 años](#gonzalo-vargas-32-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-12)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
@@ -4229,7 +4235,7 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
 
 <img align="center" src="images/deploy_pp_5.png" alt="Pocket Partners" width="90%">
 
-<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a>
+<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocketpartners.vercel.app/">PocketPartners</a>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4495,9 +4501,9 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;"rowspan="8">US-26</td>
-    <td style="border: 1px solid black;"rowspan="8">Integracion del backend con el frontend</td>
-    <td style="border: 1px solid black;"rowspan="8">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+    <td style="border: 1px solid black;"rowspan="9">US-26</td>
+    <td style="border: 1px solid black;"rowspan="9">Integracion del backend con el frontend</td>
+    <td style="border: 1px solid black;"rowspan="9">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
     <td style="border: 1px solid black;">TS-01</td>
     <td style="border: 1px solid black;">Conectar el backend con la pantalla de los usuarios</td>
     <td style="border: 1px solid black;">1h</td>
@@ -4554,6 +4560,13 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <td style="border: 1px solid black;">Done</td>
   </tr>
   <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-09</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla New Payment</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquin Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
     <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-04</td>
     <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Authorization</td>
     <td style="border: 1px solid black;" rowspan="3">US-23</td>
@@ -4567,7 +4580,7 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 </td>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">TS-02</td>
-    <td style="border: 1px solid black;">Register roure</td>
+    <td style="border: 1px solid black;">Register route</td>
     <td style="border: 1px solid black;">2h</td>
     <td style="border: 1px solid black;">Joaquin Carbajal</td>
     <td style="border: 1px solid black;">Done</td>
@@ -4843,7 +4856,7 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 
 <img align="center" src="images/deploy_final10.jpg" alt="Pocket Partners" width="90%">
 
-<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a>
+<p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocketpartners.vercel.app/">PocketPartners</a>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -4941,26 +4954,26 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 <br>
 <img align="center" src="images/azure_deploy.png" alt="deploy" width="80%">
 
-<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://fairfinance-pocketpartners-os.happyhill-e56f582f.eastus.azurecontainerapps.io/swagger-ui/index.html">PocketPartners</a>
+<p align = "justify">Puedes ver el backend desplegado aquí:</p><a href="https://pocketpartners.azurewebsites.net/swagger-ui/index.html">PocketPartners</a>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 <p align = "justify">A continuación se presentan capturas de los insights finales del repositorio del informe en Github: </p>
 
-<img align="center" src="" alt="Bars_report_final" width="80%">
+<img align="center" src="images/insightsFinal/informe_bars.png" alt="Bars_report_final" width="80%">
 
-<img align="center" src="" alt="Wave_report_final" width="80%">
+<img align="center" src="images/insightsFinal/informe_wave.png" alt="Wave_report_final" width="80%">
 
 <p align = "justify">De la mimsma manera se presentan capturas de los insights finales del repositorio del Frontend en Github: </p>
 
-<img align="center" src="" alt="Bars_frontend_final" width="80%">
+<img align="center" src="images/insightsFinal/front_bars.png" alt="Bars_frontend_final" width="80%">
 
-<img align="center" src="" alt="Wave_frontend_final" width="80%">
+<img align="center" src="images/insightsFinal/front_wave.png" alt="Wave_frontend_final" width="80%">
 
 <p align = "justify">Finalmente se presentan capturas de los insights finales del repositorio del Backend en Github: </p>
 
-<img align="center" src="" alt="Bars_backend_final" width="80%">
+<img align="center" src="images/insightsFinal/back_bars.png" alt="Bars_backend_final" width="80%">
 
-<img align="center" src="" alt="Wave_backend_final" width="80%">
+<img align="center" src="images/insightsFinal/back_wave.png" alt="Wave_backend_final" width="80%">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -5034,6 +5047,21 @@ En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que
  #### Resumen de la entrevista
 
  En la presente entrevista se meciona la facilidad de uso de la app por parte del usuario. Mencionando que si bien existen puntos de mejora con respecto a la simpliza del diseño, los colores o algunas funcioanlidades extra, la app le resulta muy interesante y merecedora de ser compartida con sus allegados para simplificar algunos de sus procesos e interacciones diarios.
+
+#### Margarita Robles, 32 años
+
+<div align="center">
+  <img src="images/entrevistafinaluser2.png"/>
+</div>
+Inicio: 28:12
+
+Fin: 45:43
+
+##### Resumen de la entrevista
+
+La entrevistada indica que la aplicación le resulta intuitiva, creativa, fácil de usar y acertada en sus propósitos, menciona que PocketPartners tiene buen potencial para gestionar y dividir sus gastos en grupos, también menciona es amigable y de una gama de colores bien diseñados, ademas no encontró problemas en la navegación, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Un detalle a notar es que le gustaría que haya la opción de modificación en el idioma de la aplicación. En conclusión, se encuentra satisfecha con PocketPartners y lo ve recomendable, de buen diseño, buena navegación y, de uso ágil y sencillo.
+<br>
+
 
 ### 5.4.3. Evaluaciones según heurísticas
 
@@ -5209,7 +5237,7 @@ evitando así eliminaciones accidentales
 <img src="images/about_the_product.png" alt="About - The - Product" width="80%">
 
 <p align="justify">Se puede ver en el siguiente Link</p>
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EYYdJTAyb9hJkt0bJfaZAv0BNjhrDg0hcKGkH_Towr85oQ?e=biP4J2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+<a href="">About-The-Product</a></td>
 
 ## Conclusiones, Bibliografía y Anexos
 
@@ -5231,6 +5259,11 @@ evitando así eliminaciones accidentales
 <p align="justify">
 - Para completar este sprint 3 nos apoyamos en recursos y herramientas tales como IntelliJ IDEA Ultimate, Postman, Swagger, y OpenAPI, DataGrip y MySql. Estas herramientas nos permitieron modelar las clases y endpoints, desarrollar y acceder a los endpoints necesarios, y realizar la integración del backend con el frontend. Además, se utilizaron herramientas de documentación y colaboración como Swagger y OpenAPI para garantizar la coherencia y la calidad del trabajo entregado. Asimismo, se planeo la integración de pruebas unitarias y a features.
 </p>
+
+<p align="justify">- A través de ejemplos interactivos, podemos explorar de manera detallada cómo se comportan y se integran estos componentes en nuestras aplicaciones. Esta guía exhaustiva nos permite aprovechar al máximo gracias a las características que Angular Material ofrece, facilitando el desarrollo de interfaces de usuario robustas y atractivas.</p>
+
+<p align="justify">- Elaborar los criterios de aceptación utilizando el lenguaje Gherkin para las historias de usuario asignadas al último sprint es una práctica esencial para validar los diversos escenarios posibles en la interacción entre el usuario y la plataforma. Esta metodología no solo nos permite definir de manera clara y precisa las expectativas de comportamiento de las funcionalidades, sino que también facilita la identificación y eliminación de posibles resultados no deseados.</p>
+
 <p align="justify">
 - Para el sprint 4, realizamos varios ajustes y mejoras en los formularios de inicio de sesión y registro de una aplicación Angular para hacerlos más atractivos y funcionales. Añadimos imágenes junto a los formularios, centramos enlaces e íconos de redes sociales, y ajustamos el tamaño de los mat-card para evitar desbordamientos. En el formulario de registro, organizamos los campos en dos columnas para reducir su longitud. Estos cambios mejoraron la estética y la usabilidad de los formularios, proporcionando una mejor experiencia de usuario.
 </p>
@@ -5239,6 +5272,7 @@ evitando así eliminaciones accidentales
 </p>
 
 <p align="justify">- En el desarrollo de la plataforma PocketPartners, hemos seguido un enfoque meticuloso y colaborativo que ha demostrado ser efectivo para alcanzar nuestros objetivos. Desde el diseño detallado orientado a objetos que ha proporcionado una base sólida para el desarrollo y la implementación del sistema, hasta la integración exitosa de todos los endpoints en el frontend y backend, hemos asegurado una experiencia de usuario coherente y funcional. Además, hemos mejorado significativamente la estética y usabilidad con ajustes en los formularios y la implementación de pruebas unitarias, garantizando la calidad del software y fortaleciendo la confianza en nuestra solución final.</p>
+
 
 ### Bibliografía
 
@@ -5266,7 +5300,7 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Aplicacion PocketPartners</td>
-        <td><a href="https://pocket-partners-frontend.vercel.app/home">PocketPartners</a></td>
+        <td><a href="https://pocketpartners.vercel.app/">PocketPartners</a></td>
     </tr>
     <tr>
         <td>Backend PocketPartners</td>
@@ -5327,7 +5361,7 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a715_upc_edu_pe/EYYdJTAyb9hJkt0bJfaZAv0BNjhrDg0hcKGkH_Towr85oQ?e=biP4J2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+        <td><a href="">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
