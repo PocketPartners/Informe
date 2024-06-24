@@ -3938,6 +3938,19 @@ Fin: Minuto
 La entrevistada indica que le resulta fácil utilizar PocketPartners para gestionar y dividir sus gastos, por otro lado menciona que la aplicacion es intuitiva y es amigable, ademas no encuentra problemas al gestionar varios grupos, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Le gustaria agregar funcionalidad adicional para efectuar los pagos por la misma aplicacion y no tener que consultar otra.En general se encuentra satisfecha con PocketPartners y si recomendaria nuestra aplicación a sus amigos o familiares.
 <br>
 
+#### Margarita Robles, 32 años
+
+<div align="center">
+  <img src="images/entrevistafinaluser2.JPG"/>
+</div>
+Inicio: Minuto
+
+Fin: Minuto
+
+##### Resumen de la entrevista
+
+La entrevistada indica que la aplicación le resulta intuitiva, creativa, fácil de usar y acertada en sus propósitos, menciona que PocketPartners tiene buen potencial para gestionar y dividir sus gastos en grupos, también menciona es amigable y de una gama de colores bien diseñados, ademas no encontró problemas en la navegación, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Un detalle a notar es que le gustaría que haya la opción de modificación en el idioma de la aplicación. En conclusión, se encuentra satisfecha con PocketPartners y lo ve recomendable, de buen diseño, buena navegación y, de uso ágil y sencillo.
+<br>
 ### 5.3.3. Evaluaciones según heurísticas
 
 <p>SITE o APP A EVALUAR:</p>
