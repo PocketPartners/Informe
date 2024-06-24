@@ -133,7 +133,6 @@ Junio 2024
           <li>Carbajal Pozzo, Joaquín Alonso</li>
           <li>Cisneros Tafur, Diego Rafael</li>
           <li>Jarama Peñaloza, Fiorella</li>
-          <li>Ramos Carpio, Karen</li>
           <li>Ventura Allasi, Randel Russell</li>
         </ul>
       </td>
@@ -444,7 +443,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
         - [Resumen de la entrevista](#resumen-de-la-entrevista-12)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-  - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
+  - [Conclusiones, Bibliografía y Anexos](#conclusiones-bibliografía-y-anexos)
     - [Conclusiones](#conclusiones)
     - [Bibliografía](#bibliografía)
     - [Anexos](#anexos)
