@@ -4995,7 +4995,7 @@ Link de las entrevistas:
 #### Elizabeth Quispe, 33 años.
 
  <div align="center">
-  <img src="images/entrevistafinaluser1.JPG"/>
+  <img src="images/entrevistafinalelizabeth.jpg"/>
  </div>
 
 Inicio: 23:01
@@ -5050,7 +5050,7 @@ En la entreviste el usuario le gusto la interfaz grafico, asimismo, enfatizo que
 #### Margarita Robles, 32 años
 
 <div align="center">
-  <img src="images/entrevistafinaluser2.png"/>
+  <img src="images/entrevistaRandel.png"/>
 </div>
 Inicio: 28:12
 
@@ -5370,7 +5370,7 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Entrevistas - Capitulo V</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EbCXuXFKDaNPmzwV8jpcaTsBEEsqEjBn8OObE-PYSEKj1w?e=1IVsB4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
     </tr>
     <tr>
         <td>Video About-The-Product</td>
