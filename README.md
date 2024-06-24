@@ -4991,7 +4991,7 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 ### 5.3.2. Registro de Entrevistas
 
 Link de las entrevistas:
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevistas</a></td>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EbCXuXFKDaNPmzwV8jpcaTsBEEsqEjBn8OObE-PYSEKj1w?e=HWUbb1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevistas</a></td>
 
 #### Elizabeth Quispe, 33 años.
 
@@ -5061,6 +5061,20 @@ Fin: 45:43
 
 La entrevistada indica que la aplicación le resulta intuitiva, creativa, fácil de usar y acertada en sus propósitos, menciona que PocketPartners tiene buen potencial para gestionar y dividir sus gastos en grupos, también menciona es amigable y de una gama de colores bien diseñados, ademas no encontró problemas en la navegación, le parece útil la funcionalidad de registrar si un pago ha sido realizado. Le resulta claro el sistema de pagos entrantes y salientes. Un detalle a notar es que le gustaría que haya la opción de modificación en el idioma de la aplicación. En conclusión, se encuentra satisfecha con PocketPartners y lo ve recomendable, de buen diseño, buena navegación y, de uso ágil y sencillo.
 <br>
+
+#### Anthony Poma, 22 años
+
+<div align="center">
+  <img src="images/entrevistafinalAntony.png"/>
+</div>
+Inicio: 45:44
+
+Fin: 1:12:00
+##### Resumen de la entrevista
+
+El entrevistado indica que le resulta muy atractiva la aplicación desde el ingreso por medio de la landing page, en un inicio mencionó que es una aplicación muy útil para muchas personas por su flexibilidad de uso, los grupos de personas para el registro de gastos, y los resultados en el gráfico estadístico. Menciona atractiva por la gama de colores y la distribuición de la información en la landing page, le gusta la sencillez de la aplicación web pero dentro de los puntos a añadir, le gustaría poder tener un gráfico estadístico adicional que resuma los tipos de gasto de él mismo según su tipo, como también la paginación dentro de los gastos compartidos y que el botón de agregar gasto se mantenga así se siga descubriendo otras secciones de la aplicación web.
+<br>
+
 
 
 ### 5.4.3. Evaluaciones según heurísticas
@@ -5237,7 +5251,7 @@ evitando así eliminaciones accidentales
 <img src="images/about_the_product.png" alt="About - The - Product" width="80%">
 
 <p align="justify">Se puede ver en el siguiente Link</p>
-<a href="">About-The-Product</a></td>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpgTG5rEvRHvVYsiJN_nAIB0Pwe8bnRNNahgUKauOhhig?e=v2ftTK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
 
 ## Conclusiones, Bibliografía y Anexos
 
@@ -5349,7 +5363,7 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Video TF</td>
-        <td><a href="">TF</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUOLrfq-bk1Kr7U-FzVsqSkBqU-CTmq1a3_ziJIJ-JXxQw?e=QMfB7v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">TF</a></td>
     </tr>
     <tr>
         <td>Entrevistas - Capitulo II</td>
@@ -5357,11 +5371,11 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Entrevistas - Capitulo V</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpRGWYozQpErdoOh5SfvFQBo6VYklpUFrOjq1nsIkS7Jw?e=XcVIcN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a></td>
+        <td><a href="">Link</a></td>
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="">About-The-Product</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpgTG5rEvRHvVYsiJN_nAIB0Pwe8bnRNNahgUKauOhhig?e=YdnZaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
