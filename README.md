@@ -5247,7 +5247,7 @@ evitando así eliminaciones accidentales
 
 <p align="justify">A continuación se presenta nuestro video acerca del producto</p>
 
-<img src="images/about_the_product.png" alt="About - The - Product" width="80%">
+<img src="images/product/about.png" alt="About - The - Product" width="80%">
 
 <p align="justify">Se puede ver en el siguiente Link</p>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpgTG5rEvRHvVYsiJN_nAIB0Pwe8bnRNNahgUKauOhhig?e=v2ftTK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
