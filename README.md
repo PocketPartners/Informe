@@ -5304,6 +5304,9 @@ evitando así eliminaciones accidentales
 <p>Tricount - Organiza tus gastos en groupo. (n.d.). Tricount.com. https://www.tricount.com/es/hacer-cuentas-entre-amigos</p>
 <p>Expansión. (2023, June 13). Cuentas claras, amistades largas: apps para dividir gastos. Expansión. https://expansion.mx/tecnologia/2023/06/13/apps-para-dividir-gastos</p>
 <p>Cronista, E. (2023, September 4). Esta app gratuita es ideal para llevar las cuentas en común y tenés que probarla. ECC. https://www.cronista.com/infotechnology/actualidad/esta-app-gratuita-es-ideal-para-llevar-las-cuentas-en-comun-y-tenes-que-probarla/</p>
+<p>Angular Team. (2021). Angular: La guía completa.</p>
+<p>Ballantine, B. (2020). Angular in Action. Manning Publications.</p>
+<p>Freeman, A. (2018). Pro Angular 6. Apress Media.</p>
 
 ### Anexos
 
