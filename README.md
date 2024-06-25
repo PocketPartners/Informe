@@ -127,7 +127,7 @@ Junio 2024
   </tr>
   <tr> 
   <td><strong>TF</strong></td>
-      <td>Lunes 17 de Junio</td>
+      <td>Martes 25 de Junio</td>
       <td>
         <ul>
           <li>Carbajal Pozzo, Joaquín Alonso</li>
@@ -277,7 +277,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
   - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [**Registro de Versiones**](#registro-de-versiones)
 - [**Student Outcomes**](#student-outcomes)
-- [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
+- [**Project Report Online**](#project-report-online)
 - [**Tabla de Contenido**](#tabla-de-contenido)
 - [Capítulo I Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -427,21 +427,23 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
       - [Elizabeth Quispe, 33 años.](#elizabeth-quispe-33-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
-      - [Nadia Lucas, 22 años.](#ely-cortez-22-años)
+      - [Nadia Lucas, 22 años.](#nadia-lucas-22-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
-      - [Ely Cortez, 24 años.](#ely-cortez-24-años)
-        - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
+    - [Ely Cortez, 24 años.](#ely-cortez-24-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
       - [Gonzalo Vargas, 19 años](#gonzalo-vargas-19-años)
-        - [Resumen de la entrevista](#resumen-de-la-entrevista-11)
-      - [Margarita Robles, 32 años](#gonzalo-vargas-32-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-11)
+      - [Margarita Robles, 32 años](#margarita-robles-32-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-12)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+      - [Anthony Poma, 22 años](#anthony-poma-22-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-13)
+    - [5.4.3. Evaluaciones según heurísticas](#543-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones, Bibliografía y Anexos](#conclusiones-bibliografía-y-anexos)
     - [Conclusiones](#conclusiones)
@@ -1255,13 +1257,13 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-01</b></td>
         <td style="text-align: center; border: 1px solid black;" align="center">Landing Page - Home</td>
         <td style="border: 1px solid black;" align="justify">
-          Como usuario, deseo encontrar una página de inicio atractiva y bien diseñada al ingresar al sitio web de la empresa, para obtener una impresión positiva de la misma desde el primer momento.
+          Como usuario, quiero encontrar una página de inicio atractiva y bien diseñada al ingresar al sitio web de la empresa, para obtener una impresión positiva de la misma desde el primer momento.
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Seccion Home</b> <br>
-          <b>Dado que:</b> soy un usuario habitual de la aplicación PocketPartners y deseo acceder a mi información financiera de manera rápida y conveniente<br>
-            <b>Cuando:</b>  ingreso a la sección "Home" desde el Landing Page<br>
-            <b>Entonces:</b> se me muestra una imagen resumen y un Hero atractivo, ademas de una barra de navegación.
+          <b>Dado que:</b> un usuario habitual de la aplicación PocketPartners desea poder observar de que va<br>
+            <b>Cuando:</b> ingresa a la sección "Home" desde el Landing Page<br>
+            <b>Entonces:</b> se muestra una imagen resumen y un Hero atractivo, ademas de una barra de navegación.
             <br>
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
@@ -1275,11 +1277,11 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Descubriendo los Servicios en el Landing Page <br>
-            <b>Dado que</b> soy un potencial usuario interesado en las funcionalidades del aplicativo PocketPartners. <br>
-            <b>Cuando</b> ingreso al Landing Page de la aplicación. <br>
-            <b>Entonces</b> deseo encontrar una sección claramente identificada que me informe sobre los servicios que ofrece la aplicación. <br>
-            <b>Y</b>, espero encontrar una descripción concisa y atractiva de las características y beneficios principales que ofrece la aplicación. <br>
-            <b>Y</b>, esta sección debe proporcionarme una visión general de cómo el aplicativo puede ayudarme en la gestión de mis finanzas y en la colaboración con otros usuarios.
+            <b>Dado que</b> un potencial usuario interesado en las funcionalidades del aplicativo PocketPartners. <br>
+            <b>Cuando</b> ingresa al Landing Page de la aplicación. <br>
+            <b>Entonces</b> desea encontrar una sección claramente identificada que informe sobre los servicios que ofrece la aplicación. <br>
+            <b>Y</b>, encuentra una descripción concisa y atractiva de las características y beneficios principales que ofrece la aplicación. <br>
+            <b>Y</b>, esta sección proporciona una visión general de cómo el aplicativo ayudaria en la gestión de las finanzas y en la colaboración con otros usuarios.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
       </tr>
@@ -1292,11 +1294,11 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Visualizando el Video sobre el Producto en el Landing Page <br>
-            <b>Dado que</b> soy un visitante interesado en conocer más sobre el producto PocketPartners. <br>
-            <b>Cuando</b> accedo al Landing Page de la aplicación. <br>
-            <b>Entonces</b> espero encontrar una sección dedicada que contenga un video explicativo sobre el producto. <br>
-            <b>Y</b>, quiero que este video me proporcione información relevante y atractiva sobre las características clave, el funcionamiento y los beneficios de utilizar PocketPartners. <br>
-            <b>Y</b>, deseo que el video esté bien presentado y sea fácil de reproducir, lo que me permitirá obtener una comprensión clara y rápida de lo que ofrece el producto.
+            <b>Dado que</b> un usuario esta interesado en conocer más sobre el producto PocketPartners. <br>
+            <b>Cuando</b> accede al Landing Page de la aplicación. <br>
+            <b>Entonces</b> encuentra una sección dedicada que contenga un video explicativo sobre el producto. <br>
+            <b>Y</b>, observa que este video proporciona información relevante y atractiva sobre las características clave, el funcionamiento y los beneficios de utilizar PocketPartners. <br>
+            <b>Y</b>, se da cuenta que el video esta bien presentado y sea fácil de reproducir, lo cual permitirá obtener una comprensión clara y rápida de lo que ofrece el producto.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
       </tr>
@@ -1309,10 +1311,10 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Leyendo Reseñas en la Sección de Reseñas del Landing Page <br>
-            <b>Dado que</b> soy un usuario interesado en la aplicación PocketPartners y quiero tener una idea de las experiencias de otros usuarios. <br>
-            <b>Cuando</b> visito la sección de "Reseñas" en el Landing Page. <br>
-            <b>Entonces</b> espero encontrar testimonios y opiniones de usuarios que ya han utilizado la aplicación. <br>
-            <b>Y</b>, deseo que estas reseñas sean variadas, incluyendo opiniones positivas y constructivas, para tener una visión equilibrada del producto. <br>
+            <b>Dado que</b> un usuario interesado en la aplicación PocketPartners y quiere tener una idea de las experiencias de otros usuarios. <br>
+            <b>Cuando</b> visita la sección de "Reseñas" en el Landing Page. <br>
+            <b>Entonces</b> encuentra testimonios y opiniones de usuarios que ya han utilizado la aplicación. <br>
+            <b>Y</b>, observa que estas reseñas sean variadas, incluyendo opiniones positivas y constructivas, para tener una visión equilibrada del producto. <br>
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
       </tr>
@@ -1324,12 +1326,12 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           Como usuario, quiero observar una seccion donde halla un apoyo visual y un formulario para registarse.
         </td>
         <td style="border: 1px solid black;" align="justify">
-           <b>Escenario:</b> Registrándome en la Sección de Registro del Landing Page <br>
-            <b>Dado que</b> soy un usuario nuevo interesado en utilizar la aplicación PocketPartners. <br>
-            <b>Cuando</b> visito la sección de "Registro" en el Landing Page. <br>
-            <b>Entonces</b> espero encontrar un formulario claro y sencillo que me permita crear una cuenta nueva. <br>
-            <b>Y</b>, deseo que la sección incluya elementos visuales que me guíen durante el proceso de registro, como iconos intuitivos o ejemplos de información a proporcionar. <br>
-            <b>Y</b>, busco un proceso de registro rápido y sin complicaciones, con la opción de recibir confirmación de registro por correo electrónico para garantizar la seguridad de mi cuenta.
+           <b>Escenario:</b> Registrándose en la Sección de Registro del Landing Page<br>
+            <b>Dado que</b> es un usuario nuevo interesado en utilizar la aplicación PocketPartners.<br>
+            <b>Cuando</b> visita la sección de "Registro" en el Landing Page.<br>
+            <b>Entonces</b> espera encontrar un formulario claro y sencillo que le permita crear una cuenta nueva.<br>
+            <b>Y,</b> desea que la sección incluya elementos visuales que le guíen durante el proceso de registro, como iconos intuitivos o ejemplos de información a proporcionar. <br>
+            <b>Y</b>, busca un proceso de registro rápido y sin complicaciones, con la opción de recibir confirmación de registro por correo electrónico para garantizar la seguridad de su cuenta.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
       </tr>
@@ -1342,10 +1344,10 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Consultando los Contactos de la Sección "Footer" del Landing Page <br>
-            <b>Dado que</b> soy un usuario interesado en obtener más información sobre la empresa detrás de la aplicación PocketPartners. <br>
-            <b>Cuando</b> llego al final del Landing Page y observo la sección "Footer". <br>
-            <b>Entonces</b> espero encontrar los contactos de la empresa, como un número telefónico de contacto o enlaces a sus redes sociales. <br>
-            <b>Y</b>, deseo que esta sección sea fácilmente accesible y visible, preferiblemente ubicada en la parte inferior de la página para una navegación conveniente. <br>
+            <b>Dado que</b> es un usuario interesado en obtener más información sobre la empresa detrás de la aplicación PocketPartners.<br>
+            <b>Cuando</b> llega al final del Landing Page y observa la sección "Footer".<br>
+            <b>Entonces</b> espera encontrar los contactos de la empresa, como un número telefónico de contacto o enlaces a sus redes sociales.<br>
+            <b>Y</b>,  desea que esta sección sea fácilmente accesible y visible, preferiblemente ubicada en la parte inferior de la página para una navegación conveniente.<br>
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
       </tr>
@@ -1358,15 +1360,15 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Éxito al Crear un Nuevo Grupo</b> <br>
-          <b>Dado que:</b> Soy un usuario de PocketPartners que desea mantenerse al tanto de las actualizaciones en mis finanzas compartidas.
+          <b>Dado que:</b> es un usuario de PocketPartners que desea mantenerse al tanto de las actualizaciones en sus finanzas compartidas.
             <br>
-            <b>Cuando:</b> Accedo a la opción de crear un nuevo grupo desde la aplicación.
+            <b>Cuando</b> accede a la opción de crear un nuevo grupo desde la aplicación.
             <br>
-            <b>Entonces:</b> Se me presenta un formulario para ingresar los detalles del nuevo grupo, como nombre, descripción y participantes.
+            <b>Entonces</b> se le presenta un formulario para ingresar los detalles del nuevo grupo, como nombre, descripción y participantes.
             <br>
-            <b>Entonces:</b> Ingreso la información requerida y confirmo la creación del grupo.
+            <b>Entonces</b> ingresa la información requerida y confirma la creación del grupo.
             <br>
-            <b>Y:</b> El nuevo grupo se crea con éxito y puedo comenzar a utilizarlo para mantenerme al tanto de las actualizaciones en mis finanzas compartidas.
+            <b>Y</b> el nuevo grupo se crea con éxito y puede comenzar a utilizarlo para mantenerse al tanto de las actualizaciones en sus finanzas compartidas.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
@@ -1393,15 +1395,16 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           Como usuario, quiero poder observar los detalles de los grupo, cuanto me deben en total y por gasto para poder llevar una cuenta mas detalla de cada grupo y mis finanzas.
         </td>
         <td style="border: 1px solid black;" align="justify">
-          <b>Dado que:</b> Soy un usuario de PocketPartners interesado en observar los detalles de un grupo en particular.
+          <b>Escenario 1: </b> Consultando los Detalles de un Grupo en PocketPartners
           <br>
-            <b>Cuando:</b> Accedo a la sección de detalles del grupo desde la aplicación.
+            <b>Dado que</b> es un usuario de PocketPartners interesado en observar los detalles de un grupo en particular.
+            <b>Cuando</b> accede a la sección de detalles del grupo desde la aplicación.
             <br>
-            <b>Entonces:</b> Se me presenta una lista con todos los gastos realizados por el grupo, junto con la información de quién realizó el gasto, la cantidad gastada y la fecha.
+            <b>Entonces</b> se le presenta una lista con todos los gastos realizados por el grupo, junto con la información de quién realizó el gasto, la cantidad gastada y la fecha.
             <br>
-            <b>Entonces:</b> También puedo ver el saldo total del grupo, que muestra cuánto dinero se debe en total y quién debe cuánto.
+            <b>Entonces</b> también puede ver el saldo total del grupo, que muestra cuánto dinero se debe en total y quién debe cuánto.
             <br>
-            <b>Y:</b> Utilizo esta información para llevar un registro detallado de los gastos del grupo y mis finanzas relacionadas con él, lo que me permite una mejor gestión de mis recursos económicos.
+            <b>Y</b> utiliza esta información para llevar un registro detallado de los gastos del grupo y sus finanzas relacionadas con él, lo que le permite una mejor gestión de sus recursos económicos.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
@@ -1551,9 +1554,9 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Line Chart</b> <br>
-          <b>Dado que</b> Soy un usuario de la aplicación PocketPartners que desea tener una visión gráfica de mis finanzas mensuales<br>
-          <b>Cuando</b> ingreso a la sección "Home" de la aplicación PocketPartners.<br>
-          <b>Entonces</b> observo un gráfico que muestra mis gastos mensuales de manera clara y comprensible.<br><br>
+          <b>Dado que</b> es un usuario de la aplicación PocketPartners que desea tener una visión gráfica de sus finanzas mensuales<br>
+          <b>Cuando</b>ingresa a la sección "Home" de la aplicación PocketPartners<br>
+          <b>Entonces</b>observa un gráfico que muestra sus gastos mensuales de manera clara y comprensible<br><br>
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
@@ -1566,16 +1569,16 @@ Visualización y comprensión el estado actual del proceso de la determinación 
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Agregar un Nuevo Gasto por Grupo</b> <br>
-          <b>Dado que</b> Soy un usuario de la aplicación y deseo registrar un nuevo gasto por grupo. <br>
-          <b>Cuando</b> acceda a la sección "Nuevo Gasto" en la aplicación. <br>
-          <b>Entonces</b> veo un formulario donde puedo ingresar los detalles del gasto, incluido el monto, la fecha y el grupo al que pertenece.<br><br>
-          <b>Y</b> Después de completar el formulario, el nuevo gasto se registra correctamente en la aplicación y se muestra en la sección correspondiente del grupo especificado.<br><br>
+          <b>Dado que</b> es un usuario de la aplicación y desea registrar un nuevo gasto por grupo. <br>
+          <b>Cuando</b> accede a la sección "Nuevo Gasto" en la aplicación. <br>
+          <b>Entonces</b> ve un formulario donde puede ingresar los detalles del gasto, incluido el monto, la fecha y el grupo al que pertenece.<br><br>
+          <b>Y</b> después de completar el formulario, el nuevo gasto se registra correctamente en la aplicación y se muestra en la sección correspondiente del grupo especificado.<br><br>
           <b>Escenario 2: Escenario de Error: Agregar Nuevo Gasto por Grupo</b> <br>
-          <b>Dado que</b> soy un usuario de la aplicación y deseo registrar un nuevo gasto por grupo. <br>
-          <b>Cuando</b> intento agregar un nuevo gasto sin completar todos los campos obligatorios en el formulario. <br>
-          <b>Entonces</b> recibo un mensaje de error indicando que algunos campos son obligatorios y debo completarlos antes de continuar.<br>
-          <b>Y</b> los campos obligatorios se resaltan para que pueda identificar fácilmente qué información falta <br>
-          <b>Y</b> una vez que completo todos los campos requeridos y vuelvo a enviar el formulario, el nuevo gasto se registra correctamente en la aplicación y se muestra en la sección correspondiente del grupo especificado. <br>
+          <b>Dado que</b> es un usuario de la aplicación y desea registrar un nuevo gasto por grupo. <br>
+          <b>Cuando</b> intenta agregar un nuevo gasto sin completar todos los campos obligatorios en el formulario. <br>
+          <b>Entonces</b> recibe un mensaje de error indicando que algunos campos son obligatorios y debe completarlos antes de continuar.<br>
+          <b>Y</b> los campos obligatorios se resaltan para que pueda identificar fácilmente qué información falta.<br>
+          <b>Y</b> una vez que completa todos los campos requeridos y vuelve a enviar el formulario, el nuevo gasto se registra correctamente en la aplicación y se muestra en la sección correspondiente del grupo especificado.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
@@ -1587,22 +1590,23 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           Como usuario, quiero poder descartar contactos de una dividion de gasto para poder gestionar mis finanzas compartidas de manera mas sencilla.
         </td>
         <td style="border: 1px solid black;" align="justify">
-          <b>Escenario 1: Éxito al Descartar Contacto de la División</b>
-            <b>Dado que:</b> Soy un usuario que desea gestionar mis finanzas compartidas de manera más sencilla. <br>
-            <b>Cuando:</b> Accedo a la sección de división de gastos de la aplicación. <br>
-            <b>Y:</b> Selecciono la opción para descartar un contacto de la división de gastos. <br>
-            <b>Entonces:</b> Se me presenta una lista de contactos asociados con la división de gastos. <br>
-            <b>Y:</b> Selecciono el contacto que deseo descartar. <br>
-            <b>Entonces:</b> El contacto seleccionado es eliminado de la división de gastos con éxito. <br>
-            <b>Y:</b> Recibo una confirmación visual de que el contacto ha sido descartado. <br>
-            <b>Y:</b> Puedo verificar que el contacto ya no aparece en la lista de participantes de la división de gastos, lo que me permite gestionar mis finanzas compartidas de manera más eficiente.<br>
+          <b>Escenario 1: Éxito al Descartar Contacto de la División</b> <br>
+          <b>Dado que</b> es un usuario que desea gestionar sus finanzas compartidas de manera más sencilla. <br>
+          <b>Cuando:</b> accede a la sección de división de gastos de la aplicación. <br>
+          <b>Y</b> selecciona la opción para descartar un contacto de la división de gastos. <br>
+          <b>Entonces</b> se le presenta una lista de contactos asociados con la división de gastos. <br>
+          <b>Y</b> selecciona el contacto que desea descartar. <br>
+          <b>Entonces</b> el contacto seleccionado es eliminado de la división de gastos con éxito. <br>
+          <b>Y</b> recibe una confirmación visual de que el contacto ha sido descartado. <br>
+          <b>Y</b> puede verificar que el contacto ya no aparece en la lista de participantes de la división de gastos, lo que le permite gestionar sus finanzas compartidas de manera más eficiente. <br><br>
           <b>Escenario 2: Error al Descartar Contacto de la División</b>
-            <b>Dado que:</b> Estoy intentando gestionar mis finanzas compartidas y descartar un contacto de la división de gastos. <br>
-            <b>Cuando:</b> Selecciono la opción para eliminar un contacto de la división. <br>
-            <b>Y:</b> Intento eliminar un contacto que aún tiene transacciones pendientes asociadas. <br>
-            <b>Entonces:</b> Se me muestra un mensaje de error indicando que no puedo descartar el contacto seleccionado debido a transacciones pendientes. <br>
-            <b>Y:</b> Se resaltan las transacciones pendientes asociadas al contacto para que pueda revisarlas y completarlas si es necesario. <br>
-            <b>Y:</b> Debo resolver las transacciones pendientes antes de intentar descartar nuevamente el contacto de la división de gastos, garantizando así la integridad de mis registros financieros compartidos.
+           <b>Escenario 2: Error al Descartar Contacto de la División</b> <br>
+            <b>Dado que</b> está intentando gestionar sus finanzas compartidas y descartar un contacto de la división de gastos. <br>
+            <b>Cuando:</b> selecciona la opción para eliminar un contacto de la división. <br>
+            <b>Y</b> intenta eliminar un contacto que aún tiene transacciones pendientes asociadas. <br>
+            <b>Entonces:</b> se le muestra un mensaje de error indicando que no puede descartar el contacto seleccionado debido a transacciones pendientes. <br>
+            <b>Y</b> se resaltan las transacciones pendientes asociadas al contacto para que pueda revisarlas y completarlas si es necesario. <br>
+            <b>Y</b> debe resolver las transacciones pendientes antes de intentar descartar nuevamente el contacto de la división de gastos, garantizando así la integridad de sus registros financieros compartidos.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
       </tr>
@@ -1615,12 +1619,12 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario: Éxito al Visualizar el Gráfico de Pie</b>
-            <b>Dado que:</b> Soy un usuario que desea analizar el progreso de los pagos restantes. <br>
-            <b>Cuando:</b> Accedo a la sección de análisis de pagos de la aplicación. <br>
-            <b>Y:</b> Selecciono la opción para visualizar un gráfico de pie. <br>
-            <b>Entonces:</b> Se me presenta un gráfico de pie que muestra el avance de los pagos realizados en comparación con los pagos totales. <br>
-            <b>Y:</b> Puedo interpretar fácilmente la distribución de los pagos restantes a través del gráfico. <br>
-            <b>Y:</b> Utilizo esta información para entender mejor mi situación financiera y planificar futuros pagos de manera más efectiva.
+             <b>Dado que</b> es un usuario que desea analizar el progreso de los pagos restantes. <br>
+              <b>Cuando</b> accede a la sección de análisis de pagos de la aplicación. <br>
+              <b>Y</b> selecciona la opción para visualizar un gráfico de pie. <br>
+              <b>Entonces</b> se le presenta un gráfico de pie que muestra el avance de los pagos realizados en comparación con los pagos totales. <br>
+              <b>Y</b> puede interpretar fácilmente la distribución de los pagos restantes a través del gráfico. <br>
+              <b>Y</b> utiliza esta información para entender mejor su situación financiera y planificar futuros pagos de manera más efectiva.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
         </tr>
@@ -1633,13 +1637,13 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario 1: Éxito al Añadir un Nuevo Contacto</b>
-            <b>Dado que:</b> Soy un usuario que desea crear un nuevo grupo en la aplicación. <br>
-            <b>Cuando:</b> Accedo a la sección de gestión de contactos. <br>
-            <b>Y:</b> Selecciono la opción para añadir un nuevo contacto. <br>
-            <b>Entonces:</b> Se me presenta un formulario para ingresar la información del nuevo contacto, como nombre, dirección de correo electrónico, etc. <br>
-            <b>Y:</b> Completo el formulario con la información del nuevo contacto. <br>
-            <b>Entonces:</b> El contacto es añadido con éxito a mi lista de contactos. <br>
-            <b>Y:</b> Puedo seleccionar este nuevo contacto cuando llegue a crear un nuevo grupo, facilitando así la gestión de mis grupos y contactos en la aplicación.
+            <b>Dado que:</b> es un usuario que desea añadir un nuevo contacto en la aplicación. <br>
+            <b>Cuando:</b> accede a la sección de gestión de contactos. <br>
+            <b>Y:</b> selecciona la opción para añadir un nuevo contacto. <br>
+            <b>Entonces:</b> se le presenta un formulario para ingresar la información del nuevo contacto, como nombre, dirección de correo electrónico, etc. <br>
+            <b>Y:</b> completa el formulario con la información del nuevo contacto. <br>
+            <b>Entonces:</b> el contacto es añadido con éxito a su lista de contactos. <br>
+            <b>Y:</b> puede seleccionar este nuevo contacto cuando cree un nuevo grupo, facilitando así la gestión de sus grupos y contactos en la aplicación.
             <b>Escenario 2: Error al Añadir un Nuevo Contacto</b>
             <b>Dado que:</b> Estoy intentando añadir un nuevo contacto a mi lista. <br>
             <b>Cuando:</b> Ingreso la información del nuevo contacto en el formulario correspondiente. <br>
@@ -1680,10 +1684,10 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario 1: </b> <br>
-            <b>Dado que</b> soy un usuario registrado de PocketPartners <br>
-            <b>Cuando</b> halla ingresado mis datos y haga clic en el botón "Iniciar sesión"<br>
-            <b>Entonces</b> la aplicación debería validar mis datos y otorgarme acceso a mi cuenta<br>
-            <b>Y</b> debería ser redirigido a la seccion "Home" de mi cuenta.
+            <b>Dado que</b> es un usuario registrado de PocketPartners <br>
+            <b>Cuando</b> ingresa sus datos y hace clic en el botón "Iniciar sesión"<br>
+            <b>Entonces</b> la aplicación debería validar sus datos y otorgarle acceso a su cuenta<br>
+            <b>Y</b> debería ser redirigido a la sección "Home" de su cuenta.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP04</td>
         </tr>
@@ -1696,11 +1700,11 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario: Éxito al Cerrar Sesión en la Aplicación</b> <br>
-            <b>Dado que:</b> Soy un usuario de la aplicación y deseo proteger mi privacidad y datos personales. <br>
-            <b>Cuando:</b> He terminado de utilizar la aplicación y deseo cerrar mi sesión. <br>
-            <b>Entonces:</b> Busco y selecciono la opción de "Cerrar sesión" en la interfaz de la aplicación. <br>
-            <b>Entonces:</b> Se me redirige a una pantalla de confirmación que indica que mi sesión ha sido cerrada correctamente. <br>
-            <b>Y:</b> Verifico que no puedo acceder a ninguna función de la aplicación sin volver a iniciar sesión, lo que me asegura que mis datos están protegidos en caso de que alguien más utilice el dispositivo después de mí.
+            <b>Dado que:</b> es un usuario de la aplicación y desea proteger su privacidad y datos personales. <br>
+            <b>Cuando:</b> ha terminado de utilizar la aplicación y desea cerrar su sesión. <br>
+            <b>Entonces:</b> busca y selecciona la opción de "Cerrar sesión" en la interfaz de la aplicación. <br>
+            <b>Entonces:</b> se le redirige a una pantalla de confirmación que indica que su sesión ha sido cerrada correctamente. <br>
+            <b>Y:</b> verifica que no puede acceder a ninguna función de la aplicación sin volver a iniciar sesión, lo que le asegura que sus datos están protegidos en caso de que alguien más utilice el dispositivo después de él.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP04</td>
         </tr>
@@ -1713,12 +1717,12 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario: Definición de Clases y Endpoints</b> <br>
-            <b>Dado que:</b> Soy un desarrollador encargado del backend de la aplicación. <br>
-            <b>Cuando:</b> Comienzo a diseñar la arquitectura de clases para el backend. <br>
-            <b>Entonces:</b> Identifico las entidades principales que formarán parte del sistema, como Usuario, Gasto, Grupo, etc. <br>
-            <b>Entonces:</b> Defino las relaciones entre estas entidades, como la asociación de gastos a un grupo o la pertenencia de un usuario a varios grupos. <br>
-            <b>Entonces:</b> Establezco los endpoints necesarios para interactuar con estas entidades, como la creación de un nuevo usuario, la obtención de información de un grupo, la actualización de un gasto, etc. <br>
-            <b>Y:</b> Verifico que las clases estén bien estructuradas y que los endpoints cubran todas las funcionalidades requeridas por la aplicación, lo que garantiza un backend robusto y escalable.
+            <b>Dado que:</b> es un desarrollador encargado del backend de la aplicación. <br>
+            <b>Cuando:</b> comienza a diseñar la arquitectura de clases para el backend. <br>
+            <b>Entonces:</b> identifica las entidades principales que formarán parte del sistema, como Usuario, Gasto, Grupo, etc. <br>
+            <b>Entonces:</b> define las relaciones entre estas entidades, como la asociación de gastos a un grupo o la pertenencia de un usuario a varios grupos. <br>
+            <b>Entonces:</b> establece los endpoints necesarios para interactuar con estas entidades, como la creación de un nuevo usuario, la obtención de información de un grupo, la actualización de un gasto, etc. <br>
+            <b>Y:</b> verifica que las clases estén bien estructuradas y que los endpoints cubran todas las funcionalidades requeridas por la aplicación, lo que garantiza un backend robusto y escalable.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP03</td>
         </tr>
@@ -1731,13 +1735,13 @@ Visualización y comprensión el estado actual del proceso de la determinación 
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario: Integración del Backend con el Frontend</b> <br>
-            <b>Dado que:</b> Soy un desarrollador encargado de integrar el backend con el frontend de la aplicación PocketPartners. <br>
-            <b>Cuando:</b> Comienzo el proceso de integración. <br>
-            <b>Entonces:</b> Configuro las rutas de acceso en el backend para que coincidan con las necesidades del frontend. <br>
-            <b>Entonces:</b> Implemento los controladores y servicios necesarios en el backend para procesar las solicitudes del frontend de manera adecuada. <br>
-            <b>Entonces:</b> Establezco una API RESTful que permita la transferencia de datos entre el frontend y el backend de manera eficiente y segura. <br>
-            <b>Entonces:</b> En el frontend, consumo los endpoints proporcionados por el backend utilizando tecnologías como Axios o Fetch. <br>
-            <b>Y:</b> Verifico que la integración sea exitosa al realizar pruebas de extremo a extremo, lo que garantiza una interacción completa y sin problemas en la aplicación PocketPartners.
+            <b>Dado que</b> es un desarrollador encargado de integrar el backend con el frontend de la aplicación PocketPartners<br>
+            <b>Cuando</b> comienza el proceso de integración.  <br>
+            <b>Entonces</b> implementa los controladores y servicios necesarios en el backend para procesar las solicitudes del frontend de manera adecuada. <br>
+            <b>Entonces</b> Implemento los controladores y servicios necesarios en el backend para procesar las solicitudes del frontend de manera adecuada. <br>
+            <b>Entonces</b> establece una API RESTful que permita la transferencia de datos entre el frontend y el backend de manera eficiente y segura. <br>
+            <b>Entonces</b> en el frontend, consume los endpoints proporcionados por el backend <br>
+            <b>Y</b> verifica que la integración sea exitosa al realizar pruebas de extremo a extremo, lo que garantiza una interacción completa y sin problemas en la aplicación PocketPartners.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP03</td>
         </tr>
@@ -1854,7 +1858,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-12</td>
       <td>Conversor de Moneda Integrado</td>
       <td style="text-align: justify;">Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>13</td>
@@ -1868,21 +1872,21 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-14</td>
       <td>Registro de Pago</td>
       <td style="text-align: justify;"> Como usuario, quiero registrar los pagos que hago a otros miembros del grupo para mantener un registro preciso y actualizado de las deudas pagadas y pendientes.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>15</td>
       <td>US-15</td>
       <td>Historial de Gastos</td>
       <td style="text-align: justify;">Como usuario, quiero visualizar el historial de gastos compartidos para revisar y analizar mis finanzas pasadas y tener un registro claro de todas las transacciones realizadas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>16</td>
       <td>US-16</td>
       <td>Dividir Gastos</td>
       <td style="text-align: justify;">Como usuario, quiero tener la opción de dividir un gasto en partes iguales entre los miembros del grupo para reflejar situaciones donde los costos no se distribuyen equitativamente.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr style="text-align: center;">
       <td>17</td>
@@ -1903,7 +1907,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-19</td>
       <td>Descartar Contactos</td>
       <td style="text-align: justify;">Como usuario, quiero poder descartar contactos de una dividion de gasto para poder gestionar mis finanzas compartidas de manera mas sencilla.</td>
-      <td>8</td>
+      <td>2</td>
     </tr>
     <tr style="text-align: center;">
       <td>20</td>
@@ -1917,14 +1921,14 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-21</td>
       <td>Nuevo Contacto</td>
       <td style="text-align: justify;">Como usuario quiero poder añadir un nuevo contacto para poder seleccionarlos cuando llegue a crear un nuevo Grupo.</td>
-      <td>5</td>
+      <td>2</td>
     </tr>
     <tr style="text-align: center;">
       <td>22</td>
       <td>US-22</td>
       <td>Acceso a Contactos</td>
       <td style="text-align: justify;">Como usuario quiero poder tener acceso a una lista de los contactos que tengo en esta aplicación.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>23</td>
@@ -1952,7 +1956,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-26</td>
       <td>Integracion del backend con el frontend</td>
       <td style="text-align: justify;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
   </tbody>  
 </table>
@@ -2346,7 +2350,7 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.1. Software Architecture Context Diagram.
 
   <div align="center">
-        <img src="images/Context-diagram.png" alt="Context Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Context.png" alt="Context Diagram" width="100%">
 
   </div>
 <p align ="justify">
@@ -2358,7 +2362,7 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.2. Software Architecture Container Diagrams.
 
   <div align="center">
-      <img src="images/Container-diagram.png" alt="Container Diagram" width="100%">
+      <img src="images/c4/structurizr-90668-Container.png" alt="Container Diagram" width="100%">
 
   </div>
 <p align ="justify">
@@ -2370,8 +2374,8 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.3. Software Architecture Components Diagrams.
 
   <div align="center">
-        <img src="images/Component-frontend-diagram.png" alt="Component Diagram" width="100%">
-        <img src="images/Component-backend-diagram.png" alt="Component Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Component-001 (1).png" alt="Component Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Component-002.png" alt="Component Diagram" width="100%">
   </div>
 <p align ="justify">
       Los diagrama exponen en detalle los componentes que integran la aplicación, 
@@ -2383,7 +2387,7 @@ Error al registrar el nuevo gasto por falta de datos
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-<img src="images/PocketPartners-Diagram-Class-Diagrama.drawio-actualizado.png" alt="Class Diagram">
+<img src="images/c4/PocketPartners-Diagram-Class-Diagram.png" alt="Class Diagram">
 
 <p align ="justify">
       En este diagrama de clases se muestran las clases que componen la aplicación PocketPartners, se añadió el patron observer para la notificación de los usuarios que permite mantener informados a los usuarios sobre los cambios en el grupo o otros sistemas importantes como pagos o gastos.
@@ -3087,7 +3091,7 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 
 En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+<img src="images/c4/trello-sprint-1.png" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
@@ -3388,7 +3392,7 @@ en Github </p>
 
 En el segundo Sprint, se implementará el aplicativo web de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="images/Sprint-2.jpg" alt="Trello" width="100%">
+<img src="images/c4/trello-sprint-2.png" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2
@@ -3470,7 +3474,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">T07</td>
-    <td style="border: 1px solid black;">iseñar la Interfaz de Usuario (UI) para Añadir y Eliminar Transacciones</td>
+    <td style="border: 1px solid black;">Diseñar la Interfaz de Usuario (UI) para Añadir y Eliminar Transacciones</td>
     <td style="border: 1px solid black;">Como usuario, quiero poder eliminar una transacción existente de mi registro financiero.</td>
     <td style="border: 1px solid black;">2h</td>
     <td style="border: 1px solid black;">Fiorella Jarama</td>
@@ -3961,6 +3965,11 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
   </tr>
 </table>
 
+<img align="center" src="images/trello-sprint03.png" alt="Footer deployed" width="90%">
+
+<a href="https://trello.com/invite/b/X0szDwhj/ATTIf69ecafb3900935163f88b92d25c406480B4042A/pocketpartners-spring-3">
+Trello del Sprint 3</a>
+
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 <p align = "justify">Repositorio Backend</p>
@@ -4439,8 +4448,8 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-03</td>
-    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Desarrollo del Backend</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="17">EP-03</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="17">Desarrollo del Backend</td>
     <td style="border: 1px solid black;" rowspan="8">US-25</td>
     <td style="border: 1px solid black;" rowspan="8">Modelado de las clases, endpoints y despliegue</td>
     <td style="border: 1px solid black;" rowspan="8">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
@@ -4609,6 +4618,10 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <td style="border: 1px solid black;">Done</td>
   </tr>
 </table>
+
+<img src="images/trelloSprint4.jpg" width="90%">
+
+[Link del trello](https://trello.com/invite/b/FFIZZ5u2/ATTI0b3f28384a043c7b4b276876d738ced30F8B6B80/pocketpartners-sprint-4)
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
@@ -4817,9 +4830,13 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
-<p align="justify">Para este sprint se completo finalmente el backend de el aplicativo, por se hicieron algunos test unitarios en cuanto a los aggregates que usamos</p>
+<p align="justify">Para este sprint se completo finalmente el backend de el aplicativo, por se hicieron test en cuanto a todo el back.</p>
+
+<p align="justify">Tests</p>
 
 <img align="center" src="images/unitTests/tests.png" alt="TestUnitarios" width="80%">
+
+<p align="justify">Tests Unitarios</p>
 
 <img align="center" src="images/unitTests/userInfo_test.png" alt="TestUnitarios" width="80%">
 
@@ -4830,6 +4847,18 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 <img align="center" src="images/unitTests/expenses_test_fallido.png" alt="TestUnitarios" width="80%">
 
 <img align="center" src="images/unitTests/payments_test.png" alt="TestUnitarios" width="80%">
+
+<p align="justify">Tests de Aceptación</p>
+
+<img align="center" src="images/unitTests/expenseAcceptanceTest.png" alt="TestAceptance" width="80%">
+
+<img align="center" src="images/unitTests/groupAcceptanceTest.png" alt="TestAceptance" width="80%">
+
+<p align="justify">Tests de Integración:</p>
+
+<img align="center" src="images/unitTests/integrationtestPayment.png" alt="TestAceptance" width="80%">
+
+<img align="center" src="images/unitTests/integrationtestUserInfo.png" alt="TestAceptance" width="80%">
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -4853,7 +4882,11 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 
 <img align="center" src="images/deploy_final9.jpg" alt="Pocket Partners" width="90%">
 
+<img align="center" src="images/deploy_final11.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_final10.jpg" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_final12.png" alt="Pocket Partners" width="90%">
 
 <p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocketpartners.vercel.app/">PocketPartners</a>
 
@@ -5242,19 +5275,18 @@ evitando así eliminaciones accidentales
 </p>
 
 
-
 ## 5.4. Video About-the-Product
 
 <p align="justify">A continuación se presenta nuestro video acerca del producto</p>
 
-<img src="images/about_the_product.png" alt="About - The - Product" width="80%">
+<img src="images/product/about.png" alt="About - The - Product" width="80%">
 
 <p align="justify">Se puede ver en el siguiente Link</p>
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpgTG5rEvRHvVYsiJN_nAIB0Pwe8bnRNNahgUKauOhhig?e=v2ftTK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EWHqOngcJdpKpAxMyF3QFqUBO6gzdjABjxmTG-UeHTuV8A?e=4lTgnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
 
 ## Conclusiones, Bibliografía y Anexos
 
-### Conclusiones
+## Conclusiones
 
 <p align="justify">- La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.</p>
 
@@ -5286,13 +5318,48 @@ evitando así eliminaciones accidentales
 
 <p align="justify">- En el desarrollo de la plataforma PocketPartners, hemos seguido un enfoque meticuloso y colaborativo que ha demostrado ser efectivo para alcanzar nuestros objetivos. Desde el diseño detallado orientado a objetos que ha proporcionado una base sólida para el desarrollo y la implementación del sistema, hasta la integración exitosa de todos los endpoints en el frontend y backend, hemos asegurado una experiencia de usuario coherente y funcional. Además, hemos mejorado significativamente la estética y usabilidad con ajustes en los formularios y la implementación de pruebas unitarias, garantizando la calidad del software y fortaleciendo la confianza en nuestra solución final.</p>
 
+## Recomendaciones
 
-### Bibliografía
+<p align="justify">- Documentación Detallada y Actualizada: Se deberia de asegurar de mantener toda la documentación técnica actualizada, incluyendo diagramas de clases, documentación de API (usando Swagger y OpenAPI), y guías de usuario. Esto facilitará la comprensión y mantenimiento del sistema a largo plazo.</p>
+<p align="justify">- Revisión de Código y Mejores Prácticas: Implementar revisiones de código periódicas para asegurar que se siguen las mejores prácticas de codificación y que el código es limpio y eficiente. Esto también ayudará a detectar posibles problemas antes de que se conviertan en fallos críticos.</p>
+<p align="justify">- Pruebas Automatizadas: Continúa con la integración de no solo pruebas unitarias y de integración. Se deberia considerar también la implementación de pruebas automatizadas de extremo a extremo para asegurarte de que todas las funcionalidades del sistema funcionan correctamente en conjunto.</p>
+<p align="justify">- Feedback Continuo de Usuarios: Se deberia establecer mecanismos para recibir y analizar feedback continuo de los usuarios. Esto ayudará a identificar áreas de mejora y a priorizar nuevas funcionalidades y ajustes necesarios en el sistema.</p>
 
-<p>Dividir gastos con amigos. (n.d.). Splitwise. https://www.splitwise.com/</p>
-<p>Tricount - Organiza tus gastos en groupo. (n.d.). Tricount.com. https://www.tricount.com/es/hacer-cuentas-entre-amigos</p>
-<p>Expansión. (2023, June 13). Cuentas claras, amistades largas: apps para dividir gastos. Expansión. https://expansion.mx/tecnologia/2023/06/13/apps-para-dividir-gastos</p>
+
+## About-The-Team
+
+<p align="justify">A lo largo de este proyecto se ha demostrado la efectividad del trabajo en equipo. La diversidad de habilidades y perspectivas de cada miembro ha sido esencial para superar los desafíos y alcanzar los objetivos planteados. La comunicación clara, el apoyo mutuo y la toma de decisiones colaborativa han sido claves para el éxito de FairFinance.</p>
+
+<img src="images/product/About-The-Team.jpg" alt="About - The - Team" width="80%">
+
+<p align="justify">El video acerca del equipo se puede ver en el siguiente Link</p>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXHhx5csrLBKiIhq9ffXW6IBqHJRhzjHDArzFiT5EUEYSQ?e=w9e2Pn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+
+## Bibliografía
+
+### Páginas Web
+<p>Angular Team. (2021). Angular: La guía completa. https://angular.io/guide</p>
+<p>Ballantine, B. (2020). Angular in Action. https://www.manning.com/books/angular-in-action</p>
 <p>Cronista, E. (2023, September 4). Esta app gratuita es ideal para llevar las cuentas en común y tenés que probarla. ECC. https://www.cronista.com/infotechnology/actualidad/esta-app-gratuita-es-ideal-para-llevar-las-cuentas-en-comun-y-tenes-que-probarla/</p>
+<p>Cutler, J. (2012). Gherkin: The Language of Business-Driven Development. https://www.manning.com/books/gherkin-the-language-of-business-driven-development</p>
+<p>Expansión. (2023, June 13). Cuentas claras, amistades largas: apps para dividir gastos. Expansión. https://expansion.mx/tecnologia/2023/06/13/apps-para-dividir-gastos</p>
+<p>JetBrains. (2023). WebStorm: The IDE for Modern Web Development. https://www.jetbrains.com/webstorm/</p>
+<p>PCMag. (2023). The Best Splitwise Alternatives for Managing Shared Expenses. https://www.pcmag.com/article/the-best-splitwise-alternatives-for-managing-shared-expenses</p>
+<p>Pichler, R. (2013). Writing Effective User Stories. Roman Pichler. https://www.romanpichler.com/blog/epics-and-ready-stories/</p>
+<p>The Balance. (2023). The Best Money-Splitting Apps for Friends and Family. https://www.wired.com/story/expense-bill-splitting-apps/</p>
+<p>The Ultimate Guide to Landing Page Optimization por HubSpot (2022). https://blog.hubspot.com/marketing/landing-page-optimization</p>
+<p>Tricount - Organiza tus gastos en groupo. (n.d.). Tricount.com. https://www.tricount.com/es/hacer-cuentas-entre-amigos</p>
+<p>Zapier. (2023). 10 Best Splitwise Alternatives for Sharing Expenses in 2023. https://zapier.com/apps/splitwise/integrations</p>
+
+### Libros
+
+<p>Cohn, M. (n.d.). What is a User Story?. Aha! https://www.aha.io/support/roadmaps/strategic-roadmaps/features-and-activities/user-story-maps</p>
+<p>Crispin, L., & Gregory, J. (2018). Acceptance Criteria. Addison-Wesley.</p>
+<p>Freeman, A. (2018). Pro Angular 6. Apress Media.</p>
+<p>Green, D. (2017). BDD with Gherkin: Cucumber and SpecFlow. Pragmatic Bookshelf.</p>
+
+
+
 
 ### Anexos
 
@@ -5339,6 +5406,10 @@ evitando así eliminaciones accidentales
         <td>Trello Sprint 2</td>
         <td><a href="https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2">Sprint2</a></td>
     </tr>
+    <tr>
+        <td>Trello Sprint 3</td>
+        <td><a href="https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-3">Sprint3</a></td>
+    </tr>
 </table>
 
 <h2><strong>Pocket Partners - Multimedia<strong></h2>
@@ -5374,10 +5445,10 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpgTG5rEvRHvVYsiJN_nAIB0Pwe8bnRNNahgUKauOhhig?e=YdnZaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EWHqOngcJdpKpAxMyF3QFqUBO6gzdjABjxmTG-UeHTuV8A?e=4lTgnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EYAIdCuNVrJOgSzZ7bwQ3BgBJcXs-n_R3Zh7v5TTn1XUGQ?e=dAwM3i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXHhx5csrLBKiIhq9ffXW6IBqHJRhzjHDArzFiT5EUEYSQ?e=w9e2Pn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 </table>
