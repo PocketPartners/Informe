@@ -2385,7 +2385,7 @@ Error al registrar el nuevo gasto por falta de datos
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-<img src="images/PocketPartners-Diagram-Class-Diagrama.drawio-actualizado.png" alt="Class Diagram">
+<img src="images/c4/PocketPartners-Diagram-Class-Diagram.png" alt="Class Diagram">
 
 <p align ="justify">
       En este diagrama de clases se muestran las clases que componen la aplicación PocketPartners, se añadió el patron observer para la notificación de los usuarios que permite mantener informados a los usuarios sobre los cambios en el grupo o otros sistemas importantes como pagos o gastos.
