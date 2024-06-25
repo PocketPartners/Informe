@@ -127,7 +127,7 @@ Junio 2024
   </tr>
   <tr> 
   <td><strong>TF</strong></td>
-      <td>Lunes 17 de Junio</td>
+      <td>Martes 25 de Junio</td>
       <td>
         <ul>
           <li>Carbajal Pozzo, Joaquín Alonso</li>
@@ -273,8 +273,6 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 # **Tabla de Contenido**
 
-- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [**Registro de Versiones**](#registro-de-versiones)
 - [**Student Outcomes**](#student-outcomes)
 - [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
@@ -1854,7 +1852,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-12</td>
       <td>Conversor de Moneda Integrado</td>
       <td style="text-align: justify;">Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>13</td>
@@ -1868,21 +1866,21 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-14</td>
       <td>Registro de Pago</td>
       <td style="text-align: justify;"> Como usuario, quiero registrar los pagos que hago a otros miembros del grupo para mantener un registro preciso y actualizado de las deudas pagadas y pendientes.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>15</td>
       <td>US-15</td>
       <td>Historial de Gastos</td>
       <td style="text-align: justify;">Como usuario, quiero visualizar el historial de gastos compartidos para revisar y analizar mis finanzas pasadas y tener un registro claro de todas las transacciones realizadas.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>16</td>
       <td>US-16</td>
       <td>Dividir Gastos</td>
       <td style="text-align: justify;">Como usuario, quiero tener la opción de dividir un gasto en partes iguales entre los miembros del grupo para reflejar situaciones donde los costos no se distribuyen equitativamente.</td>
-      <td>5</td>
+      <td>3</td>
     </tr>
     <tr style="text-align: center;">
       <td>17</td>
@@ -1903,7 +1901,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-19</td>
       <td>Descartar Contactos</td>
       <td style="text-align: justify;">Como usuario, quiero poder descartar contactos de una dividion de gasto para poder gestionar mis finanzas compartidas de manera mas sencilla.</td>
-      <td>8</td>
+      <td>2</td>
     </tr>
     <tr style="text-align: center;">
       <td>20</td>
@@ -1917,14 +1915,14 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-21</td>
       <td>Nuevo Contacto</td>
       <td style="text-align: justify;">Como usuario quiero poder añadir un nuevo contacto para poder seleccionarlos cuando llegue a crear un nuevo Grupo.</td>
-      <td>5</td>
+      <td>2</td>
     </tr>
     <tr style="text-align: center;">
       <td>22</td>
       <td>US-22</td>
       <td>Acceso a Contactos</td>
       <td style="text-align: justify;">Como usuario quiero poder tener acceso a una lista de los contactos que tengo en esta aplicación.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
     <tr style="text-align: center;">
       <td>23</td>
@@ -1952,7 +1950,7 @@ Visualización y comprensión el estado actual del proceso de la determinación 
       <td>US-26</td>
       <td>Integracion del backend con el frontend</td>
       <td style="text-align: justify;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
-      <td>8</td>
+      <td>5</td>
     </tr>
   </tbody>  
 </table>
