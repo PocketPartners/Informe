@@ -273,6 +273,8 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 # **Tabla de Contenido**
 
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [**Registro de Versiones**](#registro-de-versiones)
 - [**Student Outcomes**](#student-outcomes)
 - [**Project Report Online**](#project-report-online)
@@ -3089,7 +3091,7 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
 
 En el primer Sprint, se implementará la página LandingPage de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="images/5-2-1-2.png" alt="Trello" width="100%">
+<img src="images/c4/trello-sprint-1.png" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/1wElHuAs/ATTIfcb4e18a8cb60d870438f23502ff3344F06E6516/pocketpartners-sprint-1
@@ -3390,7 +3392,7 @@ en Github </p>
 
 En el segundo Sprint, se implementará el aplicativo web de PocketPartners. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
 
-<img src="images/Sprint-2.jpg" alt="Trello" width="100%">
+<img src="images/c4/trello-sprint-2.png" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
 https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2
@@ -3472,7 +3474,7 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">T07</td>
-    <td style="border: 1px solid black;">iseñar la Interfaz de Usuario (UI) para Añadir y Eliminar Transacciones</td>
+    <td style="border: 1px solid black;">Diseñar la Interfaz de Usuario (UI) para Añadir y Eliminar Transacciones</td>
     <td style="border: 1px solid black;">Como usuario, quiero poder eliminar una transacción existente de mi registro financiero.</td>
     <td style="border: 1px solid black;">2h</td>
     <td style="border: 1px solid black;">Fiorella Jarama</td>
