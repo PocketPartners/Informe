@@ -273,8 +273,6 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 # **Tabla de Contenido**
 
-- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [**Registro de Versiones**](#registro-de-versiones)
 - [**Student Outcomes**](#student-outcomes)
 - [**Project Report Online**](#project-report-online)
