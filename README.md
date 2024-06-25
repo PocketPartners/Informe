@@ -4446,8 +4446,8 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-03</td>
-    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Desarrollo del Backend</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="17">EP-03</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="17">Desarrollo del Backend</td>
     <td style="border: 1px solid black;" rowspan="8">US-25</td>
     <td style="border: 1px solid black;" rowspan="8">Modelado de las clases, endpoints y despliegue</td>
     <td style="border: 1px solid black;" rowspan="8">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
