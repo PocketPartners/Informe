@@ -277,7 +277,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
   - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [**Registro de Versiones**](#registro-de-versiones)
 - [**Student Outcomes**](#student-outcomes)
-- [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
+- [**Project Report Online**](#project-report-online)
 - [**Tabla de Contenido**](#tabla-de-contenido)
 - [Capítulo I Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -427,21 +427,23 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
       - [Elizabeth Quispe, 33 años.](#elizabeth-quispe-33-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
-      - [Nadia Lucas, 22 años.](#ely-cortez-22-años)
+      - [Nadia Lucas, 22 años.](#nadia-lucas-22-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
-      - [Ely Cortez, 24 años.](#ely-cortez-24-años)
-        - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
+    - [Ely Cortez, 24 años.](#ely-cortez-24-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
       - [Gonzalo Vargas, 19 años](#gonzalo-vargas-19-años)
-        - [Resumen de la entrevista](#resumen-de-la-entrevista-11)
-      - [Margarita Robles, 32 años](#gonzalo-vargas-32-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-11)
+      - [Margarita Robles, 32 años](#margarita-robles-32-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-12)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+      - [Anthony Poma, 22 años](#anthony-poma-22-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-13)
+    - [5.4.3. Evaluaciones según heurísticas](#543-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones, Bibliografía y Anexos](#conclusiones-bibliografía-y-anexos)
     - [Conclusiones](#conclusiones)
@@ -2346,7 +2348,7 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.1. Software Architecture Context Diagram.
 
   <div align="center">
-        <img src="images/Context-diagram.png" alt="Context Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Context.png" alt="Context Diagram" width="100%">
 
   </div>
 <p align ="justify">
@@ -2358,7 +2360,7 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.2. Software Architecture Container Diagrams.
 
   <div align="center">
-      <img src="images/Container-diagram.png" alt="Container Diagram" width="100%">
+      <img src="images/c4/structurizr-90668-Container.png" alt="Container Diagram" width="100%">
 
   </div>
 <p align ="justify">
@@ -2370,8 +2372,8 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.3. Software Architecture Components Diagrams.
 
   <div align="center">
-        <img src="images/Component-frontend-diagram.png" alt="Component Diagram" width="100%">
-        <img src="images/Component-backend-diagram.png" alt="Component Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Component-001 (1).png" alt="Component Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Component-002.png" alt="Component Diagram" width="100%">
   </div>
 <p align ="justify">
       Los diagrama exponen en detalle los componentes que integran la aplicación, 
