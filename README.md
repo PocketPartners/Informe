@@ -4617,6 +4617,10 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
   </tr>
 </table>
 
+<img src="images/trelloSprint4.jpg" width="90%">
+
+[Link del trello](https://trello.com/invite/b/FFIZZ5u2/ATTI0b3f28384a043c7b4b276876d738ced30F8B6B80/pocketpartners-sprint-4)
+
 #### 5.2.4.3. Development Evidence for Sprint Review
 
 <p align = "justify">Repositorio Backend</p>
