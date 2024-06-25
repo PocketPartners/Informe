@@ -275,7 +275,7 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 - [**Registro de Versiones**](#registro-de-versiones)
 - [**Student Outcomes**](#student-outcomes)
-- [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
+- [**Project Report Online**](#project-report-online)
 - [**Tabla de Contenido**](#tabla-de-contenido)
 - [Capítulo I Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -425,21 +425,23 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
       - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
       - [Elizabeth Quispe, 33 años.](#elizabeth-quispe-33-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-8)
-      - [Nadia Lucas, 22 años.](#ely-cortez-22-años)
+      - [Nadia Lucas, 22 años.](#nadia-lucas-22-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-9)
-      - [Ely Cortez, 24 años.](#ely-cortez-24-años)
-        - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
+    - [Ely Cortez, 24 años.](#ely-cortez-24-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-10)
       - [Gonzalo Vargas, 19 años](#gonzalo-vargas-19-años)
-        - [Resumen de la entrevista](#resumen-de-la-entrevista-11)
-      - [Margarita Robles, 32 años](#gonzalo-vargas-32-años)
+      - [Resumen de la entrevista](#resumen-de-la-entrevista-11)
+      - [Margarita Robles, 32 años](#margarita-robles-32-años)
         - [Resumen de la entrevista](#resumen-de-la-entrevista-12)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+      - [Anthony Poma, 22 años](#anthony-poma-22-años)
+        - [Resumen de la entrevista](#resumen-de-la-entrevista-13)
+    - [5.4.3. Evaluaciones según heurísticas](#543-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones, Bibliografía y Anexos](#conclusiones-bibliografía-y-anexos)
     - [Conclusiones](#conclusiones)
@@ -2344,7 +2346,7 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.1. Software Architecture Context Diagram.
 
   <div align="center">
-        <img src="images/Context-diagram.png" alt="Context Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Context.png" alt="Context Diagram" width="100%">
 
   </div>
 <p align ="justify">
@@ -2356,7 +2358,7 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.2. Software Architecture Container Diagrams.
 
   <div align="center">
-      <img src="images/Container-diagram.png" alt="Container Diagram" width="100%">
+      <img src="images/c4/structurizr-90668-Container.png" alt="Container Diagram" width="100%">
 
   </div>
 <p align ="justify">
@@ -2368,8 +2370,8 @@ Error al registrar el nuevo gasto por falta de datos
 ### 4.6.3. Software Architecture Components Diagrams.
 
   <div align="center">
-        <img src="images/Component-frontend-diagram.png" alt="Component Diagram" width="100%">
-        <img src="images/Component-backend-diagram.png" alt="Component Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Component-001 (1).png" alt="Component Diagram" width="100%">
+        <img src="images/c4/structurizr-90668-Component-002.png" alt="Component Diagram" width="100%">
   </div>
 <p align ="justify">
       Los diagrama exponen en detalle los componentes que integran la aplicación, 
@@ -2381,7 +2383,7 @@ Error al registrar el nuevo gasto por falta de datos
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-<img src="images/PocketPartners-Diagram-Class-Diagrama.drawio-actualizado.png" alt="Class Diagram">
+<img src="images/c4/PocketPartners-Diagram-Class-Diagram.png" alt="Class Diagram">
 
 <p align ="justify">
       En este diagrama de clases se muestran las clases que componen la aplicación PocketPartners, se añadió el patron observer para la notificación de los usuarios que permite mantener informados a los usuarios sobre los cambios en el grupo o otros sistemas importantes como pagos o gastos.
@@ -3959,6 +3961,11 @@ En el tercer Sprint, se desarrollara el Backend de nuestro aplicativo . La herra
   </tr>
 </table>
 
+<img align="center" src="images/trello-sprint03.png" alt="Footer deployed" width="90%">
+
+<a href="https://trello.com/invite/b/X0szDwhj/ATTIf69ecafb3900935163f88b92d25c406480B4042A/pocketpartners-spring-3">
+Trello del Sprint 3</a>
+
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 <p align = "justify">Repositorio Backend</p>
@@ -4437,8 +4444,8 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-03</td>
-    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Desarrollo del Backend</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="17">EP-03</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="17">Desarrollo del Backend</td>
     <td style="border: 1px solid black;" rowspan="8">US-25</td>
     <td style="border: 1px solid black;" rowspan="8">Modelado de las clases, endpoints y despliegue</td>
     <td style="border: 1px solid black;" rowspan="8">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
@@ -4607,6 +4614,10 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
     <td style="border: 1px solid black;">Done</td>
   </tr>
 </table>
+
+<img src="images/trelloSprint4.jpg" width="90%">
+
+[Link del trello](https://trello.com/invite/b/FFIZZ5u2/ATTI0b3f28384a043c7b4b276876d738ced30F8B6B80/pocketpartners-sprint-4)
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
@@ -5336,6 +5347,10 @@ evitando así eliminaciones accidentales
     <tr>
         <td>Trello Sprint 2</td>
         <td><a href="https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-2">Sprint2</a></td>
+    </tr>
+    <tr>
+        <td>Trello Sprint 3</td>
+        <td><a href="https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-3">Sprint3</a></td>
     </tr>
 </table>
 
