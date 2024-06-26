@@ -5467,7 +5467,7 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Trello Sprint 4</td>
-        <td><a href="https://trello.com/invite/b/FFIZZ5u2/ATTI0b3f28384a043c7b4b276876d738ced30F8B6B80/pocketpartners-sprint-4">Sprint3</a></td>
+        <td><a href="https://trello.com/invite/b/FFIZZ5u2/ATTI0b3f28384a043c7b4b276876d738ced30F8B6B80/pocketpartners-sprint-4">Sprint4</a></td>
     </tr>
 </table>
 
