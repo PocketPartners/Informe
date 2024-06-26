@@ -12,7 +12,7 @@
 
 <div align="center">
 
-Ciclo: 2024 - 0 1
+Ciclo: 2024 - 1
 
 Curso: Desarrollo de Aplicaciones Open Source
 
@@ -147,6 +147,65 @@ Junio 2024
   </tbody>
 </table>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# **Project Report Collaboration Insights**
+### Commits en Github en Project Report
+
+<img align="center" src="images/insightsFinal/commit_final.png" alt="Commits en Github" width="70%">
+<br>
+<br>
+<br>
+<br>
+<img align="center" src="images/insightsFinal/commit_final1.png" alt="Commits en Github" width="70%">
+<br>
+<br>
+<br>
+<br>
+<img align="center" src="images/insightsFinal/commit_final12.png" alt="Commits en Github" width="70%">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Analíticos de Colaboración en Github:
+### Repositorio Project Report (Capstone):
+
+<img align="center" src="images/insightsFinal/informe_wave.png" alt="Github Analitics" width="70%">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -3076,11 +3135,11 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
     </tr>
     <tr>
       <td>Sprint 1 Velocity</td>
-      <td>5</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>8</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
@@ -3377,11 +3436,11 @@ en Github </p>
     </tr>
     <tr>
       <td>Sprint 2 Velocity</td>
-      <td>5</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>8</td>
+      <td>63</td>
     </tr>
   </tbody>
 </table>
@@ -3807,11 +3866,11 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     </tr>
     <tr>
       <td>Sprint 3 Velocity</td>
-      <td>7</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>7</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
@@ -4412,11 +4471,11 @@ Trello del Sprint 3</a>
     </tr>
     <tr>
       <td>Sprint 4 Velocity</td>
-      <td>7</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>7</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
@@ -5282,9 +5341,9 @@ evitando así eliminaciones accidentales
 <p align="justify">Se puede ver en el siguiente Link</p>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EWHqOngcJdpKpAxMyF3QFqUBO6gzdjABjxmTG-UeHTuV8A?e=4lTgnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
 
-## Conclusiones, Bibliografía y Anexos
+# **Conclusiones, Bibliografía y Anexos**
 
-## Conclusiones
+## **Conclusiones**
 
 <p align="justify">- La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.</p>
 
@@ -5316,7 +5375,7 @@ evitando así eliminaciones accidentales
 
 <p align="justify">- En el desarrollo de la plataforma PocketPartners, hemos seguido un enfoque meticuloso y colaborativo que ha demostrado ser efectivo para alcanzar nuestros objetivos. Desde el diseño detallado orientado a objetos que ha proporcionado una base sólida para el desarrollo y la implementación del sistema, hasta la integración exitosa de todos los endpoints en el frontend y backend, hemos asegurado una experiencia de usuario coherente y funcional. Además, hemos mejorado significativamente la estética y usabilidad con ajustes en los formularios y la implementación de pruebas unitarias, garantizando la calidad del software y fortaleciendo la confianza en nuestra solución final.</p>
 
-## Recomendaciones
+## **Recomendaciones**
 
 <p align="justify">- Documentación Detallada y Actualizada: Se deberia de asegurar de mantener toda la documentación técnica actualizada, incluyendo diagramas de clases, documentación de API (usando Swagger y OpenAPI), y guías de usuario. Esto facilitará la comprensión y mantenimiento del sistema a largo plazo.</p>
 <p align="justify">- Revisión de Código y Mejores Prácticas: Implementar revisiones de código periódicas para asegurar que se siguen las mejores prácticas de codificación y que el código es limpio y eficiente. Esto también ayudará a detectar posibles problemas antes de que se conviertan en fallos críticos.</p>
@@ -5324,7 +5383,7 @@ evitando así eliminaciones accidentales
 <p align="justify">- Feedback Continuo de Usuarios: Se deberia establecer mecanismos para recibir y analizar feedback continuo de los usuarios. Esto ayudará a identificar áreas de mejora y a priorizar nuevas funcionalidades y ajustes necesarios en el sistema.</p>
 
 
-## About-The-Team
+## **About-The-Team**
 
 <p align="justify">A lo largo de este proyecto se ha demostrado la efectividad del trabajo en equipo. La diversidad de habilidades y perspectivas de cada miembro ha sido esencial para superar los desafíos y alcanzar los objetivos planteados. La comunicación clara, el apoyo mutuo y la toma de decisiones colaborativa han sido claves para el éxito de FairFinance.</p>
 
@@ -5333,7 +5392,7 @@ evitando así eliminaciones accidentales
 <p align="justify">El video acerca del equipo se puede ver en el siguiente Link</p>
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXHhx5csrLBKiIhq9ffXW6IBqHJRhzjHDArzFiT5EUEYSQ?e=w9e2Pn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
 
-## Bibliografía
+## **Bibliografía**
 
 ### Páginas Web
 <p>Angular Team. (2021). Angular: La guía completa. https://angular.io/guide</p>
@@ -5357,9 +5416,7 @@ evitando así eliminaciones accidentales
 <p>Green, D. (2017). BDD with Gherkin: Cucumber and SpecFlow. Pragmatic Bookshelf.</p>
 
 
-
-
-### Anexos
+## Anexos
 
 <h2><strong>Pocket Partners - Links<strong></h2>
 
@@ -5407,6 +5464,10 @@ evitando así eliminaciones accidentales
     <tr>
         <td>Trello Sprint 3</td>
         <td><a href="https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-3">Sprint3</a></td>
+    </tr>
+    <tr>
+        <td>Trello Sprint 4</td>
+        <td><a href="https://trello.com/invite/b/FFIZZ5u2/ATTI0b3f28384a043c7b4b276876d738ced30F8B6B80/pocketpartners-sprint-4">Sprint3</a></td>
     </tr>
 </table>
 
