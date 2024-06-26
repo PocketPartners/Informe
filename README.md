@@ -12,7 +12,7 @@
 
 <div align="center">
 
-Ciclo: 2024 - 0 1
+Ciclo: 2024 - 1
 
 Curso: Desarrollo de Aplicaciones Open Source
 
@@ -161,6 +161,65 @@ Junio 2024
 <br>
 <br>
 
+# **Project Report Collaboration Insights**
+### Commits en Github en Project Report
+
+<img align="center" src="images/insightsFinal/commit_final.png" alt="Commits en Github" width="70%">
+<br>
+<br>
+<br>
+<br>
+<img align="center" src="images/insightsFinal/commit_final1.png" alt="Commits en Github" width="70%">
+<br>
+<br>
+<br>
+<br>
+<img align="center" src="images/insightsFinal/commit_final12.png" alt="Commits en Github" width="70%">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Analíticos de Colaboración en Github:
+### Repositorio Project Report (Capstone):
+
+<img align="center" src="images/insightsFinal/informe_wave.png" alt="Github Analitics" width="70%">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # **Student Outcomes**
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
@@ -273,8 +332,6 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 # **Tabla de Contenido**
 
-- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [**Registro de Versiones**](#registro-de-versiones)
 - [**Student Outcomes**](#student-outcomes)
 - [**Project Report Online**](#project-report-online)
@@ -3078,11 +3135,11 @@ En este caso obtaremos por una ya creada por la comunidad de Github Actions exac
     </tr>
     <tr>
       <td>Sprint 1 Velocity</td>
-      <td>5</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>8</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
@@ -3379,11 +3436,11 @@ en Github </p>
     </tr>
     <tr>
       <td>Sprint 2 Velocity</td>
-      <td>5</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>8</td>
+      <td>63</td>
     </tr>
   </tbody>
 </table>
@@ -3809,11 +3866,11 @@ https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E205
     </tr>
     <tr>
       <td>Sprint 3 Velocity</td>
-      <td>7</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>7</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
@@ -4414,11 +4471,11 @@ Trello del Sprint 3</a>
     </tr>
     <tr>
       <td>Sprint 4 Velocity</td>
-      <td>7</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Sum of Story Points</td>
-      <td>7</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
@@ -4830,9 +4887,13 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
-<p align="justify">Para este sprint se completo finalmente el backend de el aplicativo, por se hicieron algunos test unitarios en cuanto a los aggregates que usamos</p>
+<p align="justify">Para este sprint se completo finalmente el backend de el aplicativo, por se hicieron test en cuanto a todo el back.</p>
+
+<p align="justify">Tests</p>
 
 <img align="center" src="images/unitTests/tests.png" alt="TestUnitarios" width="80%">
+
+<p align="justify">Tests Unitarios</p>
 
 <img align="center" src="images/unitTests/userInfo_test.png" alt="TestUnitarios" width="80%">
 
@@ -4843,6 +4904,18 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 <img align="center" src="images/unitTests/expenses_test_fallido.png" alt="TestUnitarios" width="80%">
 
 <img align="center" src="images/unitTests/payments_test.png" alt="TestUnitarios" width="80%">
+
+<p align="justify">Tests de Aceptación</p>
+
+<img align="center" src="images/unitTests/expenseAcceptanceTest.png" alt="TestAceptance" width="80%">
+
+<img align="center" src="images/unitTests/groupAcceptanceTest.png" alt="TestAceptance" width="80%">
+
+<p align="justify">Tests de Integración:</p>
+
+<img align="center" src="images/unitTests/integrationtestPayment.png" alt="TestAceptance" width="80%">
+
+<img align="center" src="images/unitTests/integrationtestUserInfo.png" alt="TestAceptance" width="80%">
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -4866,7 +4939,11 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 
 <img align="center" src="images/deploy_final9.jpg" alt="Pocket Partners" width="90%">
 
+<img align="center" src="images/deploy_final11.png" alt="Pocket Partners" width="90%">
+
 <img align="center" src="images/deploy_final10.jpg" alt="Pocket Partners" width="90%">
+
+<img align="center" src="images/deploy_final12.png" alt="Pocket Partners" width="90%">
 
 <p>Puedes ver la aplicacion desplegada aquí:<p><a href="https://pocketpartners.vercel.app/">PocketPartners</a>
 
@@ -5255,7 +5332,6 @@ evitando así eliminaciones accidentales
 </p>
 
 
-
 ## 5.4. Video About-the-Product
 
 <p align="justify">A continuación se presenta nuestro video acerca del producto</p>
@@ -5263,11 +5339,11 @@ evitando así eliminaciones accidentales
 <img src="images/product/about.png" alt="About - The - Product" width="80%">
 
 <p align="justify">Se puede ver en el siguiente Link</p>
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpgTG5rEvRHvVYsiJN_nAIB0Pwe8bnRNNahgUKauOhhig?e=v2ftTK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EWHqOngcJdpKpAxMyF3QFqUBO6gzdjABjxmTG-UeHTuV8A?e=4lTgnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
 
-## Conclusiones, Bibliografía y Anexos
+# **Conclusiones, Bibliografía y Anexos**
 
-### Conclusiones
+## **Conclusiones**
 
 <p align="justify">- La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.</p>
 
@@ -5299,15 +5375,48 @@ evitando así eliminaciones accidentales
 
 <p align="justify">- En el desarrollo de la plataforma PocketPartners, hemos seguido un enfoque meticuloso y colaborativo que ha demostrado ser efectivo para alcanzar nuestros objetivos. Desde el diseño detallado orientado a objetos que ha proporcionado una base sólida para el desarrollo y la implementación del sistema, hasta la integración exitosa de todos los endpoints en el frontend y backend, hemos asegurado una experiencia de usuario coherente y funcional. Además, hemos mejorado significativamente la estética y usabilidad con ajustes en los formularios y la implementación de pruebas unitarias, garantizando la calidad del software y fortaleciendo la confianza en nuestra solución final.</p>
 
+## **Recomendaciones**
 
-### Bibliografía
+<p align="justify">- Documentación Detallada y Actualizada: Se deberia de asegurar de mantener toda la documentación técnica actualizada, incluyendo diagramas de clases, documentación de API (usando Swagger y OpenAPI), y guías de usuario. Esto facilitará la comprensión y mantenimiento del sistema a largo plazo.</p>
+<p align="justify">- Revisión de Código y Mejores Prácticas: Implementar revisiones de código periódicas para asegurar que se siguen las mejores prácticas de codificación y que el código es limpio y eficiente. Esto también ayudará a detectar posibles problemas antes de que se conviertan en fallos críticos.</p>
+<p align="justify">- Pruebas Automatizadas: Continúa con la integración de no solo pruebas unitarias y de integración. Se deberia considerar también la implementación de pruebas automatizadas de extremo a extremo para asegurarte de que todas las funcionalidades del sistema funcionan correctamente en conjunto.</p>
+<p align="justify">- Feedback Continuo de Usuarios: Se deberia establecer mecanismos para recibir y analizar feedback continuo de los usuarios. Esto ayudará a identificar áreas de mejora y a priorizar nuevas funcionalidades y ajustes necesarios en el sistema.</p>
 
-<p>Dividir gastos con amigos. (n.d.). Splitwise. https://www.splitwise.com/</p>
-<p>Tricount - Organiza tus gastos en groupo. (n.d.). Tricount.com. https://www.tricount.com/es/hacer-cuentas-entre-amigos</p>
-<p>Expansión. (2023, June 13). Cuentas claras, amistades largas: apps para dividir gastos. Expansión. https://expansion.mx/tecnologia/2023/06/13/apps-para-dividir-gastos</p>
+
+## **About-The-Team**
+
+<p align="justify">A lo largo de este proyecto se ha demostrado la efectividad del trabajo en equipo. La diversidad de habilidades y perspectivas de cada miembro ha sido esencial para superar los desafíos y alcanzar los objetivos planteados. La comunicación clara, el apoyo mutuo y la toma de decisiones colaborativa han sido claves para el éxito de FairFinance.</p>
+
+<img src="images/product/About-The-Team.jpg" alt="About - The - Team" width="80%">
+
+<p align="justify">El video acerca del equipo se puede ver en el siguiente Link</p>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXHhx5csrLBKiIhq9ffXW6IBqHJRhzjHDArzFiT5EUEYSQ?e=w9e2Pn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+
+## **Bibliografía**
+
+### Páginas Web
+<p>Angular Team. (2021). Angular: La guía completa. https://angular.io/guide</p>
+<p>Ballantine, B. (2020). Angular in Action. https://www.manning.com/books/angular-in-action</p>
 <p>Cronista, E. (2023, September 4). Esta app gratuita es ideal para llevar las cuentas en común y tenés que probarla. ECC. https://www.cronista.com/infotechnology/actualidad/esta-app-gratuita-es-ideal-para-llevar-las-cuentas-en-comun-y-tenes-que-probarla/</p>
+<p>Cutler, J. (2012). Gherkin: The Language of Business-Driven Development. https://www.manning.com/books/gherkin-the-language-of-business-driven-development</p>
+<p>Expansión. (2023, June 13). Cuentas claras, amistades largas: apps para dividir gastos. Expansión. https://expansion.mx/tecnologia/2023/06/13/apps-para-dividir-gastos</p>
+<p>JetBrains. (2023). WebStorm: The IDE for Modern Web Development. https://www.jetbrains.com/webstorm/</p>
+<p>PCMag. (2023). The Best Splitwise Alternatives for Managing Shared Expenses. https://www.pcmag.com/article/the-best-splitwise-alternatives-for-managing-shared-expenses</p>
+<p>Pichler, R. (2013). Writing Effective User Stories. Roman Pichler. https://www.romanpichler.com/blog/epics-and-ready-stories/</p>
+<p>The Balance. (2023). The Best Money-Splitting Apps for Friends and Family. https://www.wired.com/story/expense-bill-splitting-apps/</p>
+<p>The Ultimate Guide to Landing Page Optimization por HubSpot (2022). https://blog.hubspot.com/marketing/landing-page-optimization</p>
+<p>Tricount - Organiza tus gastos en groupo. (n.d.). Tricount.com. https://www.tricount.com/es/hacer-cuentas-entre-amigos</p>
+<p>Zapier. (2023). 10 Best Splitwise Alternatives for Sharing Expenses in 2023. https://zapier.com/apps/splitwise/integrations</p>
 
-### Anexos
+### Libros
+
+<p>Cohn, M. (n.d.). What is a User Story?. Aha! https://www.aha.io/support/roadmaps/strategic-roadmaps/features-and-activities/user-story-maps</p>
+<p>Crispin, L., & Gregory, J. (2018). Acceptance Criteria. Addison-Wesley.</p>
+<p>Freeman, A. (2018). Pro Angular 6. Apress Media.</p>
+<p>Green, D. (2017). BDD with Gherkin: Cucumber and SpecFlow. Pragmatic Bookshelf.</p>
+
+
+## Anexos
 
 <h2><strong>Pocket Partners - Links<strong></h2>
 
@@ -5356,6 +5465,10 @@ evitando así eliminaciones accidentales
         <td>Trello Sprint 3</td>
         <td><a href="https://trello.com/invite/b/7ZmAk75z/ATTIb206f9629661b03465eb3e457fe9574d335E2050/pocketpartners-sprint-3">Sprint3</a></td>
     </tr>
+    <tr>
+        <td>Trello Sprint 4</td>
+        <td><a href="https://trello.com/invite/b/FFIZZ5u2/ATTI0b3f28384a043c7b4b276876d738ced30F8B6B80/pocketpartners-sprint-4">Sprint4</a></td>
+    </tr>
 </table>
 
 <h2><strong>Pocket Partners - Multimedia<strong></h2>
@@ -5391,10 +5504,10 @@ evitando así eliminaciones accidentales
     </tr>
     <tr>
         <td>Video About-The-Product</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EUpgTG5rEvRHvVYsiJN_nAIB0Pwe8bnRNNahgUKauOhhig?e=YdnZaD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EWHqOngcJdpKpAxMyF3QFqUBO6gzdjABjxmTG-UeHTuV8A?e=4lTgnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Product</a></td>
     </tr>
     <tr>
         <td>Video About-The-Team</td>
-        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EYAIdCuNVrJOgSzZ7bwQ3BgBJcXs-n_R3Zh7v5TTn1XUGQ?e=dAwM3i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120418_upc_edu_pe/EXHhx5csrLBKiIhq9ffXW6IBqHJRhzjHDArzFiT5EUEYSQ?e=w9e2Pn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About-The-Team</a></td>
     </tr>
 </table>
