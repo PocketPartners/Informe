@@ -2906,7 +2906,7 @@ Error al registrar el nuevo gasto por falta de datos
 [Modelo en Vertabelo](https://my.vertabelo.com/doc/4CT3rJsaHCDIFvnXBUAb4kzmHd2u4UmU)
 
   <div align="center">
-        <img src="images/PocketPartens___Open_Source-2024-05-30_17-20.png" alt="Database Diagram" width="100%">
+        <img src="images/c4/PocketPartens___Open_Source-2024-06-25_21-22.png" alt="Database Diagram" width="100%">
   </div>
 
 # Capítulo V Product Implementation, Validation & Deployment
