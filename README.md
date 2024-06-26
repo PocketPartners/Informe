@@ -332,7 +332,13 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
 
 # **Tabla de Contenido**
 
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [**Registro de Versiones**](#registro-de-versiones)
+- [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
+    - [Commits en Github en Project Report](#commits-en-github-en-project-report)
+    - [Analíticos de Colaboración en Github:](#analíticos-de-colaboración-en-github)
+    - [Repositorio Project Report (Capstone):](#repositorio-project-report-capstone)
 - [**Student Outcomes**](#student-outcomes)
 - [**Project Report Online**](#project-report-online)
 - [**Tabla de Contenido**](#tabla-de-contenido)
@@ -502,10 +508,14 @@ URL Project Report (Github): https://github.com/PocketPartners/Informe
         - [Resumen de la entrevista](#resumen-de-la-entrevista-13)
     - [5.4.3. Evaluaciones según heurísticas](#543-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-  - [Conclusiones, Bibliografía y Anexos](#conclusiones-bibliografía-y-anexos)
-    - [Conclusiones](#conclusiones)
-    - [Bibliografía](#bibliografía)
-    - [Anexos](#anexos)
+- [**Conclusiones, Bibliografía y Anexos**](#conclusiones-bibliografía-y-anexos)
+  - [**Conclusiones**](#conclusiones)
+  - [**Recomendaciones**](#recomendaciones)
+  - [**About-The-Team**](#about-the-team)
+  - [**Bibliografía**](#bibliografía)
+    - [Páginas Web](#páginas-web)
+    - [Libros](#libros)
+  - [Anexos](#anexos)
 
 # Capítulo I Introducción
 
@@ -2444,7 +2454,7 @@ Error al registrar el nuevo gasto por falta de datos
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-<img src="images/c4/PocketPartners-Diagram-Class-Diagram.png" alt="Class Diagram">
+<img src="images/c4/PocketPartners-Diagram-Class-Diagrama 2.drawio.png" alt="Class Diagram">
 
 <p align ="justify">
       En este diagrama de clases se muestran las clases que componen la aplicación PocketPartners, se añadió el patron observer para la notificación de los usuarios que permite mantener informados a los usuarios sobre los cambios en el grupo o otros sistemas importantes como pagos o gastos.
